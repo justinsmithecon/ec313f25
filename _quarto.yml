@@ -44,14 +44,7 @@ website:
         - section: "Overview"
           contents:
             - assignments/index.qmd
-        - section: "Intro to Quarto"
-          contents:
-            - assignments/introtoquarto.qmd
-        - section: "Assignments"
-          contents:
-            - text: "Assignment 1"
-              file: assignments/assign1.qmd
- 
+
 format:
   html:
     code-overflow: wrap

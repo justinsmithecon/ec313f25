@@ -121,7 +121,7 @@ license for Stata/BE, which costs USD 49.
 
 I have created a GPT specific to this course that you can use if you
 wish, [linked
-](https://chatgpt.com/g/g-685c539cef888191b373a9a5601bcdef-ec306)[here](https://chatgpt.com/g/g-68b1ee87edec81918d2084bfa05b56cc-ec313).
+here](https://chatgpt.com/g/g-68b1ee87edec81918d2084bfa05b56cc-ec313).
 While my opinion is that the best way to succeed in this course is to
 engage with the lectures, lecture notes, textbook, and to ask questions
 in office hours, I recognize that people will use AI. To make the AI
