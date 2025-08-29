@@ -1,9 +1,18 @@
 ---
-title: "Syllabus"
+title: "EC313 Syllabus"
 sidebar: false
 editor: 
   markdown: 
     wrap: 72
+
+format:
+  html: default   # keep website version
+  pdf:
+    documentclass: article
+    number-sections: false
+    toc: false
+    geometry: margin=1in
+    fontsize: 11pt
 ---
 
 :::::: {.grid .course-details .course-details-smaller}

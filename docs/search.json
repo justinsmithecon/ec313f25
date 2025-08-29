@@ -315,14 +315,14 @@
   {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
-    "title": "Syllabus",
+    "title": "EC313 Syllabus",
     "section": "",
     "text": "Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\n\n\n   Tue/Thu\n   Sept-Dec 2025\n   4:00 - 5:20 PM\n   LH2066\n\n\n\n\n\n   Thur 3:30 PM - 5:30 PM\n   Schedule an appointment"
   },
   {
     "objectID": "syllabus.html#course-description",
     "href": "syllabus.html#course-description",
-    "title": "Syllabus",
+    "title": "EC313 Syllabus",
     "section": "Course Description",
     "text": "Course Description\nThis course examines the economics of taxation through both theoretical and empirical lenses. Using tools from microeconomics and econometrics, we analyze how different forms of taxation affect individual behavior, economic efficiency, and the distribution of resources. The course introduces key concepts in tax incidence, optimal taxation, pigouvian taxes, and the trade-offs between equity and efficiency. Students will engage with current research to understand how economists estimate the behavioral and welfare effects of tax policy. They are also asked to apply their knowledge to data based assignments. While the course is centered on the Canadian tax system, the main concepts are applicable more widely. By the end of the course, students will be equipped to critically assess tax policy using the theoretical and empirical techniques in public economics."
   },
@@ -336,28 +336,28 @@
   {
     "objectID": "syllabus.html#course-material",
     "href": "syllabus.html#course-material",
-    "title": "Syllabus",
+    "title": "EC313 Syllabus",
     "section": "Course Material",
     "text": "Course Material\n\nTextbook\nThe required textbook for the course is\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nThis book is available in various locations, including but not limited to the Laurier Bookstore, Amazon, and direct fom the publisher, McGraw Hill. Here are the approximate prices you can expect\n\n\n\nSource\nBook Type\nPrice\n\n\n\n\nWLU Bookstore\nPhysical, Paperback\nTBD\n\n\nAmazon\nPhysical, Paperback\n$157\n\n\nMcGraw Hill\nPhysical, Paperback\n$129\n\n\nMcGraw Hill\nOnline, 180 Day Rental\n$69\n\n\nMcGraw Hill\nOnline, Lifetime\n$99\n\n\n\nMake sure to buy the book on its own, and not the version that comes bundled with Connect, as we will not use Connect in this course\n\n\nSoftware\nThe assignments will ask you to manipulate data with the statistical software Stata. The university has a site licence for this software, which you can access from the in-person or virtual computer labs. To access the virtual labs, follow the instructions outlined here\nhttps://students.wlu.ca/services-and-spaces/tech-services/computers-and-equipment/virtual-computer-labs.html\nIf you would like to purchase a copy of Stata for home use (not required), there are various options you can explore here: https://www.stata.com/order/dl/. The cheapest option is student license for Stata/BE, which costs USD 49.\n\n\nCourse GPT\nI have created a GPT specific to this course that you can use if you wish, linked here. While my opinion is that the best way to succeed in this course is to engage with the lectures, lecture notes, textbook, and to ask questions in office hours, I recognize that people will use AI. To make the AI experience as closely linked to EC313 as possible, I have trained a GPT on some of the course materials.\nYou are permitted to use generative AI for your assignments. In all submissions in which you use generative AI, you must cite its usage. Failing to cite the use of generative AI is a form of academic misconduct and Senate Policy 12.2 Student Code of Conduct: Academic Misconduct will be applied. Treat the AI as you would any other source, meaning that you cannot directly copy and paste AI output into your assignments.\nUse this tool with caution. As we all know, generative AI does not always produce reliable output, and as such you may get wrong answers to your questions even though it is trained on the course material."
   },
   {
     "objectID": "syllabus.html#evaluation",
     "href": "syllabus.html#evaluation",
-    "title": "Syllabus",
+    "title": "EC313 Syllabus",
     "section": "Evaluation",
     "text": "Evaluation\nYou will be evaluated on two equally weighted assignments, one midterm, and one final exam. The weights and due dates for each assessment are as follows:\n\n\n\nAssessment\nDue Date\nWeight\n\n\n\n\nAssignment 1\nFriday, October 3, 2025 at 9:00pm\n5%\n\n\nAssignment 2\nFriday, November 21, 2025 at 9:00pm\n5%\n\n\nMidterm\nThursday, October 30, 2025, in class\n40%\n\n\nFinal Exam\nTBA\n50%\n\n\n\nAssignments will ask you to manipulate and interpret data, and answer some short answer or mathematical questions. Instructions will be posted to MyLearningSpace one week prior to the due date.\nBoth the midterm and final exam will be in person. The midterm will take place in the classroom where the lectures take place at the scheduled lecture time. The final exam schedule is posted roughly half way through the term.\nIn the past I have placed more weight on the assignments and less weight on the in-person exams, but the pervasive use of generative AI has made it impossible to verify that assessments done outside of the classroom were actually completed by the student. So while take-home assignments are still part of the course, they do not constitute a large proportion of the grade."
   },
   {
     "objectID": "syllabus.html#topics",
     "href": "syllabus.html#topics",
-    "title": "Syllabus",
+    "title": "EC313 Syllabus",
     "section": "Topics",
     "text": "Topics\nBelow is a list of tentative topics covered in the course. I may add or remove items depending on how quickly the course proceeds. A reading list for each topic is available at the end of this syllabus.\n\n\n\nTopic\nReadings\n\n\n\n\nIntroduction to Public Finance\nRTTWS Chapter 1\n\n\nTax Incidence\nRTTWS Chapter 14\n\n\nTaxation and Efficiency\nRTTWS Chapter 15\n\n\nEfficient and Equitable Taxation\nRTTWS Chapter 16\n\n\nThe Personal Income Tax\nRTTWS Chapter 17\n\n\nPersonal Income Taxation and Behaviour\nRTTWS Chapter 18\n\n\nConsumption Taxation\nRTTWS Chapter 19\n\n\nExternalities and Pigouvian Taxes\nRTTWS Chapter 5\n\n\nTaxes on Wealth and Property\nRTTWS Chapter 20\n\n\nThe Corporation Tax\nRTTWS Chapter 21"
   },
   {
     "objectID": "syllabus.html#missed-midterms",
     "href": "syllabus.html#missed-midterms",
-    "title": "Syllabus",
+    "title": "EC313 Syllabus",
     "section": "Missed Midterms",
     "text": "Missed Midterms\nStudents who miss a midterm will be given deferred midterm for the following reasons:\n\nReligious conflict: If you have a religious commitment that interferes with the midterm exam, fill out the Student Request for Accommodation for Religious Observances form within two weeks of the start of the first day of classes.\nCourse conflict: If your midterm overlaps with another scheduled course, file a petition with the Lazaridis School Petitions Coordinator within two weeks of the start of the first day of classes.\nVarsity Sports: If a varsity sporting event interferes with the midterm, file a petition with the Lazaridis School Petitions Coordinator and contact the Department of Athletics within two weeks of the start of the first day of classes. Note that this policy applies only to varsity sports; students who have non-varsity sports conflicts are not eligible for a deferred midterm\n\nStudents who miss a midterm and have an acceptable medical or compassionate reason will have the weight of the midterm transferred to the final exam. In the case of medical reasons, I require that students complete the Absence for Medical Reasons Self-Declaration Form. Note that no medical notes are required or requested.\nIn all other circumstances, students who miss a midterm will receive a grade of zero on the test."
   },
@@ -427,35 +427,35 @@
   {
     "objectID": "syllabus.html#late-assignments",
     "href": "syllabus.html#late-assignments",
-    "title": "Syllabus",
+    "title": "EC313 Syllabus",
     "section": "Late Assignments",
     "text": "Late Assignments\nLate assignments and quizzes for religious conflicts, course conflicts, or medical/compassionate reasons as defined above will be given reasonable accommodation. In all other circumstances, students who submit late assignments or quizzes will receive a grade of zero."
   },
   {
     "objectID": "syllabus.html#deferred-final-examinations",
     "href": "syllabus.html#deferred-final-examinations",
-    "title": "Syllabus",
+    "title": "EC313 Syllabus",
     "section": "Deferred Final Examinations",
     "text": "Deferred Final Examinations\nStudents who miss a final examination should follow the university policy on deferred final exams. As noted in the policy, deferred exams may be granted for legitimate documentable reasons only, such as illness, religious reasons, extraordinary personal or family circumstances, a scheduling conflict with another exam or 3 exams within 24 hours. Deferred exams are not granted for travel or vacation during the final exam period, commuting, or for more study time. For religious accommodations, fill out the student request for accommodation for religious observances form within 7 calendar days before the final day of classes for the term. For other reasons, submit a petition to the Lazaridis School Petitions Coordinator within 3 business days after the scheduled date of the exam."
   },
   {
     "objectID": "syllabus.html#academic-integrity",
     "href": "syllabus.html#academic-integrity",
-    "title": "Syllabus",
+    "title": "EC313 Syllabus",
     "section": "Academic Integrity",
     "text": "Academic Integrity\nLaurier is committed to a culture of integrity within and beyond the classroom. This culture values trustworthiness (e.g., honesty, integrity, reliability), fairness, caring, respect, responsibility and citizenship. Together, we have a shared responsibility to uphold this culture in our academic and nonacademic behaviour. The University has a defined policy with respect to academic misconduct. As a Laurier student you are responsible for familiarizing yourself with this policy and the accompanying penalty guidelines, some of which may appear on your transcript if there is a finding of misconduct. The relevant policy can be found at Laurier’s academic integrity website along with resources to educate and support you in upholding a culture of integrity. Ignorance is not a defense.\nWilfrid Laurier University uses software that can check for plagiarism. Students may be required to submit their written work in electronic form and have it checked for plagiarism. Refer to the Handbook on Undergraduate Course Management for more information."
   },
   {
     "objectID": "syllabus.html#accessible-learning",
     "href": "syllabus.html#accessible-learning",
-    "title": "Syllabus",
+    "title": "EC313 Syllabus",
     "section": "Accessible Learning",
     "text": "Accessible Learning\nContact Accessible Learning if you require academic accommodations because of a disability. Review the Registration page for information about intake and documentation requirements. Deadlines: Students are responsible for meeting posted deadlines for registering with Accessible Learning and booking accommodated exams. Accessible Learning cannot guarantee accommodations for requests received after posted deadlines."
   },
   {
     "objectID": "syllabus.html#student-privacy",
     "href": "syllabus.html#student-privacy",
-    "title": "Syllabus",
+    "title": "EC313 Syllabus",
     "section": "Student Privacy",
     "text": "Student Privacy\nWilfrid Laurier University uses a range of technologies to facilitate in-person and remote instruction. Zoom is currently used for remote course delivery, including lectures, seminars, and group office hours, which may be recorded, stored and shared through MyLearningSpace for access by students in the course. For these course activities, students are permitted to turn off their cameras or use an alternative name to maintain their privacy after they have confirmed this with their instructor. Lectures will be recorded using a voice recorder in order to generate summaries. Student personal information is collected and used in the course in accordance with University policies and the Notice of Collection, Use or Disclosure of Personal Information."
   },
@@ -469,7 +469,7 @@
   {
     "objectID": "syllabus.html#intellectual-property",
     "href": "syllabus.html#intellectual-property",
-    "title": "Syllabus",
+    "title": "EC313 Syllabus",
     "section": "Intellectual Property",
     "text": "Intellectual Property\nThe educational materials developed for this course, including, but not limited to, lecture notes and slides, handout materials, examinations and assignments, and any materials posted to MyLearningSpace, are the intellectual property of the course instructors. These materials have been developed for student use only and they are not intended for wider dissemination and/or communication outside of a given course. Posting or providing unauthorized audio, video, or textual material of course content to third-party websites violates instructors’ intellectual property rights, and the Canadian Copyright Act. Recording lectures in any way is prohibited in this course unless specific permission has been granted by instructors. Failure to follow these instructions may be in contravention of the university’s Student Non-Academic Code of Conduct and/or Code of Academic Conduct, and will result in appropriate penalties. Participation in this course constitutes an agreement by all parties to abide by the relevant University Policies, and to respect the intellectual property of others during and after their association with Wilfrid Laurier University."
   },
@@ -4702,7 +4702,7 @@
   {
     "objectID": "syllabus.html#hawk-walk-the-wellness-centre-and-the-student-food-bank",
     "href": "syllabus.html#hawk-walk-the-wellness-centre-and-the-student-food-bank",
-    "title": "Syllabus",
+    "title": "EC313 Syllabus",
     "section": "Hawk Walk, the Wellness Centre, and the Student Food Bank",
     "text": "Hawk Walk, the Wellness Centre, and the Student Food Bank\n\nMulti-campus Resources\n\nStudent Rights Advisory Committee (studentsrights@wlu.ca): The Student Rights Advisory Committee exists to provide you with information about your rights when it comes to landlord-tenant issues or academic appeals. While in no way legal representation, it can help to inform you about your options to make difficult situations easier to navigate. ·\nEmpower Me - Mental Health Resources provided by Dialogue: Empower Me is a mental health and wellness service that seeks to contribute to a resilient student community by supporting existing on-campus and community mental health resources. Empower Me has a number of professionals with various domains of expertise, including psychology, psychotherapy, social work, nutrition, etc., to support you and respond effectively to diverse needs. You can access services via telephone, videoconference, or in-person. Empower Me is: available 24/7, 365 days a year, confidential, multilingual, culturally sensitive, gender-inclusive, and faith inclusive.\nThe Essentials - Legal Care Program: The Essentials, Legal Care Program allows students to access a legal consultation service. Students are free to consult a duly certified lawyer regarding any legal questions. Upon filling out the Support Form, students can expect a response from legal counsel within approximately 48 hours (business days) about next steps and assistance that is required to navigate housing disputes, employment disputes, disputes with an academic institution, and public notaries. Students can also seek legal representation when their case qualifies for further counsel.\n\n\n\nKitchener/Waterloo Resources:\n\nEmergency Response Team | ert@wlu.ca: The Emergency Response Team provides medical assistance to students on campus. ERT can be booked for on-site event support by filling out the online booking request form on their website.\nHawk Walk | 519.886.3668 | walkw@wlu.ca| Hawk Walk is a volunteer operated safe walk-home service, available daily during evening hours. Teams of two radio-dispatched volunteers are available on request to escort students to and from campus as well as to off-campus destinations. Hawk Walk can be found on the 2nd floor of the Fred Nichols Campus Centre next to the Dean of Students Office.\nFood Bank | foodbank@wlu.ca | Food Bank provides food parcels to cater to the nutritional and dietary needs of students. All students are eligible to use this service, regardless of circumstance or financial situation. Request a package at https://www.yourstudentsunion.ca/food-bank"
   },
@@ -5018,7 +5018,7 @@
   {
     "objectID": "syllabus.html#course-structure",
     "href": "syllabus.html#course-structure",
-    "title": "Syllabus",
+    "title": "EC313 Syllabus",
     "section": "Course Structure",
     "text": "Course Structure\n\nLectures\nThe scheduling details of the course are as follows\n\n\n\nSection\nTime\nLocation\n\n\n\n\nA\nTR 4:00-5:20pm\nLH2066\n\n\n\n\n\nOffice Hours\nI strongly encourage you to come to office hours if you need clarification about anything in the course.  Students are often nervous or intimidated at the idea of one-one-one discussions with their instructor.  Don’t be.  It’s a casual discussion where I will answer whatever questions you have without any judgement.\nOffice hours are remote only, unless you really wish to meet in person. Please sign up for a time here. Timeslots are 15-mins each, and you can book up to two for each office hours session depending on how much you need to discuss. When you book, the system will automatically enter a time into my calendar, and it will stay there unless you cancel. It also produces reminder emails to make sure neither of us forgets."
   }
