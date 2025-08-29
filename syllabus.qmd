@@ -14,7 +14,7 @@ editor:
     [{{< var instructor.name >}}]({{< var instructor.url >}})
 -   {{< fa university >}}   {{< var instructor.office >}}
 -   {{< fa envelope >}}  
-    \[{{< var instructor.email >}}\](mailto:{{< var instructor.email >}})
+    [{{< var instructor.email >}}](mailto:{{< var instructor.email >}})
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
@@ -51,13 +51,32 @@ more widely. By the end of the course, students will be equipped to
 critically assess tax policy using the theoretical and empirical
 techniques in public economics.
 
-## Lectures
+## Course Structure
+
+### Lectures
 
 The scheduling details of the course are as follows
 
 | Section |      Time      | Location |
 |:-------:|:--------------:|:--------:|
 |    A    | TR 4:00-5:20pm |  LH2066  |
+
+### Office Hours
+
+I strongly encourage you to come to office hours if you need
+clarification about anything in the course.  Students are often nervous
+or intimidated at the idea of one-one-one discussions with their
+instructor.  Don’t be.  It’s a casual discussion where I will answer
+whatever questions you have without any judgement.
+
+Office hours are remote only, unless you really wish to meet in
+person. [Please sign up for a time
+here](https://outlook.office.com/book/BookaTimewithDrJustinSmith@wlu.ca/?ismsaljsauthenabled).
+Timeslots are 15-mins each, and you can book up to two for each office
+hours session depending on how much you need to discuss. When you book,
+the system will automatically enter a time into my calendar, and it will
+stay there unless you cancel. It also produces reminder emails to make
+sure neither of us forgets.
 
 ## Course Material
 
@@ -75,7 +94,7 @@ Hill. Here are the approximate prices you can expect
 
 | Source        | Book Type              | Price |
 |:--------------|:-----------------------|:------|
-| WLU Bookstore | Physical, Paperback    | \$157 |
+| WLU Bookstore | Physical, Paperback    | TBD   |
 | Amazon        | Physical, Paperback    | \$157 |
 | McGraw Hill   | Physical, Paperback    | \$129 |
 | McGraw Hill   | Online, 180 Day Rental | \$69  |
@@ -101,17 +120,13 @@ license for Stata/BE, which costs USD 49.
 ### Course GPT
 
 I have created a GPT specific to this course that you can use if you
-wish. While my opinion is that the best way to succeed in this course is
-to engage with the lectures, lecture notes, textbook, and to ask
-question in office hours, I recognize that people will use AI. To make
-the AI experience as closely linked to EC313 as possible, I have trained
-a GPT on some of the course materials, which you can access here
-
-<https://chatgpt.com/g/g-685c539cef888191b373a9a5601bcdef-ec306>
-
-Use this with caution. As we all know, generative AI does not always
-produce reliable output, and as such you may get wrong answers to your
-questions even though it is trained on the course material.
+wish, [linked
+](https://chatgpt.com/g/g-685c539cef888191b373a9a5601bcdef-ec306)[here](https://chatgpt.com/g/g-68b1ee87edec81918d2084bfa05b56cc-ec313).
+While my opinion is that the best way to succeed in this course is to
+engage with the lectures, lecture notes, textbook, and to ask questions
+in office hours, I recognize that people will use AI. To make the AI
+experience as closely linked to EC313 as possible, I have trained a GPT
+on some of the course materials.
 
 You are permitted to use generative AI for your assignments. In all
 submissions in which you use generative AI, you must [cite its
@@ -120,6 +135,10 @@ academic misconduct and [Senate Policy 12.2 Student Code of Conduct:
 Academic Misconduct](#0) will be applied. Treat the AI as you would any
 other source, meaning that you cannot directly copy and paste AI output
 into your assignments.
+
+**Use this tool with caution.** As we all know, generative AI does not
+always produce reliable output, and as such you may get wrong answers to
+your questions even though it is trained on the course material.
 
 ## Evaluation
 
