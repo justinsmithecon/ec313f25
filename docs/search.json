@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "\n            Public Economics: Taxation\n        ",
     "section": "",
-    "text": "The Economics of Taxation\n        \n        \n            EC313 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Tue/Thu\n   Sept-Dec 2025\n   4:00 - 5:20 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 3:30 PM - 5:30 PM\n   Schedule an appointment"
+    "text": "The Economics of Taxation\n        \n        \n            EC313 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Tue/Thu\n   Sept-Dec 2025\n   4:00 - 5:20 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
   },
   {
     "objectID": "content/index.html",
@@ -317,7 +317,7 @@
     "href": "syllabus.html",
     "title": "EC313 Syllabus",
     "section": "",
-    "text": "Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\n\n\n   Tue/Thu\n   Sept-Dec 2025\n   4:00 - 5:20 PM\n   LH2066\n\n\n\n\n\n   Thur 3:30 PM - 5:30 PM\n   Schedule an appointment"
+    "text": "Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\n\n\n   Tue/Thu\n   Sept-Dec 2025\n   4:00 - 5:20 PM\n   LH2066\n\n\n\n\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
   },
   {
     "objectID": "syllabus.html#course-description",
@@ -5021,5 +5021,313 @@
     "title": "EC313 Syllabus",
     "section": "Course Structure",
     "text": "Course Structure\n\nLectures\nThe scheduling details of the course are as follows\n\n\n\nSection\nTime\nLocation\n\n\n\n\nA\nTR 4:00-5:20pm\nLH2066\n\n\n\n\n\nOffice Hours\nI strongly encourage you to come to office hours if you need clarification about anything in the course.  Students are often nervous or intimidated at the idea of one-one-one discussions with their instructor.  Don’t be.  It’s a casual discussion where I will answer whatever questions you have without any judgement.\nOffice hours are remote only, unless you really wish to meet in person. Please sign up for a time here. Timeslots are 15-mins each, and you can book up to two for each office hours session depending on how much you need to discuss. When you book, the system will automatically enter a time into my calendar, and it will stay there unless you cancel. It also produces reminder emails to make sure neither of us forgets."
+  },
+  {
+    "objectID": "slides/incidence/index.html#goals-of-this-section-1",
+    "href": "slides/incidence/index.html#goals-of-this-section-1",
+    "title": "\nTax Incidence\n",
+    "section": "Goals of This Section",
+    "text": "Goals of This Section\n\nOutline different types of taxes\nDiscuss different between statutory and economic incidence of a tax\nShow how tax incidence depends on elasticities of supply and demand\nExpand on tax incidence in various markets"
+  },
+  {
+    "objectID": "slides/incidence/index.html#introduction",
+    "href": "slides/incidence/index.html#introduction",
+    "title": "\nTax Incidence\n",
+    "section": "Introduction",
+    "text": "Introduction\n\nThere are many different types of taxes\nTaxes can have different goals\n\nRaise revenue for government spending\nChange behaviour of individuals or firms\nRedistribute resources\n\nThey can also have different bases, structures, and rates\n\nBase: what is being taxed (e.g. income, consumption, property)\nStructure: how the tax is applied (e.g. progressive, regressive, flat)\nRate: how much is being taxed (e.g. percentage, fixed amount)\n\nBelow we cover some of the most common types of taxes"
+  },
+  {
+    "objectID": "slides/incidence/index.html#taxes-on-income",
+    "href": "slides/incidence/index.html#taxes-on-income",
+    "title": "\nTax Incidence\n",
+    "section": "Taxes on Income",
+    "text": "Taxes on Income\n\nIncome Tax: tax on income earned during the year\nCan be levied on individuals or corporations\nFor individuals, includes but not limited to\n\nLabour market earnings\nCapital gains\nInvestment income (e.g. from dividends, interest, property)\nPensions and retirement income (e.g. RRSPs)\nSome government benefits (e.g. employment insurance)\nOther taxable benefits (e.g. premiums paid by employer for group life insurance)"
+  },
+  {
+    "objectID": "slides/incidence/index.html#taxes-on-income-1",
+    "href": "slides/incidence/index.html#taxes-on-income-1",
+    "title": "\nTax Incidence\n",
+    "section": "Taxes on Income",
+    "text": "Taxes on Income\n\nFor corporations, includes but not limited to\n\nActive business income from sales or goods and services\nInvestment income\nCapital gains\nSome government grants\nDepends on the size of your business\n\nSmall business pay a lower rate"
+  },
+  {
+    "objectID": "slides/incidence/index.html#payroll-taxes",
+    "href": "slides/incidence/index.html#payroll-taxes",
+    "title": "\nTax Incidence\n",
+    "section": "Payroll Taxes",
+    "text": "Payroll Taxes\n\nPayroll Taxes: taxes levied on employment income\n\nPaid by both employers and employees\n\nUsed to finance social insurance and public pension programs\n\nExamples: Employment Insurance (EI), Canada Pension Plan (CPP), worker compensation\n\nPayroll taxes vary by province\n\nSome charge a health tax (e.g. BC Employer Health Tax)\nManitoba charges a levy for health and postsecondary education\n\nThese are different from the general income tax"
+  },
+  {
+    "objectID": "slides/incidence/index.html#consumption-taxes",
+    "href": "slides/incidence/index.html#consumption-taxes",
+    "title": "\nTax Incidence\n",
+    "section": "Consumption Taxes",
+    "text": "Consumption Taxes\n\nConsumption Tax: a tax paid on consumption of goods and services\nTaxes generally charged by a seller at point of sale\n\nThey remit these funds to the government\n\nExamples:\n\nSales tax (e.g. GST, HST, PST)\nExcise taxes (e.g. gasoline, alcohol, tobacco)\nTariffs (tax on imports)"
+  },
+  {
+    "objectID": "slides/incidence/index.html#wealth-taxes",
+    "href": "slides/incidence/index.html#wealth-taxes",
+    "title": "\nTax Incidence\n",
+    "section": "Wealth Taxes",
+    "text": "Wealth Taxes\n\nWealth Taxes: taxes on the value of an asset\nTypical wealth taxes include\n\nProperty tax (tax on value of land/buildings)\nEstate tax (tax on value of estate at death)\nGeneral wealth tax (tax on total value of assets owned)\n\nEstate taxes and general wealth taxes are not used in Canada\nProperty taxes are a major source of revenue for municipal governments"
+  },
+  {
+    "objectID": "slides/incidence/index.html#introduction-1",
+    "href": "slides/incidence/index.html#introduction-1",
+    "title": "\nTax Incidence\n",
+    "section": "Introduction",
+    "text": "Introduction\n\nThe question of who “pays” a tax is more complicated than it seems\nExample: in Canada, there is a federal $0.10/litre tax on gasoline\n\nGasoline stations include this in their price\nThey remit the tax to the government\nDoes the seller or the consumer pay?\n\nThis section will clarify who pays a tax\nSeparate between statutory and economic incidence of a tax\nMy view: this is the most important concept we teach in this program"
+  },
+  {
+    "objectID": "slides/incidence/index.html#statutory-vs-economic-incidence-of-a-tax-1",
+    "href": "slides/incidence/index.html#statutory-vs-economic-incidence-of-a-tax-1",
+    "title": "\nTax Incidence\n",
+    "section": "Statutory vs Economic Incidence of a Tax",
+    "text": "Statutory vs Economic Incidence of a Tax\n\nStatutory Incidence: who is legally responsible for paying the tax to the government\n\nIn the gasoline tax example, the statutory incidence is on the gasoline station\n\nThey send a cheque to the government\n\n\nEconomic Incidence: the change in real income brought about by the tax\n\nIn the gasoline tax example, the economic incidence can be shared between the gasoline station and the consumer\n\nThe gasoline station may less revenue per litre sold\nThe consumer may pay a higher price per litre purchased"
+  },
+  {
+    "objectID": "slides/incidence/index.html#statutory-vs-economic-incidence-of-a-tax-2",
+    "href": "slides/incidence/index.html#statutory-vs-economic-incidence-of-a-tax-2",
+    "title": "\nTax Incidence\n",
+    "section": "Statutory vs Economic Incidence of a Tax",
+    "text": "Statutory vs Economic Incidence of a Tax\n\nExample: $0.10/litre tax on gasoline\n\nBefore tax is imposed, suppose price is $1.00/litre\n\nConsumers pay $1.00/litre, gas station receives $1.00/litre\n\nThen government levies $0.10/litre tax on gasoline station\n\nSuppose gasoline station raises price to $1.10/litre\nConsumer pays $1.10/litre\nGas station keeps $1.00/litre, remits $0.10/litre to government\n\nIn this case, the consumer bears the entire economic incidence of the tax\n\nGasoline station receives same revenue per litre as before tax\nConsumer pays $0.10/litre more than before tax"
+  },
+  {
+    "objectID": "slides/incidence/index.html#statutory-vs-economic-incidence-of-a-tax-3",
+    "href": "slides/incidence/index.html#statutory-vs-economic-incidence-of-a-tax-3",
+    "title": "\nTax Incidence\n",
+    "section": "Statutory vs Economic Incidence of a Tax",
+    "text": "Statutory vs Economic Incidence of a Tax\n\nExample 2: $0.10/litre tax on gasoline\n\nSame $0.10/litre tax on gas station\n\nSuppose gas station raises price to $1.05/litre\nConsumer pays $1.05/litre\nGas station keeps $0.95/litre, remits $0.10/litre to government\n\nIn this case, the consumer and gas station share the economic incidence of the tax\n\nGas station receives $0.05/litre less than before tax\nConsumer pays $0.05/litre more than before tax"
+  },
+  {
+    "objectID": "slides/incidence/index.html#statutory-vs-economic-incidence-of-a-tax-4",
+    "href": "slides/incidence/index.html#statutory-vs-economic-incidence-of-a-tax-4",
+    "title": "\nTax Incidence\n",
+    "section": "Statutory vs Economic Incidence of a Tax",
+    "text": "Statutory vs Economic Incidence of a Tax\n\nKey lesson is that statutory incidence does not determine economic incidence\n\nIn example, statutory incidence is always on the gas station\nEconomic incidence depends on how much of the tax is passed on to consumers in the form of higher prices\nGas station could pass on all, some, or none of the tax to consumers\n\nStatutory incidence says nothing about economic incidence\nTo determine economic incidence, we need to look at underlying economic forces"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities",
+    "text": "Unit Tax on Commodities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nTake gasoline tax example one more time\nOn right is demand and supply of litres of gasoline\nWithout tax, price and quantity are determined where demand and supply are equal\n\nPrice is \\(P_{0}\\)\nQuantity is \\(Q_{0}\\)"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities-1",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities-1",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities",
+    "text": "Unit Tax on Commodities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nNow government levies a per unit tax \\(t\\) (e.g. $0.10/litre) on gasoline\nTax is levied on sellers (statutory incidence)\nThis shifts the supply curve up by the amount of the tax\n\nNew supply curve is \\(S'\\)\nAt each quantity, sellers want to charge \\(t\\) more to cover the tax\n\nNew equilibrium is where \\(S'\\) intersects \\(D\\)"
+  },
+  {
+    "objectID": "slides/incidence/index.html#references-1",
+    "href": "slides/incidence/index.html#references-1",
+    "title": "\nTax Incidence\n",
+    "section": "References",
+    "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.\nFinances of the Nation. https://financesofthenation.ca/"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities-2",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities-2",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities",
+    "text": "Unit Tax on Commodities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nThe tax introduces a tax wedge\n\nDifference between what consumers pay and what producers receive from a transaction\n\nConsumers pay the equilibrium price \\(P_{g}'\\)\n\nPrice includes the tax\n\nProducers receive \\(P_{n}' = P_{g}' - t\\)\n\nThey remit \\(t\\) for every unit sold\n\nQuantity falls to \\(Q'_{1}\\)"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities-3",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities-3",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities",
+    "text": "Unit Tax on Commodities\n\nIn example above, economic incidence is shared equally between consumers and producers\n\nConsumers pay \\(P_{g}' - P_{0}\\) more than before tax\nProducers receive \\(P_{0} - P_{n}'\\) less than before tax\nThese amounts are equal\n\nEqual economic incidence is specific to this example because supply and demand have the same slope\nIn general, economic incidence depends on the elasticities of supply and demand\n\nA more elastic demand curve means consumers bear less of the economic incidence\n\nHigher elasticity means consumers can switch to other goods when price changes\n\nA more elastic supply curve means producers bear less of the economic incidence\n\nA firm with higher elasticity can alter production easily when prices change"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities-4",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities-4",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities",
+    "text": "Unit Tax on Commodities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph to the right shows a more inelastic demand curve\nAfter tax consumers pay \\(P_{g}'\\)\nProducers receive \\(P_{n}' = P_{g}' - t\\)\nBut \\(P_{g}' - P_{0}\\) is now larger than \\(P_{0} - P_{n}'\\)\n\nInelastic demand means consumers less able to substitute\nThey absorb more of the economic incidence"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities-5",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities-5",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities",
+    "text": "Unit Tax on Commodities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIn extreme with perfectly inelastic demand, consumers bear entire economic incidence\n\nPerfect inelastic demand means complete inability to substitute\n\nAfter tax consumers pay \\(P_{g}' = P_{0} + t\\)\nProducers receive \\(P_{n}' = P_{g}' - t = P_{0}\\)\nNo change in quantity\n\nSince consumers demand \\(Q_{0} = Q'_{1}\\) at any price"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities-6",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities-6",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities",
+    "text": "Unit Tax on Commodities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nNow imagine a more inelasrtic supply curve\n\nFirms less able to adjust quantities when prices change\n\nAfter tax consumers pay \\(P_{g}'\\)\nProducers receive \\(P_{n}' = P_{g}' - t\\)\n\\(P_{0} - P_{n}'\\) is larger than \\(P_{g}' - P_{0}\\)\n\nFirms absorb more of the economic incidence\nThey are less able to adjust production to avoid the tax"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities---graphical",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities---graphical",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities - Graphical",
+    "text": "Unit Tax on Commodities - Graphical\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nTake gasoline tax example one more time\nOn right is demand and supply of litres of gasoline\nWithout tax, price and quantity are determined where demand and supply are equal\n\nPrice is \\(P_{0}\\)\nQuantity is \\(Q_{0}\\)"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities---graphical-1",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities---graphical-1",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities - Graphical",
+    "text": "Unit Tax on Commodities - Graphical\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nNow government levies a per unit tax \\(t\\) (e.g. $0.10/litre) on gasoline\nTax is levied on sellers (statutory incidence)\nThis shifts the supply curve up by the amount of the tax\n\nNew supply curve is \\(S'\\)\nAt each quantity, sellers want to charge \\(t\\) more to cover the tax\n\nNew equilibrium is where \\(S'\\) intersects \\(D\\)"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities---graphical-2",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities---graphical-2",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities - Graphical",
+    "text": "Unit Tax on Commodities - Graphical\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nThe tax introduces a tax wedge\n\nDifference between what consumers pay and what producers receive from a transaction\n\nConsumers pay the equilibrium price \\(P_{g}'\\)\n\nPrice includes the tax\n\nProducers receive \\(P_{n}' = P_{g}' - t\\)\n\nThey remit \\(t\\) for every unit sold\n\nQuantity falls to \\(Q'_{1}\\)"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities---graphical-3",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities---graphical-3",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities - Graphical",
+    "text": "Unit Tax on Commodities - Graphical\n\nIn example above, economic incidence is shared equally between consumers and producers\n\nConsumers pay \\(P_{g}' - P_{0}\\) more than before tax\nProducers receive \\(P_{0} - P_{n}'\\) less than before tax\nThese amounts are equal\n\nEqual economic incidence is specific to this example because supply and demand have the same slope\nIn general, economic incidence depends on the elasticities of supply and demand\n\nA more elastic demand curve means consumers bear less of the economic incidence\n\nHigher elasticity means consumers can switch to other goods when price changes\n\nA more elastic supply curve means producers bear less of the economic incidence\n\nA firm with higher elasticity can alter production easily when prices change"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities---graphical-4",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities---graphical-4",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities - Graphical",
+    "text": "Unit Tax on Commodities - Graphical\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph to the right shows a more inelastic demand curve\nAfter tax consumers pay \\(P_{g}'\\)\nProducers receive \\(P_{n}' = P_{g}' - t\\)\nBut \\(P_{g}' - P_{0}\\) is now larger than \\(P_{0} - P_{n}'\\)\n\nInelastic demand means consumers less able to substitute\nThey absorb more of the economic incidence"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities---graphical-5",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities---graphical-5",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities - Graphical",
+    "text": "Unit Tax on Commodities - Graphical\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIn extreme with perfectly inelastic demand, consumers bear entire economic incidence\n\nPerfect inelastic demand means complete inability to substitute\n\nAfter tax consumers pay \\(P_{g}' = P_{0} + t\\)\nProducers receive \\(P_{n}' = P_{g}' - t = P_{0}\\)\nNo change in quantity\n\nSince consumers demand \\(Q_{0} = Q'_{1}\\) at any price"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities---graphical-6",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities---graphical-6",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities - Graphical",
+    "text": "Unit Tax on Commodities - Graphical\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nNow imagine a more inelasrtic supply curve\n\nFirms less able to adjust quantities when prices change\n\nAfter tax consumers pay \\(P_{g}'\\)\nProducers receive \\(P_{n}' = P_{g}' - t\\)\n\\(P_{0} - P_{n}'\\) is larger than \\(P_{g}' - P_{0}\\)\n\nFirms absorb more of the economic incidence\nThey are less able to adjust production to avoid the tax"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities---math",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities---math",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities - Math",
+    "text": "Unit Tax on Commodities - Math\n\nWe can show the same result mathematically\nUse linear inverse demand and supply curves with clean numbers\n\n\\[\\text{Demand: } P_{d}=14-Q_{d},\\quad \\text{Supply: } P_{s}=2+Q_{s}\\]\n\nEquilibrium without tax is where \\(P_{d}=P_{s} = P_{0}\\), \\(Q_{d}=Q_{s}= Q_{0}\\)\n\n\\[ 14-Q_{0}=2+Q_{0} \\] \\[ 12 = 2Q_{0} \\Rightarrow Q_{0}=6 \\] - Sub \\(Q_{0}\\) into either equation to get \\(P_{0}\\)\n\\[ P_{0} = 14 - 6 = 8 \\]"
+  },
+  {
+    "objectID": "slides/incidence/index.html#references",
+    "href": "slides/incidence/index.html#references",
+    "title": "EC313 - Taxation",
+    "section": "References",
+    "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.\nFinances of the Nation. https://financesofthenation.ca/"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities---math-1",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities---math-1",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities - Math",
+    "text": "Unit Tax on Commodities - Math\n\nNow introduce a per unit tax \\(t=4\\) on sellers\nIn equilibrium, \\(P_{d} = P_{s} + t\\) and \\(Q_{d} = Q_{s} = Q_{1}\\)\n\nThere is a wedge between what consumers pay and what producers receive\n\nSubstituting in the equations for demand and supply\n\n\\[ 14 - Q_{1} = 2 + Q_{1} + 4 \\] \\[ 14 - Q_{1} = 6 + Q_{1} \\Rightarrow Q_{1} = 4 \\] - Sub \\(Q_{1}\\) into either equation to get \\(P_{d}\\) or \\(P_{s}\\)\n\\[ P_{d} = 14 - 4 = 10 \\] \\[ P_{s} = 2 + 4 = 6 \\]"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-commodities---math-2",
+    "href": "slides/incidence/index.html#unit-tax-on-commodities---math-2",
+    "title": "EC313 - Taxation",
+    "section": "Unit Tax on Commodities - Math",
+    "text": "Unit Tax on Commodities - Math\n\nKey things to take away when the tax is introduced\n\nQuantity falls from \\(Q_{0}=6\\) to \\(Q_{1}=4\\)\nConsumers pay \\(P_{d}=10\\), which is \\(10-8=2\\) more than before tax\nProducers receive \\(P_{s}=6\\), which is \\(8-6=2\\) less than before tax\nEconomic incidence is shared equally between consumers and producers\n\nExample is specific to when demand and supply have the same slope\nIn general, economic incidence with linear demand and supply and a unit tax depends on elasticities of supply and demand\n\n\\[ \\Delta P_{c} = P_{c} - P_{0} = \\frac{\\varepsilon_s}{\\varepsilon_s + |\\varepsilon_d|}t, \\quad \\Delta P_{s}= P_{0} - P_{s} = \\frac{|\\varepsilon_d|}{\\varepsilon_s + |\\varepsilon_d|}t\\]\n\n\\(\\varepsilon_s = \\frac{dQ_s}{dP_s}\\frac{P}{Q}\\) is elasticity of supply and \\(\\varepsilon_d = \\frac{dQ_d}{dP_c}\\frac{P}{Q}\\) is elasticity of demand"
+  },
+  {
+    "objectID": "slides/incidence/index.html",
+    "href": "slides/incidence/index.html",
+    "title": "\nTax Incidence\n",
+    "section": "",
+    "text": "Tax Incidence"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-sellers---graphical",
+    "href": "slides/incidence/index.html#unit-tax-on-sellers---graphical",
+    "title": "\nTax Incidence\n",
+    "section": "Unit Tax on Sellers - Graphical",
+    "text": "Unit Tax on Sellers - Graphical\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nTake gasoline tax example one more time\nOn right is demand and supply of litres of gasoline\nWithout tax, price and quantity are determined where demand and supply are equal\n\nPrice is \\(P_{0}\\)\nQuantity is \\(Q_{0}\\)"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-sellers---graphical-1",
+    "href": "slides/incidence/index.html#unit-tax-on-sellers---graphical-1",
+    "title": "\nTax Incidence\n",
+    "section": "Unit Tax on Sellers - Graphical",
+    "text": "Unit Tax on Sellers - Graphical\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nNow government levies a per unit tax \\(t\\) (e.g. $0.10/litre) on gasoline\nTax is levied on sellers (statutory incidence)\nThis shifts the supply curve up by the amount of the tax\n\nNew supply curve is \\(S'\\)\nAt each quantity, sellers want to charge \\(t\\) more to cover the tax\n\nNew equilibrium is where \\(S'\\) intersects \\(D\\)"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-sellers---graphical-2",
+    "href": "slides/incidence/index.html#unit-tax-on-sellers---graphical-2",
+    "title": "\nTax Incidence\n",
+    "section": "Unit Tax on Sellers - Graphical",
+    "text": "Unit Tax on Sellers - Graphical\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nThe tax introduces a tax wedge\n\nDifference between what consumers pay and what producers receive from a transaction\n\nConsumers pay the equilibrium price \\(P_{g}'\\)\n\nPrice includes the tax\n\nProducers receive \\(P_{n}' = P_{g}' - t\\)\n\nThey remit \\(t\\) for every unit sold\n\nQuantity falls to \\(Q'_{1}\\)"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-sellers---graphical-3",
+    "href": "slides/incidence/index.html#unit-tax-on-sellers---graphical-3",
+    "title": "\nTax Incidence\n",
+    "section": "Unit Tax on Sellers - Graphical",
+    "text": "Unit Tax on Sellers - Graphical\n\nIn example above, economic incidence is shared equally between consumers and producers\n\nConsumers pay \\(P_{g}' - P_{0}\\) more than before tax\nProducers receive \\(P_{0} - P_{n}'\\) less than before tax\nThese amounts are equal\n\nEqual economic incidence is specific to this example because supply and demand have the same slope\nIn general, economic incidence depends on the elasticities of supply and demand\n\nA more elastic demand curve means consumers bear less of the economic incidence\n\nHigher elasticity means consumers can switch to other goods when price changes\n\nA more elastic supply curve means producers bear less of the economic incidence\n\nA firm with higher elasticity can alter production easily when prices change"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-sellers---graphical-4",
+    "href": "slides/incidence/index.html#unit-tax-on-sellers---graphical-4",
+    "title": "\nTax Incidence\n",
+    "section": "Unit Tax on Sellers - Graphical",
+    "text": "Unit Tax on Sellers - Graphical\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph to the right shows a more inelastic demand curve\nAfter tax consumers pay \\(P_{g}'\\)\nProducers receive \\(P_{n}' = P_{g}' - t\\)\nBut \\(P_{g}' - P_{0}\\) is now larger than \\(P_{0} - P_{n}'\\)\n\nInelastic demand means consumers less able to substitute\nThey absorb more of the economic incidence"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-sellers---graphical-5",
+    "href": "slides/incidence/index.html#unit-tax-on-sellers---graphical-5",
+    "title": "\nTax Incidence\n",
+    "section": "Unit Tax on Sellers - Graphical",
+    "text": "Unit Tax on Sellers - Graphical\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIn extreme with perfectly inelastic demand, consumers bear entire economic incidence\n\nPerfect inelastic demand means complete inability to substitute\n\nAfter tax consumers pay \\(P_{g}' = P_{0} + t\\)\nProducers receive \\(P_{n}' = P_{g}' - t = P_{0}\\)\nNo change in quantity\n\nSince consumers demand \\(Q_{0} = Q'_{1}\\) at any price"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-sellers---graphical-6",
+    "href": "slides/incidence/index.html#unit-tax-on-sellers---graphical-6",
+    "title": "\nTax Incidence\n",
+    "section": "Unit Tax on Sellers - Graphical",
+    "text": "Unit Tax on Sellers - Graphical\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nNow imagine a more inelasrtic supply curve\n\nFirms less able to adjust quantities when prices change\n\nAfter tax consumers pay \\(P_{g}'\\)\nProducers receive \\(P_{n}' = P_{g}' - t\\)\n\\(P_{0} - P_{n}'\\) is larger than \\(P_{g}' - P_{0}\\)\n\nFirms absorb more of the economic incidence\nThey are less able to adjust production to avoid the tax"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-sellers---math",
+    "href": "slides/incidence/index.html#unit-tax-on-sellers---math",
+    "title": "\nTax Incidence\n",
+    "section": "Unit Tax on Sellers - Math",
+    "text": "Unit Tax on Sellers - Math\n\nWe can show the same result mathematically\nUse linear inverse demand and supply curves with clean numbers\n\n\\[\\text{Demand: } P_{d}=14-Q_{d},\\quad \\text{Supply: } P_{s}=2+Q_{s}\\]\n\nEquilibrium without tax is where \\(P_{d}=P_{s} = P_{0}\\), \\(Q_{d}=Q_{s}= Q_{0}\\)\n\n\\[ 14-Q_{0}=2+Q_{0} \\] \\[ 12 = 2Q_{0} \\Rightarrow Q_{0}=6 \\] - Sub \\(Q_{0}\\) into either equation to get \\(P_{0}\\)\n\\[ P_{0} = 14 - 6 = 8 \\]"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-sellers---math-1",
+    "href": "slides/incidence/index.html#unit-tax-on-sellers---math-1",
+    "title": "\nTax Incidence\n",
+    "section": "Unit Tax on Sellers - Math",
+    "text": "Unit Tax on Sellers - Math\n\nNow introduce a per unit tax \\(t=4\\) on sellers\nIn equilibrium, \\(P_{d} = P_{s} + t\\) and \\(Q_{d} = Q_{s} = Q_{1}\\)\n\nThere is a wedge between what consumers pay and what producers receive\n\nSubstituting in the equations for demand and supply\n\n\\[ 14 - Q_{1} = 2 + Q_{1} + 4 \\] \\[ 14 - Q_{1} = 6 + Q_{1} \\Rightarrow Q_{1} = 4 \\] - Sub \\(Q_{1}\\) into either equation to get \\(P_{d}\\) or \\(P_{s}\\)\n\\[ P_{d} = 14 - 4 = 10 \\] \\[ P_{s} = 2 + 4 = 6 \\]"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-sellers---math-2",
+    "href": "slides/incidence/index.html#unit-tax-on-sellers---math-2",
+    "title": "\nTax Incidence\n",
+    "section": "Unit Tax on Sellers - Math",
+    "text": "Unit Tax on Sellers - Math\n\nKey things to take away when the tax is introduced\n\nQuantity falls from \\(Q_{0}=6\\) to \\(Q_{1}=4\\)\nConsumers pay \\(P_{d}=10\\), which is \\(10-8=2\\) more than before tax\nProducers receive \\(P_{s}=6\\), which is \\(8-6=2\\) less than before tax\nEconomic incidence is shared equally between consumers and producers\n\nExample is specific to when demand and supply have the same slope\nIn general, economic incidence with linear demand and supply and a unit tax depends on elasticities of supply and demand\n\n\\[ \\Delta P_{c} = P_{c} - P_{0} = \\frac{\\varepsilon_s}{\\varepsilon_s + |\\varepsilon_d|}t, \\quad \\Delta P_{s}= P_{0} - P_{s} = \\frac{|\\varepsilon_d|}{\\varepsilon_s + |\\varepsilon_d|}t\\]\n\n\\(\\varepsilon_s = \\frac{dQ_s}{dP_s}\\frac{P}{Q}\\) is elasticity of supply and \\(\\varepsilon_d = \\frac{dQ_d}{dP_c}\\frac{P}{Q}\\) is elasticity of demand"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-buyers---graphical",
+    "href": "slides/incidence/index.html#unit-tax-on-buyers---graphical",
+    "title": "\nTax Incidence\n",
+    "section": "Unit Tax on Buyers - Graphical",
+    "text": "Unit Tax on Buyers - Graphical\n\nMore rarely, taxes are levied on buyers of goods and services\nWe can use the same graphical tools to examine this case\nKey lesson is that economic incidence does not depend on whether the tax is levied on buyers or sellers"
+  },
+  {
+    "objectID": "slides/incidence/index.html#unit-tax-on-buyers---graphical-1",
+    "href": "slides/incidence/index.html#unit-tax-on-buyers---graphical-1",
+    "title": "\nTax Incidence\n",
+    "section": "Unit Tax on Buyers - Graphical",
+    "text": "Unit Tax on Buyers - Graphical\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nNow government levies a per unit tax \\(t\\) (e.g. $0.10/litre) on gasoline\nAssume gas tax is levied on buyers (statutory incidence)\nThis shifts the demand curve down by the amount of the tax\n\nNew demand curve is \\(D'\\)\nAt each quantity, buyers want to pay \\(t\\) less to cover the tax\n\nNew equilibrium is where \\(S\\) intersects \\(D'\\)"
   }
 ]
