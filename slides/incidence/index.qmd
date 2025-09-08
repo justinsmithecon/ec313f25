@@ -253,6 +253,8 @@ editor: visual
     -   At each quantity, sellers want to charge $t$ more to cover the tax
 
 -   New equilibrium is where $S'$ intersects $D$
+
+    -   Determines price paid by consumers
 :::
 ::::::
 
@@ -270,11 +272,11 @@ editor: visual
 
     -   Difference between what consumers pay and what producers receive from a transaction
 
--   Consumers pay the equilibrium price $P_{g}'$
+-   Consumers pay the equilibrium price $P_{c}'$
 
     -   Price includes the tax
 
--   Producers receive $P_{n}' = P_{g}' - t$
+-   Producers receive $P_{s}' = P_{c}' - t$
 
     -   They remit $t$ for every unit sold
 
@@ -286,8 +288,8 @@ editor: visual
 
 -   In example above, economic incidence is shared equally between consumers and producers
 
-    -   Consumers pay $P_{g}' - P_{0}$ more than before tax
-    -   Producers receive $P_{0} - P_{n}'$ less than before tax
+    -   Consumers pay $P_{c}' - P_{0}$ more than before tax
+    -   Producers receive $P_{0} - P_{s}'$ less than before tax
     -   These amounts are equal
 
 -   Equal economic incidence is specific to this example because supply and demand have the same slope
@@ -314,11 +316,11 @@ editor: visual
 ::: {.column width="50%"}
 -   Graph to the right shows a more inelastic demand curve
 
--   After tax consumers pay $P_{g}'$
+-   After tax consumers pay $P_{c}'$
 
--   Producers receive $P_{n}' = P_{g}' - t$
+-   Producers receive $P_{s}' = P_{c}' - t$
 
--   But $P_{g}' - P_{0}$ is now larger than $P_{0} - P_{n}'$
+-   But $P_{c}' - P_{0}$ is now larger than $P_{0} - P_{s}'$
 
     -   Inelastic demand means consumers less able to substitute
 
@@ -340,9 +342,9 @@ editor: visual
 
     -   Perfect inelastic demand means complete inability to substitute
 
--   After tax consumers pay $P_{g}' = P_{0} + t$
+-   After tax consumers pay $P_{c}' = P_{0} + t$
 
--   Producers receive $P_{n}' = P_{g}' - t = P_{0}$
+-   Producers receive $P_{s}' = P_{c}' - t = P_{0}$
 
 -   No change in quantity
 
@@ -360,15 +362,15 @@ editor: visual
 ::::
 
 ::: {.column width="50%"}
--   Now imagine a more inelasrtic supply curve
+-   Now imagine a more inelastic supply curve
 
     -   Firms less able to adjust quantities when prices change
 
--   After tax consumers pay $P_{g}'$
+-   After tax consumers pay $P_{c}'$
 
--   Producers receive $P_{n}' = P_{g}' - t$
+-   Producers receive $P_{s}' = P_{c}' - t$
 
--   $P_{0} - P_{n}'$ is larger than $P_{g}' - P_{0}$
+-   $P_{0} - P_{s}'$ is larger than $P_{c}' - P_{0}$
 
     -   Firms absorb more of the economic incidence
 
@@ -382,69 +384,61 @@ editor: visual
 
 -   Use linear inverse demand and supply curves with clean numbers
 
-$$\text{Demand: } P_{d}=14-Q_{d},\quad \text{Supply: } P_{s}=2+Q_{s}$$
+$$\text{Demand: } P_{c}=14-Q_{c},\quad \text{Supply: } P_{s}=2+Q_{s}$$
 
-- Equilibrium without tax is where $P_{d}=P_{s} = P_{0}$, $Q_{d}=Q_{s}= Q_{0}$
+-   Equilibrium without tax is where $P_{s}=P_{c} = P_{0}$, $Q_{c}=Q_{s}= Q_{0}$
 
-$$ 14-Q_{0}=2+Q_{0} $$
-$$ 12 = 2Q_{0} \Rightarrow Q_{0}=6 $$
-- Sub $Q_{0}$ into either equation to get $P_{0}$
+$$ 14-Q_{0}=2+Q_{0} $$ $$ 12 = 2Q_{0} \Rightarrow Q_{0}=6 $$ - Sub $Q_{0}$ into either equation to get $P_{0}$
 
 $$ P_{0} = 14 - 6 = 8 $$
-
 
 ## Unit Tax on Sellers - Math
 
 -   Now introduce a per unit tax $t=4$ on sellers
 
-- In equilibrium, $P_{d} = P_{s} + t$ and $Q_{d} = Q_{s} = Q_{1}$
+-   In equilibrium, $P_{s} + t = P_{c}$ and $Q_{c} = Q_{s} = Q_{1}$
 
-    - There is a wedge between what consumers pay and what producers receive
-    
+    -   There is a wedge between what consumers pay and what producers receive
 
-- Substituting in the equations for demand and supply
+-   Substituting in the equations for demand and supply
 
-$$ 14 - Q_{1} = 2 + Q_{1} + 4 $$
-$$ 14 - Q_{1} = 6 + Q_{1} \Rightarrow Q_{1} = 4 $$
-- Sub $Q_{1}$ into either equation to get $P_{d}$ or $P_{s}$
+$$ 14 - Q_{1}  = 2 + Q_{1} + 4$$ $$ 14 - Q_{1} = 6 + Q_{1} \Rightarrow Q_{1} = 4 $$
 
-$$ P_{d} = 14 - 4 = 10 $$
-$$ P_{s} = 2 + 4 = 6 $$
+-   Sub $Q_{1}$ into either equation to get $P_{c}$ or $P_{s}$
+
+$$ P_{c} = 14 - 4 = 10 $$ $$ P_{s} = 2 + 4 = 6 $$
 
 ## Unit Tax on Sellers - Math
 
-- Key things to take away when the tax is introduced
+-   Key things to take away when the tax is introduced
 
     -   Quantity falls from $Q_{0}=6$ to $Q_{1}=4$
-    -   Consumers pay $P_{d}=10$, which is $10-8=2$ more than before tax
+    -   Consumers pay $P_{c}=10$, which is $10-8=2$ more than before tax
     -   Producers receive $P_{s}=6$, which is $8-6=2$ less than before tax
     -   Economic incidence is shared equally between consumers and producers
 
--  Example is specific to when demand and supply have the same slope
+-   Example is specific to when demand and supply have the same slope
 
--  In general, economic incidence with linear demand and supply and a unit tax depends on elasticities of supply and demand
+-   In general, economic incidence with linear demand and supply and a unit tax depends on elasticities of supply and demand
 
 $$ \Delta P_{c} = P_{c} - P_{0} = \frac{\varepsilon_s}{\varepsilon_s + |\varepsilon_d|}t, \quad \Delta P_{s}= P_{0} - P_{s} = \frac{|\varepsilon_d|}{\varepsilon_s + |\varepsilon_d|}t$$
 
-- $\varepsilon_s = \frac{dQ_s}{dP_s}\frac{P}{Q}$ is elasticity of supply and $\varepsilon_d = \frac{dQ_d}{dP_c}\frac{P}{Q}$ is elasticity of demand
-
-
+-   $\varepsilon_s = \frac{dQ_s}{dP_s}\frac{P}{Q}$ is elasticity of supply and $\varepsilon_d = \frac{dQ_d}{dP_c}\frac{P}{Q}$ is elasticity of demand
 
 ## Unit Tax on Buyers - Graphical
 
-- More rarely, taxes are levied on buyers of goods and services
+-   More rarely, taxes are levied on buyers of goods and services
 
-- We can use the same graphical tools to examine this case
+-   We can use the same graphical tools to examine this case
 
-- Key lesson is that **economic incidence does not depend on whether the tax is levied on buyers or sellers**
-
+-   Key lesson is that **economic incidence does not depend on whether the tax is levied on buyers or sellers**
 
 ## Unit Tax on Buyers - Graphical
 
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-696232339.png)
+![](images/clipboard-1221067618.png)
 :::
 ::::
 
@@ -459,12 +453,234 @@ $$ \Delta P_{c} = P_{c} - P_{0} = \frac{\varepsilon_s}{\varepsilon_s + |\varepsi
     -   At each quantity, buyers want to pay $t$ less to cover the tax
 
 -   New equilibrium is where $S$ intersects $D'$
+
+    -   Determines price received by the seller
+:::
+::::::
+
+## Unit Tax on Buyers - Graphical
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1221067618.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Notice that $P_{s}$ and $P_{c}$ are the same as when the tax was levied on sellers
+
+    -   Producers receive $P_{s}$
+    -   Consumers pay $P_{c} = P_{s} + t$
+    -   Quantity falls to $Q_{1}$
+
+-   In this case, the slopes are equal so the burden is shared
+
+-   Changes in elasticities affect economic burden in the same way
+:::
+::::::
+
+## Unit Tax on Buyers - Math
+
+-   The math is exactly the same as when the tax is levied on sellers
+
+$$\text{Demand: } P_{c}=14-Q_{c},\quad \text{Supply: } P_{s}=2+Q_{s}$$
+
+-   Tax is $t=4$ on buyers
+
+-   In equilibrium, $P_{s} = P_{c} - t$ and $Q_{c} = Q_{s} = Q_{1}$
+
+-   Algebra is same as we did above, so we get the same results
+
+$$ P_{c} = 10 $$ $$ P_{s} = 6 $$
+
+## Unit Taxes - Takeaways
+
+-   Statutory incidence does not determine economic incidence
+
+-   Economic incidence depends on elasticities of supply and demand
+
+    -   More elastic demand means consumers bear less of the economic incidence
+    -   More elastic supply means producers bear less of the economic incidence
+
+-   Economic incidence does not depend on whether the tax is levied on buyers or sellers
+
+## Ad Valorem Taxes
+
+-   So far we have only considered unit taxes
+
+    -   A fixed amount per unit sold (e.g. \$0.10/litre)
+
+-   More common are **ad valorem taxes**
+
+    -   A percentage of the price (e.g. 13% HST on most goods and services)
+
+-   Ad valorem taxes create a tax wedge that increases with the price
+
+    -   Higher priced goods have a larger tax wedge
+
+-   As before
+
+    -   Economic incidence depends on elasticities of supply and demand
+    -   Economic incidence does not depend on whether the tax is levied on buyers or sellers
+
+## Ad Valorem Taxes
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-25489739.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Analysis is similar to unit tax except supply curve shifts up and becomes steeper
+
+-   If tax is levied on buyers, demand curve shifts down and becomes flatter
+
+-   Still a wedge between what consumers pay and what producers receive
+
+-   Economic burden on sellers decreases with supply elasticity
+
+-   Economic burden on buyers decreases with demand elasticity
+:::
+::::::
+
+## Unit Tax on a Monopolist
+
+-   So far we have only considered perfectly competitive markets
+-   What happens when there is only one seller in the market?
+-   A tax increases marginal cost, so the monopolist produces less
+-   Effects of the tax are potentially different from competitive markets
+    -   Quantity will fall
+
+    -   Price paid by consumers will rise
+
+    -   But, price received by the monopolist may rise or fall
+
+        -   Depends on cost structure and demand elasticity
+
+## Unit Tax on a Monopolist
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2780076427.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows pre tax equilibrium in a monopoly
+
+-   ATC curve omitted for graph clarity
+
+-   Example: market for movie tickets
+
+    -   Dominated by a couple of firms
+    -   Not strictly a monopoly but close enough
+
+-   Equilibrium is where $MR = MC$
+
+    -   Price is $P_{0}$
+    -   Quantity is $Q_{0}$
+:::
+::::::
+
+## Unit Tax on a Monopolist
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2888706365.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Government levies a per unit tax $t$ on each ticket sold
+
+-   This shifts the cost curves up by the amount of the tax
+
+    -   New marginal cost is $MC'$
+
+-   Equilibrium is where $MR = MC'$
+
+    -   Price paid by consumers is $P_{c}$
+    -   Price received by monopolist is $P_{s} = P_{c} - t$
+    -   Quantity is lower at $Q_{1}$
+
+-   Consumers bear more of the tax if
+
+    -   Demand is inelastic
+    -   Marginal cost is relatively flat
 :::
 ::::::
 
 
+# Taxes on Factor Markets in Partial Equilibrium Models
 
+## Introduction
 
+-   So far we have only considered taxes on goods and services
+
+-   Taxes can also be levied on factors of production
+
+    -   Labour
+    -   Capital
+
+-   Taxes affect prices paid for and received by those factors
+
+    -   Example: payroll taxes affect wages paid and received
+
+-   Taxes also affect quantities of factors employed
+
+-   Analysis is the same as taxes on goods and services
+
+    -   Only difference is that firms are buyers and households are sellers
+
+## Payroll Tax on Workers
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1803675622.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Suppose government levies a payroll tax $t$ on workers
+
+    -   Example: Employment Insurance (EI) premiums paid by employees
+    
+-  This shifts the supply curve of labour up by the amount of the tax
+
+    -   At each quantity, workers want to be paid $t$ more to cover the tax
+    
+- Creates wedge between what workers are paid and what they keep
+
+    -   Firms now pay $W_{f}$
+    -   Workers receive $W_{w} = W_{f} - t$
+:::
+::::::
+
+## Payroll Tax on Workers
+
+- Incidence again depends on supply and demand elasticity
+
+- A more inelastic supply curve means workers bear more of the economic incidence
+
+    -   They are less able to change work hours when wages change
+    - Makes them stuck in a job, so they bear more of the tax
+    
+- A more inelastic demand curve means firms bear more of the economic incidence
+
+    -   They are less able to substitute between labour and other inputs
+    -   Makes number of workers inflexible, so they bear more of the tax
+
+- Does not matter if tax is levied on workers or firms
+
+  - In reality payroll taxes are often levied on both
+  
+  
 # References
 
 ## References
