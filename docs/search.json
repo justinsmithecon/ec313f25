@@ -5377,7 +5377,7 @@
     "href": "slides/incidence/index.html#unit-tax-on-a-monopolist-1",
     "title": "EC313 - Taxation",
     "section": "Unit Tax on a Monopolist",
-    "text": "Unit Tax on a Monopolist\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows pre tax equilibrium in a monopoly\nExample: market for movie tickets\n\nDominated by a couple of firms\nNot strictly a monopoly but close enough\n\nEquilibrium is where \\(MR = MC\\)\n\nPrice is \\(P_{0}\\)\nQuantity is \\(Q_{0}\\)"
+    "text": "Unit Tax on a Monopolist\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows pre tax equilibrium in a monopoly\nATC curve omitted for graph clarity\nExample: market for movie tickets\n\nDominated by a couple of firms\nNot strictly a monopoly but close enough\n\nEquilibrium is where \\(MR = MC\\)\n\nPrice is \\(P_{0}\\)\nQuantity is \\(Q_{0}\\)"
   },
   {
     "objectID": "slides/incidence/index.html#unit-tax-on-a-monopolist-2",
@@ -5385,5 +5385,62 @@
     "title": "EC313 - Taxation",
     "section": "Unit Tax on a Monopolist",
     "text": "Unit Tax on a Monopolist\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGovernment levies a per unit tax \\(t\\) on each ticket sold\nThis shifts the cost curves up by the amount of the tax\n\nNew marginal cost is \\(MC'\\)\n\nEquilibrium is where \\(MR = MC'\\)\n\nPrice paid by consumers is \\(P_{c}\\)\nPrice received by monopolist is \\(P_{s} = P_{c} - t\\)\nQuantity is lower at \\(Q_{1}\\)\n\nConsumers bear more of the tax if\n\nDemand is inelastic\nMarginal cost is relatively flat"
+  },
+  {
+    "objectID": "slides/incidence/index.html#introduction-2",
+    "href": "slides/incidence/index.html#introduction-2",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nSo far we have only considered taxes on goods and services\nTaxes can also be levied on factors of production\n\nLabour\nCapital\n\nTaxes affect prices paid for and received by those factors\n\nExample: payroll taxes affect wages paid and received\n\nTaxes also affect quantities of factors employed\nAnalysis is the same as taxes on goods and services\n\nOnly difference is that firms are buyers and households are sellers"
+  },
+  {
+    "objectID": "slides/incidence/index.html#payroll-tax-on-workers",
+    "href": "slides/incidence/index.html#payroll-tax-on-workers",
+    "title": "EC313 - Taxation",
+    "section": "Payroll Tax on Workers",
+    "text": "Payroll Tax on Workers\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nSuppose government levies a payroll tax \\(t\\) on workers\n\nExample: Employment Insurance (EI) premiums paid by employees\n\nThis shifts the supply curve of labour up by the amount of the tax\n\nAt each quantity, workers want to be paid \\(t\\) more to cover the tax\n\nCreates wedge between what workers are paid and what they keep\n\nFirms now pay \\(W_{f}\\)\nWorkers receive \\(W_{w} = W_{f} - t\\)"
+  },
+  {
+    "objectID": "slides/incidence/index.html#payroll-tax-on-workers-1",
+    "href": "slides/incidence/index.html#payroll-tax-on-workers-1",
+    "title": "EC313 - Taxation",
+    "section": "Payroll Tax on Workers",
+    "text": "Payroll Tax on Workers\n\nIncidence again depends on supply and demand elasticity\nA more inelastic supply curve means workers bear more of the economic incidence\n\nThey are less able to change work hours when wages change\nMakes them stuck in a job, so they bear more of the tax\n\nA more inelastic demand curve means firms bear more of the economic incidence\n\nThey are less able to substitute between labour and other inputs\nMakes number of workers inflexible, so they bear more of the tax\n\nDoes not matter if tax is levied on workers or firms\n\nIn reality payroll taxes are often levied on both"
+  },
+  {
+    "objectID": "content/incidence.html",
+    "href": "content/incidence.html",
+    "title": "Tax Incidence",
+    "section": "",
+    "text": "RTTWS Chapter 14",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Tax Incidence"
+    ]
+  },
+  {
+    "objectID": "content/incidence.html#readings",
+    "href": "content/incidence.html#readings",
+    "title": "Tax Incidence",
+    "section": "",
+    "text": "RTTWS Chapter 14",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Tax Incidence"
+    ]
+  },
+  {
+    "objectID": "content/incidence.html#slides",
+    "href": "content/incidence.html#slides",
+    "title": "Tax Incidence",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Tax Incidence"
+    ]
   }
 ]

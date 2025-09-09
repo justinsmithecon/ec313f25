@@ -1,0 +1,27 @@
+---
+title: "Tax Incidence"
+---
+
+
+## Readings
+
+- RTTWS Chapter 14
+
+## Slides
+
+The slides are embedded in this page, and you can scroll through them with the arrow keys.  If you prefer you can instead <a href="/slides/intro/index.html" target="_blank">pop them out in a new window</a>
+
+
+<div>
+
+```{=html}
+<p align="center"><iframe width="890" height="500" class="slide-deck" src="/slides/incidence/"></iframe></p>
+```
+
+</div>
+
+
+
+
+
+
