@@ -273,7 +273,7 @@ editor: visual
 
 -   Now, taxes account for 50% of revenues
 
-    = Rest is federal transfers, sales of goods and services, fines/fees, natural resources
+    -   Rest is federal transfers, sales of goods and services, fines/fees, natural resources
 
 # Size of Government
 
@@ -468,127 +468,121 @@ ggplot(fedinterest, aes(x = date, y = val)) +
 
 ![Figure: Federal Government Revenues and Spending](images/clipboard-3460994756.jpeg){fig-align="center"}
 
-
 # Provincial Government Budgets
 
 ## Provincial Revenues
 
-- Total revenue from 2019 is about $450 billion
-  
-    - Sum across all provinces
+-   Total revenue from 2019 is about \$450 billion
 
-- 57% comes from taxes
+    -   Sum across all provinces
 
-    - Personal income tax: 25%
-    - Sales tax: 15%
-    - Corporate income tax: 8%
-    - Other taxes (payroll, property, fuel, tobacco): 9%
-    
-- 20% comes from federal transfers
+-   57% comes from taxes
 
-- 23% comes from other sources
+    -   Personal income tax: 25%
+    -   Sales tax: 15%
+    -   Corporate income tax: 8%
+    -   Other taxes (payroll, property, fuel, tobacco): 9%
 
-    - Sales of goods/services
-    - Fines and fees
-    - Crown corporations
-    
+-   20% comes from federal transfers
+
+-   23% comes from other sources
+
+    -   Sales of goods/services
+    -   Fines and fees
+    -   Crown corporations
+
 ## Provincial Expenditures
 
-- Total spending from 2019 is about $473 billion
-  
-- 92% for program expenditures 
+-   Total spending from 2019 is about \$473 billion
 
-    - Health care: 36%
-    - Other: 20%
-    - Social services: 15%
-    - Education: 13%
-    - Post-secondary: 7%
+-   92% for program expenditures
 
-- Remaining 8% is for interest on debt
+    -   Health care: 36%
+    -   Other: 20%
+    -   Social services: 15%
+    -   Education: 13%
+    -   Post-secondary: 7%
 
+-   Remaining 8% is for interest on debt
 
 # Municipal, Territorial, Indigenous Governments
 
 ## Municipal, Territorial, Indigenous Governments
 
+-   Municipal governments
 
-- Municipal governments
+    -   Rely heavily on property taxes, transfers from provincial governments
+    -   Spend mainly on local services (e.g. police, fire, roads, parks)
 
-    - Rely heavily on property taxes, transfers from provincial governments
-    - Spend mainly on local services (e.g. police, fire, roads, parks)
-    
-- Territorial governments
+-   Territorial governments
 
-    - Powers delegated by federal government
-    - Rely heavily on transfers from federal government
-    - Spend on similar things to provincial governments
+    -   Powers delegated by federal government
+    -   Rely heavily on transfers from federal government
+    -   Spend on similar things to provincial governments
 
-- Indigenous governments
+-   Indigenous governments
 
-    - Many governed by the Indian Act
-    - Increasingly self-governing
-    - Can raise some independent revenue
-    
-    
+    -   Many governed by the Indian Act
+    -   Increasingly self-governing
+    -   Can raise some independent revenue
+
 # Fiscal Transfers
 
 ## Introduction
 
-- Federal government collects half of all government revenue
+-   Federal government collects half of all government revenue
 
-    - Spends only one third
-    
-- Provinces and municipalities collect other half government revenue
+    -   Spends only one third
 
-    - Spend two thirds
-    
-- Imbalance is addressed through **fiscal transfers**
+-   Provinces and municipalities collect other half government revenue
 
-    - Federal government transfers money to provinces and municipalities
-    - Provinces also transfer money to municipalities
-    
-- Transfers can be conditional or unconditional
+    -   Spend two thirds
 
-    - Conditional: must be spent on specific programs
-    - Unconditional: can be spent on anything  
-    
-    
+-   Imbalance is addressed through **fiscal transfers**
+
+    -   Federal government transfers money to provinces and municipalities
+    -   Provinces also transfer money to municipalities
+
+-   Transfers can be conditional or unconditional
+
+    -   Conditional: must be spent on specific programs
+    -   Unconditional: can be spent on anything
+
 ## Transfers and Constitutional Responsibilities
 
-- Constitution Act outlines responsibilities of federal and provincial governments
+-   Constitution Act outlines responsibilities of federal and provincial governments
 
-- Conditional federal transfers do not violate constitution
+-   Conditional federal transfers do not violate constitution
 
+    -   Federal government not providing services directly
+    -   Provinces can choose to participate
+    -   Nevertheless controversial
 
-  - Federal government not providing services directly
-  - Provinces can choose to participate
-  - Nevertheless controversial
+-   Noteworthy unconditional grant is **equalization**
 
-- Noteworthy unconditional grant is **equalization**
+    -   Provides funds to provinces that have below average ability to raise revenue
+    -   Formula has been a matter of debate for years
 
-  - Provides funds to provinces that have below average ability to raise revenue 
-  - Formula has been a matter of debate for years
-  
-  
 # Summary
 
 ## Summary
 
-- Public economics is the study of the role of government in the economy
-- Government intervenes to correct market failures and redistribute resources
-- Governments are structured in Canada according to the Constitution Act
-- Federal government has broad taxing and spending powers
-- Provincial governments have more limited taxing powers
-- Government size can be measured in several ways, most commonly by expenditures
-- Spending has increased significantly over time, but is more stable as share of GDP
-- Sources of spending and revenues differ by level of government
-- There are significant transfers between governments
+-   Public economics is the study of the role of government in the economy
+-   Government intervenes to correct market failures and redistribute resources
+-   Governments are structured in Canada according to the Constitution Act
+-   Federal government has broad taxing and spending powers
+-   Provincial governments have more limited taxing powers
+-   Government size can be measured in several ways, most commonly by expenditures
+-   Spending has increased significantly over time, but is more stable as share of GDP
+-   Sources of spending and revenues differ by level of government
+-   There are significant transfers between governments
 
 # References
+
 ## References
 
-- Rosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.
+-   Rosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.
 
-- Gruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.
+-   Gruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.
 
-- Finances of the Nation. https://financesofthenation.ca/
+-   Finances of the Nation. https://financesofthenation.ca/
