@@ -238,7 +238,7 @@ editor: visual
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-696232339.png)
+![](images/clipboard-353564027.png)
 :::
 ::::
 
@@ -263,7 +263,7 @@ editor: visual
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-696232339.png)
+![](images/clipboard-353564027.png)
 :::
 ::::
 
@@ -272,15 +272,15 @@ editor: visual
 
     -   Difference between what consumers pay and what producers receive from a transaction
 
--   Consumers pay the equilibrium price $P_{c}'$
+-   Consumers pay the equilibrium price $P_{c}$
 
     -   Price includes the tax
 
--   Producers receive $P_{s}' = P_{c}' - t$
+-   Producers receive $P_{s} = P_{c} - t$
 
     -   They remit $t$ for every unit sold
 
--   Quantity falls to $Q'_{1}$
+-   Quantity falls to $Q_{1}$
 :::
 ::::::
 
@@ -288,8 +288,8 @@ editor: visual
 
 -   In example above, economic incidence is shared equally between consumers and producers
 
-    -   Consumers pay $P_{c}' - P_{0}$ more than before tax
-    -   Producers receive $P_{0} - P_{s}'$ less than before tax
+    -   Consumers pay $P_{c} - P_{0}$ more than before tax
+    -   Producers receive $P_{0} - P_{s}$ less than before tax
     -   These amounts are equal
 
 -   Equal economic incidence is specific to this example because supply and demand have the same slope
@@ -309,18 +309,18 @@ editor: visual
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-3798927383.png)
+![](images/clipboard-22927037.png)
 :::
 ::::
 
 ::: {.column width="50%"}
 -   Graph to the right shows a more inelastic demand curve
 
--   After tax consumers pay $P_{c}'$
+-   After tax consumers pay $P_{c}$
 
--   Producers receive $P_{s}' = P_{c}' - t$
+-   Producers receive $P_{s} = P_{c} - t$
 
--   But $P_{c}' - P_{0}$ is now larger than $P_{0} - P_{s}'$
+-   But $P_{c} - P_{0}$ is now larger than $P_{0} - P_{s}$
 
     -   Inelastic demand means consumers less able to substitute
 
@@ -333,7 +333,7 @@ editor: visual
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-4119535130.png)
+![](images/clipboard-1354431423.png)
 :::
 ::::
 
@@ -342,13 +342,13 @@ editor: visual
 
     -   Perfect inelastic demand means complete inability to substitute
 
--   After tax consumers pay $P_{c}' = P_{0} + t$
+-   After tax consumers pay $P_{c} = P_{0} + t$
 
--   Producers receive $P_{s}' = P_{c}' - t = P_{0}$
+-   Producers receive $P_{s} = P_{c} - t = P_{0}$
 
 -   No change in quantity
 
-    -   Since consumers demand $Q_{0} = Q'_{1}$ at any price
+    -   Since consumers demand $Q_{0} = Q_{1}$ at any price
 :::
 ::::::
 
@@ -357,7 +357,7 @@ editor: visual
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-951338290.png)
+![](images/clipboard-1086576723.png)
 :::
 ::::
 
@@ -388,7 +388,9 @@ $$\text{Demand: } P_{c}=14-Q_{c},\quad \text{Supply: } P_{s}=2+Q_{s}$$
 
 -   Equilibrium without tax is where $P_{s}=P_{c} = P_{0}$, $Q_{c}=Q_{s}= Q_{0}$
 
-$$ 14-Q_{0}=2+Q_{0} $$ $$ 12 = 2Q_{0} \Rightarrow Q_{0}=6 $$ - Sub $Q_{0}$ into either equation to get $P_{0}$
+$$ 14-Q_{0}=2+Q_{0} $$ $$ 12 = 2Q_{0} \Rightarrow Q_{0}=6 $$
+
+-   Sub $Q_{0}$ into either equation to get $P_{0}$
 
 $$ P_{0} = 14 - 6 = 8 $$
 
@@ -423,7 +425,7 @@ $$ P_{c} = 14 - 4 = 10 $$ $$ P_{s} = 2 + 4 = 6 $$
 
 $$ \Delta P_{c} = P_{c} - P_{0} = \frac{\varepsilon_s}{\varepsilon_s + |\varepsilon_d|}t, \quad \Delta P_{s}= P_{0} - P_{s} = \frac{|\varepsilon_d|}{\varepsilon_s + |\varepsilon_d|}t$$
 
--   $\varepsilon_s = \frac{dQ_s}{dP_s}\frac{P}{Q}$ is elasticity of supply and $\varepsilon_d = \frac{dQ_d}{dP_c}\frac{P}{Q}$ is elasticity of demand
+-   $\varepsilon_s = \frac{dQ_s}{dP_s}\frac{P}{Q}$ is elasticity of supply and $\varepsilon_d = \frac{dQ_c}{dP_c}\frac{P}{Q}$ is elasticity of demand
 
 ## Unit Tax on Buyers - Graphical
 
@@ -615,7 +617,6 @@ $$ P_{c} = 10 $$ $$ P_{s} = 6 $$
 :::
 ::::::
 
-
 # Taxes on Factor Markets in Partial Equilibrium Models
 
 ## Introduction
@@ -650,12 +651,12 @@ $$ P_{c} = 10 $$ $$ P_{s} = 6 $$
 -   Suppose government levies a payroll tax $t$ on workers
 
     -   Example: Employment Insurance (EI) premiums paid by employees
-    
--  This shifts the supply curve of labour up by the amount of the tax
+
+-   This shifts the supply curve of labour up by the amount of the tax
 
     -   At each quantity, workers want to be paid $t$ more to cover the tax
-    
-- Creates wedge between what workers are paid and what they keep
+
+-   Creates wedge between what workers are paid and what they keep
 
     -   Firms now pay $W_{f}$
     -   Workers receive $W_{w} = W_{f} - t$
@@ -664,23 +665,22 @@ $$ P_{c} = 10 $$ $$ P_{s} = 6 $$
 
 ## Payroll Tax on Workers
 
-- Incidence again depends on supply and demand elasticity
+-   Incidence again depends on supply and demand elasticity
 
-- A more inelastic supply curve means workers bear more of the economic incidence
+-   A more inelastic supply curve means workers bear more of the economic incidence
 
     -   They are less able to change work hours when wages change
-    - Makes them stuck in a job, so they bear more of the tax
-    
-- A more inelastic demand curve means firms bear more of the economic incidence
+    -   Makes them stuck in a job, so they bear more of the tax
+
+-   A more inelastic demand curve means firms bear more of the economic incidence
 
     -   They are less able to substitute between labour and other inputs
     -   Makes number of workers inflexible, so they bear more of the tax
 
-- Does not matter if tax is levied on workers or firms
+-   Does not matter if tax is levied on workers or firms
 
-  - In reality payroll taxes are often levied on both
-  
-  
+    -   In reality payroll taxes are often levied on both
+
 # References
 
 ## References
