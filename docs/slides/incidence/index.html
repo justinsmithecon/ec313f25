@@ -982,10 +982,10 @@ Fall 2025
 <ul>
 <li>Maximizing untaxed profits and taxed profits yields the same prices and quantities</li>
 </ul></li>
-<li><p>To see this, consider a monopoly (because this would be a market where economic profits happen)</p></li>
+<li><p>Consider a monopoly (because this would be a market where economic profits happen)</p></li>
 <li><p>Without taxes, maximize</p></li>
 </ul>
-<p><span class="math display">\[\Pi(q)=p(q)q-C(q)=(a-c)q-bq^2\]</span></p>
+<p><span class="math display">\[\Pi(q)=p(q)q-C(q)=(a-bq)q - cq = (a-c)q-bq^2\]</span></p>
 <ul>
 <li>Take the derivative with respect to <span class="math inline">\(q\)</span></li>
 </ul>
@@ -1040,10 +1040,13 @@ Fall 2025
 <section id="taxes-on-land-1" class="slide level2">
 <h2>Taxes on Land</h2>
 <ul>
-<li><p>If there is a tax <span class="math inline">\(t\)</span> on land, the value becomes <span class="math display">\[ P'_R = \sum_{t=0}^{T} \frac{R_t(1-u_{t})}{(1+r)^t} \]</span></p></li>
-<li><p>The difference between <span class="math inline">\(P_R\)</span> and <span class="math inline">\(P'_R\)</span> is the present value of all future tax obligations</p></li>
+<li>If there is a tax <span class="math inline">\(u_t\)</span> on land, the value becomes</li>
 </ul>
-<p><span class="math display">\[ P_R - P'_R = -\sum_{t=0}^{T} \frac{ u_{t}}{(1+r)^t} \]</span></p>
+<p><span class="math display">\[ P'_R = \sum_{t=0}^{T} \frac{R_t-u_{t}}{(1+r)^t} = \sum_{t=0}^{T} \frac{R_t}{(1+r)^t} - \sum_{t=0}^{T} \frac{u_t}{(1+r)^t}  \]</span></p>
+<ul>
+<li>The difference between <span class="math inline">\(P_R\)</span> and <span class="math inline">\(P'_R\)</span> is the present value of all future tax obligations</li>
+</ul>
+<p><span class="math display">\[ P_R' - P_R = -\sum_{t=0}^{T} \frac{ u_{t}}{(1+r)^t} \]</span></p>
 <ul>
 <li><p>When the tax is levied, the value of the land immediately drops by the tax obligation</p>
 <ul>
@@ -1096,9 +1099,9 @@ Fall 2025
 </div><div class="column" style="width:50%;">
 <ul>
 <li><p>Consider a unit tax on restaurants</p></li>
-<li><p>For simplicity, assume restaurant means have perfectly elastic demand</p>
+<li><p>For simplicity, assume restaurant meals have perfectly elastic demand</p>
 <ul>
-<li>People are very sensitive to the price and will go elsewhere if price rises</li>
+<li>People are very sensitive to the price and will cook at home if price rises</li>
 </ul></li>
 <li><p>The full burden of the tax is on the restaurants</p></li>
 <li><p>Quantity of meals falls because of the tax</p></li>
@@ -1108,7 +1111,7 @@ Fall 2025
 <section id="a-tax-on-goods-and-services-1" class="slide level2">
 <h2>A Tax on Goods and Services</h2>
 <ul>
-<li><p>But a restaurant cannot beaer taxes</p></li>
+<li><p>But a restaurant cannot bear taxes</p></li>
 <li><p>A restaurant is really a production process that combines labour and capital</p>
 <ul>
 <li>A production process cannot pay a tax</li>

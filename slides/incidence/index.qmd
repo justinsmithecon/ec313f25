@@ -727,11 +727,11 @@ $$ P_{c} = 10 $$ $$ P_{s} = 6 $$
 
     -   Maximizing untaxed profits and taxed profits yields the same prices and quantities
 
--   To see this, consider a monopoly (because this would be a market where economic profits happen)
+-   Consider a monopoly (because this would be a market where economic profits happen)
 
 -   Without taxes, maximize
 
-$$\Pi(q)=p(q)q-C(q)=(a-c)q-bq^2$$
+$$\Pi(q)=p(q)q-C(q)=(a-bq)q - cq = (a-c)q-bq^2$$
 
 -   Take the derivative with respect to $q$
 
@@ -783,11 +783,13 @@ $$ P_R = \sum_{t=0}^{T} \frac{R_t}{(1+r)^t} $$
 
 ## Taxes on Land
 
--   If there is a tax $t$ on land, the value becomes $$ P'_R = \sum_{t=0}^{T} \frac{R_t(1-u_{t})}{(1+r)^t} $$
+-   If there is a tax $u_t$ on land, the value becomes 
+
+$$ P'_R = \sum_{t=0}^{T} \frac{R_t-u_{t}}{(1+r)^t} = \sum_{t=0}^{T} \frac{R_t}{(1+r)^t} - \sum_{t=0}^{T} \frac{u_t}{(1+r)^t}  $$
 
 -   The difference between $P_R$ and $P'_R$ is the present value of all future tax obligations
 
-$$ P_R - P'_R = -\sum_{t=0}^{T} \frac{ u_{t}}{(1+r)^t} $$
+$$ P_R' - P_R = -\sum_{t=0}^{T} \frac{ u_{t}}{(1+r)^t} $$
 
 -   When the tax is levied, the value of the land immediately drops by the tax obligation
 
@@ -827,9 +829,9 @@ $$ P_R - P'_R = -\sum_{t=0}^{T} \frac{ u_{t}}{(1+r)^t} $$
 ::: {.column width="50%"}
 -   Consider a unit tax on restaurants
 
--   For simplicity, assume restaurant means have perfectly elastic demand
+-   For simplicity, assume restaurant meals have perfectly elastic demand
 
-    -   People are very sensitive to the price and will go elsewhere if price rises
+    -   People are very sensitive to the price and will cook at home if price rises
 
 -   The full burden of the tax is on the restaurants
 
@@ -839,7 +841,7 @@ $$ P_R - P'_R = -\sum_{t=0}^{T} \frac{ u_{t}}{(1+r)^t} $$
 
 ## A Tax on Goods and Services
 
--   But a restaurant cannot beaer taxes
+-   But a restaurant cannot bear taxes
 
 -   A restaurant is really a production process that combines labour and capital
 

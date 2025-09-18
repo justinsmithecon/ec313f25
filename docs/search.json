@@ -751,7 +751,7 @@
     "href": "slides/incidence/index.html#taxes-on-profits-and-land",
     "title": "EC313 - Taxation",
     "section": "Taxes on Profits and Land",
-    "text": "Taxes on Profits and Land\n\nGovernments can also levy taxes on economic profits\n\nEconomic profits: profits above a normal rate of return\n\nThese types of taxes are borne entirely by firms\n\nMaximizing untaxed profits and taxed profits yields the same prices and quantities\n\nTo see this, consider a monopoly (because this would be a market where economic profits happen)\nWithout taxes, maximize\n\n\\[\\Pi(q)=p(q)q-C(q)=(a-c)q-bq^2\\]\n\nTake the derivative with respect to \\(q\\)\n\n\\[(a-c)-2bq=0\\]"
+    "text": "Taxes on Profits and Land\n\nGovernments can also levy taxes on economic profits\n\nEconomic profits: profits above a normal rate of return\n\nThese types of taxes are borne entirely by firms\n\nMaximizing untaxed profits and taxed profits yields the same prices and quantities\n\nConsider a monopoly (because this would be a market where economic profits happen)\nWithout taxes, maximize\n\n\\[\\Pi(q)=p(q)q-C(q)=(a-bq)q - cq = (a-c)q-bq^2\\]\n\nTake the derivative with respect to \\(q\\)\n\n\\[(a-c)-2bq=0\\]"
   },
   {
     "objectID": "slides/incidence/index.html#taxes-on-profits-and-land-1",
@@ -779,7 +779,7 @@
     "href": "slides/incidence/index.html#taxes-on-land-1",
     "title": "EC313 - Taxation",
     "section": "Taxes on Land",
-    "text": "Taxes on Land\n\nIf there is a tax \\(t\\) on land, the value becomes \\[ P'_R = \\sum_{t=0}^{T} \\frac{R_t(1-u_{t})}{(1+r)^t} \\]\nThe difference between \\(P_R\\) and \\(P'_R\\) is the present value of all future tax obligations\n\n\\[ P_R - P'_R = -\\sum_{t=0}^{T} \\frac{ u_{t}}{(1+r)^t} \\]\n\nWhen the tax is levied, the value of the land immediately drops by the tax obligation\n\nSo it is borne by the current owner"
+    "text": "Taxes on Land\n\nIf there is a tax \\(u_t\\) on land, the value becomes\n\n\\[ P'_R = \\sum_{t=0}^{T} \\frac{R_t-u_{t}}{(1+r)^t} = \\sum_{t=0}^{T} \\frac{R_t}{(1+r)^t} - \\sum_{t=0}^{T} \\frac{u_t}{(1+r)^t}  \\]\n\nThe difference between \\(P_R\\) and \\(P'_R\\) is the present value of all future tax obligations\n\n\\[ P_R' - P_R = -\\sum_{t=0}^{T} \\frac{ u_{t}}{(1+r)^t} \\]\n\nWhen the tax is levied, the value of the land immediately drops by the tax obligation\n\nSo it is borne by the current owner"
   },
   {
     "objectID": "slides/incidence/index.html#introduction-3",
@@ -793,14 +793,14 @@
     "href": "slides/incidence/index.html#a-tax-on-goods-and-services",
     "title": "EC313 - Taxation",
     "section": "A Tax on Goods and Services",
-    "text": "A Tax on Goods and Services\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nConsider a unit tax on restaurants\nFor simplicity, assume restaurant means have perfectly elastic demand\n\nPeople are very sensitive to the price and will go elsewhere if price rises\n\nThe full burden of the tax is on the restaurants\nQuantity of meals falls because of the tax"
+    "text": "A Tax on Goods and Services\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nConsider a unit tax on restaurants\nFor simplicity, assume restaurant meals have perfectly elastic demand\n\nPeople are very sensitive to the price and will cook at home if price rises\n\nThe full burden of the tax is on the restaurants\nQuantity of meals falls because of the tax"
   },
   {
     "objectID": "slides/incidence/index.html#a-tax-on-goods-and-services-1",
     "href": "slides/incidence/index.html#a-tax-on-goods-and-services-1",
     "title": "EC313 - Taxation",
     "section": "A Tax on Goods and Services",
-    "text": "A Tax on Goods and Services\n\nBut a restaurant cannot beaer taxes\nA restaurant is really a production process that combines labour and capital\n\nA production process cannot pay a tax\n\nIt is ultimately the workers and owners of capital that pay the tax\nThe tax on meals will filter down to the labour and capital markets\n\nWorkers will get paid less\nOwners of capital will earn less"
+    "text": "A Tax on Goods and Services\n\nBut a restaurant cannot bear taxes\nA restaurant is really a production process that combines labour and capital\n\nA production process cannot pay a tax\n\nIt is ultimately the workers and owners of capital that pay the tax\nThe tax on meals will filter down to the labour and capital markets\n\nWorkers will get paid less\nOwners of capital will earn less"
   },
   {
     "objectID": "slides/incidence/index.html#a-tax-on-goods-and-services-2",
