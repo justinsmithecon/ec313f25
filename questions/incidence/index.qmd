@@ -1,0 +1,47 @@
+---
+format: 
+  revealjs:
+    theme: [default, hygge.scss]
+    center-title-slide: false
+    slide-number: true
+    height: 900
+    width: 1600
+    chalkboard:
+      theme: whiteboard
+      src: drawings.json
+    post-render: "scripts/decktape.sh"
+editor: visual
+---
+
+<h1>Tax Incidence In-Class Questions</h1>
+
+<hr>
+
+<h2>EC313- Public Economics: Taxation</h2>
+
+<h2>Justin Smith</h2>
+
+<h2>Wilfrid Laurier University</h2>
+
+<h2>Fall 2025</h2>
+
+![](/files/img/hexEC313.png){.absolute top="300" left="900" width="550"}
+
+## RTTWS Chapter 14 Problem 4
+
+In the province of Alberta, the tax on hotel rooms is 5 percent. Supporters of this tax argue that the tax benefits the province because its payers are largely out-of-province tourists. Use the theory of tax incidence to analyze this claim.
+
+## RTTWS Chapter 14 Problem 6
+
+Internet purchases are thought to be highly sensitive to tax rates, and applying sales taxes to all such purchases substantially reduces the number of online buyers and the amount of online spending. What are the implications for the incidence of sales taxes that include internet sales?
+
+## RTTWS Chapter 14 Problem 7
+
+Suppose that the demand for cigarettes in a hypothetical country is given by $Q_{c} = 2000-200P_{c}, where $Q_{c}$ is the quantity of packs demanded and $P_{c}$ is the price per pack. The supply of cigarettes is $Q_{s} = 200P_{s}$.
+
+a) find the price and quantity of cigarettes assuming the market is competitive
+
+
+## RTTWS Chapter 14 Problem 7
+
+b) In an effort to reduce smoking, the government levies a tax of $2 per pack.  Compute the quantity of cigarettes after the tax, the price paid by consumers, and the price received by producers.How much revenue does the tax raise for the government?  How much revenue comes from consumers and how much from producers?

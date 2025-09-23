@@ -1,0 +1,345 @@
+---
+format: 
+  revealjs:
+    theme: [default, hygge.scss]
+    css: captions.css
+    center-title-slide: false
+    slide-number: true
+    height: 900
+    width: 1600
+    chalkboard:
+      theme: whiteboard
+      src: drawings.json
+editor: visual
+---
+
+<h1>Taxation and Efficiency</h1>
+
+<hr>
+
+<h2>EC313 - Public Economics: Taxation</h2>
+
+<h2>Justin Smith</h2>
+
+<h2>Wilfrid Laurier University</h2>
+
+<h2>Fall 2025</h2>
+
+![](/files/img/hexEC313.png){.absolute top="300" left="900" width="550"}
+
+# Goals of This Section
+
+## Goals of This Section
+
+-   Outline different types of taxes
+
+-   Discuss different between statutory and economic incidence of a tax
+
+-   Show how tax incidence depends on elasticities of supply and demand
+
+-   Expand on tax incidence in various markets
+
+# Excess Burden of a Tax with Indifference Curves
+
+## Introduction
+
+-   Governments levy taxes mainly to raise revenue to fund public goods and services
+
+-   Taxes can impose different types of costs on consumers
+
+    -   The direct cost of sending money to the government
+
+    -   Taxes can distort behaviour because of changes in prices
+
+        -   Without taxes consumers make choices about consumption
+        -   Taxes force them to substitute away from the taxed good and make sub-optimal choices
+
+-   Ideally a tax imposes the least possible cost in order to raise revenue
+
+    -   When the costs are larger, we say there is an excess burden
+
+## Ad Valorem Tax on Consumers
+
+- Below we will see what happens when an ad valorem tax is imposed on one good
+
+    -   An ad valorem tax is a percentage tax on the price of a good
+
+    -   For example, a 10% sales tax on a \$1 item means the consumer pays \$1.10
+    
+- We will use indifference curves and budget constraints to analyze the effects of the tax
+
+- We will then compare to a lump-sum tax
+
+- Lesson is that ad valorem taxes that distort behaviour create excess burden
+
+- Lump-sum taxes that do not distort behaviour do not create excess burden
+
+- Difference due to the distortionary effect of changing relative prices with ad valorem taxes
+ 
+
+## Ad Valorem Tax on Consumers
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2797672077.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows consumption decision for barley and corn
+
+-   Initially prices are $P_{B}$ and $P_{C}$
+
+-   Budget constraint is $I = P_{B}B + P_{C}C$
+
+-   To plot budget constraint, put $C$ on left side
+
+$$C = \frac{I}{P_{C}} - \frac{P_{B}}{P_{C}}B$$
+
+-   Slope of budget constraint is $-\frac{P_{B}}{P_{C}}$
+
+-   Intercepts are $\frac{I}{P_{C}}$ and $\frac{I}{P_{B}}$
+
+-   Optimal consumption bundle is $B_1$ and $C_1$
+:::
+::::::
+
+## Ad Valorem Tax on Consumers
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2797672077.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   An ad valorem tax of $t$ on barley is imposed
+
+-   Price of barley rises to $P_{B}(1+t)$
+
+-   New budget constraint is $I = P_{B}(1+t)B + P_{C}C$
+
+-   Rearranging gives
+
+$$C = \frac{I}{P_{C}} - \frac{P_{B}(1+t)}{P_{C}}B$$
+
+-   Slope of new budget constraint is $-\frac{P_{B}(1+t)}{P_{C}}$
+
+-   Intercepts are $\frac{I}{P_{C}}$ and $\frac{I}{P_{B}(1+t)}$
+
+-   New optimal bundle is $B_2$ and $C_2$
+:::
+::::::
+
+## Ad Valorem Tax on Consumers
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-3070227177.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Vertical distance between budget lines is tax collected
+
+-   On the old budget line if consumer buys $B_2$ barley, corn consumption is
+
+$$C^{'} = \frac{I}{P_{C}} - \frac{P_{B}}{P_{C}}B_2$$
+
+-   On the new budget line if consumer buys $B_2$ barley, corn consumption is
+
+$$C_{2} = \frac{I}{P_{C}} - \frac{P_{B}(1+t)}{P_{C}}B_2$$
+:::
+::::::
+
+## Ad Valorem Tax on Consumers
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-3070227177.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Difference is
+
+$$C^{'} - C_{2} = \frac{P_{B}t}{P_{C}}B_2$$
+
+-   Measures reduction in corn consumption due to tax
+
+-   To measure in dollar terms
+
+$$P_{C}(C^{'} - C_{2}) = tP_{B}B_2$$
+
+-   This is the tax rate times the value of barley consumed
+:::
+::::::
+
+## Equivalent Variation
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1469993801.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   As a comparison, consider leaving prices unchanged and reducing income to reach the same utility as we got with the tax
+
+    -   This income reduction is the **equivalent variation**
+
+-   Shift the original budget line parallel in until it is tangent to the new indifference curve
+
+-   Distance between the original and new budget lines is the equivalent variation
+:::
+::::::
+
+## Excess Burden
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2704386550.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   The **excess burden** of a tax is the loss in welfare beyond the tax revenue collected
+
+-   In the graph it is the difference between the equivalent variation and the tax revenue collected
+
+    -   Equivalent variation measures loss in welfare
+        -   Distance in green
+    -   Tax revenue is money collected by government
+        -   Distance between black and red budget lines
+
+-   In this case, equivalent variation is larger than tax revenue
+
+    -   So there is a positive excess burden (in purple)
+:::
+::::::
+
+## Excess Burden
+
+-   An ad valorem tax on one good creates two effects
+
+    1.  Income effect: consumer is poorer, so consumes less of all normal goods
+
+    2.  Substitution effect: relative price of taxed good rises, so consumer substitutes away from taxed good
+
+-   Excess burden arises because of the substitution effect
+
+    -   Consumer substitutes away from taxed good to other goods
+
+    -   This leads to a loss in welfare beyond the tax revenue collected
+
+-   One way to see this is to compare an ad valorem tax to a lump-sum tax
+
+    -   Lump-sum tax only has income effect, no substitution effect
+
+    -   So no excess burden
+
+# Lump Sum Tax
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-3139704552.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   A lump-sum tax $T$ is imposed
+
+-   New budget constraint is $I -T = P_{B}(1+t)B + P_{C}C$
+
+-   Rearranging gives
+
+$$C = \frac{I-T}{P_{C}} - \frac{P_{B}(1+t)}{P_{C}}B$$
+
+-   Budget line shifts down in parallel by $T$
+
+    -   Prices do not change, so slope does not either
+
+-   New optimal bundle is $B_3$ and $C_3$
+:::
+::::::
+
+# Lump Sum Tax
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1570277999.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Tax revenue is $T$
+
+    -   Does not depend on how much of each good is consumed
+
+-   Equivalent variation is also $T$
+
+    -   Distance between original and new budget lines is $T$
+
+-   So there is no excess burden
+
+    -   Welfare loss equals tax revenue collected
+
+-   Arises because a lump sum tax is a pure income effect
+
+    -   No substitution effect, so no excess burden
+:::
+::::::
+
+
+# Challenges with Excess Burden
+
+## Efficiency
+
+- If lump sum taxes do not create excess burden, why not use them?
+
+- Often they are unattractive politically
+
+    - A fixed tax on everyone is viewed as unfair
+    
+    - It is also regressive
+
+- There are few examples in the world
+
+  - UK had a poll (head) tax in the late 80s that was unpopular
+  - Some municipal government charge fixed fees for licenses/permits
+  
+- So governments widely use distortionary taxes instead
+
+## Income taxes
+
+- Income taxes can also involve excess burdens
+
+- Income taxes distort labour supply decisions
+
+    -   Higher tax rates reduce the after-tax wage
+
+    -   This causes people to substitute away from labour towards leisure
+    
+    -   This is a substitution effect that creates excess burden
+    
+- Like with goods, income taxes change relative prices, and therefore behaviour
+
+-   Changes the price of leisure relative to consumption
+
+# References
+
+## References
+
+-   Rosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.
+
+-   Gruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.
+
+

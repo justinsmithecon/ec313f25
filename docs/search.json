@@ -343,6 +343,216 @@
     "text": "Payroll Tax on Workers\n\nIncidence again depends on supply and demand elasticity\nA more inelastic supply curve means workers bear more of the economic incidence\n\nThey are less able to change work hours when wages change\nMakes them stuck in a job, so they bear more of the tax\n\nA more inelastic demand curve means firms bear more of the economic incidence\n\nThey are less able to substitute between labour and other inputs\nMakes number of workers inflexible, so they bear more of the tax\n\nDoes not matter if tax is levied on workers or firms\n\nIn reality payroll taxes are often levied on both"
   },
   {
+    "objectID": "slides/incidence/index.html#capital-taxation",
+    "href": "slides/incidence/index.html#capital-taxation",
+    "title": "EC313 - Taxation",
+    "section": "Capital Taxation",
+    "text": "Capital Taxation\n\nLabour is not the only input into production\nCapital is also used\n\nFor this analysis, think of capital as the money used to finance machines, factories, etc\n\nCapital owners earn a return on investments, and that can be taxed\nThe analysis of taxing capital is the same as for labour\n\nExcept that the rate of return (\\(r\\)) is the price\nTotal investment (dollars) is the quantity\nFirms are the buyers, people with money are the suppliers"
+  },
+  {
+    "objectID": "slides/incidence/index.html#capital-taxation-1",
+    "href": "slides/incidence/index.html#capital-taxation-1",
+    "title": "EC313 - Taxation",
+    "section": "Capital Taxation",
+    "text": "Capital Taxation\n\nA key consideration in the analysis is capital mobility across countries\n\nThe ease with which people can move money and invest around the globe\n\nIf capital is perfectly mobile, the buyers of capital bear the entire burden\n\nPerfect mobility means a perfectly elastic supply curve\nThe price is set at the global rate of return\nWhen supply is perfectly elastic, buyers bear the whole tax burden\n\nIn reality, capital is mobile but not perfectly\n\nBuyers and sellers are likely to bear some of the burden of capital taxation"
+  },
+  {
+    "objectID": "slides/incidence/index.html#taxes-on-profits-and-land",
+    "href": "slides/incidence/index.html#taxes-on-profits-and-land",
+    "title": "EC313 - Taxation",
+    "section": "Taxes on Profits and Land",
+    "text": "Taxes on Profits and Land\n\nGovernments can also levy taxes on economic profits\n\nEconomic profits: profits above a normal rate of return\n\nThese types of taxes are borne entirely by firms\n\nMaximizing untaxed profits and taxed profits yields the same prices and quantities\n\nConsider a monopoly (because this would be a market where economic profits happen)\nWithout taxes, maximize\n\n\\[\\Pi(q)=p(q)q-C(q)=(a-bq)q - cq = (a-c)q-bq^2\\]\n\nTake the derivative with respect to \\(q\\)\n\n\\[(a-c)-2bq=0\\]"
+  },
+  {
+    "objectID": "slides/incidence/index.html#taxes-on-profits-and-land-1",
+    "href": "slides/incidence/index.html#taxes-on-profits-and-land-1",
+    "title": "EC313 - Taxation",
+    "section": "Taxes on Profits and Land",
+    "text": "Taxes on Profits and Land\n\nSolve for \\(q\\) to get the profit maximizing quantity\n\n\\[ q^*=\\frac{a-c}{2b}\\]\n\nPrice is then\n\n\\[ p^*=a-bq^*=\\frac{a+c}{2} \\]\n\nWith taxes, maximize\n\n\\[(1-t)\\Pi(q)=(1-t)(p(q)q-C(q))=(1-t)((a-c)q-bq^2)\\]"
+  },
+  {
+    "objectID": "slides/incidence/index.html#taxes-on-profits-and-land-2",
+    "href": "slides/incidence/index.html#taxes-on-profits-and-land-2",
+    "title": "EC313 - Taxation",
+    "section": "Taxes on Profits and Land",
+    "text": "Taxes on Profits and Land\n\nTake the derivative with respect to \\(q\\)\n\n\\[(1-t)((a-c)-2bq)=0\\]\n\nWhich leads to the same prices and quantities\nMeans that the economic incidence of profit taxes is entirely on firms\n\nProfits go from \\(\\Pi(q^*)\\) to \\((1-t)\\Pi(q^*)\\)\n\nProblem with these taxes is that they are hard to implement in practice"
+  },
+  {
+    "objectID": "slides/incidence/index.html#taxes-on-land",
+    "href": "slides/incidence/index.html#taxes-on-land",
+    "title": "EC313 - Taxation",
+    "section": "Taxes on Land",
+    "text": "Taxes on Land\n\nHistorically there were taxes on only land\n\nAs opposed to modern property taxes that also tax buildings\n\nWhen land is taxed the incidence is entirely on current owners\n\nThe value of the land drops by the amount of the current and future tax obligations\n\nCan see this by looking at the value for a piece of land\nWithout taxes, the value of land is the present value of future rents\n\n\\[ P_R = \\sum_{t=0}^{T} \\frac{R_t}{(1+r)^t} \\]"
+  },
+  {
+    "objectID": "slides/incidence/index.html#taxes-on-land-1",
+    "href": "slides/incidence/index.html#taxes-on-land-1",
+    "title": "EC313 - Taxation",
+    "section": "Taxes on Land",
+    "text": "Taxes on Land\n\nIf there is a tax \\(u_t\\) on land, the value becomes\n\n\\[ P'_R = \\sum_{t=0}^{T} \\frac{R_t-u_{t}}{(1+r)^t} = \\sum_{t=0}^{T} \\frac{R_t}{(1+r)^t} - \\sum_{t=0}^{T} \\frac{u_t}{(1+r)^t}  \\]\n\nThe difference between \\(P_R\\) and \\(P'_R\\) is the present value of all future tax obligations\n\n\\[ P_R' - P_R = -\\sum_{t=0}^{T} \\frac{ u_{t}}{(1+r)^t} \\]\n\nWhen the tax is levied, the value of the land immediately drops by the tax obligation\n\nSo it is borne by the current owner"
+  },
+  {
+    "objectID": "slides/incidence/index.html#introduction-3",
+    "href": "slides/incidence/index.html#introduction-3",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nSo far we have only considered partial equilibrium models\n\nOne market at a time\n\nIt is informative, but incomplete\nIn reality, markets are interconnected\n\nA tax in one market can affect other markets\nExample: a tax on goods can affect labour market\n\nIf people buy less, firms produce less\nFirms hire fewer workers\nLabour market is affected\n\n\nGeneral equilibrium models consider all markets simultaneously"
+  },
+  {
+    "objectID": "slides/incidence/index.html#a-tax-on-goods-and-services",
+    "href": "slides/incidence/index.html#a-tax-on-goods-and-services",
+    "title": "EC313 - Taxation",
+    "section": "A Tax on Goods and Services",
+    "text": "A Tax on Goods and Services\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nConsider a unit tax on restaurants\nFor simplicity, assume restaurant meals have perfectly elastic demand\n\nPeople are very sensitive to the price and will cook at home if price rises\n\nThe full burden of the tax is on the restaurants\nQuantity of meals falls because of the tax"
+  },
+  {
+    "objectID": "slides/incidence/index.html#a-tax-on-goods-and-services-1",
+    "href": "slides/incidence/index.html#a-tax-on-goods-and-services-1",
+    "title": "EC313 - Taxation",
+    "section": "A Tax on Goods and Services",
+    "text": "A Tax on Goods and Services\n\nBut a restaurant cannot bear taxes\nA restaurant is really a production process that combines labour and capital\n\nA production process cannot pay a tax\n\nIt is ultimately the workers and owners of capital that pay the tax\nThe tax on meals will filter down to the labour and capital markets\n\nWorkers will get paid less\nOwners of capital will earn less"
+  },
+  {
+    "objectID": "slides/incidence/index.html#a-tax-on-goods-and-services-2",
+    "href": "slides/incidence/index.html#a-tax-on-goods-and-services-2",
+    "title": "EC313 - Taxation",
+    "section": "A Tax on Goods and Services",
+    "text": "A Tax on Goods and Services\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nConsider the labour market for restaurant workers\nThe tax on meals shifts the demand for restaurant workers to the left\n\nLabour demand is derived partly from the demand for meals\nLess demand for meals means less demand for workers\n\nThe equilibrium wage falls and workers are paid less\nPart of the burden falls on workers in the form of lower wages"
+  },
+  {
+    "objectID": "slides/incidence/index.html#a-tax-on-goods-and-services-3",
+    "href": "slides/incidence/index.html#a-tax-on-goods-and-services-3",
+    "title": "EC313 - Taxation",
+    "section": "A Tax on Goods and Services",
+    "text": "A Tax on Goods and Services\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nSimilar things happen in the capital market\nThe tax on meals shifts the demand for capital to the left\n\nLess demand for meals means less demand for capital\n\nThe equilibrium return to capital falls and owners are paid less\nPart of the burden falls on owners of capital in the form of lower returns"
+  },
+  {
+    "objectID": "slides/incidence/index.html#a-tax-on-goods-and-services-4",
+    "href": "slides/incidence/index.html#a-tax-on-goods-and-services-4",
+    "title": "EC313 - Taxation",
+    "section": "A Tax on Goods and Services",
+    "text": "A Tax on Goods and Services\n\nThe degree to which workers and owners of capital bear the burden depends on elasticities\n\nMore elastic labour supply means workers bear less of the burden\nMore elastic capital supply means owners of capital bear less of the burden\n\nIn our example, we assumed perfectly elastic demand for meals\n\nThis meant that restaurants bore the entire burden of the tax\n\nIf consumer demand were less elastic\n\nConsumers would bear some of the burden\nWould affect other goods they consume\n\nIncrease consumption of substitutes\nDecrease consumption of complements\nDecrease consumption of all goods via an income effect"
+  },
+  {
+    "objectID": "slides/incidence/index.html#a-tax-on-goods-and-services-5",
+    "href": "slides/incidence/index.html#a-tax-on-goods-and-services-5",
+    "title": "EC313 - Taxation",
+    "section": "A Tax on Goods and Services",
+    "text": "A Tax on Goods and Services\n\nGeneral equilibrium analysis can get very complicated\n\nMany interconnected markets\nChanges in one market affect many others\n\nCan affect markets vertically and horizontally\n\nVertically: factors of production\nHorizontally: related goods (e.g. tax on coffee affects tea market)\n\nMain lesson is still the same: statutory incidence does not determine economic incidence"
+  },
+  {
+    "objectID": "slides/incidence/index.html#tax-equivalencies",
+    "href": "slides/incidence/index.html#tax-equivalencies",
+    "title": "EC313 - Taxation",
+    "section": "Tax Equivalencies",
+    "text": "Tax Equivalencies\n\nIn general equilibrium, different types of taxes can have the same economic incidence\n\nExample: a tax on labour income and a tax on consumption can have the same economic incidence\n\nA policy maker would have options when it comes to which tax to levy\nConsider an economy with\n\nTwo commodities, food (\\(F\\)) and manufacturing (\\(M\\))\nTwo factors of production, labour (\\(L\\)) and capital (\\(K\\))"
+  },
+  {
+    "objectID": "slides/incidence/index.html#tax-equivalencies-1",
+    "href": "slides/incidence/index.html#tax-equivalencies-1",
+    "title": "EC313 - Taxation",
+    "section": "Tax Equivalencies",
+    "text": "Tax Equivalencies\n\nA government could levy nine different types of taxes\n\nFood: tax on capital (\\(t_{KF}\\)), tax on labour (\\(t_{LF}\\)), tax on consumption (\\(t_F\\))\nManufacturing: tax on capital (\\(t_{KM}\\)), tax on labour (\\(t_{LM}\\)), tax on consumption (\\(t_M\\))\nBoth: tax on capital (\\(t_K\\)), tax on labour (\\(t_L\\))\nAn income tax (\\(t\\))\n\nTaxes levied on factors of production in one sector are Partial Factor Taxes\n\nIn this case \\(t_{KF}\\), \\(t_{LF}\\), \\(t_{KM}\\), \\(t_{LM}\\)\n\nCombinations of these taxes can be equivalent to other taxes"
+  },
+  {
+    "objectID": "slides/incidence/index.html#tax-equivalencies-2",
+    "href": "slides/incidence/index.html#tax-equivalencies-2",
+    "title": "EC313 - Taxation",
+    "section": "Tax Equivalencies",
+    "text": "Tax Equivalencies\n\nList of Equivalent Taxes"
+  },
+  {
+    "objectID": "slides/incidence/index.html#harberger-model",
+    "href": "slides/incidence/index.html#harberger-model",
+    "title": "EC313 - Taxation",
+    "section": "Harberger Model",
+    "text": "Harberger Model\n\nArnold Harberger studied tax incidence in general equilibrium\nBasics of his model\n\nTechnology\n\nCapital and labour used in production\nConstant returns to scale\nEase of substitution between capital and labour different between sectors\n\nFactor suppliers\n\nCapital and labour perfectly mobile\nReturns to both are the same in both sectors\n\nMarket structure is perfecly competitive\nFactors are in fixed supply\nConsumers are all the same"
+  },
+  {
+    "objectID": "slides/incidence/index.html#harberger-model-1",
+    "href": "slides/incidence/index.html#harberger-model-1",
+    "title": "EC313 - Taxation",
+    "section": "Harberger Model",
+    "text": "Harberger Model\n\nSuppose a tax on food (\\(t_F\\)) is introduced\n\nPrice of food rises\nConsumers buy less food, more manufacturing\nDemand for labour and capital in food sector falls\nAs labour and capital move to manufacturing, their returns fall\n\nStrength of these effects depend on elasticities\n\nIf food elasticity is high, consumers shift more to manufacturing\n\nReturns to labour and capital fall more for manufacturing to induce movement"
+  },
+  {
+    "objectID": "slides/incidence/index.html#harberger-model-2",
+    "href": "slides/incidence/index.html#harberger-model-2",
+    "title": "EC313 - Taxation",
+    "section": "Harberger Model",
+    "text": "Harberger Model\n\nSuppose an income tax (\\(t\\)) is introduced\n\nUse equivalencies table\nIncome tax is equivalent to a combination of taxes on capital and labour\nBoth are in fixed supply (perfectly inelastic) so they bear the whole burden\n\nA tax on labour (\\(t_L\\)) is introduced\n\nTax on labour in both sectors\nLabour supply is perfectly inelastic so it bears the whole burden\nNo incentive to switch between sectors"
+  },
+  {
+    "objectID": "slides/incidence/index.html#harberger-model-3",
+    "href": "slides/incidence/index.html#harberger-model-3",
+    "title": "EC313 - Taxation",
+    "section": "Harberger Model",
+    "text": "Harberger Model\n\nFinally, a partial factor tax on capital in manufacturing (\\(t_{KM}\\))\n\nPrice of manufacturing rises\n\nUse less capital and labour\nAs capital and labour leave, changes in their relative prices depend on how much is used\n\nProducers of manufactured goods use less capital and more labour\n\nDemand for capital falls, and so does relative price\n\nCannot tell what the ultimate effect is on capital prices\n\nBut labour price rises"
+  },
+  {
+    "objectID": "slides/incidence/index.html#summary",
+    "href": "slides/incidence/index.html#summary",
+    "title": "EC313 - Taxation",
+    "section": "Summary",
+    "text": "Summary\n\nTax incidence is not necessarily contained to the market where the tax is levied\nIn general equilibrium, taxes can have far reaching effects\n\nBoth vertically and horizontally\n\nA full analysis requires consideration of all markets simultaneously\nThe key points to remember are\n\nStatutory incidence does not determine economic incidence\nEconomic incidence depends on ability to substitute and avoid the tax"
+  },
+  {
+    "objectID": "slides/incidence/index.html#introduction-4",
+    "href": "slides/incidence/index.html#introduction-4",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nWe have gone through the theory of tax incidence\nUsing data we can see who bears the burden of various taxes\nCould do this with tax data\n\nStatistics Canada maintains the Longitudinal Administrative Databank (LAD)\nNot easy to use because it is confidential microdata\n\nCan also use data from the SPSDM simulator\n\nProgram maintained by Statistics Canada\nSnapshot of the Canadian tax and transfer system at a point in time"
+  },
+  {
+    "objectID": "slides/incidence/index.html#partial-equilibrium",
+    "href": "slides/incidence/index.html#partial-equilibrium",
+    "title": "EC313 - Taxation",
+    "section": "Partial Equilibrium",
+    "text": "Partial Equilibrium\n\nAverage Tax Rates in Canada"
+  },
+  {
+    "objectID": "slides/incidence/index.html#partial-equilibrium-1",
+    "href": "slides/incidence/index.html#partial-equilibrium-1",
+    "title": "EC313 - Taxation",
+    "section": "Partial Equilibrium",
+    "text": "Partial Equilibrium\n\nAverage Tax Rates by Source"
+  },
+  {
+    "objectID": "slides/incidence/index.html#partial-equilibrium-2",
+    "href": "slides/incidence/index.html#partial-equilibrium-2",
+    "title": "EC313 - Taxation",
+    "section": "Partial Equilibrium",
+    "text": "Partial Equilibrium\n\nAverage Tax Rates by Level of Government"
+  },
+  {
+    "objectID": "slides/incidence/index.html#partial-equilibrium-3",
+    "href": "slides/incidence/index.html#partial-equilibrium-3",
+    "title": "EC313 - Taxation",
+    "section": "Partial Equilibrium",
+    "text": "Partial Equilibrium\n\nCanada maintains a progressive personal income tax system\n\nSo tax rates rise with income\n\nCommodity and property taxes are on their own regressive\n\nA regressive tax is one where tax rates fall with income\nTax credits help offset the regressivity of these taxes (e.g. HST credit)\n\nPayroll taxes are initially progressive but turn regressive\nFederal taxes are more progressive than provincial taxes\n\nFederal taxes mainly come from personal income taxes\nProvincial taxes contain more commodity and property taxes"
+  },
+  {
+    "objectID": "slides/incidence/index.html#partial-equilibrium-4",
+    "href": "slides/incidence/index.html#partial-equilibrium-4",
+    "title": "EC313 - Taxation",
+    "section": "Partial Equilibrium",
+    "text": "Partial Equilibrium\n\nProgressivity in these graphs is based on annual income\n\nLifetime income might be more appropriate if people consume based on lifetime resources\n\nRedoing the graphs with lifetime income reduces regressivity"
+  },
+  {
+    "objectID": "slides/incidence/index.html#general-equilibrium-1",
+    "href": "slides/incidence/index.html#general-equilibrium-1",
+    "title": "EC313 - Taxation",
+    "section": "General Equilibrium",
+    "text": "General Equilibrium\n\nEvidence on the general equilibrium incidence of taxes is more limited\n\nAnalysis is more difficult\n\nCanadian researchers have looked at the tax incidence of the carbon tax in BC\n\nUse a Computable General Equilibrium (CGE) model\nA fancy model with many equations you need a computer to solve\n\nFind that a carbon tax\n\nLowers wages relative to capital income because labour is supply is inelastic\nLabour bears more of the burden than capital\nTax is progressive because wages are a higher share of income for higher income households"
+  },
+  {
+    "objectID": "slides/incidence/index.html#summary-2",
+    "href": "slides/incidence/index.html#summary-2",
+    "title": "EC313 - Taxation",
+    "section": "Summary",
+    "text": "Summary\n\nTaxes are levied across the economy for various reasons\nWho “pays” the tax is determined by economic incidence and is complicated\n\nDepends on ability to avoid the tax in both partial and general equilibrium\nCan be spread widely in a general equilibrium setting\n\nStatutory incidence does not determine economic incidence"
+  },
+  {
     "objectID": "slides/incidence/index.html#references-1",
     "href": "slides/incidence/index.html#references-1",
     "title": "EC313 - Taxation",
@@ -350,39 +560,160 @@
     "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.\nFinances of the Nation. https://financesofthenation.ca/"
   },
   {
-    "objectID": "content/introtopf.html",
-    "href": "content/introtopf.html",
-    "title": "Introduction to Public Finance",
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-4",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-4",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 4",
+    "text": "RTTWS Chapter 14 Problem 4\nIn the province of Alberta, the tax on hotel rooms is 5 percent. Supporters of this tax argue that the tax benefits the province because its payers are largely out-of-province tourists. Use the theory of tax incidence to analyze this claim."
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-6",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-6",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 6",
+    "text": "RTTWS Chapter 14 Problem 6\nInternet purchases are thought to be highly sensitive to tax rates, and applying sales taxes to all such purchases substantially reduces the number of online buyers and the amount of online spending. What are the implications for the incidence of sales taxes that include internet sales?"
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-7",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-7",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 7",
+    "text": "RTTWS Chapter 14 Problem 7\nSuppose that the demand for cigarettes in a hypothetical country is given by $Q_{c} = 2000-200P_{c}, where \\(Q_{c}\\) is the quantity of packs demanded and \\(P_{c}\\) is the price per pack. The supply of cigarettes is \\(Q_{s} = 200P_{s}\\).\n\nfind the price and quantity of cigarettes assuming the market is competitive"
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-7-1",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-7-1",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 7",
+    "text": "RTTWS Chapter 14 Problem 7\n\nIn an effort to reduce smoking, the government levies a tax of $2 per pack. Compute the quantity of cigarettes after the tax, the price paid by consumers, and the price received by producers.How much revenue does the tax raise for the government? How much revenue comes from consumers and how much from producers?"
+  },
+  {
+    "objectID": "content/introtostata.html",
+    "href": "content/introtostata.html",
+    "title": "Introduction to Stata",
     "section": "",
-    "text": "RTTWS Chapter 1",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introtostatainst.pdf\n introtostata.do",
     "crumbs": [
       "Content",
       "Course content",
-      "Intro to Public Finance"
+      "Introduction to Stata"
     ]
   },
   {
-    "objectID": "content/introtopf.html#readings",
-    "href": "content/introtopf.html#readings",
-    "title": "Introduction to Public Finance",
+    "objectID": "content/introtostata.html#tutorial",
+    "href": "content/introtostata.html#tutorial",
+    "title": "Introduction to Stata",
     "section": "",
-    "text": "RTTWS Chapter 1",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introtostatainst.pdf\n introtostata.do",
     "crumbs": [
       "Content",
       "Course content",
-      "Intro to Public Finance"
+      "Introduction to Stata"
     ]
   },
   {
-    "objectID": "content/introtopf.html#slides",
-    "href": "content/introtopf.html#slides",
-    "title": "Introduction to Public Finance",
+    "objectID": "content/introtostata.html#videos",
+    "href": "content/introtostata.html#videos",
+    "title": "Introduction to Stata",
+    "section": "Videos",
+    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#other-resources",
+    "href": "content/introtostata.html#other-resources",
+    "title": "Introduction to Stata",
+    "section": "Other Resources",
+    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
+    "crumbs": [
+      "Content",
+      "Overview",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/efficiency.html",
+    "href": "content/efficiency.html",
+    "title": "Taxation and Efficiency",
+    "section": "",
+    "text": "RTTWS Chapter 15",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Taxation and Efficiency"
+    ]
+  },
+  {
+    "objectID": "content/efficiency.html#readings",
+    "href": "content/efficiency.html#readings",
+    "title": "Taxation and Efficiency",
+    "section": "",
+    "text": "RTTWS Chapter 15",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Taxation and Efficiency"
+    ]
+  },
+  {
+    "objectID": "content/efficiency.html#slides",
+    "href": "content/efficiency.html#slides",
+    "title": "Taxation and Efficiency",
     "section": "Slides",
     "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
     "crumbs": [
       "Content",
       "Course content",
-      "Intro to Public Finance"
+      "Taxation and Efficiency"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html",
+    "href": "assignments/assign1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Answer Key\n\n\n\nYou can download the solutions using the links below\n a1solutions.qmd\n a1solutions.pdf"
+  },
+  {
+    "objectID": "assignments/assign1.html#description",
+    "href": "assignments/assign1.html#description",
+    "title": "Assignment 1",
+    "section": "Description",
+    "text": "Description\nIn this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on course content we have covered up to now, so if you get stuck I highly recommend going back over that material because the questions are closely related. This includes both the lecture notes and the extra material posted to the course website.\nYou should start this assignment early because it will not be possible (in my opinion) to do well if you start close to the due date. There are parts that you may find difficult; you will want to identify them and leave enough time to ask questions if necessary."
+  },
+  {
+    "objectID": "assignments/assign1.html#instructions",
+    "href": "assignments/assign1.html#instructions",
+    "title": "Assignment 1",
+    "section": "Instructions",
+    "text": "Instructions\n\nTemplate\nThe template below contains the assignment questions. Please answer then all within the template in the appropriate place. Replace everything in all caps with your information, and add code where asked.\nWhen you save the file to your computer, please rename it with your family name and student number, with no spaces.\n a1template.qmd\n\n\nData analysis\nPart of the assignment involves data analysis in R, which you will include as code chunks in the Quarto document. Please make sure all of your analysis is contained in your Quarto document and that it runs properly. Make note of the packages used in the file and ensure you have them installed in RStudio. Also make sure you have a Tex distribution installed on your machine.\nPart of the analysis uses the following data file. Save it in the same directory as your template file.\n econmath.csv\nA description of all of the variables in the dataset is here\n datadesc.pdf\n\n\nSubmission\nWhen you are finished, you are required to submit two documents according to the following instructions:\n\nYour .qmd file containing the completed template file. Submit this in MyLearningSpace only.\nA rendered PDF of your .qmd file. Submit this in both MyLearningSpace and Gradescope.\n\nThe template is structured to output both the code and the results of the code. Please ensure that this is the case in your rendered PDF because I will grade only that document. I will go to the .qmd file only in cases when something in your PDF does not make sense.\n\n\nPlagiarism\nThis is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else’s work verbatim, which includes R code. Any work you submit should be yours only. However, you are encouraged to talk to each other to try to figure out how to do the assignment."
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find the problem sets for all your assignments, and any other information related to your assignments.",
+    "crumbs": [
+      "Assignments",
+      "Overview",
+      "Summary"
     ]
   },
   {
@@ -422,48 +753,51 @@
     ]
   },
   {
-    "objectID": "assignments/assign1.html",
-    "href": "assignments/assign1.html",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "Answer Key\n\n\n\nYou can download the solutions using the links below\n a1solutions.qmd\n a1solutions.pdf"
-  },
-  {
-    "objectID": "assignments/assign1.html#description",
-    "href": "assignments/assign1.html#description",
-    "title": "Assignment 1",
-    "section": "Description",
-    "text": "Description\nIn this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on course content we have covered up to now, so if you get stuck I highly recommend going back over that material because the questions are closely related. This includes both the lecture notes and the extra material posted to the course website.\nYou should start this assignment early because it will not be possible (in my opinion) to do well if you start close to the due date. There are parts that you may find difficult; you will want to identify them and leave enough time to ask questions if necessary."
-  },
-  {
-    "objectID": "assignments/assign1.html#instructions",
-    "href": "assignments/assign1.html#instructions",
-    "title": "Assignment 1",
-    "section": "Instructions",
-    "text": "Instructions\n\nTemplate\nThe template below contains the assignment questions. Please answer then all within the template in the appropriate place. Replace everything in all caps with your information, and add code where asked.\nWhen you save the file to your computer, please rename it with your family name and student number, with no spaces.\n a1template.qmd\n\n\nData analysis\nPart of the assignment involves data analysis in R, which you will include as code chunks in the Quarto document. Please make sure all of your analysis is contained in your Quarto document and that it runs properly. Make note of the packages used in the file and ensure you have them installed in RStudio. Also make sure you have a Tex distribution installed on your machine.\nPart of the analysis uses the following data file. Save it in the same directory as your template file.\n econmath.csv\nA description of all of the variables in the dataset is here\n datadesc.pdf\n\n\nSubmission\nWhen you are finished, you are required to submit two documents according to the following instructions:\n\nYour .qmd file containing the completed template file. Submit this in MyLearningSpace only.\nA rendered PDF of your .qmd file. Submit this in both MyLearningSpace and Gradescope.\n\nThe template is structured to output both the code and the results of the code. Please ensure that this is the case in your rendered PDF because I will grade only that document. I will go to the .qmd file only in cases when something in your PDF does not make sense.\n\n\nPlagiarism\nThis is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else’s work verbatim, which includes R code. Any work you submit should be yours only. However, you are encouraged to talk to each other to try to figure out how to do the assignment."
-  },
-  {
-    "objectID": "assignments/index.html",
-    "href": "assignments/index.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Here you will find the problem sets for all your assignments, and any other information related to your assignments.",
+    "objectID": "content/incidence.html#sample-questions",
+    "href": "content/incidence.html#sample-questions",
+    "title": "Tax Incidence",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
     "crumbs": [
-      "Assignments",
-      "Overview",
-      "Summary"
+      "Content",
+      "Course content",
+      "Tax Incidence"
     ]
   },
   {
-    "objectID": "content/index.html",
-    "href": "content/index.html",
-    "title": "Summary",
+    "objectID": "content/introtopf.html",
+    "href": "content/introtopf.html",
+    "title": "Introduction to Public Finance",
     "section": "",
-    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
+    "text": "RTTWS Chapter 1",
     "crumbs": [
       "Content",
-      "Overview",
-      "Summary"
+      "Course content",
+      "Intro to Public Finance"
+    ]
+  },
+  {
+    "objectID": "content/introtopf.html#readings",
+    "href": "content/introtopf.html#readings",
+    "title": "Introduction to Public Finance",
+    "section": "",
+    "text": "RTTWS Chapter 1",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Public Finance"
+    ]
+  },
+  {
+    "objectID": "content/introtopf.html#slides",
+    "href": "content/introtopf.html#slides",
+    "title": "Introduction to Public Finance",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Public Finance"
     ]
   },
   {
@@ -472,6 +806,97 @@
     "title": "\n            Public Economics: Taxation\n        ",
     "section": "",
     "text": "The Economics of Taxation\n        \n        \n            EC313 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Tue/Thu\n   Sept-Dec 2025\n   4:00 - 5:20 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#goals-of-this-section-1",
+    "href": "slides/efficiency/index.html#goals-of-this-section-1",
+    "title": "EC313 - Taxation",
+    "section": "Goals of This Section",
+    "text": "Goals of This Section\n\nOutline different types of taxes\nDiscuss different between statutory and economic incidence of a tax\nShow how tax incidence depends on elasticities of supply and demand\nExpand on tax incidence in various markets"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#introduction",
+    "href": "slides/efficiency/index.html#introduction",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nGovernments levy taxes mainly to raise revenue to fund public goods and services\nTaxes can impose different types of costs on consumers\n\nThe direct cost of sending money to the government\nTaxes can distort behaviour because of changes in prices\n\nWithout taxes consumers make choices about consumption\nTaxes force them to substitute away from the taxed good and make sub-optimal choices\n\n\nIdeally a tax imposes the least possible cost in order to raise revenue\n\nWhen the costs are larger, we say there is an excess burden"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers",
+    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers",
+    "title": "EC313 - Taxation",
+    "section": "Ad Valorem Tax on Consumers",
+    "text": "Ad Valorem Tax on Consumers\n\nBelow we will see what happens when an ad valorem tax is imposed on one good\n\nAn ad valorem tax is a percentage tax on the price of a good\nFor example, a 10% sales tax on a $1 item means the consumer pays $1.10\n\nWe will use indifference curves and budget constraints to analyze the effects of the tax\nWe will then compare to a lump-sum tax\nLesson is that ad valorem taxes that distort behaviour create excess burden\nLump-sum taxes that do not distort behaviour do not create excess burden\nDifference due to the distortionary effect of changing relative prices with ad valorem taxes"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-1",
+    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-1",
+    "title": "EC313 - Taxation",
+    "section": "Ad Valorem Tax on Consumers",
+    "text": "Ad Valorem Tax on Consumers\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows consumption decision for barley and corn\nInitially prices are \\(P_{B}\\) and \\(P_{C}\\)\nBudget constraint is \\(I = P_{B}B + P_{C}C\\)\nTo plot budget constraint, put \\(C\\) on left side\n\n\\[C = \\frac{I}{P_{C}} - \\frac{P_{B}}{P_{C}}B\\]\n\nSlope of budget constraint is \\(-\\frac{P_{B}}{P_{C}}\\)\nIntercepts are \\(\\frac{I}{P_{C}}\\) and \\(\\frac{I}{P_{B}}\\)\nOptimal consumption bundle is \\(B_1\\) and \\(C_1\\)"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-2",
+    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-2",
+    "title": "EC313 - Taxation",
+    "section": "Ad Valorem Tax on Consumers",
+    "text": "Ad Valorem Tax on Consumers\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nAn ad valorem tax of \\(t\\) on barley is imposed\nPrice of barley rises to \\(P_{B}(1+t)\\)\nNew budget constraint is \\(I = P_{B}(1+t)B + P_{C}C\\)\nRearranging gives\n\n\\[C = \\frac{I}{P_{C}} - \\frac{P_{B}(1+t)}{P_{C}}B\\]\n\nSlope of new budget constraint is \\(-\\frac{P_{B}(1+t)}{P_{C}}\\)\nIntercepts are \\(\\frac{I}{P_{C}}\\) and \\(\\frac{I}{P_{B}(1+t)}\\)\nNew optimal bundle is \\(B_2\\) and \\(C_2\\)"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-3",
+    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-3",
+    "title": "EC313 - Taxation",
+    "section": "Ad Valorem Tax on Consumers",
+    "text": "Ad Valorem Tax on Consumers\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nVertical distance between budget lines is tax collected\nOn the old budget line if consumer buys \\(B_2\\) barley, corn consumption is\n\n\\[C^{'} = \\frac{I}{P_{C}} - \\frac{P_{B}}{P_{C}}B_2\\]\n\nOn the new budget line if consumer buys \\(B_2\\) barley, corn consumption is\n\n\\[C_{2} = \\frac{I}{P_{C}} - \\frac{P_{B}(1+t)}{P_{C}}B_2\\]"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-4",
+    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-4",
+    "title": "EC313 - Taxation",
+    "section": "Ad Valorem Tax on Consumers",
+    "text": "Ad Valorem Tax on Consumers\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nDifference is\n\n\\[C^{'} - C_{2} = \\frac{P_{B}t}{P_{C}}B_2\\]\n\nMeasures reduction in corn consumption due to tax\nTo measure in dollar terms\n\n\\[P_{C}(C^{'} - C_{2}) = tP_{B}B_2\\]\n\nThis is the tax rate times the value of barley consumed"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#equivalent-variation",
+    "href": "slides/efficiency/index.html#equivalent-variation",
+    "title": "EC313 - Taxation",
+    "section": "Equivalent Variation",
+    "text": "Equivalent Variation\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nAs a comparison, consider leaving prices unchanged and reducing income to reach the same utility as we got with the tax\n\nThis income reduction is the equivalent variation\n\nShift the original budget line parallel in until it is tangent to the new indifference curve\nDistance between the original and new budget lines is the equivalent variation"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden",
+    "href": "slides/efficiency/index.html#excess-burden",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden",
+    "text": "Excess Burden\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nThe excess burden of a tax is the loss in welfare beyond the tax revenue collected\nIn the graph it is the difference between the equivalent variation and the tax revenue collected\n\nEquivalent variation measures loss in welfare\n\nDistance in green\n\nTax revenue is money collected by government\n\nDistance between black and red budget lines\n\n\nIn this case, equivalent variation is larger than tax revenue\n\nSo there is a positive excess burden (in purple)"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-1",
+    "href": "slides/efficiency/index.html#excess-burden-1",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden",
+    "text": "Excess Burden\n\nAn ad valorem tax on one good creates two effects\n\nIncome effect: consumer is poorer, so consumes less of all normal goods\nSubstitution effect: relative price of taxed good rises, so consumer substitutes away from taxed good\n\nExcess burden arises because of the substitution effect\n\nConsumer substitutes away from taxed good to other goods\nThis leads to a loss in welfare beyond the tax revenue collected\n\nOne way to see this is to compare an ad valorem tax to a lump-sum tax\n\nLump-sum tax only has income effect, no substitution effect\nSo no excess burden"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#efficiency",
+    "href": "slides/efficiency/index.html#efficiency",
+    "title": "EC313 - Taxation",
+    "section": "Efficiency",
+    "text": "Efficiency\n\nIf lump sum taxes do not create excess burden, why not use them?\nOften they are unattractive politically\n\nA fixed tax on everyone is viewed as unfair\nIt is also regressive\n\nThere are few examples in the world\n\nUK had a poll (head) tax in the late 80s that was unpopular\nSome municipal government charge fixed fees for licenses/permits\n\nSo governments widely use distortionary taxes instead"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#income-taxes",
+    "href": "slides/efficiency/index.html#income-taxes",
+    "title": "EC313 - Taxation",
+    "section": "Income taxes",
+    "text": "Income taxes\n\nIncome taxes can also involve excess burdens\nIncome taxes distort labour supply decisions\n\nHigher tax rates reduce the after-tax wage\nThis causes people to substitute away from labour towards leisure\nThis is a substitution effect that creates excess burden\n\nLike with goods, income taxes change relative prices, and therefore behaviour\nChanges the price of leisure relative to consumption"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#references-1",
+    "href": "slides/efficiency/index.html#references-1",
+    "title": "EC313 - Taxation",
+    "section": "References",
+    "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022."
   },
   {
     "objectID": "slides/intro/index.html#goals-of-this-section-1",
@@ -731,215 +1156,5 @@
     "title": "EC313 - Taxation",
     "section": "References",
     "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.\nFinances of the Nation. https://financesofthenation.ca/"
-  },
-  {
-    "objectID": "slides/incidence/index.html#capital-taxation",
-    "href": "slides/incidence/index.html#capital-taxation",
-    "title": "EC313 - Taxation",
-    "section": "Capital Taxation",
-    "text": "Capital Taxation\n\nLabour is not the only input into production\nCapital is also used\n\nFor this analysis, think of capital as the money used to finance machines, factories, etc\n\nCapital owners earn a return on investments, and that can be taxed\nThe analysis of taxing capital is the same as for labour\n\nExcept that the rate of return (\\(r\\)) is the price\nTotal investment (dollars) is the quantity\nFirms are the buyers, people with money are the suppliers"
-  },
-  {
-    "objectID": "slides/incidence/index.html#capital-taxation-1",
-    "href": "slides/incidence/index.html#capital-taxation-1",
-    "title": "EC313 - Taxation",
-    "section": "Capital Taxation",
-    "text": "Capital Taxation\n\nA key consideration in the analysis is capital mobility across countries\n\nThe ease with which people can move money and invest around the globe\n\nIf capital is perfectly mobile, the buyers of capital bear the entire burden\n\nPerfect mobility means a perfectly elastic supply curve\nThe price is set at the global rate of return\nWhen supply is perfectly elastic, buyers bear the whole tax burden\n\nIn reality, capital is mobile but not perfectly\n\nBuyers and sellers are likely to bear some of the burden of capital taxation"
-  },
-  {
-    "objectID": "slides/incidence/index.html#taxes-on-profits-and-land",
-    "href": "slides/incidence/index.html#taxes-on-profits-and-land",
-    "title": "EC313 - Taxation",
-    "section": "Taxes on Profits and Land",
-    "text": "Taxes on Profits and Land\n\nGovernments can also levy taxes on economic profits\n\nEconomic profits: profits above a normal rate of return\n\nThese types of taxes are borne entirely by firms\n\nMaximizing untaxed profits and taxed profits yields the same prices and quantities\n\nConsider a monopoly (because this would be a market where economic profits happen)\nWithout taxes, maximize\n\n\\[\\Pi(q)=p(q)q-C(q)=(a-bq)q - cq = (a-c)q-bq^2\\]\n\nTake the derivative with respect to \\(q\\)\n\n\\[(a-c)-2bq=0\\]"
-  },
-  {
-    "objectID": "slides/incidence/index.html#taxes-on-profits-and-land-1",
-    "href": "slides/incidence/index.html#taxes-on-profits-and-land-1",
-    "title": "EC313 - Taxation",
-    "section": "Taxes on Profits and Land",
-    "text": "Taxes on Profits and Land\n\nSolve for \\(q\\) to get the profit maximizing quantity\n\n\\[ q^*=\\frac{a-c}{2b}\\]\n\nPrice is then\n\n\\[ p^*=a-bq^*=\\frac{a+c}{2} \\]\n\nWith taxes, maximize\n\n\\[(1-t)\\Pi(q)=(1-t)(p(q)q-C(q))=(1-t)((a-c)q-bq^2)\\]"
-  },
-  {
-    "objectID": "slides/incidence/index.html#taxes-on-profits-and-land-2",
-    "href": "slides/incidence/index.html#taxes-on-profits-and-land-2",
-    "title": "EC313 - Taxation",
-    "section": "Taxes on Profits and Land",
-    "text": "Taxes on Profits and Land\n\nTake the derivative with respect to \\(q\\)\n\n\\[(1-t)((a-c)-2bq)=0\\]\n\nWhich leads to the same prices and quantities\nMeans that the economic incidence of profit taxes is entirely on firms\n\nProfits go from \\(\\Pi(q^*)\\) to \\((1-t)\\Pi(q^*)\\)\n\nProblem with these taxes is that they are hard to implement in practice"
-  },
-  {
-    "objectID": "slides/incidence/index.html#taxes-on-land",
-    "href": "slides/incidence/index.html#taxes-on-land",
-    "title": "EC313 - Taxation",
-    "section": "Taxes on Land",
-    "text": "Taxes on Land\n\nHistorically there were taxes on only land\n\nAs opposed to modern property taxes that also tax buildings\n\nWhen land is taxed the incidence is entirely on current owners\n\nThe value of the land drops by the amount of the current and future tax obligations\n\nCan see this by looking at the value for a piece of land\nWithout taxes, the value of land is the present value of future rents\n\n\\[ P_R = \\sum_{t=0}^{T} \\frac{R_t}{(1+r)^t} \\]"
-  },
-  {
-    "objectID": "slides/incidence/index.html#taxes-on-land-1",
-    "href": "slides/incidence/index.html#taxes-on-land-1",
-    "title": "EC313 - Taxation",
-    "section": "Taxes on Land",
-    "text": "Taxes on Land\n\nIf there is a tax \\(u_t\\) on land, the value becomes\n\n\\[ P'_R = \\sum_{t=0}^{T} \\frac{R_t-u_{t}}{(1+r)^t} = \\sum_{t=0}^{T} \\frac{R_t}{(1+r)^t} - \\sum_{t=0}^{T} \\frac{u_t}{(1+r)^t}  \\]\n\nThe difference between \\(P_R\\) and \\(P'_R\\) is the present value of all future tax obligations\n\n\\[ P_R' - P_R = -\\sum_{t=0}^{T} \\frac{ u_{t}}{(1+r)^t} \\]\n\nWhen the tax is levied, the value of the land immediately drops by the tax obligation\n\nSo it is borne by the current owner"
-  },
-  {
-    "objectID": "slides/incidence/index.html#introduction-3",
-    "href": "slides/incidence/index.html#introduction-3",
-    "title": "EC313 - Taxation",
-    "section": "Introduction",
-    "text": "Introduction\n\nSo far we have only considered partial equilibrium models\n\nOne market at a time\n\nIt is informative, but incomplete\nIn reality, markets are interconnected\n\nA tax in one market can affect other markets\nExample: a tax on goods can affect labour market\n\nIf people buy less, firms produce less\nFirms hire fewer workers\nLabour market is affected\n\n\nGeneral equilibrium models consider all markets simultaneously"
-  },
-  {
-    "objectID": "slides/incidence/index.html#a-tax-on-goods-and-services",
-    "href": "slides/incidence/index.html#a-tax-on-goods-and-services",
-    "title": "EC313 - Taxation",
-    "section": "A Tax on Goods and Services",
-    "text": "A Tax on Goods and Services\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nConsider a unit tax on restaurants\nFor simplicity, assume restaurant meals have perfectly elastic demand\n\nPeople are very sensitive to the price and will cook at home if price rises\n\nThe full burden of the tax is on the restaurants\nQuantity of meals falls because of the tax"
-  },
-  {
-    "objectID": "slides/incidence/index.html#a-tax-on-goods-and-services-1",
-    "href": "slides/incidence/index.html#a-tax-on-goods-and-services-1",
-    "title": "EC313 - Taxation",
-    "section": "A Tax on Goods and Services",
-    "text": "A Tax on Goods and Services\n\nBut a restaurant cannot bear taxes\nA restaurant is really a production process that combines labour and capital\n\nA production process cannot pay a tax\n\nIt is ultimately the workers and owners of capital that pay the tax\nThe tax on meals will filter down to the labour and capital markets\n\nWorkers will get paid less\nOwners of capital will earn less"
-  },
-  {
-    "objectID": "slides/incidence/index.html#a-tax-on-goods-and-services-2",
-    "href": "slides/incidence/index.html#a-tax-on-goods-and-services-2",
-    "title": "EC313 - Taxation",
-    "section": "A Tax on Goods and Services",
-    "text": "A Tax on Goods and Services\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nConsider the labour market for restaurant workers\nThe tax on meals shifts the demand for restaurant workers to the left\n\nLabour demand is derived partly from the demand for meals\nLess demand for meals means less demand for workers\n\nThe equilibrium wage falls and workers are paid less\nPart of the burden falls on workers in the form of lower wages"
-  },
-  {
-    "objectID": "slides/incidence/index.html#a-tax-on-goods-and-services-3",
-    "href": "slides/incidence/index.html#a-tax-on-goods-and-services-3",
-    "title": "EC313 - Taxation",
-    "section": "A Tax on Goods and Services",
-    "text": "A Tax on Goods and Services\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nSimilar things happen in the capital market\nThe tax on meals shifts the demand for capital to the left\n\nLess demand for meals means less demand for capital\n\nThe equilibrium return to capital falls and owners are paid less\nPart of the burden falls on owners of capital in the form of lower returns"
-  },
-  {
-    "objectID": "slides/incidence/index.html#a-tax-on-goods-and-services-4",
-    "href": "slides/incidence/index.html#a-tax-on-goods-and-services-4",
-    "title": "EC313 - Taxation",
-    "section": "A Tax on Goods and Services",
-    "text": "A Tax on Goods and Services\n\nThe degree to which workers and owners of capital bear the burden depends on elasticities\n\nMore elastic labour supply means workers bear less of the burden\nMore elastic capital supply means owners of capital bear less of the burden\n\nIn our example, we assumed perfectly elastic demand for meals\n\nThis meant that restaurants bore the entire burden of the tax\n\nIf consumer demand were less elastic\n\nConsumers would bear some of the burden\nWould affect other goods they consume\n\nIncrease consumption of substitutes\nDecrease consumption of complements\nDecrease consumption of all goods via an income effect"
-  },
-  {
-    "objectID": "slides/incidence/index.html#a-tax-on-goods-and-services-5",
-    "href": "slides/incidence/index.html#a-tax-on-goods-and-services-5",
-    "title": "EC313 - Taxation",
-    "section": "A Tax on Goods and Services",
-    "text": "A Tax on Goods and Services\n\nGeneral equilibrium analysis can get very complicated\n\nMany interconnected markets\nChanges in one market affect many others\n\nCan affect markets vertically and horizontally\n\nVertically: factors of production\nHorizontally: related goods (e.g. tax on coffee affects tea market)\n\nMain lesson is still the same: statutory incidence does not determine economic incidence"
-  },
-  {
-    "objectID": "slides/incidence/index.html#tax-equivalencies",
-    "href": "slides/incidence/index.html#tax-equivalencies",
-    "title": "EC313 - Taxation",
-    "section": "Tax Equivalencies",
-    "text": "Tax Equivalencies\n\nIn general equilibrium, different types of taxes can have the same economic incidence\n\nExample: a tax on labour income and a tax on consumption can have the same economic incidence\n\nA policy maker would have options when it comes to which tax to levy\nConsider an economy with\n\nTwo commodities, food (\\(F\\)) and manufacturing (\\(M\\))\nTwo factors of production, labour (\\(L\\)) and capital (\\(K\\))"
-  },
-  {
-    "objectID": "slides/incidence/index.html#tax-equivalencies-1",
-    "href": "slides/incidence/index.html#tax-equivalencies-1",
-    "title": "EC313 - Taxation",
-    "section": "Tax Equivalencies",
-    "text": "Tax Equivalencies\n\nA government could levy nine different types of taxes\n\nFood: tax on capital (\\(t_{KF}\\)), tax on labour (\\(t_{LF}\\)), tax on consumption (\\(t_F\\))\nManufacturing: tax on capital (\\(t_{KM}\\)), tax on labour (\\(t_{LM}\\)), tax on consumption (\\(t_M\\))\nBoth: tax on capital (\\(t_K\\)), tax on labour (\\(t_L\\))\nAn income tax (\\(t\\))\n\nTaxes levied on factors of production in one sector are Partial Factor Taxes\n\nIn this case \\(t_{KF}\\), \\(t_{LF}\\), \\(t_{KM}\\), \\(t_{LM}\\)\n\nCombinations of these taxes can be equivalent to other taxes"
-  },
-  {
-    "objectID": "slides/incidence/index.html#tax-equivalencies-2",
-    "href": "slides/incidence/index.html#tax-equivalencies-2",
-    "title": "EC313 - Taxation",
-    "section": "Tax Equivalencies",
-    "text": "Tax Equivalencies\n\nList of Equivalent Taxes"
-  },
-  {
-    "objectID": "slides/incidence/index.html#harberger-model",
-    "href": "slides/incidence/index.html#harberger-model",
-    "title": "EC313 - Taxation",
-    "section": "Harberger Model",
-    "text": "Harberger Model\n\nArnold Harberger studied tax incidence in general equilibrium\nBasics of his model\n\nTechnology\n\nCapital and labour used in production\nConstant returns to scale\nEase of substitution between capital and labour different between sectors\n\nFactor suppliers\n\nCapital and labour perfectly mobile\nReturns to both are the same in both sectors\n\nMarket structure is perfecly competitive\nFactors are in fixed supply\nConsumers are all the same"
-  },
-  {
-    "objectID": "slides/incidence/index.html#harberger-model-1",
-    "href": "slides/incidence/index.html#harberger-model-1",
-    "title": "EC313 - Taxation",
-    "section": "Harberger Model",
-    "text": "Harberger Model\n\nSuppose a tax on food (\\(t_F\\)) is introduced\n\nPrice of food rises\nConsumers buy less food, more manufacturing\nDemand for labour and capital in food sector falls\nAs labour and capital move to manufacturing, their returns fall\n\nStrength of these effects depend on elasticities\n\nIf food elasticity is high, consumers shift more to manufacturing\n\nReturns to labour and capital fall more for manufacturing to induce movement"
-  },
-  {
-    "objectID": "slides/incidence/index.html#harberger-model-2",
-    "href": "slides/incidence/index.html#harberger-model-2",
-    "title": "EC313 - Taxation",
-    "section": "Harberger Model",
-    "text": "Harberger Model\n\nSuppose an income tax (\\(t\\)) is introduced\n\nUse equivalencies table\nIncome tax is equivalent to a combination of taxes on capital and labour\nBoth are in fixed supply (perfectly inelastic) so they bear the whole burden\n\nA tax on labour (\\(t_L\\)) is introduced\n\nTax on labour in both sectors\nLabour supply is perfectly inelastic so it bears the whole burden\nNo incentive to switch between sectors"
-  },
-  {
-    "objectID": "slides/incidence/index.html#harberger-model-3",
-    "href": "slides/incidence/index.html#harberger-model-3",
-    "title": "EC313 - Taxation",
-    "section": "Harberger Model",
-    "text": "Harberger Model\n\nFinally, a partial factor tax on capital in manufacturing (\\(t_{KM}\\))\n\nPrice of manufacturing rises\n\nUse less capital and labour\nAs capital and labour leave, changes in their relative prices depend on how much is used\n\nProducers of manufactured goods use less capital and more labour\n\nDemand for capital falls, and so does relative price\n\nCannot tell what the ultimate effect is on capital prices\n\nBut labour price rises"
-  },
-  {
-    "objectID": "slides/incidence/index.html#summary",
-    "href": "slides/incidence/index.html#summary",
-    "title": "EC313 - Taxation",
-    "section": "Summary",
-    "text": "Summary\n\nTax incidence is not necessarily contained to the market where the tax is levied\nIn general equilibrium, taxes can have far reaching effects\n\nBoth vertically and horizontally\n\nA full analysis requires consideration of all markets simultaneously\nThe key points to remember are\n\nStatutory incidence does not determine economic incidence\nEconomic incidence depends on ability to substitute and avoid the tax"
-  },
-  {
-    "objectID": "slides/incidence/index.html#introduction-4",
-    "href": "slides/incidence/index.html#introduction-4",
-    "title": "EC313 - Taxation",
-    "section": "Introduction",
-    "text": "Introduction\n\nWe have gone through the theory of tax incidence\nUsing data we can see who bears the burden of various taxes\nCould do this with tax data\n\nStatistics Canada maintains the Longitudinal Administrative Databank (LAD)\nNot easy to use because it is confidential microdata\n\nCan also use data from the SPSDM simulator\n\nProgram maintained by Statistics Canada\nSnapshot of the Canadian tax and transfer system at a point in time"
-  },
-  {
-    "objectID": "slides/incidence/index.html#partial-equilibrium",
-    "href": "slides/incidence/index.html#partial-equilibrium",
-    "title": "EC313 - Taxation",
-    "section": "Partial Equilibrium",
-    "text": "Partial Equilibrium\n\nAverage Tax Rates in Canada"
-  },
-  {
-    "objectID": "slides/incidence/index.html#partial-equilibrium-1",
-    "href": "slides/incidence/index.html#partial-equilibrium-1",
-    "title": "EC313 - Taxation",
-    "section": "Partial Equilibrium",
-    "text": "Partial Equilibrium\n\nAverage Tax Rates by Source"
-  },
-  {
-    "objectID": "slides/incidence/index.html#partial-equilibrium-2",
-    "href": "slides/incidence/index.html#partial-equilibrium-2",
-    "title": "EC313 - Taxation",
-    "section": "Partial Equilibrium",
-    "text": "Partial Equilibrium\n\nAverage Tax Rates by Level of Government"
-  },
-  {
-    "objectID": "slides/incidence/index.html#partial-equilibrium-3",
-    "href": "slides/incidence/index.html#partial-equilibrium-3",
-    "title": "EC313 - Taxation",
-    "section": "Partial Equilibrium",
-    "text": "Partial Equilibrium\n\nCanada maintains a progressive personal income tax system\n\nSo tax rates rise with income\n\nCommodity and property taxes are on their own regressive\n\nA regressive tax is one where tax rates fall with income\nTax credits help offset the regressivity of these taxes (e.g. HST credit)\n\nPayroll taxes are initially progressive but turn regressive\nFederal taxes are more progressive than provincial taxes\n\nFederal taxes mainly come from personal income taxes\nProvincial taxes contain more commodity and property taxes"
-  },
-  {
-    "objectID": "slides/incidence/index.html#partial-equilibrium-4",
-    "href": "slides/incidence/index.html#partial-equilibrium-4",
-    "title": "EC313 - Taxation",
-    "section": "Partial Equilibrium",
-    "text": "Partial Equilibrium\n\nProgressivity in these graphs is based on annual income\n\nLifetime income might be more appropriate if people consume based on lifetime resources\n\nRedoing the graphs with lifetime income reduces regressivity"
-  },
-  {
-    "objectID": "slides/incidence/index.html#general-equilibrium-1",
-    "href": "slides/incidence/index.html#general-equilibrium-1",
-    "title": "EC313 - Taxation",
-    "section": "General Equilibrium",
-    "text": "General Equilibrium\n\nEvidence on the general equilibrium incidence of taxes is more limited\n\nAnalysis is more difficult\n\nCanadian researchers have looked at the tax incidence of the carbon tax in BC\n\nUse a Computable General Equilibrium (CGE) model\nA fancy model with many equations you need a computer to solve\n\nFind that a carbon tax\n\nLowers wages relative to capital income because labour is supply is inelastic\nLabour bears more of the burden than capital\nTax is progressive because wages are a higher share of income for higher income households"
-  },
-  {
-    "objectID": "slides/incidence/index.html#summary-2",
-    "href": "slides/incidence/index.html#summary-2",
-    "title": "EC313 - Taxation",
-    "section": "Summary",
-    "text": "Summary\n\nTaxes are levied across the economy for various reasons\nWho “pays” the tax is determined by economic incidence and is complicated\n\nDepends on ability to avoid the tax in both partial and general equilibrium\nCan be spread widely in a general equilibrium setting\n\nStatutory incidence does not determine economic incidence"
   }
 ]

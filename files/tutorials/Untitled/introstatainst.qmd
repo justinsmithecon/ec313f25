@@ -1,0 +1,34 @@
+---
+title: |
+  Introduction to Stata - Instructions \
+  Fall 2025
+format: pdf
+editor: visual
+---
+
+
+# Logging in to the Virtual Computer Lab
+
+As we discussed in lecture, WLU has a site license for Stata.  A convenient way to access it is through the Virtual Computer Lab (VCL).  To log in to the VCL, first go to:
+
+[https://labapps.wlu.ca/](https://labapps.wlu.ca/)
+
+A window will pop up.  Navigate to the **AZWD-LAB** icon and click on it.  A prompt titled "Access local resources" will appear and ask whether you want the remote computer to access the clipboard and printer.  Both wil be checked; if you want to change this, you can do so.  Click "Allow" to continue.  
+
+You will then be prompted to log in.  Use your WLU username and password to log in.  A windows desktop will appear with many icons.  
+
+The easiest way to sync files across your personal computer and the lab is to use OneDrive.  To access this resource, navigate to the OneDrive icon on the desktop (along the bottom row of icons) and double click it.  A window will pop up and start syncing your OneDrive files.  Depending on how many files you have stored, this may take awhile.
+
+# Downloading the Data 
+
+For this exercise we will use the Canadian Income Survey (CIS), downloaded directly from Statistics Canada. You can access a zip file of the 2022 data with the following link:
+
+[https://www150.statcan.gc.ca/n1/pub/72m0003x/2024001/2022.zip](https://www150.statcan.gc.ca/n1/pub/72m0003x/2024001/2022.zip)
+
+The data will begin to download.  In the download window that pops up in your browser, click "open file" below the 2022.zip file. Click through the following folders: 2022 -> Data - Donnees.  Drag the file "CIS2022_PUMF.csv" to a location on your OneDrive (I suggest making a new folder).
+
+# Downloading the Tutorial Dofile
+
+Go to the following link to download the dofile for this tutorial *from within the virtual lab*.  Put it in the same folder where you stored the data:
+
+[https://justinsmithecon.github.io/ec306f25/content/introtostata.html](https://justinsmithecon.github.io/ec306f25/content/introtostata.html)

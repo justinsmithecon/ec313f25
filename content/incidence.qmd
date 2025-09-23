@@ -21,6 +21,10 @@ The slides are embedded in this page, and you can scroll through them with the a
 </div>
 
 
+## Sample Questions
+
+
+A PDF with all the in-class questions covered in class is <a href="/questions/incidence/index.pdf" target="_blank">here</a>.  Note that we cover the solutions live in class, so they are not posted here.
 
 
 

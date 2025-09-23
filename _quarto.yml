@@ -37,7 +37,10 @@ website:
               file: content/introtopf.qmd
             - text: "Tax Incidence"
               file: content/incidence.qmd
-
+            - text: "Taxation and Efficiency"
+              file: content/efficiency.qmd
+            - text: "Introduction to Stata"
+              file: content/introtostata.qmd  
               
     - title: "Assignments"
       style: "docked"
