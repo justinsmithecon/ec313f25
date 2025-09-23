@@ -1029,8 +1029,9 @@ $$ P_R' - P_R = -\sum_{t=0}^{T} \frac{ u_{t}}{(1+r)^t} $$
         -   As capital and labour leave, changes in their relative prices depend on how much is used
     -   Producers of manufactured goods use less capital and more labour
         -   Demand for capital falls, and so does relative price
-    -   Cannot tell what the ultimate effect is on capital prices
-        -   But labour price rises
+        - Price of labour rises 
+    -   Cannot tell what the ultimate effect is on capital or labour prices
+  
 
 ## Summary
 
