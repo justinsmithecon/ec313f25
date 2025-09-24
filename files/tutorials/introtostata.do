@@ -91,7 +91,7 @@
 	this, and one of them is to literally look at a list of the raw values.  To do 
 	this, we use the "list" command.;
 
-		list;
+		*list;
 		
 	*This literally will list all values of all variables.  Maybe we don't want to 
 	list everything.  What if we want to look only at a list of earnings and levels
@@ -124,12 +124,12 @@
 	number 999999999996.  If you don't do anything about this, Stata will think
 	there are a bunch of people in your data with incomes of almost a trillion
 	dollars.  To correct this, we can recode those values to missing.  Missing
-	values in Stata are indicated with a "."
+	values in Stata are indicated with a ".";
 	
-		replace earng = . if earng == 999999999996
+		replace earng = . if earng == 999999999996;
 
 
-	There are two important things going on here.  First, the replace command
+	*There are two important things going on here.  First, the replace command
 	takes the values of a variable and replaces them with another value.  The
 	second is the different betewen the single "=" and the double "==".  Use
 	the single = for assignment (assigning a value to a variable) and the double
@@ -159,7 +159,7 @@
 		summarize earng alhrwk if hlev2g==4, detail;
 
 	* Notice that there are values equal to 9996 for hours of work.  Those are
-	missing values that we need to replaces
+	missing values that we need to replaces;
 	
 		replace alhrwk = . if alhrwk == 9996;
 		summarize earng alhrwk if hlev2g==4, detail;
@@ -217,7 +217,7 @@
 	variable as the reference (base) group.  You can change this by altering it
 	slightly by putting "b" and the number you want to exclude following i in
 	the syntax.  If we wanted to use high school graduates (value 2) as the
-	base group, you would type
+	base group, you would type;
 	
 		regress learng ib2.hlev2g;
 		
@@ -237,7 +237,7 @@
 	variables that are correlated with schooling.  Normally in these regressions, 
 	people put in age or experience, which is also categorical;
 
-		regress learng42 ib2.hlev2g i.agegp;	
+		regress learng ib2.hlev2g i.agegp;	
 
 	*Notice how this changes the coefficient on schooling slightly. Now, a one year
 	increase in schooling increases earnings by 9.52%  

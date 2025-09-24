@@ -6,7 +6,7 @@ title: "Introduction to Stata"
 
 In class, we will go through a dofile that introduces the basics of using Stata.  Please first download the instructions on using the virutual computer lab and downloading the data in the first link below.  The second link has the dofile itself, which we will download in class inside of the virtual lab.
 
-[{{< fa solid file-export >}} `introtostatainst.pdf`](/files/tutorials/introtostatainst.pdf)
+[{{< fa solid file-export >}} `introstatainst.pdf`](/files/tutorials/introstatainst.pdf)
 
 [{{< fa solid file-export >}} `introtostata.do`](/files/tutorials/introtostata.do)
 
