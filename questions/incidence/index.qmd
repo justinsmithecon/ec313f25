@@ -37,11 +37,20 @@ Internet purchases are thought to be highly sensitive to tax rates, and applying
 
 ## RTTWS Chapter 14 Problem 7
 
-Suppose that the demand for cigarettes in a hypothetical country is given by $Q_{c} = 2000-200P_{c}, where $Q_{c}$ is the quantity of packs demanded and $P_{c}$ is the price per pack. The supply of cigarettes is $Q_{s} = 200P_{s}$.
+Suppose that the demand for cigarettes in a hypothetical country is given by \$Q\_{c} = 2000-200P\_{c}, where $Q_{c}$ is the quantity of packs demanded and $P_{c}$ is the price per pack. The supply of cigarettes is $Q_{s} = 200P_{s}$.
 
-a) find the price and quantity of cigarettes assuming the market is competitive
-
+a)  find the price and quantity of cigarettes assuming the market is competitive
 
 ## RTTWS Chapter 14 Problem 7
 
-b) In an effort to reduce smoking, the government levies a tax of $2 per pack.  Compute the quantity of cigarettes after the tax, the price paid by consumers, and the price received by producers.How much revenue does the tax raise for the government?  How much revenue comes from consumers and how much from producers?
+b)  In an effort to reduce smoking, the government levies a tax of \$2 per pack. Compute the quantity of cigarettes after the tax, the price paid by consumers, and the price received by producers.How much revenue does the tax raise for the government? How much revenue comes from consumers and how much from producers?
+
+## RTTWS Chapter 14 Problem 10
+
+According to the studny by Kleven, Jacobsen, Landais, and Saez (2013), the international migration decisions of top-earning European soccer plauers is very sensitive to income tax rates -  when thye tax rates they face in their own country increase substantially, they move to another country.  What are the implacations of this finding for the incidence of income taxes on such players?  Support your answer with a graph.
+
+## RTTWS Chapter 14 Problem 11
+
+Arnie has an income of Y and spends it only on food and music.  Let $P_{F}$ and $P_{M}$ be the prices of food and music, respectively and denote the quantities by $Q_{F}$ and $Q_{M}$.  In the absence of taxes, Arnie's budget constraint is $Y = P_{F}Q_{F} + P_{M}Q_{M}$.  Now suppose an ad valorem tax of 25 percent is imposed on both food and music.  What income tax rate is equivalent to this commidity tax?
+
+

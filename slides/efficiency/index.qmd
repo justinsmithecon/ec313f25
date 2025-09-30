@@ -31,13 +31,17 @@ editor: visual
 
 ## Goals of This Section
 
--   Outline different types of taxes
+-   Discuss the effects of price changes on consumer behaviour
 
--   Discuss different between statutory and economic incidence of a tax
+-  Introduce the concept of excess burden of a tax
 
--   Show how tax incidence depends on elasticities of supply and demand
+-   Show how to measure excess burden using indifference curves
 
--   Expand on tax incidence in various markets
+-   Show how to measure excess burden using demand/supply curves
+
+- Show equivalent interpretation with elasticities
+
+-   Discuss factors that affect excess burden
 
 # Excess Burden of a Tax with Indifference Curves
 
