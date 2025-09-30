@@ -60,22 +60,21 @@ editor: visual
 
 ## Ad Valorem Tax on Consumers
 
-- Below we will see what happens when an ad valorem tax is imposed on one good
+-   Below we will see what happens when an ad valorem tax is imposed on one good
 
     -   An ad valorem tax is a percentage tax on the price of a good
 
     -   For example, a 10% sales tax on a \$1 item means the consumer pays \$1.10
-    
-- We will use indifference curves and budget constraints to analyze the effects of the tax
 
-- We will then compare to a lump-sum tax
+-   We will use indifference curves and budget constraints to analyze the effects of the tax
 
-- Lesson is that ad valorem taxes that distort behaviour create excess burden
+-   We will then compare to a lump-sum tax
 
-- Lump-sum taxes that do not distort behaviour do not create excess burden
+-   Lesson is that ad valorem taxes that distort behaviour create excess burden
 
-- Difference due to the distortionary effect of changing relative prices with ad valorem taxes
- 
+-   Lump-sum taxes that do not distort behaviour do not create excess burden
+
+-   Difference due to the distortionary effect of changing relative prices with ad valorem taxes
 
 ## Ad Valorem Tax on Consumers
 
@@ -298,41 +297,413 @@ $$C = \frac{I-T}{P_{C}} - \frac{P_{B}(1+t)}{P_{C}}B$$
 :::
 ::::::
 
-
 # Challenges with Excess Burden
 
 ## Efficiency
 
-- If lump sum taxes do not create excess burden, why not use them?
+-   If lump sum taxes do not create excess burden, why not use them?
 
-- Often they are unattractive politically
+-   Often they are unattractive politically
 
-    - A fixed tax on everyone is viewed as unfair
-    
-    - It is also regressive
+    -   A fixed tax on everyone is viewed as unfair
 
-- There are few examples in the world
+    -   It is also regressive
 
-  - UK had a poll (head) tax in the late 80s that was unpopular
-  - Some municipal government charge fixed fees for licenses/permits
-  
-- So governments widely use distortionary taxes instead
+-   There are few examples in the world
+
+    -   UK had a poll (head) tax in the late 80s that was unpopular
+    -   Some municipal government charge fixed fees for licenses/permits
+
+-   So governments widely use distortionary taxes instead
 
 ## Income taxes
 
-- Income taxes can also involve excess burdens
+-   Income taxes can also involve excess burdens
 
-- Income taxes distort labour supply decisions
+-   Income taxes distort labour supply decisions
 
     -   Higher tax rates reduce the after-tax wage
 
     -   This causes people to substitute away from labour towards leisure
-    
+
     -   This is a substitution effect that creates excess burden
-    
-- Like with goods, income taxes change relative prices, and therefore behaviour
+
+-   Like with goods, income taxes change relative prices, and therefore behaviour
 
 -   Changes the price of leisure relative to consumption
+
+## Excess Burden with Inelastic Demand
+
+-   Suppose that a tax is introduced on barley, but barley consumption does not change
+
+-   Does this mean there is no excess burden?
+
+-   Answer: no
+
+    -   Consumer faces different relative prices
+
+    -   These distort the consumer's choices
+
+    -   This leads to inefficiency, and excess burden
+
+## Excess Burden with Inelastic Demand
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-669487418.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph looks similar to before
+
+-   This time barley consumption stays constant
+
+-   Corn consumption rises due to relatively lower price
+
+-   Excess burden is about the change in the consumption *bundle*
+
+    -   Not just the change in quantity of one good
+:::
+::::::
+
+# Excess Burden with Demand Curves
+
+## Aside: Compensated vs Ordinary Demand Curves
+
+-   A demand curve measures the change in quantity demanded as price changes
+
+-   **Ordinary (Marshallian) demand curve**: measures the total change in quantity demanded as price changes
+
+    -   Includes both income and substitution effects
+
+-   **Compensated (Hicksian) demand curve**: measures the change in quantity demanded as price changes, holding utility constant
+
+    -   Only includes substitution effect
+    -   Can hold utility constant at initial level or new level
+
+-   Excess burden is related to the substitution effect, so we use compensated demand curves
+
+## Aside: Compensated vs Ordinary Demand Curves
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-567879067.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Consider a tax on barley
+
+    -   Price of barley rises from $P_{B}$ to $P_{B}(1+t)$
+
+-   The ordinary demand curve measures change from old equilibrium at old prices to new equilibrium at new prices
+
+    -   Includes both income and substitution effects
+
+-   The compensated demand curve measures starts from new utility curve at old prices then new equilibrium at new prices
+
+    -   Only includes substitution effect
+
+-   The drop in demand is larger for ordinary demand
+:::
+::::::
+
+## Aside: Compensated vs Ordinary Demand Curves
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1841143221.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Demand curve is plot of price vs quantity demanded
+
+-   On left we plot price before and after tax against quantities
+
+-   Drop in quantity is larger for ordinary demand curve
+
+    -   Includes both income and substitution effects
+    -   So ordinary demand curve is flatter
+
+-   Compensated demand curve is steeper because it only includes substitution effect
+:::
+::::::
+
+## Excess Burden with Demand Curves
+
+-   Excess burden of a tax is related to the substitution effect
+
+-   We can use compensated demand curve to measure it
+
+-   Recall that it is loss in welfare beyond tax revenue collected
+
+-   The loss in welfare to the consumer is measured by the drop in consumer surplus
+
+    -   This is the area under the compensated demand curve between old and new prices
+
+-   Part of that loss is tax revenue collected
+
+    -   This is the rectangle with height equal to the tax and width equal to new quantity
+
+-   The other part is lost entirely to the consumer
+
+    -   This is the excess burden
+
+## Excess Burden with Demand Curves
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2592528412.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Imagine a tax is imposed on barley
+
+-   Supply is perfectly elastic
+
+    -   So economic incidence falls entirely on consumers
+
+-   Price rises from $P_{B}$ to $P_{B}(1+t)$
+
+-   Compensated quantity demanded falls from $B_{3}$ to $B_{2}$
+
+-   Tax revenue is green rectangle
+
+-   Total fall in consumer surplus is green + blue areas
+
+-   Excess burden is blue area
+:::
+::::::
+
+# Excess Burden with Elasticities
+
+-   We can translate the excess burden area into a formula using elasticities
+
+-   The excess burden is the blue triangle
+
+-   Area of triangle is $\frac{1}{2} \times \text{base} \times \text{height}$
+
+    -   Base is change in quantity: $\Delta B = B_{3} - B_{2}$
+
+    -   Height is tax: $tP_{b}$
+
+-   The definition of elasticity at the original equilibrium is
+
+$$\eta = \frac{\Delta B}{\Delta P} \times \frac{P_b}{B_3}$$
+
+# Excess Burden with Elasticities
+
+-   Rearranging gives
+
+$$\Delta B = \eta \times \frac{\Delta P}{P_b} \times B_3$$
+
+-   In our case, $\Delta P = tP_{b}$, so
+
+$$\Delta B = \eta \times t \times B_{3}$$
+
+-   The area is then
+
+$$\text{Excess Burden} = \frac{1}{2} \times (\eta \times t \times B_{3}) \times (tP_{b}) = \frac{1}{2} \times (\eta\times B_{3}) \times (t^2 P_{b}) $$
+
+# Excess Burden with Elasticities
+
+-   Some insights with the formula
+
+$$\text{Excess Burden} = \frac{1}{2} \times (\eta\times B_{3}) \times (t^2 P_{b}) $$
+
+-   Excess burden depends on three things
+
+    1.  Size of tax $t$
+
+        -   Excess burden rises with square of tax rate
+
+    2.  Elasticity of demand $\eta$
+
+        -   More elastic demand means larger excess burden
+
+    3.  Initial spending $P_{b}B_{3}$
+
+        -   Larger initial spending means larger excess burden
+
+# Additional Considerations for Excess Burden
+
+## Pre-existing Distortions
+
+-   In the real world, there are many taxes and regulations that distort behaviour
+
+-   If a new tax is introduced, it may interact with these pre-existing distortions
+
+    -   Pre-existing distortions include monopoly power, externalities, and other taxes
+
+-   Having pre-existing distortions complicates the analysis of excess burden
+
+    -   A new tax may increase or decrease overall excess burden
+
+    -   Depends on how it interacts with pre-existing distortions
+
+-   **Theory of the Second Best**: If economic optimum cannot be achieved (due to existing distortions), the next best solution may involve introducing additional distortions
+
+## Pre-existing Distortions
+
+-   Example 1: pre-existing tax on good A
+
+    -   This tax distorts consumption away from good A
+
+    -   Introducing a tax on good B may lead consumers to substitute towards good A
+
+    -   This can reduce the excess burden on good A by increasing its consumption
+
+    -   Overall excess burden may increase or decrease because of the new tax on good B
+
+## Pre-existing Distortions
+
+-   Example 2: Minimum Wages
+
+    -   A labour market monopsony leads to lower wages and employment than in a competitive market
+
+    -   Imposing a minimum wage can increase employment and reduce the excess burden caused by monopsony power
+
+-   Example 3: Externalities from Carbon
+
+    -   A country has a negative externality from emissions and cannot impose a carbon tax
+
+    -   The next best outcome might involve subsidies for renewable energy, even if they distort energy markets
+
+-   General lesson is that impact of tax is not limited to the market it directly affects
+
+    -   Overall excess burden depends on interactions with other markets and distortions
+
+## Excess Burden of a Subsidy
+
+-   A subsidy is a negative tax
+
+    -   It lowers the price paid by consumers or received by producers
+
+-   Problem is that it can lead to over-consumption or over-production
+
+    -   This creates inefficiencies and excess burden
+
+-   A subsidy will increase welfare (consumer surplus) but the cost to the government may exceed this increase
+
+    -   The difference is the excess burden of the subsidy
+
+## Excess Burden of a Subsidy
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-281068832.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Picture a housing subsidy
+
+-   Prior to subsidy, optimal consumption is $H_0$ at price $P_h$
+
+-   Subsidy lowers price to $(1-s)P_h$
+
+-   New optimal consumption is $H_1$
+
+-   Cost of subsidy is green plus blue rectangle
+
+-   Increase in consumer surplus is green area
+
+-   Excess burden is blue triangle
+:::
+::::::
+
+## Excess Burden of Income Tax
+
+-   Income taxes distort labour supply decisions
+
+    -   Higher tax rates reduce the after-tax wage
+
+    -   This causes people to substitute away from labour towards leisure
+
+    -   This is a substitution effect that creates excess burden
+
+## Excess Burden of Income Tax
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+:::
+::::
+
+::: {.column width="50%"}
+-   Imagine a labour market with elastic labour demand
+
+    -   So a tax on labour is borne entirely by workers
+
+-   An income tax shifts down labour demand curve from $D_0$ to $D_1$
+
+    -   Reduces wage from $W_$ to $(1-t)W$
+
+-   Initially worker surplus is area below demand curve and above supply
+
+-   After tax, surplus falls by yellow plus green areas
+:::
+::::::
+
+## Excess Burden of Income Tax
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1839227144.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Some of the fall is collected by government as tax revenue
+
+    -   This is yellow rectangle
+
+-   The green triangle is lost entirely
+
+    -   This is the excess burden
+    
+- Result is very similar to excess burden from a tax on goods
+
+    - Except here the tax is on wages and workers are suppliers
+:::
+::::::
+
+
+## Excess Burden of Income Tax
+
+-   The formula for excess burden is similar to that for goods
+
+$$\text{Excess Burden} = \frac{1}{2} \times (\epsilon \times L_{0}) \times (t^2 W) $$
+
+-  Where $\epsilon$ is the elasticity of labour supply
+
+-   Excess burden depends on 
+
+    1.  Size of tax $t$
+
+        -   Excess burden rises with square of tax rate
+
+    2.  Elasticity of labour supply $\epsilon$
+
+        -   More elastic labour supply means larger excess burden
+
+    3.  Initial earnings $WL_{0}$
+
+        -   Larger initial earnings means larger excess burden
+
+
+
+
+
 
 # References
 
@@ -341,5 +712,3 @@ $$C = \frac{I-T}{P_{C}} - \frac{P_{B}(1+t)}{P_{C}}B$$
 -   Rosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.
 
 -   Gruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.
-
-

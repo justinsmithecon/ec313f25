@@ -904,6 +904,118 @@
     "text": "Income taxes\n\nIncome taxes can also involve excess burdens\nIncome taxes distort labour supply decisions\n\nHigher tax rates reduce the after-tax wage\nThis causes people to substitute away from labour towards leisure\nThis is a substitution effect that creates excess burden\n\nLike with goods, income taxes change relative prices, and therefore behaviour\nChanges the price of leisure relative to consumption"
   },
   {
+    "objectID": "slides/efficiency/index.html#excess-burden-with-inelastic-demand",
+    "href": "slides/efficiency/index.html#excess-burden-with-inelastic-demand",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden with Inelastic Demand",
+    "text": "Excess Burden with Inelastic Demand\n\nSuppose that a tax is introduced on barley, but barley consumption does not change\nDoes this mean there is no excess burden?\nAnswer: no\n\nConsumer faces different relative prices\nThese distort the consumer’s choices\nThis leads to inefficiency, and excess burden"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-with-inelastic-demand-1",
+    "href": "slides/efficiency/index.html#excess-burden-with-inelastic-demand-1",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden with Inelastic Demand",
+    "text": "Excess Burden with Inelastic Demand\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph looks similar to before\nThis time barley consumption stays constant\nCorn consumption rises due to relatively lower price\nExcess burden is about the change in the consumption bundle\n\nNot just the change in quantity of one good"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves",
+    "href": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves",
+    "title": "EC313 - Taxation",
+    "section": "Aside: Compensated vs Ordinary Demand Curves",
+    "text": "Aside: Compensated vs Ordinary Demand Curves\n\nA demand curve measures the change in quantity demanded as price changes\nOrdinary (Marshallian) demand curve: measures the total change in quantity demanded as price changes\n\nIncludes both income and substitution effects\n\nCompensated (Hicksian) demand curve: measures the change in quantity demanded as price changes, holding utility constant\n\nOnly includes substitution effect\nCan hold utility constant at initial level or new level\n\nExcess burden is related to the substitution effect, so we use compensated demand curves"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves-1",
+    "href": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves-1",
+    "title": "EC313 - Taxation",
+    "section": "Aside: Compensated vs Ordinary Demand Curves",
+    "text": "Aside: Compensated vs Ordinary Demand Curves\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nConsider a tax on barley\n\nPrice of barley rises from \\(P_{B}\\) to \\(P_{B}(1+t)\\)\n\nThe ordinary demand curve measures change from old equilibrium at old prices to new equilibrium at new prices\n\nIncludes both income and substitution effects\n\nThe compensated demand curve measures starts from new utility curve at old prices then new equilibrium at new prices\n\nOnly includes substitution effect\n\nThe drop in demand is larger for ordinary demand"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves-2",
+    "href": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves-2",
+    "title": "EC313 - Taxation",
+    "section": "Aside: Compensated vs Ordinary Demand Curves",
+    "text": "Aside: Compensated vs Ordinary Demand Curves\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nDemand curve is plot of price vs quantity demanded\nOn left we plot price before and after tax against quantities\nDrop in quantity is larger for ordinary demand curve\n\nIncludes both income and substitution effects\nSo ordinary demand curve is flatter\n\nCompensated demand curve is steeper because it only includes substitution effect"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-with-demand-curves-1",
+    "href": "slides/efficiency/index.html#excess-burden-with-demand-curves-1",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden with Demand Curves",
+    "text": "Excess Burden with Demand Curves\n\nExcess burden of a tax is related to the substitution effect\nWe can use compensated demand curve to measure it\nRecall that it is loss in welfare beyond tax revenue collected\nThe loss in welfare to the consumer is measured by the drop in consumer surplus\n\nThis is the area under the compensated demand curve between old and new prices\n\nPart of that loss is tax revenue collected\n\nThis is the rectangle with height equal to the tax and width equal to new quantity\n\nThe other part is lost entirely to the consumer\n\nThis is the excess burden"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-with-demand-curves-2",
+    "href": "slides/efficiency/index.html#excess-burden-with-demand-curves-2",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden with Demand Curves",
+    "text": "Excess Burden with Demand Curves\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nImagine a tax is imposed on barley\nSupply is perfectly elastic\n\nSo economic incidence falls entirely on consumers\n\nPrice rises from \\(P_{B}\\) to \\(P_{B}(1+t)\\)\nCompensated quantity demanded falls from \\(B_{3}\\) to \\(B_{2}\\)\nTax revenue is green rectangle\nTotal fall in consumer surplus is green + blue areas\nExcess burden is blue area"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#pre-existing-distortions",
+    "href": "slides/efficiency/index.html#pre-existing-distortions",
+    "title": "EC313 - Taxation",
+    "section": "Pre-existing Distortions",
+    "text": "Pre-existing Distortions\n\nIn the real world, there are many taxes and regulations that distort behaviour\nIf a new tax is introduced, it may interact with these pre-existing distortions\n\nPre-existing distortions include monopoly power, externalities, and other taxes\n\nHaving pre-existing distortions complicates the analysis of excess burden\n\nA new tax may increase or decrease overall excess burden\nDepends on how it interacts with pre-existing distortions\n\nTheory of the Second Best: If economic optimum cannot be achieved (due to existing distortions), the next best solution may involve introducing additional distortions"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#pre-existing-distortions-1",
+    "href": "slides/efficiency/index.html#pre-existing-distortions-1",
+    "title": "EC313 - Taxation",
+    "section": "Pre-existing Distortions",
+    "text": "Pre-existing Distortions\n\nExample 1: pre-existing tax on good A\n\nThis tax distorts consumption away from good A\nIntroducing a tax on good B may lead consumers to substitute towards good A\nThis can reduce the excess burden on good A by increasing its consumption\nOverall excess burden may increase or decrease because of the new tax on good B"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#pre-existing-distortions-2",
+    "href": "slides/efficiency/index.html#pre-existing-distortions-2",
+    "title": "EC313 - Taxation",
+    "section": "Pre-existing Distortions",
+    "text": "Pre-existing Distortions\n\nExample 2: Minimum Wages\n\nA labour market monopsony leads to lower wages and employment than in a competitive market\nImposing a minimum wage can increase employment and reduce the excess burden caused by monopsony power\n\nExample 3: Externalities from Carbon\n\nA country has a negative externality from emissions and cannot impose a carbon tax\nThe next best outcome might involve subsidies for renewable energy, even if they distort energy markets\n\nGeneral lesson is that impact of tax is not limited to the market it directly affects\n\nOverall excess burden depends on interactions with other markets and distortions"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-of-a-subsidy",
+    "href": "slides/efficiency/index.html#excess-burden-of-a-subsidy",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden of a Subsidy",
+    "text": "Excess Burden of a Subsidy\n\nA subsidy is a negative tax\n\nIt lowers the price paid by consumers or received by producers\n\nProblem is that it can lead to over-consumption or over-production\n\nThis creates inefficiencies and excess burden\n\nA subsidy will increase welfare (consumer surplus) but the cost to the government may exceed this increase\n\nThe difference is the excess burden of the subsidy"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-of-a-subsidy-1",
+    "href": "slides/efficiency/index.html#excess-burden-of-a-subsidy-1",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden of a Subsidy",
+    "text": "Excess Burden of a Subsidy\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nPicture a housing subsidy\nPrior to subsidy, optimal consumption is \\(H_0\\) at price \\(P_h\\)\nSubsidy lowers price to \\((1-s)P_h\\)\nNew optimal consumption is \\(H_1\\)\nCost of subsidy is green plus blue rectangle\nIncrease in consumer surplus is green area\nExcess burden is blue triangle"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-of-income-tax",
+    "href": "slides/efficiency/index.html#excess-burden-of-income-tax",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden of Income Tax",
+    "text": "Excess Burden of Income Tax\n\nIncome taxes distort labour supply decisions\n\nHigher tax rates reduce the after-tax wage\nThis causes people to substitute away from labour towards leisure\nThis is a substitution effect that creates excess burden"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-of-income-tax-1",
+    "href": "slides/efficiency/index.html#excess-burden-of-income-tax-1",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden of Income Tax",
+    "text": "Excess Burden of Income Tax\n\n\n\n\n\n\n\nImagine a labour market with elastic labour demand\n\nSo a tax on labour is borne entirely by workers\n\nAn income tax shifts down labour demand curve from \\(D_0\\) to \\(D_1\\)\n\nReduces wage from \\(W_\\) to \\((1-t)W\\)\n\nInitially worker surplus is area below demand curve and above supply\nAfter tax, surplus falls by yellow plus green areas"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-of-income-tax-2",
+    "href": "slides/efficiency/index.html#excess-burden-of-income-tax-2",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden of Income Tax",
+    "text": "Excess Burden of Income Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nSome of the fall is collected by government as tax revenue\n\nThis is yellow rectangle\n\nThe green triangle is lost entirely\n\nThis is the excess burden\n\nResult is very similar to excess burden from a tax on goods\n\nExcept here the tax is on wages and workers are suppliers"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-of-income-tax-3",
+    "href": "slides/efficiency/index.html#excess-burden-of-income-tax-3",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden of Income Tax",
+    "text": "Excess Burden of Income Tax\n\nThe formula for excess burden is similar to that for goods\n\n\\[\\text{Excess Burden} = \\frac{1}{2} \\times (\\epsilon \\times L_{0}) \\times (t^2 W) \\]\n\nWhere \\(\\epsilon\\) is the elasticity of labour supply\nExcess burden depends on\n\nSize of tax \\(t\\)\n\nExcess burden rises with square of tax rate\n\nElasticity of labour supply \\(\\epsilon\\)\n\nMore elastic labour supply means larger excess burden\n\nInitial earnings \\(WL_{0}\\)\n\nLarger initial earnings means larger excess burden"
+  },
+  {
     "objectID": "slides/efficiency/index.html#references-1",
     "href": "slides/efficiency/index.html#references-1",
     "title": "EC313 - Taxation",
