@@ -560,280 +560,6 @@
     "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.\nFinances of the Nation. https://financesofthenation.ca/"
   },
   {
-    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-4",
-    "href": "questions/incidence/index.html#rttws-chapter-14-problem-4",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 14 Problem 4",
-    "text": "RTTWS Chapter 14 Problem 4\nIn the province of Alberta, the tax on hotel rooms is 5 percent. Supporters of this tax argue that the tax benefits the province because its payers are largely out-of-province tourists. Use the theory of tax incidence to analyze this claim."
-  },
-  {
-    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-6",
-    "href": "questions/incidence/index.html#rttws-chapter-14-problem-6",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 14 Problem 6",
-    "text": "RTTWS Chapter 14 Problem 6\nInternet purchases are thought to be highly sensitive to tax rates, and applying sales taxes to all such purchases substantially reduces the number of online buyers and the amount of online spending. What are the implications for the incidence of sales taxes that include internet sales?"
-  },
-  {
-    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-7",
-    "href": "questions/incidence/index.html#rttws-chapter-14-problem-7",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 14 Problem 7",
-    "text": "RTTWS Chapter 14 Problem 7\nSuppose that the demand for cigarettes in a hypothetical country is given by $Q_{c} = 2000-200P_{c}, where \\(Q_{c}\\) is the quantity of packs demanded and \\(P_{c}\\) is the price per pack. The supply of cigarettes is \\(Q_{s} = 200P_{s}\\).\n\nfind the price and quantity of cigarettes assuming the market is competitive"
-  },
-  {
-    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-7-1",
-    "href": "questions/incidence/index.html#rttws-chapter-14-problem-7-1",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 14 Problem 7",
-    "text": "RTTWS Chapter 14 Problem 7\n\nIn an effort to reduce smoking, the government levies a tax of $2 per pack. Compute the quantity of cigarettes after the tax, the price paid by consumers, and the price received by producers.How much revenue does the tax raise for the government? How much revenue comes from consumers and how much from producers?"
-  },
-  {
-    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-10",
-    "href": "questions/incidence/index.html#rttws-chapter-14-problem-10",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 14 Problem 10",
-    "text": "RTTWS Chapter 14 Problem 10\nAccording to the studny by Kleven, Jacobsen, Landais, and Saez (2013), the international migration decisions of top-earning European soccer plauers is very sensitive to income tax rates - when thye tax rates they face in their own country increase substantially, they move to another country. What are the implacations of this finding for the incidence of income taxes on such players? Support your answer with a graph."
-  },
-  {
-    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-11",
-    "href": "questions/incidence/index.html#rttws-chapter-14-problem-11",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 14 Problem 11",
-    "text": "RTTWS Chapter 14 Problem 11\nArnie has an income of Y and spends it only on food and music. Let \\(P_{F}\\) and \\(P_{M}\\) be the prices of food and music, respectively and denote the quantities by \\(Q_{F}\\) and \\(Q_{M}\\). In the absence of taxes, Arnie’s budget constraint is \\(Y = P_{F}Q_{F} + P_{M}Q_{M}\\). Now suppose an ad valorem tax of 25 percent is imposed on both food and music. What income tax rate is equivalent to this commidity tax?"
-  },
-  {
-    "objectID": "content/introtostata.html",
-    "href": "content/introtostata.html",
-    "title": "Introduction to Stata",
-    "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#tutorial",
-    "href": "content/introtostata.html#tutorial",
-    "title": "Introduction to Stata",
-    "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#videos",
-    "href": "content/introtostata.html#videos",
-    "title": "Introduction to Stata",
-    "section": "Videos",
-    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#other-resources",
-    "href": "content/introtostata.html#other-resources",
-    "title": "Introduction to Stata",
-    "section": "Other Resources",
-    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/index.html",
-    "href": "content/index.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
-    "crumbs": [
-      "Content",
-      "Overview",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "content/efficiency.html",
-    "href": "content/efficiency.html",
-    "title": "Taxation and Efficiency",
-    "section": "",
-    "text": "RTTWS Chapter 15 (omit section on “Differential Taxation of Inputs”)",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Taxation and Efficiency"
-    ]
-  },
-  {
-    "objectID": "content/efficiency.html#readings",
-    "href": "content/efficiency.html#readings",
-    "title": "Taxation and Efficiency",
-    "section": "",
-    "text": "RTTWS Chapter 15 (omit section on “Differential Taxation of Inputs”)",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Taxation and Efficiency"
-    ]
-  },
-  {
-    "objectID": "content/efficiency.html#slides",
-    "href": "content/efficiency.html#slides",
-    "title": "Taxation and Efficiency",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Taxation and Efficiency"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html",
-    "href": "assignments/assign1.html",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "In this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on the relationship between cigarette taxes and cigarette prices in the US, to check whether and by how much taxes are passed on to consumers in the form of higher prices. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html#description",
-    "href": "assignments/assign1.html#description",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "In this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on the relationship between cigarette taxes and cigarette prices in the US, to check whether and by how much taxes are passed on to consumers in the form of higher prices. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html#instructions",
-    "href": "assignments/assign1.html#instructions",
-    "title": "Assignment 1",
-    "section": "Instructions",
-    "text": "Instructions\n\nQuestions\nThe document below contains the assignment questions. Please provide all answers in the space below each question. If the question requires any Stata code, please include the code relevant to that question in the space provided. Also include the relevant output. Note: output must be reformatted into a professional-looking table or figure. Do not simply copy and paste (or screenshot) the Stata output.\n ec313assign1.docx\nWhen you save the file to your computer, please rename it with your family name and student number, with no spaces.\n\n\nData analysis\nThe data come from the Tax Burden on Tobacco dataset created by Orzechowski and Walker, and downloaded from the Centers for Disease Control (CDC) . It contains data on cigarette prices, taxes, sales, and revenues for each of the 50 US states from 1970 to 2019. Note that the data are a panel (repeated observations on each state over time) and have been set as a panel (using xtset) with \\(state_abbr\\) as the panel variable and \\(year\\) as the year variable in Stata. This means you can use the set of xt commands in Stata to analyze the data.\nThe data file is linked below.\n ec313assign1.dta\n\n\nSubmission\nWhen you are finished, you are required to submit three documents according to the following instructions:\n\nYour .do and .log file. Submit this in MyLearningSpace only.\nA rendered PDF of your answers to the questions. Submit this in both MyLearningSpace and Gradescope.\n\n\n\nPlagiarism\nThis is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else’s work verbatim, which includes Stata code. Any work you submit should be yours only. However, you are encouraged to talk to each other to try to figure out how to do the assignment.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/index.html",
-    "href": "assignments/index.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Here you will find the problem sets for all your assignments, and any other information related to your assignments.",
-    "crumbs": [
-      "Assignments",
-      "Overview",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "content/incidence.html",
-    "href": "content/incidence.html",
-    "title": "Tax Incidence",
-    "section": "",
-    "text": "RTTWS Chapter 14",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Tax Incidence"
-    ]
-  },
-  {
-    "objectID": "content/incidence.html#readings",
-    "href": "content/incidence.html#readings",
-    "title": "Tax Incidence",
-    "section": "",
-    "text": "RTTWS Chapter 14",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Tax Incidence"
-    ]
-  },
-  {
-    "objectID": "content/incidence.html#slides",
-    "href": "content/incidence.html#slides",
-    "title": "Tax Incidence",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Tax Incidence"
-    ]
-  },
-  {
-    "objectID": "content/incidence.html#sample-questions",
-    "href": "content/incidence.html#sample-questions",
-    "title": "Tax Incidence",
-    "section": "Sample Questions",
-    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Tax Incidence"
-    ]
-  },
-  {
-    "objectID": "content/introtopf.html",
-    "href": "content/introtopf.html",
-    "title": "Introduction to Public Finance",
-    "section": "",
-    "text": "RTTWS Chapter 1",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Public Finance"
-    ]
-  },
-  {
-    "objectID": "content/introtopf.html#readings",
-    "href": "content/introtopf.html#readings",
-    "title": "Introduction to Public Finance",
-    "section": "",
-    "text": "RTTWS Chapter 1",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Public Finance"
-    ]
-  },
-  {
-    "objectID": "content/introtopf.html#slides",
-    "href": "content/introtopf.html#slides",
-    "title": "Introduction to Public Finance",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Public Finance"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\n            Public Economics: Taxation\n        ",
-    "section": "",
-    "text": "The Economics of Taxation\n        \n        \n            EC313 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Tue/Thu\n   Sept-Dec 2025\n   4:00 - 5:20 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
-  },
-  {
     "objectID": "slides/efficiency/index.html#goals-of-this-section-1",
     "href": "slides/efficiency/index.html#goals-of-this-section-1",
     "title": "EC313 - Taxation",
@@ -902,6 +628,20 @@
     "title": "EC313 - Taxation",
     "section": "Excess Burden",
     "text": "Excess Burden\n\nAn ad valorem tax on one good creates two effects\n\nIncome effect: consumer is poorer, so consumes less of all normal goods\nSubstitution effect: relative price of taxed good rises, so consumer substitutes away from taxed good\n\nExcess burden arises because of the substitution effect\n\nConsumer substitutes away from taxed good to other goods\nThis leads to a loss in welfare beyond the tax revenue collected\n\nOne way to see this is to compare an ad valorem tax to a lump-sum tax\n\nLump-sum tax only has income effect, no substitution effect\nSo no excess burden"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#lump-sum-tax",
+    "href": "slides/efficiency/index.html#lump-sum-tax",
+    "title": "EC313 - Taxation",
+    "section": "Lump Sum Tax",
+    "text": "Lump Sum Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nA lump-sum tax \\(T\\) is imposed\nNew budget constraint is \\(I -T = P_{B}B + P_{C}C\\)\nRearranging gives\n\n\\[C = \\frac{I-T}{P_{C}} - \\frac{P_{B}}{P_{C}}B\\]\n\nBudget line shifts down in parallel by \\(T\\)\n\nPrices do not change, so slope does not either\n\nNew optimal bundle is \\(B_3\\) and \\(C_3\\)"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#lump-sum-tax-1",
+    "href": "slides/efficiency/index.html#lump-sum-tax-1",
+    "title": "EC313 - Taxation",
+    "section": "Lump Sum Tax",
+    "text": "Lump Sum Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nTax revenue is \\(T\\)\n\nDoes not depend on how much of each good is consumed\n\nEquivalent variation is also \\(T\\)\n\nDistance between original and new budget lines is \\(T\\)\n\nSo there is no excess burden\n\nWelfare loss equals tax revenue collected\n\nArises because a lump sum tax is a pure income effect\n\nNo substitution effect, so no excess burden"
   },
   {
     "objectID": "slides/efficiency/index.html#efficiency",
@@ -1013,7 +753,7 @@
     "href": "slides/efficiency/index.html#excess-burden-of-income-tax-1",
     "title": "EC313 - Taxation",
     "section": "Excess Burden of Income Tax",
-    "text": "Excess Burden of Income Tax\n\n\n\n\n\n\n\nImagine a labour market with elastic labour demand\n\nSo a tax on labour is borne entirely by workers\n\nAn income tax shifts down labour demand curve from \\(D_0\\) to \\(D_1\\)\n\nReduces wage from \\(W_\\) to \\((1-t)W\\)\n\nInitially worker surplus is area below demand curve and above supply\nAfter tax, surplus falls by yellow plus green areas"
+    "text": "Excess Burden of Income Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nImagine a labour market with elastic labour demand\n\nSo a tax on labour is borne entirely by workers\n\nAn income tax shifts down labour demand curve from \\(D_0\\) to \\(D_1\\)\n\nReduces wage from \\(W\\) to \\((1-t)W\\)\n\nInitially worker surplus is area below demand curve and above supply\nAfter tax, surplus falls by yellow plus green areas"
   },
   {
     "objectID": "slides/efficiency/index.html#excess-burden-of-income-tax-2",
@@ -1030,8 +770,479 @@
     "text": "Excess Burden of Income Tax\n\nThe formula for excess burden is similar to that for goods\n\n\\[\\text{Excess Burden} = \\frac{1}{2} \\times (\\epsilon \\times L_{0}) \\times (t^2 W) \\]\n\nWhere \\(\\epsilon\\) is the elasticity of labour supply\nExcess burden depends on\n\nSize of tax \\(t\\)\n\nExcess burden rises with square of tax rate\n\nElasticity of labour supply \\(\\epsilon\\)\n\nMore elastic labour supply means larger excess burden\n\nInitial earnings \\(WL_{0}\\)\n\nLarger initial earnings means larger excess burden"
   },
   {
+    "objectID": "slides/efficiency/index.html#summary-1",
+    "href": "slides/efficiency/index.html#summary-1",
+    "title": "EC313 - Taxation",
+    "section": "Summary",
+    "text": "Summary\n\nTaxes are used in part to raise revenue for the government\nThey impose a direct cost to consumers of the tax revenue collected\nBut they also distort behaviour and create an excess burden\n\nLoss in welfare beyond tax revenue collected\n\nExcess burden arises from the substitution effect of a tax\nThe size of the excess burden depends on pre-existing distortions\nTheory of the Second Best says that when distortions exist, best outcome may involve additional distortions"
+  },
+  {
     "objectID": "slides/efficiency/index.html#references-1",
     "href": "slides/efficiency/index.html#references-1",
+    "title": "EC313 - Taxation",
+    "section": "References",
+    "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n            Public Economics: Taxation\n        ",
+    "section": "",
+    "text": "The Economics of Taxation\n        \n        \n            EC313 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Tue/Thu\n   Sept-Dec 2025\n   4:00 - 5:20 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
+  },
+  {
+    "objectID": "content/introtopf.html",
+    "href": "content/introtopf.html",
+    "title": "Introduction to Public Finance",
+    "section": "",
+    "text": "RTTWS Chapter 1",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Public Finance"
+    ]
+  },
+  {
+    "objectID": "content/introtopf.html#readings",
+    "href": "content/introtopf.html#readings",
+    "title": "Introduction to Public Finance",
+    "section": "",
+    "text": "RTTWS Chapter 1",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Public Finance"
+    ]
+  },
+  {
+    "objectID": "content/introtopf.html#slides",
+    "href": "content/introtopf.html#slides",
+    "title": "Introduction to Public Finance",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Public Finance"
+    ]
+  },
+  {
+    "objectID": "content/incidence.html",
+    "href": "content/incidence.html",
+    "title": "Tax Incidence",
+    "section": "",
+    "text": "RTTWS Chapter 14",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Tax Incidence"
+    ]
+  },
+  {
+    "objectID": "content/incidence.html#readings",
+    "href": "content/incidence.html#readings",
+    "title": "Tax Incidence",
+    "section": "",
+    "text": "RTTWS Chapter 14",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Tax Incidence"
+    ]
+  },
+  {
+    "objectID": "content/incidence.html#slides",
+    "href": "content/incidence.html#slides",
+    "title": "Tax Incidence",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Tax Incidence"
+    ]
+  },
+  {
+    "objectID": "content/incidence.html#sample-questions",
+    "href": "content/incidence.html#sample-questions",
+    "title": "Tax Incidence",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Tax Incidence"
+    ]
+  },
+  {
+    "objectID": "content/efficiency.html",
+    "href": "content/efficiency.html",
+    "title": "Taxation and Efficiency",
+    "section": "",
+    "text": "RTTWS Chapter 15 (omit section on “Differential Taxation of Inputs”)",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Taxation and Efficiency"
+    ]
+  },
+  {
+    "objectID": "content/efficiency.html#readings",
+    "href": "content/efficiency.html#readings",
+    "title": "Taxation and Efficiency",
+    "section": "",
+    "text": "RTTWS Chapter 15 (omit section on “Differential Taxation of Inputs”)",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Taxation and Efficiency"
+    ]
+  },
+  {
+    "objectID": "content/efficiency.html#slides",
+    "href": "content/efficiency.html#slides",
+    "title": "Taxation and Efficiency",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Taxation and Efficiency"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html",
+    "href": "assignments/assign1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "In this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on the relationship between cigarette taxes and cigarette prices in the US, to check whether and by how much taxes are passed on to consumers in the form of higher prices. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html#description",
+    "href": "assignments/assign1.html#description",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "In this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on the relationship between cigarette taxes and cigarette prices in the US, to check whether and by how much taxes are passed on to consumers in the form of higher prices. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html#instructions",
+    "href": "assignments/assign1.html#instructions",
+    "title": "Assignment 1",
+    "section": "Instructions",
+    "text": "Instructions\n\nQuestions\nThe document below contains the assignment questions. Please provide all answers in the space below each question. If the question requires any Stata code, please include the code relevant to that question in the space provided. Also include the relevant output. Note: output must be reformatted into a professional-looking table or figure. Do not simply copy and paste (or screenshot) the Stata output.\n ec313assign1.docx\nWhen you save the file to your computer, please rename it with your family name and student number, with no spaces.\n\n\nData analysis\nThe data come from the Tax Burden on Tobacco dataset created by Orzechowski and Walker, and downloaded from the Centers for Disease Control (CDC) . It contains data on cigarette prices, taxes, sales, and revenues for each of the 50 US states from 1970 to 2019. Note that the data are a panel (repeated observations on each state over time) and have been set as a panel (using xtset) with \\(state_abbr\\) as the panel variable and \\(year\\) as the year variable in Stata. This means you can use the set of xt commands in Stata to analyze the data.\nThe data file is linked below.\n ec313assign1.dta\n\n\nSubmission\nWhen you are finished, you are required to submit three documents according to the following instructions:\n\nYour .do and .log file. Submit this in MyLearningSpace only.\nA rendered PDF of your answers to the questions. Submit this in both MyLearningSpace and Gradescope.\n\n\n\nPlagiarism\nThis is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else’s work verbatim, which includes Stata code. Any work you submit should be yours only. However, you are encouraged to talk to each other to try to figure out how to do the assignment.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find the problem sets for all your assignments, and any other information related to your assignments.",
+    "crumbs": [
+      "Assignments",
+      "Overview",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/equitable.html",
+    "href": "content/equitable.html",
+    "title": "Taxation and Efficiency",
+    "section": "",
+    "text": "RTTWS Chapter 16",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Efficient and Equitable Taxation"
+    ]
+  },
+  {
+    "objectID": "content/equitable.html#readings",
+    "href": "content/equitable.html#readings",
+    "title": "Taxation and Efficiency",
+    "section": "",
+    "text": "RTTWS Chapter 16",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Efficient and Equitable Taxation"
+    ]
+  },
+  {
+    "objectID": "content/equitable.html#slides",
+    "href": "content/equitable.html#slides",
+    "title": "Taxation and Efficiency",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Efficient and Equitable Taxation"
+    ]
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
+    "crumbs": [
+      "Content",
+      "Overview",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html",
+    "href": "content/introtostata.html",
+    "title": "Introduction to Stata",
+    "section": "",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#tutorial",
+    "href": "content/introtostata.html#tutorial",
+    "title": "Introduction to Stata",
+    "section": "",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#videos",
+    "href": "content/introtostata.html#videos",
+    "title": "Introduction to Stata",
+    "section": "Videos",
+    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#other-resources",
+    "href": "content/introtostata.html#other-resources",
+    "title": "Introduction to Stata",
+    "section": "Other Resources",
+    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-4",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-4",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 4",
+    "text": "RTTWS Chapter 14 Problem 4\nIn the province of Alberta, the tax on hotel rooms is 5 percent. Supporters of this tax argue that the tax benefits the province because its payers are largely out-of-province tourists. Use the theory of tax incidence to analyze this claim."
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-6",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-6",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 6",
+    "text": "RTTWS Chapter 14 Problem 6\nInternet purchases are thought to be highly sensitive to tax rates, and applying sales taxes to all such purchases substantially reduces the number of online buyers and the amount of online spending. What are the implications for the incidence of sales taxes that include internet sales?"
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-7",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-7",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 7",
+    "text": "RTTWS Chapter 14 Problem 7\nSuppose that the demand for cigarettes in a hypothetical country is given by $Q_{c} = 2000-200P_{c}, where \\(Q_{c}\\) is the quantity of packs demanded and \\(P_{c}\\) is the price per pack. The supply of cigarettes is \\(Q_{s} = 200P_{s}\\).\n\nfind the price and quantity of cigarettes assuming the market is competitive"
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-7-1",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-7-1",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 7",
+    "text": "RTTWS Chapter 14 Problem 7\n\nIn an effort to reduce smoking, the government levies a tax of $2 per pack. Compute the quantity of cigarettes after the tax, the price paid by consumers, and the price received by producers.How much revenue does the tax raise for the government? How much revenue comes from consumers and how much from producers?"
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-10",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-10",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 10",
+    "text": "RTTWS Chapter 14 Problem 10\nAccording to the studny by Kleven, Jacobsen, Landais, and Saez (2013), the international migration decisions of top-earning European soccer plauers is very sensitive to income tax rates - when thye tax rates they face in their own country increase substantially, they move to another country. What are the implacations of this finding for the incidence of income taxes on such players? Support your answer with a graph."
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-11",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-11",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 11",
+    "text": "RTTWS Chapter 14 Problem 11\nArnie has an income of Y and spends it only on food and music. Let \\(P_{F}\\) and \\(P_{M}\\) be the prices of food and music, respectively and denote the quantities by \\(Q_{F}\\) and \\(Q_{M}\\). In the absence of taxes, Arnie’s budget constraint is \\(Y = P_{F}Q_{F} + P_{M}Q_{M}\\). Now suppose an ad valorem tax of 25 percent is imposed on both food and music. What income tax rate is equivalent to this commidity tax?"
+  },
+  {
+    "objectID": "slides/equitable/index.html#goals-of-this-section-1",
+    "href": "slides/equitable/index.html#goals-of-this-section-1",
+    "title": "EC313 - Taxation",
+    "section": "Goals of This Section",
+    "text": "Goals of This Section\n\nDiscuss the effects of price changes on consumer behaviour\nIntroduce the concept of excess burden of a tax\nShow how to measure excess burden using indifference curves\nShow how to measure excess burden using demand/supply curves\nShow equivalent interpretation with elasticities\nDiscuss factors that affect excess burden"
+  },
+  {
+    "objectID": "slides/equitable/index.html#introduction",
+    "href": "slides/equitable/index.html#introduction",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nAs we have discussed, government raise taxes mainly to raise revenue\nBut taxes involve costs\n\nThe direct cost of the revenue raised\nAdditional costs from distortions in behaviour (excess burden)\n\nGiven that revenue needs to be raised, how should taxes be designed to minimize costs?\nOptimal taxation addresses this question"
+  },
+  {
+    "objectID": "slides/equitable/index.html#model",
+    "href": "slides/equitable/index.html#model",
+    "title": "EC313 - Taxation",
+    "section": "Model",
+    "text": "Model\n\nQuestion of optimal taxation is answered with a model\nA representative citizen consumes two goods, \\(X\\) and \\(Y\\)\n\nPrices of these goods are \\(P_{X}\\) and \\(P_{Y}\\)\n\nPerson can also work and earn wage \\(w\\)\n\nPerson has \\(T\\) hours available for work (\\(h\\)) or leisure (\\(L\\))\nThese are the only two uses of time, so \\(T = h + L\\)\n\nTheir budget constraint in this context is\n\n\\[ w(T - L) = P_{X}X + P_{Y}Y\\]\n\nConstraint says that income is split between spending on goods \\(X\\) and \\(Y\\)"
+  },
+  {
+    "objectID": "slides/equitable/index.html#model-1",
+    "href": "slides/equitable/index.html#model-1",
+    "title": "EC313 - Taxation",
+    "section": "Model",
+    "text": "Model\n\nIf you rearrange the budget constraint, you can write it as\n\n\\[wT = P_{X}X + P_{Y}Y + wL\\]\n\nShows that “full income” is split between spending on goods \\(X\\) and \\(Y\\) and spending on leisure\n\nFull income is \\(wT\\) because if all time was worked, income would be \\(wT\\)\nPrice of leisure is \\(w\\) because each hour of leisure foregoes \\(w\\) in earnings\n\nSuppose we tax goods \\(X\\), \\(Y\\), and \\(L\\) at rate \\(t\\)\nThen the budget constraint becomes\n\n\\[ wT = (1 + t)P_{X}X + (1 + t)P_{Y}Y + (1 + t)wL\\]"
+  },
+  {
+    "objectID": "slides/equitable/index.html#model-2",
+    "href": "slides/equitable/index.html#model-2",
+    "title": "EC313 - Taxation",
+    "section": "Model",
+    "text": "Model\n\nRearranging gives\n\n\\[wT = (1+t)(P_{X}X + P_{Y}Y + wL)\\]\n\\[ \\frac{wT}{1 + t} = P_{X}X + P_{Y}Y + wL\\]\n\nIn this setup, a tax on all goods and leisure is equivalent to a reduction in full income by a factor of \\(\\frac{1}{1 + t}\\)\n\nWe saw this in one of the practice questions"
+  },
+  {
+    "objectID": "slides/equitable/index.html#model-3",
+    "href": "slides/equitable/index.html#model-3",
+    "title": "EC313 - Taxation",
+    "section": "Model",
+    "text": "Model\n\nIf we could tax all goods and leisure at the same rate, we would not distort behaviour\n\nPeople would still choose the same combination of goods and leisure\n\nWhy?\n\nBecause relative prices are unchanged\nThe commodity taxes are equivalent to a lump-sum tax that reduces income\n\nBut in practice, we cannot tax all goods and leisure at the same rate\n\nWe cannot tax leisure directly\nCan only tax \\(X\\) and \\(Y\\) in this setup\n\nTaxing some goods (\\(X\\) and \\(Y\\)) but not others (\\(L\\)) distorts relative prices and leads to excess burden"
+  },
+  {
+    "objectID": "slides/equitable/index.html#ramsey-rule",
+    "href": "slides/equitable/index.html#ramsey-rule",
+    "title": "EC313 - Taxation",
+    "section": "Ramsey Rule",
+    "text": "Ramsey Rule\n\nQuestion then becomes: If we cannot tax all goods at the same rate, how should we tax them?\nOne option is neutral taxation: taxing \\(X\\) and \\(Y\\) at the same rate\n\nThis is simple and easy to administer\nBut it still distorts behaviour and creates excess burden\n\nThe optimal method is the Ramsey Rule: tax goods so that the percent reduction in quantity demanded is the same for all goods\n\nEquivalently, tax goods so that the marginal excess burden of the last dollar of revenue raised is the same for all goods\n\nThe next few slides establish this result"
+  },
+  {
+    "objectID": "slides/equitable/index.html#ramsey-rule-1",
+    "href": "slides/equitable/index.html#ramsey-rule-1",
+    "title": "EC313 - Taxation",
+    "section": "Ramsey Rule",
+    "text": "Ramsey Rule\n\nConsider again two goods, \\(X\\) and \\(Y\\), with prices \\(P_{X}\\) and \\(P_{Y}\\)\nPretend that goods are neither substitutes nor complements\n\nSimplifies the analysis because changes in their prices do not affect each other’s demand\nResults still hold for substitutes and complements, but analysis is more complex\n\nAlso pretend the supply curve is horizontal\n\nConsumers face the entire economic incidence of the tax\nAgain simplifies the analysis because we do not have to consider supply side effects\n\nConsider a unit tax \\(u_{X}\\) on good \\(X\\)"
+  },
+  {
+    "objectID": "slides/equitable/index.html#ramsey-rule-2",
+    "href": "slides/equitable/index.html#ramsey-rule-2",
+    "title": "EC313 - Taxation",
+    "section": "Ramsey Rule",
+    "text": "Ramsey Rule\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nConsumer initially consumes \\(X_{0}\\) at price \\(P_{0}\\)\nAfter tax \\(u_{X}\\) is imposed, price rises to \\(P_{0} + u_{X}\\)\nConsumer reduces consumption to \\(X_{1}\\)\nAs we have learned this involves an excess burden\n\nEquals area of yellow triangle\nRepresents the loss in consumer surplus"
+  },
+  {
+    "objectID": "slides/equitable/index.html#ramsey-rule-3",
+    "href": "slides/equitable/index.html#ramsey-rule-3",
+    "title": "EC313 - Taxation",
+    "section": "Ramsey Rule",
+    "text": "Ramsey Rule\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nNow imagine raising the tax further from \\(u_{X}\\) to \\(u_{X} + 1\\)\nThe additional excess burden created is the marginal excess burden\n\nEquals area of purple triangle\n\nPart of that excess burden was tax revenue (purple rectangle)\nOther part is additional loss in consumer surplus (purple triangle)"
+  },
+  {
+    "objectID": "slides/equitable/index.html#ramsey-rule-4",
+    "href": "slides/equitable/index.html#ramsey-rule-4",
+    "title": "EC313 - Taxation",
+    "section": "Ramsey Rule",
+    "text": "Ramsey Rule\n\nThe marginal excess burden of the tax on good \\(X\\) is the purple area\n\nEquals area of the purple triangle plus the purple rectangle\n\nTo compute that mathematically, set \\(\\Delta x = X_{1} - X_{2}\\)\nThe total area is then\n\n\\[ (\\frac{1}{2} \\Delta x \\times 1) + (\\Delta x u_{X})  \\]\n\nAs noted in the textbook, if we pretend that \\(\\frac{1}{2} \\Delta x\\) is very small, we can ignore it\n\nSo marginal excess burden is approximately \\(\\Delta x u_{X}\\)"
+  },
+  {
+    "objectID": "slides/equitable/index.html#ramsey-rule-5",
+    "href": "slides/equitable/index.html#ramsey-rule-5",
+    "title": "EC313 - Taxation",
+    "section": "Ramsey Rule",
+    "text": "Ramsey Rule\n\nGoing one step further, note that the slope of the demand curve is \\[ \\frac{u_{X}}{\\Delta X} = \\frac{1}{\\Delta x} \\]\n\n\\(\\Delta X = X_{0} - X_{1}\\), the initial change in quantity demanded from the initial tax\nBoth represent the rise over the run\n\nRearranging gives\n\n\\[ \\Delta x u_{X} = \\Delta X\\]\n\nThe marginal excess burden of the tax on good \\(X\\) is approximately \\(\\Delta X\\)\n\nThe change in quantity demanded from the initial tax"
+  },
+  {
+    "objectID": "slides/equitable/index.html#ramsey-rule-6",
+    "href": "slides/equitable/index.html#ramsey-rule-6",
+    "title": "EC313 - Taxation",
+    "section": "Ramsey Rule",
+    "text": "Ramsey Rule\n\nWhat about the change in revenue?\nInitially revenue was larger green rectangle plus purple rectangle\nAfter, it is larger green rectangle plus smaller green rectangle\nThe marginal tax revenue is therefore the smaller green rectangle minus the purple rectangle\n\n\\[ (X_{2} \\times 1) - (\\Delta x u_{X}) \\]\n\nWe previously saw that \\(\\Delta x u_{X} = \\Delta X\\)\nWe also know that \\(X_{2} = X_{1} - \\Delta x\\)\nSubbing in gives us\n\n\\[ X_{1} - \\Delta x - \\Delta X  \\]"
+  },
+  {
+    "objectID": "slides/equitable/index.html#ramsey-rule-7",
+    "href": "slides/equitable/index.html#ramsey-rule-7",
+    "title": "EC313 - Taxation",
+    "section": "Ramsey Rule",
+    "text": "Ramsey Rule\n\nIF we pretend that \\(\\Delta x\\) is very small, we can ignore it\n\nSo marginal tax revenue is approximately \\(X_{1} - \\Delta X\\)\n\nThe marginal excess burden per dollar of additional revenue is\n\n\\[ \\frac{\\Delta X}{X_{1} - \\Delta X} \\]\n\nIf we repeat this exact exercise for good \\(Y\\), we find that the marginal excess burden per dollar of additional revenue is\n\n\\[ \\frac{\\Delta Y}{Y_{1} - \\Delta Y} \\]"
+  },
+  {
+    "objectID": "slides/equitable/index.html#ramsey-rule-8",
+    "href": "slides/equitable/index.html#ramsey-rule-8",
+    "title": "EC313 - Taxation",
+    "section": "Ramsey Rule",
+    "text": "Ramsey Rule\n\nIf we set them equal\n\n\\[ \\frac{\\Delta X}{X_{1} - \\Delta X} = \\frac{\\Delta Y}{Y_{1} - \\Delta Y} \\]\n\nWhich simplifies to the Ramsey Rule\n\n\\[ \\frac{\\Delta X}{X_{1}} = \\frac{\\Delta Y}{Y_{1}} \\]\n\nIf you multiply both sides by \\(100\\) to express this as a percentage, it says percent change in quantity demanded of \\(X\\) equals percent change in quantity demanded of \\(Y\\)"
+  },
+  {
+    "objectID": "slides/equitable/index.html#ramsey-rule-with-elasticities",
+    "href": "slides/equitable/index.html#ramsey-rule-with-elasticities",
+    "title": "EC313 - Taxation",
+    "section": "Ramsey Rule with Elasticities",
+    "text": "Ramsey Rule with Elasticities\n\nEconomists enjoy expressing things in terms of elasticities\nThe price elasticity of demand is\n\n\\[ \\eta_{X} = \\frac{\\Delta X}{\\Delta P_{X}} \\times \\frac{P_{X}}{X} \\]\n\nRearrange that to get\n\n\\[ \\frac{\\Delta X}{X} = \\eta_{X} \\times \\frac{\\Delta P_{X}}{P_{X}} \\] - Substitute that into the Ramsey Rule to get"
+  },
+  {
+    "objectID": "slides/equitable/index.html#ramsey-rule-with-elasticities-1",
+    "href": "slides/equitable/index.html#ramsey-rule-with-elasticities-1",
+    "title": "EC313 - Taxation",
+    "section": "Ramsey Rule with Elasticities",
+    "text": "Ramsey Rule with Elasticities\n\nIn this case, consider instead an ad valorem tax that makes the price rise to \\(P_{X}(1 + t_{X})\\)\nThe numerator of this fraction is then \\(\\Delta P_{X} = P_{X}(1+t_{X}) -  P_{X} = P_{X}t_{X}\\)\nSubstituting into the equation on the previous slide gives\n\n\\[\\frac{\\Delta X}{X}  =  \\eta_{X} \\times t_{X}  \\] - the Ramsay Rule then becomes\n\\[ \\eta_{X} t_{X} = \\eta_{Y} t_{Y} \\]\n\nEquivalently\n\n\\[ \\frac{t_{X}}{t_{Y}} = \\frac{\\eta_{Y}}{\\eta_{X}} \\]"
+  },
+  {
+    "objectID": "slides/equitable/index.html#ramsey-rule-with-elasticities-2",
+    "href": "slides/equitable/index.html#ramsey-rule-with-elasticities-2",
+    "title": "EC313 - Taxation",
+    "section": "Ramsey Rule with Elasticities",
+    "text": "Ramsey Rule with Elasticities\n\nThe inverse elasticity rule says that the optimal tax rate on a good is inversely proportional to its price elasticity of demand\n\nIf good \\(Y\\) has a high elasticity relative to good \\(X\\), then \\(t_{X}\\) should be higher than \\(t_{Y}\\)\n\nWhy?\n\nBecause a tax on a good with a high elasticity will cause a large reduction in quantity demanded\nThis creates a large excess burden\nSo to minimize excess burden, tax goods with high elasticities less"
+  },
+  {
+    "objectID": "slides/equitable/index.html#corlett-hague-rule",
+    "href": "slides/equitable/index.html#corlett-hague-rule",
+    "title": "EC313 - Taxation",
+    "section": "Corlett-Hague Rule",
+    "text": "Corlett-Hague Rule\n\nRecall that we could not tax leisure directly\n\nAnd therefore could not apply an efficient (lump-sum equivalent) tax\nThis created the excess burden\n\nCorlett-Hague suggest approximating a leisure tax by taxing goods that are complements (used together with) to leisure\n\nExamples: tax sporting equipment, household appliances, recreational vehicles, etc.\n\nThis indirectly lowers demand for leisure and acts like a tax on leisure\nGets us a bit closer to the most efficient outcome"
+  },
+  {
+    "objectID": "slides/equitable/index.html#equity-in-taxation",
+    "href": "slides/equitable/index.html#equity-in-taxation",
+    "title": "EC313 - Taxation",
+    "section": "Equity in Taxation",
+    "text": "Equity in Taxation\n\nRamsey rule implies taxing goods that are inelastic more heavily\nMakes sense when those goods are socially undesirable (e.g., cigarettes, alcohol)\nBut what if those goods are necessities (e.g., food, clothing, housing, medicine)?\nProblematic for a few reasons, but one is that it lacks vertical equity\n\nVertical equity: people with greater ability to pay should pay more in taxes\n\nYou can modify the Ramsey rule to account for vertical equity\n\nA modified rule may tax necessities less heavily\nEssentially allows for larger excess burden to achieve greater equity"
+  },
+  {
+    "objectID": "slides/equitable/index.html#summary",
+    "href": "slides/equitable/index.html#summary",
+    "title": "EC313 - Taxation",
+    "section": "Summary",
+    "text": "Summary\n\nIn the real world we cannot achieve the efficient outcome of a lump-sum tax to raise government revenue\nDistortionary taxes change behaviour and create an excess burden\nWe can design the tax system to minimize the excess burden\nThe Ramsey rule gives that optimal design\nBut tax efficiency is not the sole consideration\n\nEquity is also important\nThe optimal rule can change to account for equity considerations"
+  },
+  {
+    "objectID": "slides/equitable/index.html#references-1",
+    "href": "slides/equitable/index.html#references-1",
     "title": "EC313 - Taxation",
     "section": "References",
     "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022."

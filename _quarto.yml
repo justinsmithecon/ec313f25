@@ -40,7 +40,9 @@ website:
             - text: "Taxation and Efficiency"
               file: content/efficiency.qmd
             - text: "Introduction to Stata"
-              file: content/introtostata.qmd  
+              file: content/introtostata.qmd
+            - text: "Efficient and Equitable Taxation"
+              file: content/equitable.qmd
               
     - title: "Assignments"
       style: "docked"

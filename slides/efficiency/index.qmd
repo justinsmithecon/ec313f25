@@ -33,13 +33,13 @@ editor: visual
 
 -   Discuss the effects of price changes on consumer behaviour
 
--  Introduce the concept of excess burden of a tax
+-   Introduce the concept of excess burden of a tax
 
 -   Show how to measure excess burden using indifference curves
 
 -   Show how to measure excess burden using demand/supply curves
 
-- Show equivalent interpretation with elasticities
+-   Show equivalent interpretation with elasticities
 
 -   Discuss factors that affect excess burden
 
@@ -247,7 +247,7 @@ $$P_{C}(C^{'} - C_{2}) = tP_{B}B_2$$
 
     -   So no excess burden
 
-# Lump Sum Tax
+## Lump Sum Tax
 
 :::::: columns
 :::: {.column width="50%"}
@@ -259,11 +259,11 @@ $$P_{C}(C^{'} - C_{2}) = tP_{B}B_2$$
 ::: {.column width="50%"}
 -   A lump-sum tax $T$ is imposed
 
--   New budget constraint is $I -T = P_{B}(1+t)B + P_{C}C$
+-   New budget constraint is $I -T = P_{B}B + P_{C}C$
 
 -   Rearranging gives
 
-$$C = \frac{I-T}{P_{C}} - \frac{P_{B}(1+t)}{P_{C}}B$$
+$$C = \frac{I-T}{P_{C}} - \frac{P_{B}}{P_{C}}B$$
 
 -   Budget line shifts down in parallel by $T$
 
@@ -273,7 +273,7 @@ $$C = \frac{I-T}{P_{C}} - \frac{P_{B}(1+t)}{P_{C}}B$$
 :::
 ::::::
 
-# Lump Sum Tax
+## Lump Sum Tax
 
 :::::: columns
 :::: {.column width="50%"}
@@ -639,6 +639,10 @@ $$\text{Excess Burden} = \frac{1}{2} \times (\eta\times B_{3}) \times (t^2 P_{b}
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
+
+![](images/clipboard-1839227144.png)
+
+
 :::
 ::::
 
@@ -649,7 +653,7 @@ $$\text{Excess Burden} = \frac{1}{2} \times (\eta\times B_{3}) \times (t^2 P_{b}
 
 -   An income tax shifts down labour demand curve from $D_0$ to $D_1$
 
-    -   Reduces wage from $W_$ to $(1-t)W$
+    -   Reduces wage from $W$ to $(1-t)W$
 
 -   Initially worker surplus is area below demand curve and above supply
 
@@ -674,13 +678,12 @@ $$\text{Excess Burden} = \frac{1}{2} \times (\eta\times B_{3}) \times (t^2 P_{b}
 -   The green triangle is lost entirely
 
     -   This is the excess burden
-    
-- Result is very similar to excess burden from a tax on goods
 
-    - Except here the tax is on wages and workers are suppliers
+-   Result is very similar to excess burden from a tax on goods
+
+    -   Except here the tax is on wages and workers are suppliers
 :::
 ::::::
-
 
 ## Excess Burden of Income Tax
 
@@ -688,9 +691,9 @@ $$\text{Excess Burden} = \frac{1}{2} \times (\eta\times B_{3}) \times (t^2 P_{b}
 
 $$\text{Excess Burden} = \frac{1}{2} \times (\epsilon \times L_{0}) \times (t^2 W) $$
 
--  Where $\epsilon$ is the elasticity of labour supply
+-   Where $\epsilon$ is the elasticity of labour supply
 
--   Excess burden depends on 
+-   Excess burden depends on
 
     1.  Size of tax $t$
 
@@ -706,7 +709,25 @@ $$\text{Excess Burden} = \frac{1}{2} \times (\epsilon \times L_{0}) \times (t^2 
 
 
 
+# Summary
 
+## Summary
+
+-   Taxes are used in part to raise revenue for the government
+
+- They impose a direct cost to consumers of the tax revenue collected
+
+- But they also distort behaviour and create an excess burden
+
+    - Loss in welfare beyond tax revenue collected
+
+-   Excess burden arises from the substitution effect of a tax
+
+
+- The size of the excess burden depends on pre-existing distortions
+
+
+- Theory of the Second Best says that when distortions exist, best outcome may involve additional distortions
 
 
 # References

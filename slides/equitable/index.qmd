@@ -1,0 +1,385 @@
+---
+format: 
+  revealjs:
+    theme: [default, hygge.scss]
+    css: captions.css
+    center-title-slide: false
+    slide-number: true
+    height: 900
+    width: 1600
+    chalkboard:
+      theme: whiteboard
+      src: drawings.json
+editor: visual
+---
+
+<h1>Efficient and Equitable Taxation</h1>
+
+<hr>
+
+<h2>EC313 - Public Economics: Taxation</h2>
+
+<h2>Justin Smith</h2>
+
+<h2>Wilfrid Laurier University</h2>
+
+<h2>Fall 2025</h2>
+
+![](/files/img/hexEC313.png){.absolute top="300" left="900" width="550"}
+
+# Goals of This Section
+
+## Goals of This Section
+
+-   Discuss the effects of price changes on consumer behaviour
+
+-   Introduce the concept of excess burden of a tax
+
+-   Show how to measure excess burden using indifference curves
+
+-   Show how to measure excess burden using demand/supply curves
+
+-   Show equivalent interpretation with elasticities
+
+-   Discuss factors that affect excess burden
+
+# Optimal Taxation
+
+## Introduction
+
+-   As we have discussed, government raise taxes mainly to raise revenue
+
+-   But taxes involve costs
+
+    -   The direct cost of the revenue raised
+    -   Additional costs from distortions in behaviour (excess burden)
+
+-   Given that revenue needs to be raised, how should taxes be designed to minimize costs?
+
+-   Optimal taxation addresses this question
+
+## Model
+
+-   Question of optimal taxation is answered with a model
+
+-   A representative citizen consumes two goods, $X$ and $Y$
+
+    -   Prices of these goods are $P_{X}$ and $P_{Y}$
+
+-   Person can also work and earn wage $w$
+
+    -   Person has $T$ hours available for work ($h$) or leisure ($L$)
+    -   These are the only two uses of time, so $T = h + L$
+
+-   Their budget constraint in this context is
+
+$$ w(T - L) = P_{X}X + P_{Y}Y$$
+
+-   Constraint says that income is split between spending on goods $X$ and $Y$
+
+## Model
+
+-   If you rearrange the budget constraint, you can write it as
+
+$$wT = P_{X}X + P_{Y}Y + wL$$
+
+-   Shows that "full income" is split between spending on goods $X$ and $Y$ and spending on leisure
+
+    -   Full income is $wT$ because if all time was worked, income would be $wT$
+    -   Price of leisure is $w$ because each hour of leisure foregoes $w$ in earnings
+
+-   Suppose we tax goods $X$, $Y$, and $L$ at rate $t$
+
+-   Then the budget constraint becomes
+
+$$ wT = (1 + t)P_{X}X + (1 + t)P_{Y}Y + (1 + t)wL$$
+
+## Model
+
+-   Rearranging gives
+
+$$wT = (1+t)(P_{X}X + P_{Y}Y + wL)$$
+
+$$ \frac{wT}{1 + t} = P_{X}X + P_{Y}Y + wL$$
+
+-   In this setup, a tax on all goods and leisure is equivalent to a reduction in full income by a factor of $\frac{1}{1 + t}$
+
+    -   We saw this in one of the practice questions
+
+## Model
+
+-   If we could tax all goods and leisure at the same rate, we would not distort behaviour
+
+    -   People would still choose the same combination of goods and leisure
+
+-   Why?
+
+    -   Because relative prices are unchanged
+    -   The commodity taxes are equivalent to a lump-sum tax that reduces income
+
+-   But in practice, we cannot tax all goods and leisure at the same rate
+
+    -   We cannot tax leisure directly
+    -   Can only tax $X$ and $Y$ in this setup
+
+-   Taxing some goods ($X$ and $Y$) but not others ($L$) distorts relative prices and leads to excess burden
+
+## Ramsey Rule
+
+-   Question then becomes: If we cannot tax all goods at the same rate, how should we tax them?
+
+-   One option is **neutral taxation**: taxing $X$ and $Y$ at the same rate
+
+    -   This is simple and easy to administer
+    -   But it still distorts behaviour and creates excess burden
+
+-   The optimal method is the **Ramsey Rule**: tax goods so that the percent reduction in quantity demanded is the same for all goods
+
+    -   Equivalently, tax goods so that the marginal excess burden of the last dollar of revenue raised is the same for all goods
+
+-   The next few slides establish this result
+
+## Ramsey Rule
+
+-   Consider again two goods, $X$ and $Y$, with prices $P_{X}$ and $P_{Y}$
+
+-   Pretend that goods are neither substitutes nor complements
+
+    -   Simplifies the analysis because changes in their prices do not affect each other's demand
+    -   Results still hold for substitutes and complements, but analysis is more complex
+
+-   Also pretend the supply curve is horizontal
+
+    -   Consumers face the entire economic incidence of the tax
+    -   Again simplifies the analysis because we do not have to consider supply side effects
+
+-   Consider a unit tax $u_{X}$ on good $X$
+
+## Ramsey Rule
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1248500334.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Consumer initially consumes $X_{0}$ at price $P_{0}$
+
+-   After tax $u_{X}$ is imposed, price rises to $P_{0} + u_{X}$
+
+-   Consumer reduces consumption to $X_{1}$
+
+-   As we have learned this involves an excess burden
+
+    -   Equals area of yellow triangle
+    -   Represents the loss in consumer surplus
+:::
+::::::
+
+## Ramsey Rule
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-3824540219.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Now imagine raising the tax further from $u_{X}$ to $u_{X} + 1$
+
+-   The additional excess burden created is the **marginal excess burden**
+
+    -   Equals area of purple triangle
+
+-   Part of that excess burden was tax revenue (purple rectangle)
+
+-   Other part is additional loss in consumer surplus (purple triangle)
+:::
+::::::
+
+
+## Ramsey Rule
+
+- The marginal excess burden of the tax on good $X$ is the purple area
+
+    - Equals area of the purple triangle plus the purple rectangle
+    
+- To compute that mathematically, set $\Delta x = X_{1} - X_{2}$
+
+- The total area is then
+
+$$ (\frac{1}{2} \Delta x \times 1) + (\Delta x u_{X})  $$
+
+- As noted in the textbook, if we pretend that $\frac{1}{2} \Delta x$ is very small, we can ignore it
+
+    -   So marginal excess burden is approximately $\Delta x u_{X}$
+
+
+## Ramsey Rule
+
+- Going one step further, note that the slope of the demand curve is 
+$$ \frac{u_{X}}{\Delta X} = \frac{1}{\Delta x} $$  
+    - $\Delta X = X_{0} - X_{1}$, the initial change in quantity demanded from the initial tax
+    -   Both represent the rise over the run
+    
+- Rearranging gives
+
+$$ \Delta x u_{X} = \Delta X$$
+
+- The marginal excess burden of the tax on good $X$ is approximately $\Delta X$
+
+    -   The change in quantity demanded from the initial tax
+    
+
+## Ramsey Rule
+
+- What about the change in revenue?
+
+- Initially revenue was larger green rectangle plus purple rectangle
+
+- After, it is larger green rectangle plus smaller green rectangle
+
+- The marginal tax revenue is therefore the smaller green rectangle minus the purple rectangle
+
+$$ (X_{2} \times 1) - (\Delta x u_{X}) $$
+
+- We previously saw that $\Delta x u_{X} = \Delta X$
+- We also know that $X_{2} = X_{1} - \Delta x$
+
+- Subbing in gives us
+
+$$ X_{1} - \Delta x - \Delta X  $$
+
+## Ramsey Rule
+
+
+- IF we pretend that $\Delta x$ is very small, we can ignore it
+
+    -   So marginal tax revenue is approximately $X_{1} - \Delta X$
+
+
+- The marginal excess burden *per dollar of additional revenue* is 
+
+
+$$ \frac{\Delta X}{X_{1} - \Delta X} $$
+
+- If we repeat this exact exercise for good $Y$, we find that the marginal excess burden per dollar of additional revenue is
+
+$$ \frac{\Delta Y}{Y_{1} - \Delta Y} $$
+
+## Ramsey Rule
+
+- If we set them equal
+
+$$ \frac{\Delta X}{X_{1} - \Delta X} = \frac{\Delta Y}{Y_{1} - \Delta Y} $$
+
+- Which simplifies to the **Ramsey Rule**
+
+$$ \frac{\Delta X}{X_{1}} = \frac{\Delta Y}{Y_{1}} $$
+
+- If you multiply both sides by $100$ to express this as a percentage, it says percent change in quantity demanded of $X$ equals percent change in quantity demanded of $Y$
+
+
+## Ramsey Rule with Elasticities
+
+- Economists enjoy expressing things in terms of elasticities
+
+- The price elasticity of demand is
+
+$$ \eta_{X} = \frac{\Delta X}{\Delta P_{X}} \times \frac{P_{X}}{X} $$
+
+- Rearrange that to get 
+
+$$ \frac{\Delta X}{X} = \eta_{X} \times \frac{\Delta P_{X}}{P_{X}} $$
+- Substitute that into the Ramsey Rule to get
+
+
+## Ramsey Rule with Elasticities
+
+
+- In this case, consider instead an ad valorem tax that makes the price rise to $P_{X}(1 + t_{X})$
+
+- The numerator of this fraction is then $\Delta P_{X} = P_{X}(1+t_{X}) -  P_{X} = P_{X}t_{X}$
+
+- Substituting into the equation on the previous slide gives
+
+$$\frac{\Delta X}{X}  =  \eta_{X} \times t_{X}  $$
+- the Ramsay Rule then becomes
+
+$$ \eta_{X} t_{X} = \eta_{Y} t_{Y} $$
+
+- Equivalently
+
+$$ \frac{t_{X}}{t_{Y}} = \frac{\eta_{Y}}{\eta_{X}} $$
+
+## Ramsey Rule with Elasticities
+
+- The **inverse elasticity rule** says that the optimal tax rate on a good is inversely proportional to its price elasticity of demand
+
+    - If good $Y$ has a high elasticity relative to good $X$, then $t_{X}$ should be higher than $t_{Y}$
+    
+- Why?
+
+    - Because a tax on a good with a high elasticity will cause a large reduction in quantity demanded
+    -   This creates a large excess burden
+    -   So to minimize excess burden, tax goods with high elasticities less
+    
+## Corlett-Hague Rule
+
+- Recall that we could not tax leisure directly
+
+    - And therefore could not apply an efficient (lump-sum equivalent) tax
+    - This created the excess burden
+    
+- Corlett-Hague suggest approximating a leisure tax by taxing goods that are complements (used together with) to leisure
+
+    - Examples: tax sporting equipment, household appliances, recreational vehicles, etc.
+
+- This indirectly lowers demand for leisure and acts like a tax on leisure
+
+- Gets us a bit closer to the most efficient outcome
+
+
+## Equity in Taxation
+
+- Ramsey rule implies taxing goods that are inelastic more heavily
+
+- Makes sense when those goods are socially undesirable (e.g., cigarettes, alcohol)
+
+- But what if those goods are necessities (e.g., food, clothing, housing, medicine)?
+
+- Problematic for a few reasons, but one is that it lacks **vertical equity**
+
+    -   Vertical equity: people with greater ability to pay should pay more in taxes
+    
+- You can modify the Ramsey rule to account for vertical equity
+
+    -   A modified rule may tax necessities less heavily
+    - Essentially allows for larger excess burden to achieve greater equity
+    
+    
+## Summary
+
+- In the real world we cannot achieve the efficient outcome of a lump-sum tax to raise government revenue
+
+- Distortionary taxes change behaviour and create an excess burden
+
+- We can design the tax system to minimize the excess burden
+
+- The Ramsey rule gives that optimal design
+
+- But tax efficiency is not the sole consideration
+
+    - Equity is also important
+    - The optimal rule can change to account for equity considerations
+
+# References
+
+## References
+
+-   Rosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.
+
+-   Gruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.
