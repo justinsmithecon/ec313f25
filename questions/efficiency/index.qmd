@@ -1,0 +1,70 @@
+---
+format: 
+  revealjs:
+    theme: [default, hygge.scss]
+    center-title-slide: false
+    slide-number: true
+    height: 900
+    width: 1600
+    chalkboard:
+      theme: whiteboard
+      src: drawings.json
+    post-render: "scripts/decktape.sh"
+editor: visual
+---
+
+<h1>Taxation and Efficiency In-Class Questions</h1>
+
+<hr>
+
+<h2>EC313- Public Economics: Taxation</h2>
+
+<h2>Justin Smith</h2>
+
+<h2>Wilfrid Laurier University</h2>
+
+<h2>Fall 2025</h2>
+
+![](/files/img/hexEC313.png){.absolute top="300" left="900" width="550"}
+
+## RTTWS Chapter 15 Problem 2
+
+Describe how the shape of an individual's indifference curve affects the magnitude of a tax's excess burden. What does this tell you about how the degree of substitutability between the taxed item and the other item matters for the efficiency of taxation?
+
+## RTTWS Chapter 14 Problem 5
+
+Which of the following is likely to impose a large excess burden?
+
+a\) A tax on land
+
+## 
+
+## RTTWS Chapter 14 Problem 5
+
+Which of the following is likely to impose a large excess burden?
+
+a\) A subsidy on personal computers
+
+## RTTWS Chapter 14 Problem 5
+
+Which of the following is likely to impose a large excess burden?
+
+a\) A tax of \$75 on smartphones
+
+## RTTWS Chapter 14 Problem 5
+
+Which of the following is likely to impose a large excess burden?
+
+a\) A subsidy on investment in high tech companies?
+
+## RTTWS Chapter 14 Problem 5
+
+Which of the following is likely to impose a large excess burden?
+
+a\) A 5% tex on bottled water
+
+## RTTWS Chapter 14 Problem 5
+
+Which of the following is likely to impose a large excess burden?
+
+a\) A 10% tax on all computer software

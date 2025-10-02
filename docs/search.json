@@ -784,46 +784,241 @@
     "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\n            Public Economics: Taxation\n        ",
-    "section": "",
-    "text": "The Economics of Taxation\n        \n        \n            EC313 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Tue/Thu\n   Sept-Dec 2025\n   4:00 - 5:20 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
+    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-2",
+    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-2",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 15 Problem 2",
+    "text": "RTTWS Chapter 15 Problem 2\nDescribe how the shape of an individual’s indifference curve affects the magnitude of a tax’s excess burden. What does this tell you about how the degree of substitutability between the taxed item and the other item matters for the efficiency of taxation?"
   },
   {
-    "objectID": "content/introtopf.html",
-    "href": "content/introtopf.html",
-    "title": "Introduction to Public Finance",
+    "objectID": "questions/efficiency/index.html#rttws-chapter-14-problem-5",
+    "href": "questions/efficiency/index.html#rttws-chapter-14-problem-5",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 5",
+    "text": "RTTWS Chapter 14 Problem 5\nWhich of the following is likely to impose a large excess burden?\na) A tax on land"
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-14-problem-5-1",
+    "href": "questions/efficiency/index.html#rttws-chapter-14-problem-5-1",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 5",
+    "text": "RTTWS Chapter 14 Problem 5\nWhich of the following is likely to impose a large excess burden?\na) A subsidy on personal computers"
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-14-problem-5-2",
+    "href": "questions/efficiency/index.html#rttws-chapter-14-problem-5-2",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 5",
+    "text": "RTTWS Chapter 14 Problem 5\nWhich of the following is likely to impose a large excess burden?\na) A tax of $75 on smartphones"
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-14-problem-5-3",
+    "href": "questions/efficiency/index.html#rttws-chapter-14-problem-5-3",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 5",
+    "text": "RTTWS Chapter 14 Problem 5\nWhich of the following is likely to impose a large excess burden?\na) A subsidy on investment in high tech companies?"
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-14-problem-5-4",
+    "href": "questions/efficiency/index.html#rttws-chapter-14-problem-5-4",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 5",
+    "text": "RTTWS Chapter 14 Problem 5\nWhich of the following is likely to impose a large excess burden?\na) A 5% tex on bottled water"
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-14-problem-5-5",
+    "href": "questions/efficiency/index.html#rttws-chapter-14-problem-5-5",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 5",
+    "text": "RTTWS Chapter 14 Problem 5\nWhich of the following is likely to impose a large excess burden?\na) A 10% tax on all computer software"
+  },
+  {
+    "objectID": "content/introtostata.html",
+    "href": "content/introtostata.html",
+    "title": "Introduction to Stata",
     "section": "",
-    "text": "RTTWS Chapter 1",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
     "crumbs": [
       "Content",
       "Course content",
-      "Intro to Public Finance"
+      "Introduction to Stata"
     ]
   },
   {
-    "objectID": "content/introtopf.html#readings",
-    "href": "content/introtopf.html#readings",
-    "title": "Introduction to Public Finance",
+    "objectID": "content/introtostata.html#tutorial",
+    "href": "content/introtostata.html#tutorial",
+    "title": "Introduction to Stata",
     "section": "",
-    "text": "RTTWS Chapter 1",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
     "crumbs": [
       "Content",
       "Course content",
-      "Intro to Public Finance"
+      "Introduction to Stata"
     ]
   },
   {
-    "objectID": "content/introtopf.html#slides",
-    "href": "content/introtopf.html#slides",
-    "title": "Introduction to Public Finance",
+    "objectID": "content/introtostata.html#videos",
+    "href": "content/introtostata.html#videos",
+    "title": "Introduction to Stata",
+    "section": "Videos",
+    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#other-resources",
+    "href": "content/introtostata.html#other-resources",
+    "title": "Introduction to Stata",
+    "section": "Other Resources",
+    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
+    "crumbs": [
+      "Content",
+      "Overview",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/equitable.html",
+    "href": "content/equitable.html",
+    "title": "Taxation and Efficiency",
+    "section": "",
+    "text": "RTTWS Chapter 16",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Efficient and Equitable Taxation"
+    ]
+  },
+  {
+    "objectID": "content/equitable.html#readings",
+    "href": "content/equitable.html#readings",
+    "title": "Taxation and Efficiency",
+    "section": "",
+    "text": "RTTWS Chapter 16",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Efficient and Equitable Taxation"
+    ]
+  },
+  {
+    "objectID": "content/equitable.html#slides",
+    "href": "content/equitable.html#slides",
+    "title": "Taxation and Efficiency",
     "section": "Slides",
     "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
     "crumbs": [
       "Content",
       "Course content",
-      "Intro to Public Finance"
+      "Efficient and Equitable Taxation"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find the problem sets for all your assignments, and any other information related to your assignments.",
+    "crumbs": [
+      "Assignments",
+      "Overview",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html",
+    "href": "assignments/assign1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "In this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on the relationship between cigarette taxes and cigarette prices in the US, to check whether and by how much taxes are passed on to consumers in the form of higher prices. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html#description",
+    "href": "assignments/assign1.html#description",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "In this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on the relationship between cigarette taxes and cigarette prices in the US, to check whether and by how much taxes are passed on to consumers in the form of higher prices. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html#instructions",
+    "href": "assignments/assign1.html#instructions",
+    "title": "Assignment 1",
+    "section": "Instructions",
+    "text": "Instructions\n\nQuestions\nThe document below contains the assignment questions. Please provide all answers in the space below each question. If the question requires any Stata code, please include the code relevant to that question in the space provided. Also include the relevant output. Note: output must be reformatted into a professional-looking table or figure. Do not simply copy and paste (or screenshot) the Stata output.\n ec313assign1.docx\nWhen you save the file to your computer, please rename it with your family name and student number, with no spaces.\n\n\nData analysis\nThe data come from the Tax Burden on Tobacco dataset created by Orzechowski and Walker, and downloaded from the Centers for Disease Control (CDC) . It contains data on cigarette prices, taxes, sales, and revenues for each of the 50 US states from 1970 to 2019. Note that the data are a panel (repeated observations on each state over time) and have been set as a panel (using xtset) with \\(state_abbr\\) as the panel variable and \\(year\\) as the year variable in Stata. This means you can use the set of xt commands in Stata to analyze the data.\nThe data file is linked below.\n ec313assign1.dta\n\n\nSubmission\nWhen you are finished, you are required to submit three documents according to the following instructions:\n\nYour .do and .log file. Submit this in MyLearningSpace only.\nA rendered PDF of your answers to the questions. Submit this in both MyLearningSpace and Gradescope.\n\n\n\nPlagiarism\nThis is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else’s work verbatim, which includes Stata code. Any work you submit should be yours only. However, you are encouraged to talk to each other to try to figure out how to do the assignment.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "content/efficiency.html",
+    "href": "content/efficiency.html",
+    "title": "Taxation and Efficiency",
+    "section": "",
+    "text": "RTTWS Chapter 15 (omit section on “Differential Taxation of Inputs”)",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Taxation and Efficiency"
+    ]
+  },
+  {
+    "objectID": "content/efficiency.html#readings",
+    "href": "content/efficiency.html#readings",
+    "title": "Taxation and Efficiency",
+    "section": "",
+    "text": "RTTWS Chapter 15 (omit section on “Differential Taxation of Inputs”)",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Taxation and Efficiency"
+    ]
+  },
+  {
+    "objectID": "content/efficiency.html#slides",
+    "href": "content/efficiency.html#slides",
+    "title": "Taxation and Efficiency",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Taxation and Efficiency"
+    ]
+  },
+  {
+    "objectID": "content/efficiency.html#sample-questions",
+    "href": "content/efficiency.html#sample-questions",
+    "title": "Taxation and Efficiency",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Taxation and Efficiency"
     ]
   },
   {
@@ -875,181 +1070,47 @@
     ]
   },
   {
-    "objectID": "content/efficiency.html",
-    "href": "content/efficiency.html",
-    "title": "Taxation and Efficiency",
+    "objectID": "content/introtopf.html",
+    "href": "content/introtopf.html",
+    "title": "Introduction to Public Finance",
     "section": "",
-    "text": "RTTWS Chapter 15 (omit section on “Differential Taxation of Inputs”)",
+    "text": "RTTWS Chapter 1",
     "crumbs": [
       "Content",
       "Course content",
-      "Taxation and Efficiency"
+      "Intro to Public Finance"
     ]
   },
   {
-    "objectID": "content/efficiency.html#readings",
-    "href": "content/efficiency.html#readings",
-    "title": "Taxation and Efficiency",
+    "objectID": "content/introtopf.html#readings",
+    "href": "content/introtopf.html#readings",
+    "title": "Introduction to Public Finance",
     "section": "",
-    "text": "RTTWS Chapter 15 (omit section on “Differential Taxation of Inputs”)",
+    "text": "RTTWS Chapter 1",
     "crumbs": [
       "Content",
       "Course content",
-      "Taxation and Efficiency"
+      "Intro to Public Finance"
     ]
   },
   {
-    "objectID": "content/efficiency.html#slides",
-    "href": "content/efficiency.html#slides",
-    "title": "Taxation and Efficiency",
+    "objectID": "content/introtopf.html#slides",
+    "href": "content/introtopf.html#slides",
+    "title": "Introduction to Public Finance",
     "section": "Slides",
     "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
     "crumbs": [
       "Content",
       "Course content",
-      "Taxation and Efficiency"
+      "Intro to Public Finance"
     ]
   },
   {
-    "objectID": "assignments/assign1.html",
-    "href": "assignments/assign1.html",
-    "title": "Assignment 1",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n            Public Economics: Taxation\n        ",
     "section": "",
-    "text": "In this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on the relationship between cigarette taxes and cigarette prices in the US, to check whether and by how much taxes are passed on to consumers in the form of higher prices. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html#description",
-    "href": "assignments/assign1.html#description",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "In this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on the relationship between cigarette taxes and cigarette prices in the US, to check whether and by how much taxes are passed on to consumers in the form of higher prices. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html#instructions",
-    "href": "assignments/assign1.html#instructions",
-    "title": "Assignment 1",
-    "section": "Instructions",
-    "text": "Instructions\n\nQuestions\nThe document below contains the assignment questions. Please provide all answers in the space below each question. If the question requires any Stata code, please include the code relevant to that question in the space provided. Also include the relevant output. Note: output must be reformatted into a professional-looking table or figure. Do not simply copy and paste (or screenshot) the Stata output.\n ec313assign1.docx\nWhen you save the file to your computer, please rename it with your family name and student number, with no spaces.\n\n\nData analysis\nThe data come from the Tax Burden on Tobacco dataset created by Orzechowski and Walker, and downloaded from the Centers for Disease Control (CDC) . It contains data on cigarette prices, taxes, sales, and revenues for each of the 50 US states from 1970 to 2019. Note that the data are a panel (repeated observations on each state over time) and have been set as a panel (using xtset) with \\(state_abbr\\) as the panel variable and \\(year\\) as the year variable in Stata. This means you can use the set of xt commands in Stata to analyze the data.\nThe data file is linked below.\n ec313assign1.dta\n\n\nSubmission\nWhen you are finished, you are required to submit three documents according to the following instructions:\n\nYour .do and .log file. Submit this in MyLearningSpace only.\nA rendered PDF of your answers to the questions. Submit this in both MyLearningSpace and Gradescope.\n\n\n\nPlagiarism\nThis is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else’s work verbatim, which includes Stata code. Any work you submit should be yours only. However, you are encouraged to talk to each other to try to figure out how to do the assignment.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/index.html",
-    "href": "assignments/index.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Here you will find the problem sets for all your assignments, and any other information related to your assignments.",
-    "crumbs": [
-      "Assignments",
-      "Overview",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "content/equitable.html",
-    "href": "content/equitable.html",
-    "title": "Taxation and Efficiency",
-    "section": "",
-    "text": "RTTWS Chapter 16",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Efficient and Equitable Taxation"
-    ]
-  },
-  {
-    "objectID": "content/equitable.html#readings",
-    "href": "content/equitable.html#readings",
-    "title": "Taxation and Efficiency",
-    "section": "",
-    "text": "RTTWS Chapter 16",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Efficient and Equitable Taxation"
-    ]
-  },
-  {
-    "objectID": "content/equitable.html#slides",
-    "href": "content/equitable.html#slides",
-    "title": "Taxation and Efficiency",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Efficient and Equitable Taxation"
-    ]
-  },
-  {
-    "objectID": "content/index.html",
-    "href": "content/index.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
-    "crumbs": [
-      "Content",
-      "Overview",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html",
-    "href": "content/introtostata.html",
-    "title": "Introduction to Stata",
-    "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#tutorial",
-    "href": "content/introtostata.html#tutorial",
-    "title": "Introduction to Stata",
-    "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#videos",
-    "href": "content/introtostata.html#videos",
-    "title": "Introduction to Stata",
-    "section": "Videos",
-    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#other-resources",
-    "href": "content/introtostata.html#other-resources",
-    "title": "Introduction to Stata",
-    "section": "Other Resources",
-    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
+    "text": "The Economics of Taxation\n        \n        \n            EC313 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Tue/Thu\n   Sept-Dec 2025\n   4:00 - 5:20 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
   },
   {
     "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-4",
