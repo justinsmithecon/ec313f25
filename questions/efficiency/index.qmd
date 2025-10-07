@@ -31,7 +31,7 @@ editor: visual
 
 Describe how the shape of an individual's indifference curve affects the magnitude of a tax's excess burden. What does this tell you about how the degree of substitutability between the taxed item and the other item matters for the efficiency of taxation?
 
-## RTTWS Chapter 14 Problem 5
+## RTTWS Chapter 15 Problem 5
 
 Which of the following is likely to impose a large excess burden?
 
@@ -39,32 +39,54 @@ a\) A tax on land
 
 ## 
 
-## RTTWS Chapter 14 Problem 5
+## RTTWS Chapter 15 Problem 5
 
 Which of the following is likely to impose a large excess burden?
 
-a\) A subsidy on personal computers
+b\) A subsidy on personal computers
 
-## RTTWS Chapter 14 Problem 5
-
-Which of the following is likely to impose a large excess burden?
-
-a\) A tax of \$75 on smartphones
-
-## RTTWS Chapter 14 Problem 5
+## RTTWS Chapter 15 Problem 5
 
 Which of the following is likely to impose a large excess burden?
 
-a\) A subsidy on investment in high tech companies?
+c\) A tax of \$75 on smartphones
 
-## RTTWS Chapter 14 Problem 5
-
-Which of the following is likely to impose a large excess burden?
-
-a\) A 5% tex on bottled water
-
-## RTTWS Chapter 14 Problem 5
+## RTTWS Chapter 15 Problem 5
 
 Which of the following is likely to impose a large excess burden?
 
-a\) A 10% tax on all computer software
+d\) A subsidy on investment in high tech companies?
+
+## RTTWS Chapter 15 Problem 5
+
+Which of the following is likely to impose a large excess burden?
+
+e\) A 5% tex on bottled water
+
+## RTTWS Chapter 15 Problem 5
+
+Which of the following is likely to impose a large excess burden?
+
+f\) A 10% tax on all computer software
+
+
+
+## RTTWS Chapter 15 Problem 6
+
+Suppose the market demand curve for beer is described by the equation $Q_d^b = 600 - 15P_b^d$ where ( $Q_d^b$ ) is the number of cases of beer and ( $P_b^d$ ) is the price per case. The supply curve is given by $Q_s^b = 10P_b^s$
+
+a. Calculate the elasticities of demand and supply at the equilibrium quantity.
+
+## RTTWS Chapter 15 Problem 6
+
+b. Suppose the government introduces an excise tax of 15 percent per case of beer. Determine the excess burden of this tax using the formula found in footnote 7 and the elasticities found in part (a).
+
+## RTTWS Chapter 15 Problem 6
+
+
+c. Calculate the tax revenues and the average excess burden.
+
+
+## RTTWS Chapter 15 Problem 11
+
+Setting a price ceiling for a good below the market price results in an excess burden. Demonstrate this by using supply and demand curves. In addition, show how the imposition of a tax on a substitute good, by affecting the demand for the good with a price ceiling, increases the excess burden.
