@@ -285,7 +285,7 @@ $$ \eta_{X} = \frac{\Delta X}{\Delta P_{X}} \times \frac{P_{X}}{X} $$
 
 -   Rearrange that to get
 
-$$ \frac{\Delta X}{X} = \eta_{X} \times \frac{\Delta P_{X}}{P_{X}} $$ - Substitute that into the Ramsey Rule to get
+$$ \frac{\Delta X}{X} = \eta_{X} \times \frac{\Delta P_{X}}{P_{X}} $$ 
 
 ## Ramsey Rule with Elasticities
 
@@ -295,7 +295,13 @@ $$ \frac{\Delta X}{X} = \eta_{X} \times \frac{\Delta P_{X}}{P_{X}} $$ - Substitu
 
 -   Substituting into the equation on the previous slide gives
 
-$$\frac{\Delta X}{X}  =  \eta_{X} \times t_{X}  $$ - the Ramsay Rule then becomes
+$$\frac{\Delta X}{X}  =  \eta_{X} \times t_{X}  $$ 
+
+
+## Ramsey Rule with Elasticities
+
+
+- the Ramsay Rule then becomes
 
 $$ \eta_{X} t_{X} = \eta_{Y} t_{Y} $$
 

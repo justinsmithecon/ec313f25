@@ -1292,18 +1292,25 @@
     "href": "slides/equitable/index.html#ramsey-rule-with-elasticities",
     "title": "EC313 - Taxation",
     "section": "Ramsey Rule with Elasticities",
-    "text": "Ramsey Rule with Elasticities\n\nEconomists enjoy expressing things in terms of elasticities\nThe price elasticity of demand is\n\n\\[ \\eta_{X} = \\frac{\\Delta X}{\\Delta P_{X}} \\times \\frac{P_{X}}{X} \\]\n\nRearrange that to get\n\n\\[ \\frac{\\Delta X}{X} = \\eta_{X} \\times \\frac{\\Delta P_{X}}{P_{X}} \\] - Substitute that into the Ramsey Rule to get"
+    "text": "Ramsey Rule with Elasticities\n\nEconomists enjoy expressing things in terms of elasticities\nThe price elasticity of demand is\n\n\\[ \\eta_{X} = \\frac{\\Delta X}{\\Delta P_{X}} \\times \\frac{P_{X}}{X} \\]\n\nRearrange that to get\n\n\\[ \\frac{\\Delta X}{X} = \\eta_{X} \\times \\frac{\\Delta P_{X}}{P_{X}} \\]"
   },
   {
     "objectID": "slides/equitable/index.html#ramsey-rule-with-elasticities-1",
     "href": "slides/equitable/index.html#ramsey-rule-with-elasticities-1",
     "title": "EC313 - Taxation",
     "section": "Ramsey Rule with Elasticities",
-    "text": "Ramsey Rule with Elasticities\n\nIn this case, consider instead an ad valorem tax that makes the price rise to \\(P_{X}(1 + t_{X})\\)\nThe numerator of this fraction is then \\(\\Delta P_{X} = P_{X}(1+t_{X}) -  P_{X} = P_{X}t_{X}\\)\nSubstituting into the equation on the previous slide gives\n\n\\[\\frac{\\Delta X}{X}  =  \\eta_{X} \\times t_{X}  \\] - the Ramsay Rule then becomes\n\\[ \\eta_{X} t_{X} = \\eta_{Y} t_{Y} \\]\n\nEquivalently\n\n\\[ \\frac{t_{X}}{t_{Y}} = \\frac{\\eta_{Y}}{\\eta_{X}} \\]"
+    "text": "Ramsey Rule with Elasticities\n\nIn this case, consider instead an ad valorem tax that makes the price rise to \\(P_{X}(1 + t_{X})\\)\nThe numerator of this fraction is then \\(\\Delta P_{X} = P_{X}(1+t_{X}) -  P_{X} = P_{X}t_{X}\\)\nSubstituting into the equation on the previous slide gives\n\n\\[\\frac{\\Delta X}{X}  =  \\eta_{X} \\times t_{X}  \\]"
   },
   {
     "objectID": "slides/equitable/index.html#ramsey-rule-with-elasticities-2",
     "href": "slides/equitable/index.html#ramsey-rule-with-elasticities-2",
+    "title": "EC313 - Taxation",
+    "section": "Ramsey Rule with Elasticities",
+    "text": "Ramsey Rule with Elasticities\n\nthe Ramsay Rule then becomes\n\n\\[ \\eta_{X} t_{X} = \\eta_{Y} t_{Y} \\]\n\nEquivalently\n\n\\[ \\frac{t_{X}}{t_{Y}} = \\frac{\\eta_{Y}}{\\eta_{X}} \\]"
+  },
+  {
+    "objectID": "slides/equitable/index.html#ramsey-rule-with-elasticities-3",
+    "href": "slides/equitable/index.html#ramsey-rule-with-elasticities-3",
     "title": "EC313 - Taxation",
     "section": "Ramsey Rule with Elasticities",
     "text": "Ramsey Rule with Elasticities\n\nThe inverse elasticity rule says that the optimal tax rate on a good is inversely proportional to its price elasticity of demand\n\nIf good \\(Y\\) has a high elasticity relative to good \\(X\\), then \\(t_{X}\\) should be higher than \\(t_{Y}\\)\n\nWhy?\n\nBecause a tax on a good with a high elasticity will cause a large reduction in quantity demanded\nThis creates a large excess burden\nSo to minimize excess burden, tax goods with high elasticities less"
