@@ -285,7 +285,7 @@ $$ \eta_{X} = \frac{\Delta X}{\Delta P_{X}} \times \frac{P_{X}}{X} $$
 
 -   Rearrange that to get
 
-$$ \frac{\Delta X}{X} = \eta_{X} \times \frac{\Delta P_{X}}{P_{X}} $$ 
+$$ \frac{\Delta X}{X} = \eta_{X} \times \frac{\Delta P_{X}}{P_{X}} $$
 
 ## Ramsey Rule with Elasticities
 
@@ -295,13 +295,11 @@ $$ \frac{\Delta X}{X} = \eta_{X} \times \frac{\Delta P_{X}}{P_{X}} $$
 
 -   Substituting into the equation on the previous slide gives
 
-$$\frac{\Delta X}{X}  =  \eta_{X} \times t_{X}  $$ 
-
+$$\frac{\Delta X}{X}  =  \eta_{X} \times t_{X}  $$
 
 ## Ramsey Rule with Elasticities
 
-
-- the Ramsay Rule then becomes
+-   the Ramsay Rule then becomes
 
 $$ \eta_{X} t_{X} = \eta_{Y} t_{Y} $$
 
@@ -547,7 +545,7 @@ $$ \frac{t_{X}}{t_{Y}} = \frac{\eta_{Y}}{\eta_{X}} $$
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-3986943678.png)
+![](images/clipboard-3114182939.png)
 :::
 ::::
 
@@ -572,7 +570,7 @@ $$ Revenue = -\alpha + t \times Income $$
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-3986943678.png)
+![](images/clipboard-3114182939.png)
 :::
 ::::
 
@@ -655,11 +653,11 @@ plotrev
 
 -   There are three curves
 
-    -   $alpha = -3000$, $t = 0.25$
-    -   $alpha = -5000$, $t = 0.25$
-    -   $alpha = -3000$, $t = 0.5$
+    -   $\alpha = -3000$, $t = 0.25$
+    -   $\alpha = -5000$, $t = 0.25$
+    -   $\alpha = -3000$, $t = 0.5$
 
--   $alpha$ changes the intercept
+-   $\alpha$ changes the intercept
 
 -   $t$ changes the slope
 :::
