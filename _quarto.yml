@@ -43,6 +43,10 @@ website:
               file: content/introtostata.qmd
             - text: "Efficient and Equitable Taxation"
               file: content/equitable.qmd
+            - text: "The Personal Income Tax"
+              file: content/personaltax.qmd
+
+
               
     - title: "Assignments"
       style: "docked"

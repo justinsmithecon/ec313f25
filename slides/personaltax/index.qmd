@@ -1,0 +1,368 @@
+---
+format: 
+  revealjs:
+    theme: [default, hygge.scss]
+    css: captions.css
+    center-title-slide: false
+    slide-number: true
+    height: 900
+    width: 1600
+    chalkboard:
+      theme: whiteboard
+      src: drawings.json
+editor: visual
+---
+
+<h1>The Personal Income Tax</h1>
+
+<hr>
+
+<h2>EC313 - Public Economics: Taxation</h2>
+
+<h2>Justin Smith</h2>
+
+<h2>Wilfrid Laurier University</h2>
+
+<h2>Fall 2025</h2>
+
+![](/files/img/hexEC313.png){.absolute top="300" left="900" width="550"}
+
+# Goals of This Section
+
+## Goals of This Section
+
+-   Outline history of personal income taxes in Canada
+
+-   Describe how taxes are calculated
+
+-   Discuss different concepts of income
+
+-   Discuss tax rates
+
+-   Explore other issues in income taxation
+
+# History
+
+## Origins
+
+-   Income tax first introduced federally in Canada in 1917 to help finance WWI
+
+    -   Initially a temporary measure, but became permanent in 1949
+
+-   Provinces began introducing income taxes earlier, in the late 1800s (BC, PEI)
+
+    -   Most others followed after the Great Depression
+    -   Newfoundland was last to introduce income tax in 1949
+
+-   Currently, both federal and provincial governments levy personal income taxes
+
+    -   Authority comes from Constitution Act
+
+## Revenues
+
+![](images/taxrev.png){fig-align="center"}
+
+## Revenues
+
+![](images/taxrevint.png){fig-align="center"}
+
+## Other Details
+
+-   Canada Revenue Agency (CRA) administers federal and most provincial income taxes
+
+    -   Quebec administers its own provincial income tax
+
+-   Because of this integration, people fill out one tax return for both federal and provincial taxes
+
+    -   Except in Quebec, where two returns are filed
+
+-   Up to 2000 provincial taxes operated on a "tax on tax" system
+
+    -   Provincial taxes were a fraction of federal taxes owed
+
+-   Since then provinces have moved to a "tax on income" system
+
+    -   Provincial taxes are calculated on income before federal taxes are deducted
+
+## Other Details
+
+-   System based on self-assessment
+
+    -   Taxpayers are responsible for reporting their income and calculating their taxes owed
+
+-   Taxpayers have until April 30 of the following year to file their tax returns
+
+    -   Penalties apply if taxes are owed
+
+-   If you don't earn income, you don't have to file a tax return
+
+    -   But strong incentive to file to claim benefits or credits
+    -   About 12% of working age Canadians do not file a tax return
+
+# Computing Personal Income Tax
+
+## Tax Forms
+
+-   The computation of your tax liability can be complicated
+
+    -   Income comes from many sources
+    -   Many deductions and credits are available
+
+-   The CRA provides tax forms to help you compute your taxes
+
+    -   Forms are available online or in paper format
+    -   Many people use tax software to help with the process
+
+-   The main federal tax form is the T1
+
+    -   There are many additional forms (schedules) for specific types of income or deductions
+    -   These forms are federal and provincial
+
+-   Packages available here: <https://www.canada.ca/en/revenue-agency/services/forms-publications/tax-packages-years.html>
+
+## Calculating Taxes
+
+-   The tax forms guide you through a series of steps to calculate your taxes
+
+-   The process is algorithmic, and can be summarized in six main steps outlined in the next slides
+
+-   Some key things to note
+
+    -   Not all income sources are taxable
+        -   Gifts, inheritances, lottery winnings, strike pay, legal settlements, first nations income on reserve, capital gains on principal residence, refundable tax credits are not taxable
+    -   Not all income from taxable sources is subject to tax
+        -   Certain income is deducted
+        -   Deductions happen for different reasons
+    -   Taxes are remitted to the government through withholding at source
+        -   So at end of the year you pay the difference or get a refund
+
+## Step 1: Calculate Total Income
+
+![](images/step1.png){fig-align="center"}
+
+## Step 2: Calculate Net Income
+
+![](images/step2a.png){fig-align="center"} ![](images/step2b.png){fig-align="center"}
+
+## Step 3: Calculate Taxable Income
+
+![](images/step3.png){fig-align="center"}
+
+## Step 4: Calculate Federal Tax
+
+![](images/step4.png){fig-align="center"}
+
+## Step 5: Calculate Non-Refundable Credits
+
+![](images/step5.png){fig-align="center"}
+
+## Step 6: Calculate Provincial Tax
+
+![](images/step6.png){fig-align="center"}
+
+# Concepts of Income
+
+## Haig-Simons Income
+
+-   No definition of income in the Income Tax Act
+
+-   **Haig-Simons definition** is often used in public finance
+
+    -   Net increase in ability to consume during a period
+    -   Income = Consumption + Additions to Net Wealth
+
+-   Includes actual and potential increase in consumption ability
+
+    -   E.g., unrealized capital gains are included
+
+-   Also means decreases in consumption ability are negative income
+
+    -   E.g., losses on investments are deductible
+
+## Included Items
+
+-   Employer pension contributions
+
+    -   Adds to pension fund
+    -   Increases ability to consume (in the future)
+
+-   Transfer payments
+
+    -   Retirement benefits, unemployment insurance, social assistance, workers' compensation
+    -   All increase ability to consume
+
+-   Capital gains/losses
+
+    -   Increase in wealth from assets
+    -   Realized (value gained after sale) and unrealized (value held prior to sale) gains
+    -   Increases ability to consume
+    -   Losses deducted because they decrease ability to consume
+
+## Included Items
+
+-   In-kind income
+
+    -   Income received as goods/services rather than cash
+    -   Employer perks (e.g., company car, subsidized housing)
+    -   Free tuition for dependents of university employees
+    -   Imputed rent from owner-occupied housing
+
+-   Gifts and inheritances
+
+    -   Increase wealth and ability to consume
+    -   Not currently included in income for tax purposes in Canada (but is elsewhere, e.g., US)
+
+## Problems with Haig-Simons
+
+-   This concept of income is sometimes hard to implement in practice.
+
+-   Business expenses
+
+    -   Supposed to be expenses incurred to earn income
+    -   Some expenses are part consumption part part business
+        -   E.g., meals, travel, home office expenses
+
+-   Capital gains/losses
+
+    -   Sometimes hard to measure
+    -   Easy for financial assets traded on markets
+    -   Hard for other assets
+        -   Cars, wine, jewelry, art, collectibles
+        -   Cryptocurrencies and NFTs
+
+## Problems with Haig-Simons
+
+-   Imputed rent
+
+    -   Hard to measure
+    -   Varies by location, type of housing, size, amenities
+    -   Also applies to non-housing assets that might be rented
+
+-   In-kind income
+
+    -   Markets exist for some of these, but not for others
+    -   Household labour, volunteer work, parenting, merchandise discounts, etc. are hard to value
+
+## Why Public Economists Use Haig-Simons
+
+-   Haig-Simons income is a comprehensive measure of ability to pay
+
+    -   Includes all sources of consumption and accumulation
+    -   Forms a good base on which to tax individuals
+    -   It is "fair" in that it captures all sources of income
+
+-   Horizontal and vertical equity
+
+    -   We noted that people with the same ability to pay should pay the same amount of tax
+    -   People with greater ability to pay should pay more tax
+    -   Basing it on this definition uses all income as basis for ability to pay
+
+-   Efficiency
+
+    -   Treats all forms of income the same
+    -   No incentives to alter behaviour to avoid tax
+
+## Income in Canada's Tax System
+
+-   Much of the income counted in personal income taxes alights with Haig-Simons
+
+-   But there are some departures
+
+    -   Some income sources are excluded (e.g., gifts, inheritances, lottery winnings, employer contributions to benefits)
+    -   Some income sources are only partially included (e.g., capital gains)
+    -   Some deductions are allowed that do not fit the concept (e.g., RRSP contributions)
+
+-   Capital gains are a notable departure
+
+    -   Only 50% of capital gains are included in income
+    -   Gains on principal residences are not counted at all
+    -   In the past there were large gains exemptions (i.e. gains below exemption not taxed)
+    -   Only realized gains are taxed
+
+## Income in Canada's Tax System
+
+-   These departures can lead to differences in asset value over time
+
+-   To see this with realized vs unrealized gains, consider this example
+
+    -   A person buys an asset for \$100
+    -   It appreciates in value by 20% per year over the next 5 years
+    -   Asset is sold at the end of year 5
+    -   Assume a 50% tax rate and an inclusion rate of 50%
+    -   We will go over the tax implications of taxing realized versus unrealized gains
+
+## Income in Canada's Tax System
+
+-   Table below illustrates taxation on **realized gains**
+
+| Year | Start Year Value |  Gain | Taxable Gain |  Tax | End Year Value |
+|------|-----------------:|------:|-------------:|-----:|---------------:|
+| 1    |           100.00 | 20.00 |         0.00 | 0.00 |         120.00 |
+| 2    |           120.00 | 24.00 |         0.00 | 0.00 |         144.00 |
+| 3    |           144.00 | 28.80 |         0.00 | 0.00 |         172.80 |
+| 4    |           172.80 | 34.56 |         0.00 | 0.00 |         207.36 |
+| 5    |           207.36 | 41.47 |         0.00 | 0.00 |         248.83 |
+
+-   At the end of the 5 years, the gain is \$248.83 - \$100 = \$148.83
+-   Tax paid is \$148.83 \* 50% \* 50% = \$37.21
+-   After- tax value is \$248.83 - \$37.21 = \$211.62
+- After tax gain is \$111.62
+
+## Income in Canada's Tax System
+
+-   Table below illustrates taxation on **unrealized gains**
+
+| Year | Start Year Value |  Gain | Taxable Gain |  Tax | End Year Value |
+|------|-----------------:|------:|-------------:|-----:|---------------:|
+| 1    |           100.00 | 20.00 |        10.00 | 5.00 |         115.00 |
+| 2    |           115.00 | 23.00 |        11.50 | 5.75 |         132.25 |
+| 3    |           132.25 | 26.45 |        13.23 | 6.61 |         152.09 |
+| 4    |           152.09 | 30.42 |        15.21 | 7.60 |         174.90 |
+| 5    |           174.90 | 34.98 |        17.49 | 8.75 |         201.14 |
+
+-   Now the value at the end of year 5 is \$201.14
+- After-tax gain is \$201.14 - \$100 = \$101.14
+-  Total gains are \$20 + \$23 + \$26.45 + \$30.42 + \$34.98 = \$134.85
+-   Tax paid is \$5.00 + \$5.75 + \$6.61 + \$7.60 + \$8.75 = \$134.85 * 50% \* 50% = \$33.71
+    -   Less because the gains are smaller
+    
+
+## Income in Canada's Tax System
+
+- Taxation of realized gains locks in investments
+
+  - People may be reluctant to sell assets to avoid paying tax
+  
+- This can lead to inefficiencies in the economy
+
+  - People hold onto assets that are not the best use of their resources
+  - Capital is not allocated to its most productive use
+  
+- Conservatives proposed an deferral of taxation for investing in Canadian companies
+
+  - No gains tax if reinvested in Canadian companies
+  - Aimed at reducing lock-in effect and encouraging investment in Canada
+
+
+## Income in Canada's Tax System
+
+- What if a person holds unrealized gains at death?
+
+  - CRA deems gains realized on date of death
+  - Taxes are owed by the estate
+  - If assets are bequeathed to someone else, the change in asset value since date of death is subject to gains tax
+  
+- Why preferential treatment of capital gains?
+
+  - Encourages investment and risk-taking
+  - Compensates for deferring consumption
+  - Offsets increased tax burden from inflation (nominal gains)
+
+
+# References
+
+## References
+
+-   Rosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.
+
+-   Gruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.
