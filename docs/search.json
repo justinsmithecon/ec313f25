@@ -991,7 +991,7 @@
     "href": "assignments/assign1.html",
     "title": "Assignment 1",
     "section": "",
-    "text": "In this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on the relationship between cigarette taxes and cigarette prices in the US, to check whether and by how much taxes are passed on to consumers in the form of higher prices. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
+    "text": "Answer Key\n\n\n\nYou can download the solutions using the links below\n ec313assign1key.do\n ec313assign1key.docx",
     "crumbs": [
       "Assignments",
       "Assignment 1"
@@ -1001,8 +1001,8 @@
     "objectID": "assignments/assign1.html#description",
     "href": "assignments/assign1.html#description",
     "title": "Assignment 1",
-    "section": "",
-    "text": "In this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on the relationship between cigarette taxes and cigarette prices in the US, to check whether and by how much taxes are passed on to consumers in the form of higher prices. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
+    "section": "Description",
+    "text": "Description\nIn this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on the relationship between cigarette taxes and cigarette prices in the US, to check whether and by how much taxes are passed on to consumers in the form of higher prices. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
     "crumbs": [
       "Assignments",
       "Assignment 1"
