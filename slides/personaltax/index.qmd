@@ -423,7 +423,10 @@ editor: visual
 
     -   Encourages saving for first home purchase
 
--   Some savings plans are *not* tax deductible but interest grows tax free - Tax Free Savings Plans - Registered Education Savings Plans
+-   Some savings plans are *not* tax deductible but interest grows tax free 
+
+    - Tax Free Savings Plans 
+    - Registered Education Savings Plans
 
 ## Deductions
 
