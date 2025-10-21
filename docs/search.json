@@ -2012,7 +2012,7 @@
     "href": "slides/personaltax/index.html#income-in-canadas-tax-system",
     "title": "EC313 - Taxation",
     "section": "Income in Canada’s Tax System",
-    "text": "Income in Canada’s Tax System\n\nMuch of the income counted in personal income taxes alights with Haig-Simons\nBut there are some departures\n\nSome income sources are excluded (e.g., gifts, inheritances, lottery winnings, employer contributions to benefits)\nSome income sources are only partially included (e.g., capital gains)\nSome deductions are allowed that do not fit the concept (e.g., RRSP contributions)\n\nCapital gains are a notable departure\n\nOnly 50% of capital gains are included in income\nGains on principal residences are not counted at all\nIn the past there were large gains exemptions (i.e. gains below exemption not taxed)\nOnly realized gains are taxed"
+    "text": "Income in Canada’s Tax System\n\nMuch of the income counted in personal income taxes aligns with Haig-Simons\nBut there are some departures\n\nSome income sources are excluded (e.g., gifts, inheritances, lottery winnings, employer contributions to benefits)\nSome income sources are only partially included (e.g., capital gains)\nSome deductions are allowed that do not fit the concept (e.g., RRSP contributions)\n\nCapital gains are a notable departure\n\nOnly 50% of capital gains are included in income\nGains on principal residences are not counted at all\nIn the past there were large gains exemptions (i.e. gains below exemption not taxed)\nOnly realized gains are taxed"
   },
   {
     "objectID": "slides/personaltax/index.html#income-in-canadas-tax-system-1",
@@ -2050,10 +2050,192 @@
     "text": "Income in Canada’s Tax System\n\nWhat if a person holds unrealized gains at death?\n\nCRA deems gains realized on date of death\nTaxes are owed by the estate\nIf assets are bequeathed to someone else, the change in asset value since date of death is subject to gains tax\n\nWhy preferential treatment of capital gains?\n\nEncourages investment and risk-taking\nCompensates for deferring consumption\nOffsets increased tax burden from inflation (nominal gains)"
   },
   {
+    "objectID": "slides/personaltax/index.html#income-in-canadas-tax-system-6",
+    "href": "slides/personaltax/index.html#income-in-canadas-tax-system-6",
+    "title": "EC313 - Taxation",
+    "section": "Income in Canada’s Tax System",
+    "text": "Income in Canada’s Tax System\n\nContributions to pension plans (employee and employer) are not included in income until paid out\n\nAllows people to defer taxes until retirement\n\nBeneficial if people are in lower tax brackets when retired\n\nInterest also not taxed until withdrawn\n\nEncourages saving for retirement\nBut a departure from Haig-Simons definition of income\n\nFinally gifts and inheritances are not taxed\n\nBy Haig-Simons, they should be included in income because they increase ability to consume"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#introduction",
+    "href": "slides/personaltax/index.html#introduction",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nWe discussed how income is calculated for tax purposes\nThere is a difference between\n\nTotal income and taxable income\n\nDeductions exclude some income from being taxed\n\nTaxes owing and taxes payable\n\nCredits reduce taxes owing\n\n\nThere are various reasons for deductions and credits\n\nSocial policy goals\nEconomic efficiency\nEquity considerations"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#deductions",
+    "href": "slides/personaltax/index.html#deductions",
+    "title": "EC313 - Taxation",
+    "section": "Deductions",
+    "text": "Deductions\n\nTax Deduction: An amount that can be subtracted from total income to arrive at taxable income\nIn Canada, the main goals of deductions are to\n\nRecognize certain unavoidable expenses to earn income (e.g., child care, moving expenses)\nEncourage certain behaviours (e.g., saving for retirement, a home)\nOther reasons (e.g., spousal support)\n\nMost deductions are for expenses to earn income\n\nE.g., moving expenses, child care, union and professional dues, interest expenses\nApplies the tax only to the “net” additions to income after the expenses"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#deductions-1",
+    "href": "slides/personaltax/index.html#deductions-1",
+    "title": "EC313 - Taxation",
+    "section": "Deductions",
+    "text": "Deductions\n\nMost others are to encourage saving\n\nE.g., RRSP contributions, registered pension plan contributions\nTax is not paid on these amounts until withdrawn\nMost beneficial when people are in high tax brackets when income is earned, and lower ones when withdrawn\n\nFirst home buyers plan is deductible and not taxed when withdrawn\n\nEncourages saving for first home purchase\n\nSome savings plans are not tax deductible but interest grows tax free - Tax Free Savings Plans - Registered Education Savings Plans"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#deductions-2",
+    "href": "slides/personaltax/index.html#deductions-2",
+    "title": "EC313 - Taxation",
+    "section": "Deductions",
+    "text": "Deductions\n\nFinally, some deductions exist for other reasons\n\nE.g., spousal support payments, child support payments\nThese payments reduce the income of the payer, who is assumed to have greater ability to pay\nSupport is included in the income of the receiver\nRecognizes who ultimately receives the income and consumes it"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#tax-credits",
+    "href": "slides/personaltax/index.html#tax-credits",
+    "title": "EC313 - Taxation",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\nTax Credit: An amount that can be subtracted from taxes owing to arrive at taxes payable\nThese are different from deductions\n\nDeductions reduce the income that is ultimately taxable\nCredits occur after taxes are calculated, and reduce the amount owed\n\nThere are two types:\n\nNon-refundable tax credits: Reduce taxes owing, but not below zero\nRefundable tax credits: Can reduce taxes owing below zero, resulting in a refund\n\nThere are many credits available for different purposes\n\nEncourage behaviour\nRecognize certain costs\nEquity considerations"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#tax-credits-1",
+    "href": "slides/personaltax/index.html#tax-credits-1",
+    "title": "EC313 - Taxation",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\nMany credits are 15% of the eligible amount\n\n15% is the lowest federal tax rate\nSo these credits reduce taxes by the same amount as if the eligible amount were deducted from income\n\nOthers are different amounts\n\nCharitable donations credit is much higher"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#tax-credits-2",
+    "href": "slides/personaltax/index.html#tax-credits-2",
+    "title": "EC313 - Taxation",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\nSome notable credits are:\nBasic personal amount credit\n\nAll taxpayers get a credit on the first portion of their income\nRecognizes that everyone has some basic consumption needs\n\nAge amount credit\n\nFor seniors over age 65\nRecognizes higher costs of living for seniors\n\nCPP and EI credit\n\nRecognizes that these amounts are expenses to earn income\nArgument could be made that this is better as a deduction"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#tax-credits-3",
+    "href": "slides/personaltax/index.html#tax-credits-3",
+    "title": "EC313 - Taxation",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\nMedical expenses\n\nRecognizes that medical expenses are necessary consumption\nOnly expenses above a certain threshold are eligible\n\nCharitable donations\n\nEncourages charitable giving\nCredit rate increases for donations above certain levels\n\nCanada Workers Benefit\n\nA refundable credit for low-income workers\nEncourages work and supplements income for low earners"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#tax-credits-4",
+    "href": "slides/personaltax/index.html#tax-credits-4",
+    "title": "EC313 - Taxation",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\nBoutique credits\n\nTargeted at specific groups or behaviours\nE.g., credits for digital news subscriptions, home accessibility, volunteer firefighters, fitness\nOften criticized for complexity and inequity\n\nGST/HST credit\n\nA refundable credit to offset sales taxes paid\nTargeted at low and moderate income households\n\nTuition credit\n\nFor students to offset costs of education\nUnused amounts can be carried forward or transferred to others"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#credits-deductions-and-prices",
+    "href": "slides/personaltax/index.html#credits-deductions-and-prices",
+    "title": "EC313 - Taxation",
+    "section": "Credits, Deductions, and Prices",
+    "text": "Credits, Deductions, and Prices\n\nOne effect of deductions and credits is to alter prices for certain types of consumption\nA good example is charitable donations\nIn Ontario, for a $100 donation you would receive a federal credit of $15 and a provincial credit of $5.05\n\nTotal credit of $20.05\nSo the effective “price” of a $100 donation is $79.95 after tax savings\n\nIn the United States, donors receive a deduction rather than a credit\n\nA $100 donation would reduce taxable income by $100\nThe reduction in the price of the donation depends on the donor’s tax bracket\nSomeone in the 24% tax bracket avoids $24 in taxes for the $100 donation\nSo the effective “price” of a $100 donation is $76 after tax savings\nWealthier people (in higher brackets) pay a lower price for donations"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#credits-vs-deductions-fairness",
+    "href": "slides/personaltax/index.html#credits-vs-deductions-fairness",
+    "title": "EC313 - Taxation",
+    "section": "Credits vs Deductions: Fairness",
+    "text": "Credits vs Deductions: Fairness\n\nAbove example highlights a more general issue: benefits from deductions depend on tax bracket\n\nPeople in higher brackets receive more benefit from deductions than those in lower brackets\nSome view that as unfair\n\nMany credits in Canada were deductions prior to 1988\n\nConverted to credits so that the benefit is the same for all taxpayers\n\nLikely not optimal from an efficiency perspective\n\nPeople differ in their responses to prices\nYou want to give larger incentives to those who respond more\nCredits do not do that\n\nBut credits are simpler and viewed as more equitable"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#tax-expenditures",
+    "href": "slides/personaltax/index.html#tax-expenditures",
+    "title": "EC313 - Taxation",
+    "section": "Tax Expenditures",
+    "text": "Tax Expenditures\n\nDeductions and credits reduce taxes collected by the government\n\nForegone tax revenue\nMoney that is not available to fund public services\n\nThese can be substantial amounts of money\nThis reduction in taxes is viewed as a form of indirect government spending called tax expenditures"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#tax-expenditures-1",
+    "href": "slides/personaltax/index.html#tax-expenditures-1",
+    "title": "EC313 - Taxation",
+    "section": "Tax Expenditures",
+    "text": "Tax Expenditures"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#tax-expenditures-2",
+    "href": "slides/personaltax/index.html#tax-expenditures-2",
+    "title": "EC313 - Taxation",
+    "section": "Tax Expenditures",
+    "text": "Tax Expenditures\n\nThe Canadian government tracks tax expenditures and reports them annually\n\nCurrent and historical reports here: https://www.canada.ca/en/department-finance/services/publications/federal-tax-expenditures.html\n\nIn 2025, projected to be $183 billion federally (6% of GDP)\n\nBiggest items: pension deduction, partial inclusion of capital gains, zero-rating of groceries"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#introduction-1",
+    "href": "slides/personaltax/index.html#introduction-1",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nCanada has a progressive tax system\n\nHigher income earners pay a larger fraction of their income in taxes\n\nUses a bracket system\n\nRanges of income where a particular tax rate applies\n\nThe tax you pay on an additional dollar of income is called the marginal tax rate\n\nImportant for understanding incentives to work, save, invest\nDifferent from the average tax rate which is total taxes paid divided by total income\n\nThe rate in a particular bracket is the marginal tax rate on each dollar in the bracket"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#federal-and-provincial-rates",
+    "href": "slides/personaltax/index.html#federal-and-provincial-rates",
+    "title": "EC313 - Taxation",
+    "section": "Federal and Provincial Rates",
+    "text": "Federal and Provincial Rates"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#federal-and-provincial-rates-1",
+    "href": "slides/personaltax/index.html#federal-and-provincial-rates-1",
+    "title": "EC313 - Taxation",
+    "section": "Federal and Provincial Rates",
+    "text": "Federal and Provincial Rates"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#statutory-vs-effective-marginal-taxes",
+    "href": "slides/personaltax/index.html#statutory-vs-effective-marginal-taxes",
+    "title": "EC313 - Taxation",
+    "section": "Statutory vs Effective Marginal Taxes",
+    "text": "Statutory vs Effective Marginal Taxes\n\nThe rates shown are statutory marginal tax rates\n\nThe rates specified in the tax code\n\nBut earning one dollar more income can affect other government programs that affect how much of that dollar you keep\n\nE.g., eligibility for benefits, credits, social assistance\nThese changes can act like a tax or subsidy on additional income\n\nThe total effect is called the effective marginal tax rate\n\nStatutory rate plus any changes in benefits/credits/social assistance"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#statutory-vs-effective-marginal-taxes-1",
+    "href": "slides/personaltax/index.html#statutory-vs-effective-marginal-taxes-1",
+    "title": "EC313 - Taxation",
+    "section": "Statutory vs Effective Marginal Taxes",
+    "text": "Statutory vs Effective Marginal Taxes\n\nSeveral factors can drive a wedge between statutory and effective marginal tax rates\n\nSurtaxes: additional taxes applied when income exceeds certain thresholds\n\nCanada has mostly eliminated these, but some provinces still have them\n\nPayroll taxes: taxes on earnings to fund social programs (e.g., CPP, EI)\n\nThese increase the effective marginal tax rate on labour income\n\nClawbacks: as income increases, eligibility for certain programs decreases\n\nE.g., GST/HST credit, Canada Child Benefit, Old Age Security\n\n\nWhat matters for individual decision making is the effective marginal tax rate"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#statutory-vs-effective-marginal-taxes-2",
+    "href": "slides/personaltax/index.html#statutory-vs-effective-marginal-taxes-2",
+    "title": "EC313 - Taxation",
+    "section": "Statutory vs Effective Marginal Taxes",
+    "text": "Statutory vs Effective Marginal Taxes"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#statutory-vs-effective-marginal-taxes-3",
+    "href": "slides/personaltax/index.html#statutory-vs-effective-marginal-taxes-3",
+    "title": "EC313 - Taxation",
+    "section": "Statutory vs Effective Marginal Taxes",
+    "text": "Statutory vs Effective Marginal Taxes"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#alternative-minimum-tax",
+    "href": "slides/personaltax/index.html#alternative-minimum-tax",
+    "title": "EC313 - Taxation",
+    "section": "Alternative Minimum Tax",
+    "text": "Alternative Minimum Tax\n\nWith the myriad of deductions and credits, it is possible to pay little or no tax despite high income\n\nWealthier people can hire accountants to find ways to reduce tax liability\n\nCanada has an Alternative Minimum Tax (AMT) to ensure high-income earners pay a minimum level of tax\nTo calculate AMT, taxpayers add back certain deductions and credits to their taxable income\nApplies the normal tax rates to this adjusted income to calculate a minimum tax liability"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#effective-vs-statutory-taxes-again",
+    "href": "slides/personaltax/index.html#effective-vs-statutory-taxes-again",
+    "title": "EC313 - Taxation",
+    "section": "Effective vs Statutory Taxes Again",
+    "text": "Effective vs Statutory Taxes Again\n\nWe already discussed the differences between statutory and effective marginal tax rates\nThis discussion can be broadened to consider these economic factors\n\nThe economic incidence of a tax is not always on the person who writes the cheque to the government\nTaxes involve excess burden (deadweight loss) beyond the tax revenue collected\n\nSimply looking at the statutory tax rates ignores these factors\nSome economists have proposed a flat tax as a way to simplify the tax system and reduce excess burden\n\nA single tax rate on all income, with few deductions or credits\nWould reduce compliance costs and economic distortions"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#effective-vs-statutory-taxes-again-1",
+    "href": "slides/personaltax/index.html#effective-vs-statutory-taxes-again-1",
+    "title": "EC313 - Taxation",
+    "section": "Effective vs Statutory Taxes Again",
+    "text": "Effective vs Statutory Taxes Again\n\nPros of a flat tax would be\n\nSimplicity: easier to understand and comply with\nLower compliance costs: less time and money spent on tax preparation\nReduced economic distortions: fewer incentives to alter behaviour to avoid tax\n\nCons are\n\nEquity concerns: flat tax is less progressive, may increase inequality\nSome deductions and credits might be eliminated to broaden the tax base\nPolitical feasibility: difficult to implement due to vested interests in current system"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#introduction-2",
+    "href": "slides/personaltax/index.html#introduction-2",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nThe current tax unit in Canada is the individual\n\nEach person files their own tax return\nIncome and taxes are calculated separately for each person\nSome tax incentives exist for families\n\nSome countries use the family or household as the tax unit\n\nIncome and taxes are calculated for the family as a whole\nCan lead to different tax liabilities compared to individual filing\n\nWhich is the better approach?"
+  },
+  {
     "objectID": "slides/personaltax/index.html#references-1",
     "href": "slides/personaltax/index.html#references-1",
     "title": "EC313 - Taxation",
     "section": "References",
-    "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022."
+    "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.\nBazel, Philip. Marginal Effective Tax Rates for Working Families in Canada. Fraser Institute, 2024."
   }
 ]

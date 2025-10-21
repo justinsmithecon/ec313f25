@@ -264,7 +264,7 @@ editor: visual
 
 ## Income in Canada's Tax System
 
--   Much of the income counted in personal income taxes alights with Haig-Simons
+-   Much of the income counted in personal income taxes aligns with Haig-Simons
 
 -   But there are some departures
 
@@ -306,7 +306,7 @@ editor: visual
 -   At the end of the 5 years, the gain is \$248.83 - \$100 = \$148.83
 -   Tax paid is \$148.83 \* 50% \* 50% = \$37.21
 -   After- tax value is \$248.83 - \$37.21 = \$211.62
-- After tax gain is \$111.62
+-   After tax gain is \$111.62
 
 ## Income in Canada's Tax System
 
@@ -321,42 +321,400 @@ editor: visual
 | 5    |           174.90 | 34.98 |        17.49 | 8.75 |         201.14 |
 
 -   Now the value at the end of year 5 is \$201.14
-- After-tax gain is \$201.14 - \$100 = \$101.14
--  Total gains are \$20 + \$23 + \$26.45 + \$30.42 + \$34.98 = \$134.85
--   Tax paid is \$5.00 + \$5.75 + \$6.61 + \$7.60 + \$8.75 = \$134.85 * 50% \* 50% = \$33.71
+-   After-tax gain is \$201.14 - \$100 = \$101.14
+-   Total gains are \$20 + \$23 + \$26.45 + \$30.42 + \$34.98 = \$134.85
+-   Tax paid is \$5.00 + \$5.75 + \$6.61 + \$7.60 + \$8.75 = \$134.85 \* 50% \* 50% = \$33.71
     -   Less because the gains are smaller
+
+## Income in Canada's Tax System
+
+-   Taxation of realized gains locks in investments
+
+    -   People may be reluctant to sell assets to avoid paying tax
+
+-   This can lead to inefficiencies in the economy
+
+    -   People hold onto assets that are not the best use of their resources
+    -   Capital is not allocated to its most productive use
+
+-   Conservatives proposed an deferral of taxation for investing in Canadian companies
+
+    -   No gains tax if reinvested in Canadian companies
+    -   Aimed at reducing lock-in effect and encouraging investment in Canada
+
+## Income in Canada's Tax System
+
+-   What if a person holds unrealized gains at death?
+
+    -   CRA deems gains realized on date of death
+    -   Taxes are owed by the estate
+    -   If assets are bequeathed to someone else, the change in asset value since date of death is subject to gains tax
+
+-   Why preferential treatment of capital gains?
+
+    -   Encourages investment and risk-taking
+    -   Compensates for deferring consumption
+    -   Offsets increased tax burden from inflation (nominal gains)
+
+## Income in Canada's Tax System
+
+-   Contributions to pension plans (employee and employer) are not included in income until paid out
+
+    -   Allows people to defer taxes until retirement
+
+        -   Beneficial if people are in lower tax brackets when retired
+
+    -   Interest also not taxed until withdrawn\
+
+    -   Encourages saving for retirement
+
+    -   But a departure from Haig-Simons definition of income
+
+-   Finally gifts and inheritances are not taxed
+
+    -   By Haig-Simons, they should be included in income because they increase ability to consume
+
+# Tax Deductions and Credits
+
+## Introduction
+
+-   We discussed how income is calculated for tax purposes
+
+-   There is a difference between
+
+    -   Total income and taxable income
+
+        -   **Deductions** exclude some income from being taxed
+
+    -   Taxes owing and taxes payable
+
+        -   **Credits** reduce taxes owing
+
+-   There are various reasons for deductions and credits
+
+    -   Social policy goals
+    -   Economic efficiency
+    -   Equity considerations
+
+## Deductions
+
+-   **Tax Deduction**: An amount that can be subtracted from total income to arrive at taxable income
+
+-   In Canada, the main goals of deductions are to
+
+    -   Recognize certain unavoidable expenses to earn income (e.g., child care, moving expenses)
+    -   Encourage certain behaviours (e.g., saving for retirement, a home)
+    -   Other reasons (e.g., spousal support)
+
+-   Most deductions are for expenses to earn income
+
+    -   E.g., moving expenses, child care, union and professional dues, interest expenses
+    -   Applies the tax only to the "net" additions to income after the expenses
+
+## Deductions
+
+-   Most others are to encourage saving
+
+    -   E.g., RRSP contributions, registered pension plan contributions
+    -   Tax is not paid on these amounts until withdrawn
+    -   Most beneficial when people are in high tax brackets when income is earned, and lower ones when withdrawn
+
+-   First home buyers plan is deductible **and** not taxed when withdrawn
+
+    -   Encourages saving for first home purchase
+
+-   Some savings plans are *not* tax deductible but interest grows tax free - Tax Free Savings Plans - Registered Education Savings Plans
+
+## Deductions
+
+-   Finally, some deductions exist for other reasons
+
+    -   E.g., spousal support payments, child support payments
+    -   These payments reduce the income of the payer, who is assumed to have greater ability to pay
+    -   Support is included in the income of the receiver
+    -   Recognizes who ultimately receives the income and consumes it
+
+## Tax Credits
+
+-   **Tax Credit**: An amount that can be subtracted from taxes owing to arrive at taxes payable
+
+-   These are different from deductions
+
+    -   Deductions reduce the income that is ultimately taxable
+    -   Credits occur after taxes are calculated, and reduce the amount owed
+
+-   There are two types:
+
+    -   **Non-refundable tax credits**: Reduce taxes owing, but not below zero
+    -   **Refundable tax credits**: Can reduce taxes owing below zero, resulting in a refund
+
+-   There are many credits available for different purposes
+
+    -   Encourage behaviour
+    -   Recognize certain costs
+    -   Equity considerations
+
+## Tax Credits
+
+-   Many credits are 15% of the eligible amount
+
+    -   15% is the lowest federal tax rate
+    -   So these credits reduce taxes by the same amount as if the eligible amount were deducted from income
+
+-   Others are different amounts
+
+    -   Charitable donations credit is much higher
+
+## Tax Credits
+
+-   Some notable credits are:
+
+-   Basic personal amount credit
+
+    -   All taxpayers get a credit on the first portion of their income
+    -   Recognizes that everyone has some basic consumption needs
+
+-   Age amount credit
+
+    -   For seniors over age 65
+    -   Recognizes higher costs of living for seniors
+
+-   CPP and EI credit
+
+    -   Recognizes that these amounts are expenses to earn income
+    -   Argument could be made that this is better as a deduction
+
+## Tax Credits
+
+-   Medical expenses
+
+    -   Recognizes that medical expenses are necessary consumption
+    -   Only expenses above a certain threshold are eligible
+
+-   Charitable donations
+
+    -   Encourages charitable giving
+    -   Credit rate increases for donations above certain levels
+
+-   Canada Workers Benefit
+
+    -   A refundable credit for low-income workers
+    -   Encourages work and supplements income for low earners
+
+## Tax Credits
+
+-   Boutique credits
+
+    -   Targeted at specific groups or behaviours
+    -   E.g., credits for digital news subscriptions, home accessibility, volunteer firefighters, fitness
+    -   Often criticized for complexity and inequity
+
+-   GST/HST credit
+
+    -   A refundable credit to offset sales taxes paid
+    -   Targeted at low and moderate income households
+
+-   Tuition credit
+
+    -   For students to offset costs of education
+    -   Unused amounts can be carried forward or transferred to others
+
+## Credits, Deductions, and Prices
+
+-   One effect of deductions and credits is to alter prices for certain types of consumption
+
+-   A good example is charitable donations
+
+-   In Ontario, for a \$100 donation you would receive a federal credit of \$15 and a provincial credit of \$5.05
+
+    -   Total credit of \$20.05
+    -   So the effective "price" of a \$100 donation is \$79.95 after tax savings
+
+-   In the United States, donors receive a deduction rather than a credit
+
+    -   A \$100 donation would reduce taxable income by \$100
+    -   The reduction in the price of the donation depends on the donor's tax bracket
+    -   Someone in the 24% tax bracket avoids \$24 in taxes for the \$100 donation
+    -   So the effective "price" of a \$100 donation is \$76 after tax savings
+    -   Wealthier people (in higher brackets) pay a lower price for donations
+
+## Credits vs Deductions: Fairness
+
+-   Above example highlights a more general issue: benefits from deductions depend on tax bracket
+
+    -   People in higher brackets receive more benefit from deductions than those in lower brackets
+    -   Some view that as unfair
+
+-   Many credits in Canada were deductions prior to 1988
+
+    -   Converted to credits so that the benefit is the same for all taxpayers
+
+-   Likely not optimal from an efficiency perspective
+
+    -   People differ in their responses to prices
+    -   You want to give larger incentives to those who respond more
+    -   Credits do not do that
+
+-   But credits are simpler and viewed as more equitable
+
+## Tax Expenditures
+
+-   Deductions and credits reduce taxes collected by the government
+
+    -   Foregone tax revenue
+    -   Money that is not available to fund public services
+
+-   These can be substantial amounts of money
+
+-   This reduction in taxes is viewed as a form of indirect government spending called **tax expenditures**
+
+## Tax Expenditures
+
+![](images/clipboard-988257517.jpeg){fig-align="center"}
+
+## Tax Expenditures
+
+-   The Canadian government tracks tax expenditures and reports them annually
+
+    -   Current and historical reports here: https://www.canada.ca/en/department-finance/services/publications/federal-tax-expenditures.html
+
+-   In 2025, projected to be \$183 billion federally (6% of GDP)
+
+    -   Biggest items: pension deduction, partial inclusion of capital gains, zero-rating of groceries
+
+# Personal Tax Rates in Canada
+
+## Introduction
+
+-   Canada has a progressive tax system
+
+    -   Higher income earners pay a larger fraction of their income in taxes
+
+-   Uses a bracket system
+
+    -   Ranges of income where a particular tax rate applies
+
+-   The tax you pay on an additional dollar of income is called the **marginal tax rate**
+
+    -   Important for understanding incentives to work, save, invest
+    -   Different from the **average tax rate** which is total taxes paid divided by total income
+
+-   The rate in a particular bracket is the marginal tax rate on each dollar in the bracket
+
+## Federal and Provincial Rates
+
+![](images/clipboard-779599886.jpeg){fig-align="center"}
+
+## Federal and Provincial Rates
+
+![](images/clipboard-4098139174.jpeg){fig-align="center"}
+
+## Statutory vs Effective Marginal Taxes
+
+-   The rates shown are **statutory marginal tax rates**
+
+    -   The rates specified in the tax code
+
+-   But earning one dollar more income can affect other government programs that affect how much of that dollar you keep
+
+    -   E.g., eligibility for benefits, credits, social assistance
+    -   These changes can act like a tax or subsidy on additional income
+
+-   The total effect is called the **effective marginal tax rate**
+
+    -   Statutory rate plus any changes in benefits/credits/social assistance
+
+## Statutory vs Effective Marginal Taxes
+
+-   Several factors can drive a wedge between statutory and effective marginal tax rates
+
+    -   Surtaxes: additional taxes applied when income exceeds certain thresholds
+
+        -   Canada has mostly eliminated these, but some provinces still have them
+
+    -   Payroll taxes: taxes on earnings to fund social programs (e.g., CPP, EI)
+
+        -   These increase the effective marginal tax rate on labour income
+
+    -   Clawbacks: as income increases, eligibility for certain programs decreases
+
+        -   E.g., GST/HST credit, Canada Child Benefit, Old Age Security
+
+-   What matters for individual decision making is the effective marginal tax rate
+
+## Statutory vs Effective Marginal Taxes
+
+![](images/metr.png){fig-align="center"}
+
+## Statutory vs Effective Marginal Taxes
+
+![](images/clipboard-3611731019.jpeg){fig-align="center"}
+
+
+## Alternative Minimum Tax
+
+- With the myriad of deductions and credits, it is possible to pay little or no tax despite high income
+
+    - Wealthier people can hire accountants to find ways to reduce tax liability
     
+    
+-   Canada has an **Alternative Minimum Tax (AMT)** to ensure high-income earners pay a minimum level of tax
 
-## Income in Canada's Tax System
+- To calculate AMT, taxpayers add back certain deductions and credits to their taxable income
 
-- Taxation of realized gains locks in investments
-
-  - People may be reluctant to sell assets to avoid paying tax
-  
-- This can lead to inefficiencies in the economy
-
-  - People hold onto assets that are not the best use of their resources
-  - Capital is not allocated to its most productive use
-  
-- Conservatives proposed an deferral of taxation for investing in Canadian companies
-
-  - No gains tax if reinvested in Canadian companies
-  - Aimed at reducing lock-in effect and encouraging investment in Canada
+- Applies the normal tax rates to this adjusted income to calculate a minimum tax liability
 
 
-## Income in Canada's Tax System
+## Effective vs Statutory Taxes Again
 
-- What if a person holds unrealized gains at death?
+- We already discussed the differences between statutory and effective marginal tax rates
 
-  - CRA deems gains realized on date of death
-  - Taxes are owed by the estate
-  - If assets are bequeathed to someone else, the change in asset value since date of death is subject to gains tax
-  
-- Why preferential treatment of capital gains?
+- This discussion can be broadened to consider these economic factors
 
-  - Encourages investment and risk-taking
-  - Compensates for deferring consumption
-  - Offsets increased tax burden from inflation (nominal gains)
+    - The economic incidence of a tax is not always on the person who writes the cheque to the government
+    - Taxes involve excess burden (deadweight loss) beyond the tax revenue collected
+
+- Simply looking at the statutory tax rates ignores these factors
+
+- Some economists have proposed a **flat tax** as a way to simplify the tax system and reduce excess burden
+
+    - A single tax rate on all income, with few deductions or credits
+    - Would reduce compliance costs and economic distortions
+
+
+## Effective vs Statutory Taxes Again
+
+- Pros of a flat tax would be
+
+    - Simplicity: easier to understand and comply with
+    - Lower compliance costs: less time and money spent on tax preparation
+    - Reduced economic distortions: fewer incentives to alter behaviour to avoid tax
+    
+- Cons are
+
+    - Equity concerns: flat tax is less progressive, may increase inequality
+    - Some deductions and credits might be eliminated to broaden the tax base
+    - Political feasibility: difficult to implement due to vested interests in current system
+
+
+# Tax Unit
+
+## Introduction
+
+- The current tax unit in Canada is the individual
+
+    - Each person files their own tax return
+    - Income and taxes are calculated separately for each person
+    - Some tax incentives exist for families 
+    
+- Some countries use the family or household as the tax unit
+
+    - Income and taxes are calculated for the family as a whole
+    - Can lead to different tax liabilities compared to individual filing
+    
+- Which is the better approach?
+
+
 
 
 # References
@@ -366,3 +724,5 @@ editor: visual
 -   Rosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.
 
 -   Gruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.
+
+- Bazel, Philip. Marginal Effective Tax Rates for Working Families in Canada. Fraser Institute, 2024.
