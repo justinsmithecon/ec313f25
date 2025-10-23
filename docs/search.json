@@ -2232,10 +2232,143 @@
     "text": "Introduction\n\nThe current tax unit in Canada is the individual\n\nEach person files their own tax return\nIncome and taxes are calculated separately for each person\nSome tax incentives exist for families\n\nSome countries use the family or household as the tax unit\n\nIncome and taxes are calculated for the family as a whole\nCan lead to different tax liabilities compared to individual filing\n\nWhich is the better approach?"
   },
   {
+    "objectID": "slides/personaltax/index.html#individual-vs-family-as-tax-unit",
+    "href": "slides/personaltax/index.html#individual-vs-family-as-tax-unit",
+    "title": "EC313 - Taxation",
+    "section": "Individual vs Family as Tax Unit",
+    "text": "Individual vs Family as Tax Unit\n\nIndividual filing is when each person files their own tax return\n\nEven in couples, each income is taxed separately\nMeans that deductions and credits are calculated for each person individually\nThough sometimes deductions and credits can be shifted between spouses\n\nFamily filing is when the family unit files a single tax return\n\nIncome is combined and taxed as a whole\nDeductions and credits are calculated for the family as a whole"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#individual-vs-family-as-tax-unit-1",
+    "href": "slides/personaltax/index.html#individual-vs-family-as-tax-unit-1",
+    "title": "EC313 - Taxation",
+    "section": "Individual vs Family as Tax Unit",
+    "text": "Individual vs Family as Tax Unit\n\nNext slide outlines an example showing difference for two types of families\n\nA breadwinner family where one spouse earns most income\nOne where both spouses earn equal amounts\n\nHypothetical progressive tax schedule is\n\n10% tax up to $6000 in income\n50% tax for income beyond $6000"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#individual-vs-family-as-tax-unit-2",
+    "href": "slides/personaltax/index.html#individual-vs-family-as-tax-unit-2",
+    "title": "EC313 - Taxation",
+    "section": "Individual vs Family as Tax Unit",
+    "text": "Individual vs Family as Tax Unit\n\nWith joint filing, it does not matter who earns income\n\nTax applies to the sum of the income, so who earns it is irrelevant\nBoth families pay the same tax\n\nWith individual filing, it does\n\nIn example, one spouse earns almost all income\nMeans that more income is taxed at higher rates\nLeads to higher burden\nMeans the two families pay different tax\n\nFor both families, joint filing increases the tax burden"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#individual-vs-family-as-tax-unit-3",
+    "href": "slides/personaltax/index.html#individual-vs-family-as-tax-unit-3",
+    "title": "EC313 - Taxation",
+    "section": "Individual vs Family as Tax Unit",
+    "text": "Individual vs Family as Tax Unit\n\nEfficiency issues with the family as the taxable unit\n\nWith family as the taxable unity, everyone in the family pays the same marginal tax rate\nRecall that using a Ramsay Rule argument, we want to tax labour differently depending on elasticity of supply\nUsing family as the tax unit means that people with different elasticities may face the same marginal tax rate\n\nEquity issues with family taxation\n\nSome people believe that tax burdens should be equal across families\nBut taxing as a family can discourage work by the lower earning spouse\n\nAs noted, second earner faces higher marginal tax rates than if taxed individually\nThe lower earner in many families is female\nCould discourage female labour supply\n\nSome types of families may not actually share income"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#individual-vs-family-as-tax-unit-4",
+    "href": "slides/personaltax/index.html#individual-vs-family-as-tax-unit-4",
+    "title": "EC313 - Taxation",
+    "section": "Individual vs Family as Tax Unit",
+    "text": "Individual vs Family as Tax Unit\n\nEquity issues with the individual as the filing unit\n\nFamilies who earn the same amount are taxed differently\nIncome splitting with individual filing\n\nIn Canada this happens with Canadian-Controlled Private Corporations (CCPCs)\nProfessionals like doctors, dentists, etc can incorporate\nInside a CCCP, income is split among family members through “income sprinkling”\nAllows wealthy to lower their tax burden\n\n\nOther issues\n\nWhat is a family?\n\nMarried couples, common-law partners, single parents, multi-generational households?"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#introduction-3",
+    "href": "slides/personaltax/index.html#introduction-3",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nInflation is the general increase in prices in the economy\nNominal wages and asset prices tend to rise with inflation\n\nSome wage contracts are directly indexed to inflation\n\nBut income taxes are based on nominal income\nThis can lead to some problems in the tax system"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#bracket-creep",
+    "href": "slides/personaltax/index.html#bracket-creep",
+    "title": "EC313 - Taxation",
+    "section": "Bracket Creep",
+    "text": "Bracket Creep\n\nIn a progressive tax system, there are different marginal tax rates for different ranges on incomes\nAs nominal incomes rise with inflation, people can be pushed into higher tax brackets\n\nEven if their real income (purchasing power) has not increased\n\nExample\n\nSuppose tax on first $6000 of income is 10%, and income above $6000 is taxed at 50%\nIn 2024, a person earns $6000 and pays $600 in taxes\nSuppose that between 2024 and 2025 there is 10% inflation, and the person’s nominal income rises to $6600\nNow the person pays $600 + 0.5 * ($6600 - $6000) = $900 in taxes\nBut their real income is the same\n\nThe movement into higher tax brackets due to inflation is called bracket creep"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#bracket-creep-1",
+    "href": "slides/personaltax/index.html#bracket-creep-1",
+    "title": "EC313 - Taxation",
+    "section": "Bracket Creep",
+    "text": "Bracket Creep\n\nTo avoid bracket creep, governments can index tax brackets to inflation\n\nAdjust the income thresholds for tax brackets based on inflation rate\n\nBut this only works with anticipated inflation\n\nUnanticipated inflation can still lead to bracket creep\n\nCanada does adjust the brackets for inflation to avoid this problem"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#deductions-and-credits",
+    "href": "slides/personaltax/index.html#deductions-and-credits",
+    "title": "EC313 - Taxation",
+    "section": "Deductions and Credits",
+    "text": "Deductions and Credits\n\nSome deductions and credits are fixed amounts\n\nE.g., basic personal amount, age amount, medical expenses threshold, child care deduction limit\n\nThese amounts may not be indexed to inflation\nThe real value of these deductions and credits erodes with inflation\n\nPeople may pay more taxes in real terms even if their real income has not increased\n\nExample: child care deduction limit is $8000 per child under 7\n\nIf this stays constant over time, purchasing power of this deduction decreases with inflation"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#capital-income",
+    "href": "slides/personaltax/index.html#capital-income",
+    "title": "EC313 - Taxation",
+    "section": "Capital Income",
+    "text": "Capital Income\n\nWe briefly discussed the issue of inflation and capital income\nAssets grow with inflation\n\nStocks, real estate, etc.\n\nBut when assets are sold, the capital gains tax is based on nominal gains\nMeans part of tax is based on inflation, part based on real gains\nExample: An asset increases in nominal value by 5% in a year, and inflation is also 5%\n\nIf a person sells the asset, capital gains tax is based on 5% nominal gain\nBut their real gain is 0%\nTaxes based entirely on inflation"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#interest-income",
+    "href": "slides/personaltax/index.html#interest-income",
+    "title": "EC313 - Taxation",
+    "section": "Interest Income",
+    "text": "Interest Income\n\nLike with capital gains, interest income is taxed on nominal amounts\nIf you earn interest on a savings account, the interest is included in income\nBut part of that interest is just compensating for inflation\n\nReal return may be lower than nominal return\n\nThe real return on an investment is \\(r = i - \\pi - ti\\)\n\nWhere \\(i\\) is the nominal interest rate, \\(\\pi\\) is the inflation rate, and \\(t\\) is the tax rate on interest income\n\nSo a $100 investment that earns 6% nominal interest with 3% inflation and a 50% tax rate has a real return of\n\n\\(r = 0.06 - 0.03 - 0.5*0.06 = 0\\)"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#solving-the-inflation-problem",
+    "href": "slides/personaltax/index.html#solving-the-inflation-problem",
+    "title": "EC313 - Taxation",
+    "section": "Solving The Inflation Problem",
+    "text": "Solving The Inflation Problem\n\nMain solution to brack creep and deduction/credit erosion is to index to inflation\n\nCanada has been partially indexing the personal income tax system since 1973\nIndexing has expanded over time\nStil not all parts are indexed\nRemember also that unanticipated inflation can still cause problems\n\nTables on next slides outline the current state of indexing"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#solving-the-inflation-problem-1",
+    "href": "slides/personaltax/index.html#solving-the-inflation-problem-1",
+    "title": "EC313 - Taxation",
+    "section": "Solving The Inflation Problem",
+    "text": "Solving The Inflation Problem"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#solving-the-inflation-problem-2",
+    "href": "slides/personaltax/index.html#solving-the-inflation-problem-2",
+    "title": "EC313 - Taxation",
+    "section": "Solving The Inflation Problem",
+    "text": "Solving The Inflation Problem"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#solving-the-inflation-problem-3",
+    "href": "slides/personaltax/index.html#solving-the-inflation-problem-3",
+    "title": "EC313 - Taxation",
+    "section": "Solving The Inflation Problem",
+    "text": "Solving The Inflation Problem\n\nThere are also equity issues that are solved by indexing\nWithout indexing, the value of tax credits erodes over time\n\nLower income people using more credits are disproportionately affected\nThe burden of inflation would be worse for them\n\nIndexing is important to maintain the real value of these income support measures"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#introduction-4",
+    "href": "slides/personaltax/index.html#introduction-4",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nWe have only talked about income earned within Canada\nMany Canadians earn income abroad\nShould Canada or the other country (or both) tax this income?\nDifferent countries take different approaches"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#taxation-of-foreign-income-in-canada",
+    "href": "slides/personaltax/index.html#taxation-of-foreign-income-in-canada",
+    "title": "EC313 - Taxation",
+    "section": "Taxation of Foreign Income in Canada",
+    "text": "Taxation of Foreign Income in Canada\n\nTaxation in Canada is based on residency\nResidents of Canada pay tax on income earned worldwide\nTo avoid double taxation, Canada offers a foreign income tax credit\n\nForeign tax paid lowers Canadian tax owed on that income\nCredit can offset part or all of Canadian taxes\nBut Cannot exceed Canadian tax owed on that income\n\nIn contrast, US citizens are taxed regardless of residency\n\nUS citizens pay tax on worldwide income even if they live abroad\nForeign tax credit also available to avoid double taxation"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#taxation-of-foreign-income-in-canada-1",
+    "href": "slides/personaltax/index.html#taxation-of-foreign-income-in-canada-1",
+    "title": "EC313 - Taxation",
+    "section": "Taxation of Foreign Income in Canada",
+    "text": "Taxation of Foreign Income in Canada\n\nIs a residency-based system better than citizenship-based?\nEquity considerations\n\nResidents of the same foreign country can be taxed differently based on citizenship\n\nE.g. Canada versus US citizens living in the same foreign country\n\nCitizens of the same country can be taxed differently based on residency\n\nE.g. Canadian citizens living in Canada versus abroad\n\nDifferent definitions of horizontal equity would make one more equitable"
+  },
+  {
+    "objectID": "slides/personaltax/index.html#taxation-of-foreign-income-in-canada-2",
+    "href": "slides/personaltax/index.html#taxation-of-foreign-income-in-canada-2",
+    "title": "EC313 - Taxation",
+    "section": "Taxation of Foreign Income in Canada",
+    "text": "Taxation of Foreign Income in Canada\n\nEfficiency considerations\n\nTaxes can affect decisions on production\n\nAmerican firms abroad may face higher taxes if owners are US citizens\nCould discourage investment abroad\nCanadian firms would not face this issue\n\nTaxes can affect decisions on migration\n\nUS citizens face no tax advantage to moving abroad\nCanadian citizens may face tax advantages to moving and residing abroad"
+  },
+  {
     "objectID": "slides/personaltax/index.html#references-1",
     "href": "slides/personaltax/index.html#references-1",
     "title": "EC313 - Taxation",
     "section": "References",
-    "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.\nBazel, Philip. Marginal Effective Tax Rates for Working Families in Canada. Fraser Institute, 2024."
+    "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.\nBazel, Philip. Marginal Effective Tax Rates for Working Families in Canada. Fraser Institute, 2024.\nHansen, Jeff, and Devan Mescall, and Graham Purse. “Policy Forum: The Effects of Indexation and Inflation on Tax System Design.” Canadian Tax Journal 71, no. 2 (2023): 398-404."
   }
 ]
