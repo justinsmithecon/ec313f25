@@ -45,7 +45,8 @@ website:
               file: content/equitable.qmd
             - text: "The Personal Income Tax"
               file: content/personaltax.qmd
-
+            - text: "Personal Taxation and Behaviour"
+              file: content/taxbehaviour.qmd
 
               
     - title: "Assignments"

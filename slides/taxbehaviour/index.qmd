@@ -1,0 +1,673 @@
+---
+format: 
+  revealjs:
+    theme: [default, hygge.scss]
+    css: captions.css
+    center-title-slide: false
+    slide-number: true
+    height: 900
+    width: 1600
+    chalkboard:
+      theme: whiteboard
+      src: drawings.json
+editor: visual
+---
+
+<h1>Personal Taxation and Behaviour</h1>
+
+<hr>
+
+<h2>EC313 - Public Economics: Taxation</h2>
+
+<h2>Justin Smith</h2>
+
+<h2>Wilfrid Laurier University</h2>
+
+<h2>Fall 2025</h2>
+
+![](/files/img/hexEC313.png){.absolute top="300" left="900" width="550"}
+
+# Goals of This Section
+
+## Goals of This Section
+
+-   Examine the effect of income taxation on labour supply
+
+-   Analyze how labour supply is related to tax revenues with the Laffer Curve
+
+-   Look at how taxation affects saving behaviour
+
+-   Discuss the preferential tax treatment of primary residences in Canada
+
+-   Examine taxation and portfolio allocation
+
+# Taxation and Labour Supply
+
+## Introduction
+
+-   In this section we introduce a model we use throughout the course
+
+-   The model helps us understand how individuals make decisions about work
+
+-   Individual choose between two goods
+
+    -   Income
+    -   Leisure
+
+-   Choices are constrained by time and wage rate
+
+-   There are a few wrinkles that make this market unique
+
+## Preferences
+
+-   Individuals have preferences over Income (I) and leisure (L)
+
+    -   People like having income to consume goods/services
+
+    -   Also like having non-work time
+
+        -   Includes fun activities but also non-work tasks like chores, education, etc.
+
+-   The tradeoffs people are willing to make between I and L are represented by indifference curves
+
+    -   At every point along the curve the individual is equally happy
+    -   Curves further from the origin represent higher levels of utility
+
+## Preferences
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1603650311.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   On the left is a single indifference curve
+
+-   Any point represents equal utility ($U_{0}$)
+
+-   **Marginal Rate of Substitution (MRS)**: the rate at which a person is willing to trade income for leisure while remaining equally happy
+
+-   The MRS is the slope of the indifference curve at a point
+
+-   Individuals have diminishing MRS
+
+    -   Willing to give up less income for additional leisure the more leisure they already have
+
+    -   Slope gets shallower with more leisure
+:::
+::::::
+
+## Preferences
+
+-   Indifference curves do not have to be smooth curves like the one shown
+
+-   Could be straight lines
+
+    -   Means the tradeoff between income and leisure is constant
+
+    -   Willingness to trade away leisure for income does not depend on leisure
+
+-   Could be "L" shaped
+
+    -   Income and leisure must be consumed in fixed proportions
+
+-   Mostly we will deal with smooth preferences
+
+## Preferences
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-4091033674.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Utility increases with curves further from the origin
+
+    -   $U_{2} > U_{1} > U_{0}$
+:::
+::::::
+
+## Constraints
+
+-   Individuals do not choose income and leisure bundles on preference alone
+
+-   They are constrained by
+
+    -   The wage rate
+
+    -   Total number of hours available
+
+-   Budget constraint is also called
+
+    -   Potential income constraint
+
+    -   Full income constraint
+
+## Constraints
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-3959746409.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows a linear budget constraint
+
+-   There are $T$ total hours to allocate to work or leisure
+
+-   Each hour worked gets wage of $w$
+
+-   Person working $T$ hours (no leisure) earns $wT$ income
+
+    -   Called "full income"
+:::
+::::::
+
+## Constraints
+
+-   Mathematically, the budget constraint is
+
+$$I = w(T - L) $$ - Income is equal to income from working $(w(T - L))$
+
+-   The slope of the budget constraint is $-w$
+
+    -   The opportunity cost of leisure is the wage rate
+
+    -   Each hour of leisure means one less hour worked, which means $w$ less income
+
+-   Someone who works zero hours has $T$ leisure hours and no income
+
+-   Someone who works $T$ hours has zero leisure hours and $wT$ income
+
+## Constraints
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-66085390.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Slope is the negative of the wage rate $w$
+
+-   A lower wage means shallower slope
+
+    -   If $w_{1} < w_{0}$, the budget line swivels down
+
+    -   They intersect at leisure = $T$ because there are no work hours
+
+-   Lower wage also means full income is lower
+
+    -   Working all hours leads to less total labour earnings
+:::
+::::::
+
+## Consumer Optimum
+
+-   Work hours are chosen using the combination of preferences and constraints
+-   The consumer optimum is the point that maximizes utility subject to the budget constraint
+-   The optimum occurs where the budget constraint is tangent to an indifference curve
+-   There are two possibilities for the optimum
+    -   Non-participation: optimum occurs at the end of the budget constraint (full leisure)
+    -   Participation: optimum occurs at an interior point (some leisure, some work)
+
+## Consumer Optimum
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1601552925.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows an optimum with participation
+
+-   Optimum is where indifference curve is tangent to budget constraint
+
+-   At the optimum, MRS = wage rate
+
+    -   Willingness to trade leisure for income (MRS) equals ability to trade them (wage)
+
+-   Optimal work hours are $h_{0} = T - L_{0}$
+
+-   Optimal consumption is $I_{0} = W_{0}h_{0}$
+:::
+::::::
+
+## Personal Income Tax
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2658435587.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   The personal income tax affects the budget constraint
+
+-   Suppose a proportional income tax at rate $t$ is introduced
+
+-   The after-tax wage is now $w(1 - t)$
+
+-   Tax causes the budget constraint to pivot inward
+
+    -   Slope is now $-w(1 - t)$
+
+    -   Full income is now $w(1 - t)T$
+:::
+::::::
+
+## Personal Income Tax
+
+-   When the budget constraint changes, so does the optimum
+
+-   Suppose there is a proportional income tax at rate $t$
+
+-   There are two effects of the tax on labour supply
+
+    -   **Substitution effect**: leisure is relatively cheaper, so people want more leisure (work less)
+
+    -   **Income effect**: people are poorer, so they want less leisure (work more)
+
+-   The effect on labour supply is therefore ambiguous
+
+    -   If substitution effect \> income effect, labour supply decreases
+
+    -   If income effect \> substitution effect, labour supply increases
+
+## Personal Income Tax
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1603519026.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows when substitution effect \> income effect
+    -   Budget swivels down
+    -   Person optimizes at lower indifference curve
+    -   Leisure increases from $L_{0}$ to $L_{1}$
+    -   Work hours decrease from $h_{0}$ to $h_{1}$
+-   Happens when people are more willing to trade income for leisure
+:::
+::::::
+
+## Personal Income Tax
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2250528910.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows when income effect \> substitution effect
+    -   Budget swivels down
+    -   Person optimizes at lower indifference curve
+    -   Leisure decreases from $L_{0}$ to $L_{2}$
+    -   Work hours increase from $h_{0}$ to $h_{2}$
+-   Happens when people are less willing to trade income for leisure
+:::
+::::::
+
+## Personal Income Tax
+
+-   In reality taxes are not flat
+
+    -   Canada has a progressive income tax system
+
+    -   Higher income is taxed at higher rates
+
+-   This implies that the budget constraint becomes kinked
+
+    -   As income goes up, the tax rate increases
+    -   When the tax rate changes, the slope changes
+
+-   The basic principles are the same
+
+    -   Substitution and income effects still apply
+    -   Labour supply effect is still ambiguous
+
+## Personal Income Tax
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1167248813.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows a proportional income tax with three brackets
+
+-   Tax rates are $t_{3} > t_{2} > t_{1}$
+
+-   Slope changes at each kink
+
+    -   First kink happens with work hours $h_{0}$
+    -   Second kink happens with work hours $h_{1}$
+
+-   Graph shows increased leisure, but effect is ambiguous
+:::
+::::::
+
+## Evidence on Labour Supply
+
+-   The theory discusses effect of tax \*holding all else equal\*\*
+
+-   In statistical work, this is not easy to do
+
+    -   Many factors affect labour supply
+
+    -   Isolating the effect of taxes is difficult
+
+-   Studies show that
+
+    -   Elasticity of hours worked for working age men is between -0.2 and 0.2
+    -   For women is is between -0.2 and 0.5
+
+-   Means that a reduction in wage based on income tax has a small effect on work hours
+
+-   Effect on labour force participation is larger
+
+# Caveats on Taxation and Labour Supply
+
+## Individual vs Group Effects
+
+-   We simplified the discussion by analyzing one specific type of person
+
+-   But tax changes affect many types of people differently
+
+-   A change from a flat to progressive tax might
+
+    -   Increase the tax rate for some people
+    -   Decrease the tax rate for others
+
+-   They way they react will be different and for policy analysis we need to consider the group effects
+
+## Human Capital
+
+-   Taxes can affect decisions about education and training
+
+-   We saw that taxes affect an individual's optimal labour supply at each wage
+
+-   If a tax increases the optimum hours at each wage, it would increase the desire to get education/training
+
+    -   This would make the worker more productive, and increase their wage
+    -   Could lead to further increases in supply
+
+-   The reverse would happen if tax decreases optimum hours at each wage
+
+## Total Compensation
+
+-   Wages are not the only part of compensation
+
+    -   There are non-wage benefits like health insurance, retirement contributions, etc.
+
+-   If taxes rise, firms may switch to non-taxed forms of compensation
+
+-   The effect of the tax may be muted if firms can do this easily
+
+## Expenditures
+
+-   Governments use tax revenues to fund public services
+
+-   That spending may itself affect labour supply
+
+    -   Spending on child care would increase supply
+    -   If spent on recreational facilities, parks, etc., may decrease supply
+
+-   Need to think about this from a general equilibrium lens
+
+# Labour Supply and Tax Revenues
+
+## Introduction
+
+-   As just noted, governments tax labour income to raise revenue
+
+-   The tax revenue collected from this exercise is the tax rate times the tax base
+
+    -   Tax base is the amount of income earned
+    -   Which in our model is $w \times h$
+
+-   So the tax revenue is $R = t \times w \times h$
+
+-   As we saw, if the substitution effect is larger than the income effect, higher tax rates reduce labour supply
+
+-   Means that as $t$ increases, $wh$ decreases
+
+## Laffer Curve
+
+-   The fact that higher tax rates may reduce labour supply has implications for tax revenue
+
+-   The relationship between tax rates and tax revenue is called the **Laffer Curve**
+
+-   The Laffer Curve shows that tax revenue is zero at both 0% and 100% tax rates
+
+-   Initially as tax rates rise, revenue rises
+
+-   But at some point, further increases in tax rates reduce revenue
+
+    -   Because the reduction in labour supply is large enough that the tax base shrinks significantly
+
+## Laffer Curve
+
+![](images/ros55466_1806.jpg){fig-align="center"}
+
+## Laffer Curve
+
+-   The Laffer Curve suggests there is an optimal tax rate when it comes to revenues
+
+    -   At the peak of the curve where additional increases in tax rates do not increase revenue
+
+-   Also suggests that when tax rates are too high, reducing them could increase revenue
+
+-   However, determining the optimal tax rate is difficult in practice
+
+    -   Depends on how responsive labour supply is to tax changes
+
+    -   Empirical estimates suggest we are not near the peak of the Laffer Curve for labour income taxes in Canada
+
+# Saving
+
+## Introduction
+
+-   In addition to labour supply, taxes affect saving
+
+-   Saving is important because it funds investment
+
+    -   Investment leads to capital accumulation
+
+    -   Capital accumulation leads to economic growth
+
+-   Taxes affect saving through reductions in the return
+
+    -   Interest earned through saving counts as income
+    -   That income is taxable
+
+-   In this section we will look at how taxes affect saving behaviour in a life-cycle model
+
+## Life-Cycle Model
+
+-   The life-cycle model assumes individuals plan their consumption and saving over their lifetime
+
+-   To keep things simple, we consider two time periods
+
+    -   Present and future
+
+-   Individuals have preferences for consumption in both periods
+
+    -   Represented by indifference curves
+
+-   They also have a budget constraint based on their income in both periods
+
+    -   Says that the present value of consumption equals the present value of income
+
+## Life-Cycle Model
+
+-   Algebraically, the budget constraint is
+
+$$ c_{0} + \frac{c_{1}}{1 + r} = I_{0} + \frac{I_{1}}{1 + r} $$
+
+-   Where
+
+    -   $c_{0}$ = consumption in present period
+    -   $c_{1}$ = consumption in future period
+    -   $I_{0}$ = income in present period
+    -   $I_{1}$ = income in future period
+    -   $r$ = real interest rate
+
+## Life-Cycle Model
+
+-   You can plot this on a graph with $c_{0}$ on the x-axis and $c_{1}$ on the y-axis
+
+-   Rearrange to get $c_{1}$ on left side
+
+$$ c_{1} = (1 + r)(I_{0} - c_{0}) + I_{1} $$
+
+-   Slope of budget constraint is $-(1 + r)$
+
+    -   Consuming a dollar today means giving up $(1 + r)$ dollars tomorrow
+
+-   When a person consumes $I_{0}$ today, they consume $I_{1}$ tomorrow
+
+    -   The budget line passes through $(I_{0}, I_{1})$
+
+## Life-Cycle Model
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2041314998.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows intertemporal budget constraint
+
+-   Slope is $-(1 + r)$
+
+-   Optimal consumption occurs where budget constraint is tangent to indifference curve
+
+-   In this case, the person saves in period 0 to consume more in period 1
+
+    -   Saving is the difference between income and consumption in period 0
+:::
+::::::
+
+## Tax on Interest Income with Deductible Interest
+
+-   Now suppose there is a tax on interest income at rate $t$
+
+-   A person what saves \$1 in period 0 receives interest $r - rt$ in period 1
+
+    -   Because the interest earned is taxed they must pay $rt$ on the interest
+    -   This lowers the return
+
+-   Means that foregoing \$1 in period 0 leads to consuming \$1 + r - rt = 1+(1-t)r \$ in period 1
+
+    -   The after-tax interest rate is $r(1 - t)$
+
+## Tax on Interest Income with Deductible Interest
+
+-   A person what borrows \$1 in period 0 will need to pay interest $r - rt$ in period 1
+
+    -   They pay interest $r$
+    -   But because it is *tax deductible* they save $rt$ on taxes
+    -   Means that total interest paid is $r - rt$
+
+-   Means that borrowing \$1 in period 0 leads to foregoing \$1 + r - rt = 1+(1-t)r \$ of consumption in period 1
+
+    -   The after-tax interest rate is $r(1 - t)$
+
+-   So whether saving or borrowing, the after-tax interest rate is the same
+
+## Tax on Interest Income with Deductible Interest
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-3697418534.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows effect of tax on interest income on optimum
+
+-   Tax rotates budget constraint around $(I_{0}, I_{1})$
+
+    -   Slope falls from $-(1 + r)$ to $-(1 + r(1 - t))$
+    -   Passes through $(I_{0}, I_{1})$ because no tax paid if no saving/borrowing
+
+-   Two effects of taxation
+
+    -   Substitution effect: opportunity cost of consumption today is lower, so consume more today (save less)
+    -   Income effect: lower real income, so consume less in both periods (save more)
+
+-   Total effect is ambiguous\
+:::
+::::::
+
+## Tax on Interest Income with Deductible Interest
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-951416475.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows case when saving increases
+
+    -   Income effect \> substitution effect
+
+-   Saving increases today
+
+-   But consumption in both periods falls
+:::
+::::::
+
+## Tax on Interest Income with Deductible Interest
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-39190563.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows case when saving decreases
+
+    -   Substitution effect \> income effect
+
+-   Saving falls today
+
+-   Consumption increases today, but falls in the future
+:::
+::::::
+
+# References
+
+## References
+
+-   Rosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.
+
+-   Gruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.
+
+-   Bazel, Philip. Marginal Effective Tax Rates for Working Families in Canada. Fraser Institute, 2024.
+
+-   Hansen, Jeff, and Devan Mescall, and Graham Purse. "Policy Forum: The Effects of Indexation and Inflation on Tax System Design." Canadian Tax Journal 71, no. 2 (2023): 398-404.
