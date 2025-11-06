@@ -660,6 +660,294 @@ $$ c_{1} = (1 + r)(I_{0} - c_{0}) + I_{1} $$
 :::
 ::::::
 
+## Tax on Interest Income with Nondeductible Interest
+
+-   The deductibility of interest payments is important
+
+    -   It made the cost of borrowing the same as the return to saving
+
+-   Without deductibility, the after-tax interest rate for savers and borrowers differs
+
+    -   A saver who saves \$1 in period 0 receives interest $r - rt$ in period 1
+
+    -   A borrower who borrows \$1 in period 0 must pay interest $r$ in period 1
+
+-   This creates a kink in the budget constraint at the point where consumption in both periods equals income
+
+## Tax on Interest Income with Nondeductible Interest
+
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2478185795.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows the budget constraint without deductible interest
+
+-   When the person saves ($c_{0} < I_{0}$), the slope is $-(1 + r(1 - t))$
+
+- When they borrow ($c_{0} > I_{0}$), it is $-(1 + r)$
+
+- The budget constraint is kinked at $(I_{0}, I_{1})$
+
+    - Pivots downward to the left of that point
+    - Stays the same to the right
+    
+:::
+::::::
+
+## Tax on Interest Income with Nondeductible Interest
+
+- For savers prior to the tax, the effects are the same as with deductible interest
+
+    - Substitution effect: consume more today (save less)
+    - Income effect: consume less in both periods (save more)
+    
+- For borrowers prior to the tax, there is no effect
+
+    - The after-tax interest rate is unchanged at $r$
+    - No substitution or income effect
+    
+
+## Additional Considerations
+
+- Models are intentionally simplifications of reality to help us understand key mechanisms
+
+- The analysis is based on real interest rates, but most saving is done with nominal rates
+
+    - Inflation and indexation can affect the real return after tax
+    
+- There is more than one interest rate in the economy
+
+    - Different types of saving have different tax treatments and returns
+
+- Life cycle model may not be a very good representation of how people behave
+
+  - Some people are not able to borrow the optimal level
+  - Others are not good at saving
+  
+  
+## Evidence on Saving
+
+- Researchers have analyzed the effect of taxation on saving
+
+- Results show that the response to taxation is small
+
+  - Interest elasticity of saving (responsiveness of saving to interest rate changes) is around 0.5
+  - Varies by by demographics, including age
+
+- Generally a hard econometric analysis
+
+  - Many factors affect saving behaviour
+  - Isolating the effect of taxes is difficult
+  
+  
+## Savings Vehicles in Canada
+
+- Canada has several ways to save 
+
+  - Registered Pension Plans (RPPs)
+
+      - Tax deductible contributions, taxed withdrawals
+
+  - Registered Retirement Savings Plans (RRSPs)
+  
+      - Tax deductible contributions, taxed withdrawals
+  
+  - Tax-Free Savings Accounts (TFSAs)
+  
+      - Non-deductible contributions, tax-free withdrawals
+  
+- Other specialty ones like RESP, FHSA, etc.
+  
+  
+  
+## Savings Vehicles in Canada
+
+- One way to encourage saving is to increase limits on these vehicles
+
+- Not clear that this would encourage new saving
+
+  - People may just shift existing saving into these vehicles
+  - Existence of other savings methods means people can substitute
+  
+- Empirical work gives mixed results
+
+  - Tax deferred savings plans increased savings in the 1970s
+  - More recently, increasing RRSP limit had little effect on total saving
+  
+## Capital Taxation
+
+- Taxing capital lowers the real return to investment
+
+- As such, it may reduce the incentive to invest, and therefore capital accumulation and productivity
+
+- Some argue that we should not tax capital income for this reason
+
+- Debate is ongoing, but some things to keep in mind
+
+  - Empirical studies show saving not that responsive to returns
+  - In an open economy, domestic saving is used to fund domestic investment, but it may instead flow abroad
+  - For economic efficiency, should tax factors that create the least excess burden
+  
+  
+  
+# Housing
+
+## Housing and Saving
+
+- When we think of capital, it is usually machines
+
+  - Used to produce goods in manufacturing
+  
+- Housing is also part of capital 
+
+  - Used to produce housing services
+  - Generates income for some households
+  
+- In Canada, housing is subject to preferential tax treatment
+
+  - No tax on imputed rent for owner-occupied housing
+  - No capital gains tax on primary residences
+  
+- Leads to distortions in saving behaviour by encouraging investment in housing over other assets
+
+
+## Housing and Saving
+
+
+- To see the effect, consider a household choosing between housing and other assets
+
+- If they invest $K$ dollars in another asset (say, a stock) 
+
+  - They earn $R'$ dollars in money income
+  - Also earn $C'$ in capital gains
+  - These are taxed, so overall return is $\frac{(1-t)(R' + C')}{K}$
+
+- Now consider investing $K$ in housing
+
+  - They earn $R$ dollars in imputed rent (an in-kind return)
+  - Also earn $C$ in capital gains
+  - These are not taxed, so overall return is $\frac{R + C}{K}$
+  
+- Tax treament favours housing
+
+## Housing and Saving
+
+- What would the pre-tax return on the stock have to be to equalize after-tax returns?
+
+  - Set after-tax returns equal:
+  
+$$ \frac{(1-t)(R' + C')}{K} = \frac{R + C}{K} $$
+
+  - Rearranging gives:
+  
+$$ \frac{\frac{(R' + C')}{K}} {\frac{R + C}{K}} = \frac{1}{(1-t)}$$
+  
+- Pre-tax stock return has to be $\frac{1}{(1-t)}$ times the housing return to be equally attractive  
+
+  - If $t = 0.25$, stock return has to be $\frac{1}{0.75} = 1.33$ times housing return
+  
+  
+  
+## Housing and Saving
+
+- Estimated foregone government revenue from non-taxation of capital gains on housing is around \$10 billion per year
+- No estimates from non-taxation of imputed rent, but it would be higher
+
+
+- Preferential tax treatment distorts saving behaviour
+
+  - Encourages investment in housing over other assets
+  - Funds may not flow to their most productive uses
+  
+- There are also some policies that affect rental prices of housing, which distort behaviour
+
+
+## Changes in Tax Treatment of Housing
+
+- Should we tax imputed rent?
+
+  - Would increase government revenue
+  - But would be difficult to administer
+  - Could reduce homeownership rates
+  - Politically not feasible
+  
+- Principal residence exemption to capital gains is an ongoing debate
+
+  - Since 2016 Canadians must declare a principal residence and its purchase price
+  - Also report the disposition (sale)
+  
+  
+  
+# Portfolio Composition
+
+## Introduction
+
+- People invest in different types of assets
+
+  - Stocks, bonds, mutual funds, real estate, etc.
+  
+- These assets have different returns and risk profiles
+
+- May also have different tax treatment
+
+- By changing the real return, taxes will alter the portfolio composition
+
+
+## Portfolio Composition
+
+- Imagine a simplified world with two assets
+
+  - Cash: safe, but no return
+  - Bond: positive return on average, but some risk of loss
+  
+- Prior to taxes, an investor decides on how much to hold of each
+
+- Suppose then the government levies a tax on bond returns
+
+    - Collects taxes if there is a positive return
+    - Allows losses to be deducted from other income
+    
+- Two effects
+
+  - Average return: because the tax reduces what the investor keeps, it reduces the return
+  - Risk: because losses can be deducted, it reduces the risk of holding the bond
+  
+## Portfolio Composition
+
+- Lower return makes the bond less attractive
+
+- Lower risk makes the bond more attractive
+
+- Overall the effect is ambiguous
+
+    - Without loss deduction, likely it would be less attractive to hold bonds
+    
+- Thus taxes affect portfolio composition, but effect can be complicated
+
+
+# Summary
+
+## Summary
+
+-   Income taxation affects labour supply through substitution and income effects
+
+-   The Laffer Curve shows the relationship between tax rates and tax revenues
+
+-   Taxes on interest income affect saving behaviour through substitution and income effects
+
+-   Preferential tax treatment of housing distorts saving behaviour towards housing
+
+-   Taxes affect portfolio composition by changing the return and risk of different assets
+
+
+
+
+  
 # References
 
 ## References
@@ -668,6 +956,4 @@ $$ c_{1} = (1 + r)(I_{0} - c_{0}) + I_{1} $$
 
 -   Gruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.
 
--   Bazel, Philip. Marginal Effective Tax Rates for Working Families in Canada. Fraser Institute, 2024.
 
--   Hansen, Jeff, and Devan Mescall, and Graham Purse. "Policy Forum: The Effects of Indexation and Inflation on Tax System Design." Canadian Tax Journal 71, no. 2 (2023): 398-404.

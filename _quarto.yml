@@ -47,6 +47,9 @@ website:
               file: content/personaltax.qmd
             - text: "Personal Taxation and Behaviour"
               file: content/taxbehaviour.qmd
+            - text: "Consumption Taxes"
+              file: content/constax.qmd
+
 
               
     - title: "Assignments"

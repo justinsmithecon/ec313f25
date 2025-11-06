@@ -1,0 +1,174 @@
+---
+format: 
+  revealjs:
+    theme: [default, hygge.scss]
+    css: captions.css
+    center-title-slide: false
+    slide-number: true
+    height: 900
+    width: 1600
+    chalkboard:
+      theme: whiteboard
+      src: drawings.json
+editor: visual
+---
+
+<h1>Consumption Taxation</h1>
+
+<hr>
+
+<h2>EC313 - Public Economics: Taxation</h2>
+
+<h2>Justin Smith</h2>
+
+<h2>Wilfrid Laurier University</h2>
+
+<h2>Fall 2025</h2>
+
+![](/files/img/hexEC313.png){.absolute top="300" left="900" width="550"}
+
+# Goals of This Section
+
+## Goals of This Section
+
+-   Define and discuss types of consumption taxes
+
+-   Analyze the efficiency and equity implications of consumption taxes
+
+-   Introduce and discuss value added taxes and retail sales taxes
+
+-   Summarize Canada's consumption taxation
+
+-   Compare consumption taxes to income taxes
+
+# Overview
+
+## Introduction
+
+-   As we know, purchases of final goods are taxed
+
+-   These taxes are called **consumption taxes**
+
+-   There are several types charged depending on province of residence and the type of good or service purchased
+
+    -   They have features that distinguish them from each other
+
+-   In this section we outline the different types of taxes and discuss their merits
+
+## Types of Consumption Taxes
+
+-   Value Added Tax (VAT)
+
+    -   Charged at each stage of production based on the value added at that stage
+    -   Used globally for taxation of consumption
+
+-   Retail Sales Tax (RST)
+
+    -   Charged only at the point of sale to the final consumer
+    -   Used in some provinces in Canada
+
+-   Excise Taxes
+
+    -   Charged on specific goods, often to discourage consumption (e.g., tobacco, alcohol)
+    -   Used in all provinces in Canada and by federal government
+
+-   Custom Duties (tariffs)
+
+    -   Charged on goods imported into the country
+    -   Used by federal government only
+
+## Revenue from Consumption Taxes
+
+![](images/ros55466_1901.jpg){fig-align="center"}
+
+# Reasons for Consumption Taxes
+
+## Administrative Ease
+
+-   Relative to other taxes, consumption taxes are easy to administer
+
+-   Import duties are collected at the time of importation
+
+    -   In the past, relatively few items were imported
+    -   Much more now, but still straightforward to collect
+
+-   Sales taxes are collected from retailers
+
+    -   Lots of retailers to collect from, but less than for income tax
+
+    -   Some complications can arise for taxable and non-taxable goods
+
+        -   Example: Less than 6 baked goods at a time are taxable, but 6 or more is non-taxable
+        -   Some basic groceries are zero rated
+
+## Efficiency
+
+-   Economists argue that consumption taxes are more efficient than income taxes
+
+-   Because they do not distort savings behaviour
+
+    -   Income taxes reduce the return to saving
+    -   Consumption taxes do not affect the return to saving
+
+-   Example on next slide illustrates this using two period model
+
+    -   Assume individuals live for two periods
+    -   One person earns income in period 1 and consumes it all
+    -   Another person earns income in period 1, saves some, and consumes in period 2
+    -   Tax rate on income is 50%, tax rate on consumption is 100%, and interest rate is 10%
+
+## Efficiency
+
+|  |  |  |  |  |
+|-------------------|--------------|--------------|--------------|--------------|
+|  | **Inc Tax** | **Inc Tax** | **Cons Tax** | **Cons Tax** |
+| **Item** | **Homer** | **Marge** | **Homer** | **Marge** |
+| **Income in period 1** | 100.00 | 100.00 | 100.00 | 100.00 |
+| **Taxes in period 1** | 50.00 | 50.00 | 50.00 | 26.19 |
+| **Consumption in period 1** | 50.00 | 25.61 | 50.00 | 26.19 |
+| **Savings in period 1** | 0.00 | 24.39 | 0.00 | 47.62 |
+| **Interest earnings in period 2** | 0.00 | 2.44 | 0.00 | 4.76 |
+| **Taxes in period 2** | 0.00 | 1.22 | 0.00 | 26.19 |
+| **Consumption in period 2** | 0.00 | 25.61 | 0.00 | 26.19 |
+| **PDV of taxes** | 50.00 | 51.11 | 50.00 | 50.00 |
+
+
+## Efficiency
+
+- Under the income tax
+
+  - Saving is discouraged because the return is less
+  - Marge pays more in present discounted value of taxes (51.11) than Homer (50.00)
+  
+      - So there is a lack of horizontal equity
+      - Marge and Homer are not taxed the same for the same lifetime income
+      
+- Under the consumption tax
+
+  - Saving is not discouraged because the return is unaffected
+  - Marge and Homer pay the same present discounted value of taxes (50.00)
+  
+      - So there is horizontal equity
+      - Marge and Homer are taxed the same for the same lifetime income
+
+
+## Efficiency
+
+- There is still an excess burden from the consumption tax
+
+  - Consumption tax distorts choice between consumption and leisure
+  - People will substitute towards leisure, creating excess burden
+  
+- Studies show that the consumption tax has lower excess burden than income tax
+
+# References
+
+## References
+
+-   Rosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.
+
+-   Gruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.
+
+-   Bazel, Philip. Marginal Effective Tax Rates for Working Families in Canada. Fraser Institute, 2024.
+
+-   Hansen, Jeff, and Devan Mescall, and Graham Purse. "Policy Forum: The Effects of Indexation and Inflation on Tax System Design." Canadian Tax Journal 71, no. 2 (2023): 398-404.
