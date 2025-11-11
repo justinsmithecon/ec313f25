@@ -1587,6 +1587,18 @@
     ]
   },
   {
+    "objectID": "content/constax.html#sample-questions",
+    "href": "content/constax.html#sample-questions",
+    "title": "Consumption Taxes",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Consumption Taxes"
+    ]
+  },
+  {
     "objectID": "assignments/assign1.html",
     "href": "assignments/assign1.html",
     "title": "Assignment 1",
@@ -1903,6 +1915,244 @@
     "title": "EC313 - Taxation",
     "section": "Efficiency",
     "text": "Efficiency\n\nThere is still an excess burden from the consumption tax\n\nConsumption tax distorts choice between consumption and leisure\nPeople will substitute towards leisure, creating excess burden\n\nStudies show that the consumption tax has lower excess burden than income tax"
+  },
+  {
+    "objectID": "slides/constax/index.html#equity",
+    "href": "slides/constax/index.html#equity",
+    "title": "EC313 - Taxation",
+    "section": "Equity",
+    "text": "Equity\n\nProgressiveness: consumption taxes are often criticized for being regressive\n\nLower income individuals spend a larger share of their annual income on consumption\nBut, it is less regressive if we consider\n\nLifetime income rather than annual income\nTax credits and transfers that offset regressiveness\n\n\nGender: consumption tax incidents may not be gender neutral\n\nSome products targeted to women may have higher prices\nA tax levied on product prices may then have a higher incidence for women"
+  },
+  {
+    "objectID": "slides/constax/index.html#equity-1",
+    "href": "slides/constax/index.html#equity-1",
+    "title": "EC313 - Taxation",
+    "section": "Equity",
+    "text": "Equity\n\nAbility to pay: taxes are levied on actual rather than potential consumption\n\nTargeted towards chosen spending patterns rather than ability to pay\nA penny-pinching rich person can pay less tax than a poor person\n\nAnnual versus lifetime equity: income taxes may generate different lifetime tax burdens\n\nExample we covered before with Homer and Marge\nIncome taxes generated more tax for Marge because she saved\nConsumption taxes generate more even lifetime tax burden"
+  },
+  {
+    "objectID": "slides/constax/index.html#introduction-1",
+    "href": "slides/constax/index.html#introduction-1",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nValue Added Taxes (VAT) are the most common form of consumption tax globally\nIn Canada, the GST and HST are VATs\nPrior to GST, Canada used a the Federal Sales Tax (FST)\n\nSales tax charged at the manufacturing level\n\nThe FST had a number of problems\n\nSmall tax base required high tax rates to collect enough revenue\n** Tax Cascading**: taxes charged on manufacturing inputs to other manufactured goods\n\nE.g., tax on steel used to make cars\nTaxes were charged on the steel and then again on the car\nMeans taxes were charged on top of taxes"
+  },
+  {
+    "objectID": "slides/constax/index.html#introduction-2",
+    "href": "slides/constax/index.html#introduction-2",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nFST was also complex to administer\nGST replaced FST in 1991\n\nBroader tax base allowed for lower tax rates\nValue added method of taxation eliminated tax cascading\nInput tax credits simplified administration for businesses\n\nOriginal GST rate was 7%\n\nLowered to 6% in 2006, and 5% in 2008\n\nReplaced by HST in some provinces starting in 1997\n\nHST combines federal GST and provincial sales tax into single value added tax\nCurrent provinces usng HST are: NS, NB, NL, ON, PEI"
+  },
+  {
+    "objectID": "slides/constax/index.html#introduction-3",
+    "href": "slides/constax/index.html#introduction-3",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nBC had HST from 2010 to 2013\n\nReverted back to separate GST and PST after a referendum\nFormer premier Vander Zalm argued HST was a tax increase\n\nTax applied to more goods and services than PST"
+  },
+  {
+    "objectID": "slides/constax/index.html#how-value-added-taxes-work",
+    "href": "slides/constax/index.html#how-value-added-taxes-work",
+    "title": "EC313 - Taxation",
+    "section": "How Value Added Taxes Work",
+    "text": "How Value Added Taxes Work\n\nProduction of a final good occurs in several stages\n\nAt each stage, value is added to the good\nValue added is the difference between sales revenue and cost of inputs\n\nExample: Production of a table\n\nStage 1: Logger sells logs for $100\n\nValue added = $100 - $0 = $100\n\nStage 2: Lumber mill buys logs for $100, sells lumber for $150\n\nValue added = $150 - $100 = $50\n\nStage 3: Furniture maker buys lumber for $150, sells table for $300\n\nValue added = $300 - $150 = $150"
+  },
+  {
+    "objectID": "slides/constax/index.html#how-value-added-taxes-work-1",
+    "href": "slides/constax/index.html#how-value-added-taxes-work-1",
+    "title": "EC313 - Taxation",
+    "section": "How Value Added Taxes Work",
+    "text": "How Value Added Taxes Work\n\nTaxes are levied on value added at each stage\nTotal tax is the sum of taxes at each stage\nEquivalent to a single tax on the final sale price\nNext slide has example of VAT\n\nBased on production of bread"
+  },
+  {
+    "objectID": "slides/constax/index.html#how-value-added-taxes-work-2",
+    "href": "slides/constax/index.html#how-value-added-taxes-work-2",
+    "title": "EC313 - Taxation",
+    "section": "How Value Added Taxes Work",
+    "text": "How Value Added Taxes Work"
+  },
+  {
+    "objectID": "slides/constax/index.html#how-value-added-taxes-work-3",
+    "href": "slides/constax/index.html#how-value-added-taxes-work-3",
+    "title": "EC313 - Taxation",
+    "section": "How Value Added Taxes Work",
+    "text": "How Value Added Taxes Work\n\nHow does government collect tax only on value added at each stage?\nUses an invoice-credit method\n\nAt each stage firm pays tax on total sales\nBut claims a credit for taxes paid by suppliers\n\nUsing the bread example:\n\nFarmer sells wheat for $400, pays $40 in tax\nMiller sells flour for $700, pays $70 in tax, claims $40 credit, remits $30\nBaker sells bread for $950, pays $95 in tax, claims $70 credit, remits $25\nGrocer sells breat for $1000, pays $100 in tax, claims $95 credit, remits $5"
+  },
+  {
+    "objectID": "slides/constax/index.html#implementation-issues",
+    "href": "slides/constax/index.html#implementation-issues",
+    "title": "EC313 - Taxation",
+    "section": "Implementation Issues",
+    "text": "Implementation Issues\n\nSome issues make the administration more complex\n\nSome goods and services are zero rated from VAT\n\nExamples: basic food, prescriptiond drugs, medical devices\n\nFirms with annual sales below $30,000 do not remit HST/GST\nTreatment of investment assets (e.g. machines)\n\nNot clear whether to include full value, depreciated value, or none of it to compute tax liability\nIn Canada, usually none of it is included"
+  },
+  {
+    "objectID": "slides/constax/index.html#implementation-issues-1",
+    "href": "slides/constax/index.html#implementation-issues-1",
+    "title": "EC313 - Taxation",
+    "section": "Implementation Issues",
+    "text": "Implementation Issues\n\nThere is a difference between zero-rated and exempt goods/services\n\nZero-rated: tax rate is 0%, firms can claim input tax credits\nExempt: no tax charged, firms cannot claim input tax credits\n\nIf goods are exempt at retail stage, it appears the same\n\nNo tax collected on both zero-rated and exempt goods/services\n\nBut there are implications for embedded taxes\n\nExempt goods/services have embedded taxes that cannot be claimed back"
+  },
+  {
+    "objectID": "slides/constax/index.html#implementation-issues-2",
+    "href": "slides/constax/index.html#implementation-issues-2",
+    "title": "EC313 - Taxation",
+    "section": "Implementation Issues",
+    "text": "Implementation Issues"
+  },
+  {
+    "objectID": "slides/constax/index.html#efficiency-4",
+    "href": "slides/constax/index.html#efficiency-4",
+    "title": "EC313 - Taxation",
+    "section": "Efficiency",
+    "text": "Efficiency\n\nWe have previously discussed efficient taxes\n\nLow excess burden, minimal distortions to behaviour\n\nIs it inefficient to add a VAT when we already have income taxes?\n\nIf income tax is already optimal, adding VAT creates distortions and inefficiencies\nIf it is not optimal, VAT may improve efficiency by reducing income tax distortions"
+  },
+  {
+    "objectID": "slides/constax/index.html#improvements-to-gst",
+    "href": "slides/constax/index.html#improvements-to-gst",
+    "title": "EC313 - Taxation",
+    "section": "Improvements to GST",
+    "text": "Improvements to GST\n\nEconomists like VATs like GST, but citizens do not\nThere are ways to improve it\nHarmonization\n\nThe HST is an improvement over separate GST and PST\nReduces compliance costs for businesses\n\nCompliance costs\n\nFor GST/HST, firms must track taxes collected and input tax credits\nDifficult for firms initially because they did not have appropriate systems\nKeeping track of exempt items is also difficult\nNeed to make improvements to make tax more efficient"
+  },
+  {
+    "objectID": "slides/constax/index.html#improvements-to-gst-1",
+    "href": "slides/constax/index.html#improvements-to-gst-1",
+    "title": "EC313 - Taxation",
+    "section": "Improvements to GST",
+    "text": "Improvements to GST"
+  },
+  {
+    "objectID": "slides/constax/index.html#improvements-to-gst-2",
+    "href": "slides/constax/index.html#improvements-to-gst-2",
+    "title": "EC313 - Taxation",
+    "section": "Improvements to GST",
+    "text": "Improvements to GST"
+  },
+  {
+    "objectID": "slides/constax/index.html#improvements-to-gst-3",
+    "href": "slides/constax/index.html#improvements-to-gst-3",
+    "title": "EC313 - Taxation",
+    "section": "Improvements to GST",
+    "text": "Improvements to GST\n\nIncrease tax base by taxing basic groceries?\n\nReduces compliance costs\nPolitically difficult\n\nTax-inclusive pricing\n\nIn other parts of the world, prices include all taxes\nIn North America, prices are shown before tax\nEconomists prefer tax to be visible, but inclusive pricing is simpler"
+  },
+  {
+    "objectID": "slides/constax/index.html#introduction-4",
+    "href": "slides/constax/index.html#introduction-4",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nAs noted, some provinces combine GST and PST\n\nGST is a value added tax (VAT)\nPST is a retail sales tax (RST)\n\nRSTs are generally charged only at the point of sale to final consumer\n\nNo input tax credits for businesses\n\nBC, MB, SK, QC all have PST\n\nAB has no PST"
+  },
+  {
+    "objectID": "slides/constax/index.html#rst-vs-vat",
+    "href": "slides/constax/index.html#rst-vs-vat",
+    "title": "EC313 - Taxation",
+    "section": "RST vs VAT",
+    "text": "RST vs VAT\n\nAn RST can be equivalent to VAT when\n\nRate is the same\nTax base is the same\nRST is charged only on final sales\n\nIn bread example, RST would be charged only by grocer\n\nGrocer sells bread for $1000, pays $100 in RST\nSum of VAT amounts is also $100\nDifference is that VAT is collected in stages, RST only at final sale"
+  },
+  {
+    "objectID": "slides/constax/index.html#rst-vs-vat-1",
+    "href": "slides/constax/index.html#rst-vs-vat-1",
+    "title": "EC313 - Taxation",
+    "section": "RST vs VAT",
+    "text": "RST vs VAT\n\nThey can differ in other circumstances\nBig issue with HST in BC was that it had broader tax base than PST\nCan also sometimes lead to tax cascading\n\nIf tax is charged on some inputs"
+  },
+  {
+    "objectID": "slides/constax/index.html#tax-bases",
+    "href": "slides/constax/index.html#tax-bases",
+    "title": "EC313 - Taxation",
+    "section": "Tax Bases",
+    "text": "Tax Bases\n\nUnlike the HST, the tax base for PST varies from province to province\nPrepared meals\n\nTaxed in MB, SK, QC\nNot taxed in BC\n\nChildren’s clothing\n\nTaxed in SK, QC\nNot taxed in BC, MB\n\nAll provinces exempt most food\nNo economic reason for exemptions; purely political"
+  },
+  {
+    "objectID": "slides/constax/index.html#tax-rates",
+    "href": "slides/constax/index.html#tax-rates",
+    "title": "EC313 - Taxation",
+    "section": "Tax Rates",
+    "text": "Tax Rates"
+  },
+  {
+    "objectID": "slides/constax/index.html#excise-taxes",
+    "href": "slides/constax/index.html#excise-taxes",
+    "title": "EC313 - Taxation",
+    "section": "Excise Taxes",
+    "text": "Excise Taxes\n\nExcise taxes are specific taxes levied on particular goods\nLevied by the federal government and all provinces\nItems listed on next slide\nReasons for excise taxes\n\nRaise revenue\nDiscourage consumption of harmful goods (e.g., tobacco, alcohol)\nCorrect for externalities (e.g., gasoline, smoking)\nSin taxes"
+  },
+  {
+    "objectID": "slides/constax/index.html#excise-taxes-1",
+    "href": "slides/constax/index.html#excise-taxes-1",
+    "title": "EC313 - Taxation",
+    "section": "Excise Taxes",
+    "text": "Excise Taxes"
+  },
+  {
+    "objectID": "slides/constax/index.html#custom-duties",
+    "href": "slides/constax/index.html#custom-duties",
+    "title": "EC313 - Taxation",
+    "section": "Custom Duties",
+    "text": "Custom Duties\n\nCustom duties (tariffs) are taxes on imported goods\nIn the past they were an important source of revenue\n\nNot so much today\nLots of trade agreements in place that limit tariffs\n\nMain point of tariffs is to protect domestic industries\n\nE.g., steel, dairy, poultry\nCan lead to trade wars"
+  },
+  {
+    "objectID": "slides/constax/index.html#introduction-5",
+    "href": "slides/constax/index.html#introduction-5",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nToday sales taxes are levied on businesses\n\nTax is usually added on at checkout\nBut businesses remit to the government\nThe statutory incidence is on business\n\nAnother option would be to levy the tax directly on individuals\n\nIndividuals would pay tax directly to government\nWould file a tax return for consumption\n\nSome argue that it would be better\n\nMakes it easier to take personal circumstances into account"
+  },
+  {
+    "objectID": "slides/constax/index.html#personal-consumption-tax",
+    "href": "slides/constax/index.html#personal-consumption-tax",
+    "title": "EC313 - Taxation",
+    "section": "Personal Consumption Tax",
+    "text": "Personal Consumption Tax\n\nUnder this system, people file a tax based on consumption\nBased only on what is consumed\n\nExcludes saving (income not consumed)\n\nHow would this work?\nA person’s consumption is equivalent to their income minus their change in wealth\n\nTo compute consumption, add income and subtract changes in wealth\nEquivalently, add income and subtract anything not consumed\n\nLike income taxes, there can be deductions and credits\n\nE.g., charitable donations, medical expenses"
+  },
+  {
+    "objectID": "slides/constax/index.html#personal-consumption-tax-1",
+    "href": "slides/constax/index.html#personal-consumption-tax-1",
+    "title": "EC313 - Taxation",
+    "section": "Personal Consumption Tax",
+    "text": "Personal Consumption Tax"
+  },
+  {
+    "objectID": "slides/constax/index.html#hall-rabushka-flax-tax",
+    "href": "slides/constax/index.html#hall-rabushka-flax-tax",
+    "title": "EC313 - Taxation",
+    "section": "Hall-Rabushka Flax Tax",
+    "text": "Hall-Rabushka Flax Tax\n\nHall-Rabushka proposed one (complicated) flat consumption tax\nWorks by taxing businesses and individual compensation\nBusinesses\n\nPay tax on sales minus purchases from other businesses\nAlso subtract payments to workers\n\nIndividuals\n\nPay tax on wages and salaries minus personal savings\nAlso subtract investment income (dividends, interest)\n\nFlat tax rate applied to each tax base"
+  },
+  {
+    "objectID": "slides/constax/index.html#hall-rabushka-flax-tax-1",
+    "href": "slides/constax/index.html#hall-rabushka-flax-tax-1",
+    "title": "EC313 - Taxation",
+    "section": "Hall-Rabushka Flax Tax",
+    "text": "Hall-Rabushka Flax Tax\n\nEquivalent to a consumption tax levied on businesses\n\nWhen consumption tax levied on business, it pays tax on sales minus purchases\nWages are embedded in prices, so they are implicitly taxed\nWith Hall-Rabushka, wages are instead taxed directly at individual level\n\nOnly difference is point of collection of certain taxes\nThere is no system currently in place that does this"
+  },
+  {
+    "objectID": "slides/constax/index.html#administration-issues",
+    "href": "slides/constax/index.html#administration-issues",
+    "title": "EC313 - Taxation",
+    "section": "Administration Issues",
+    "text": "Administration Issues\n\nNot feasible if people had to add up all expenditures\nBut can work if we impute consumption by income minus saving\n\nWould require tracking of savings\nCan be done by bank accounts\nPotentially problematic for people who save outside of banks"
+  },
+  {
+    "objectID": "slides/constax/index.html#administration-issues-1",
+    "href": "slides/constax/index.html#administration-issues-1",
+    "title": "EC313 - Taxation",
+    "section": "Administration Issues",
+    "text": "Administration Issues\n\nSome types of consumption are hard to tax\n\nConsumption benefits generated by things like housing\nE.g., owner-occupied housing\n\nHow would we tax this?\nOne option: tax prepayment\n\nTax the house (or car, or other durable) at the point of purchase\nThe value of the durable today is the present value of future consumption services (imputed rent)\nThe tax charged now should equal to the taxes charged on consumption benefits"
+  },
+  {
+    "objectID": "slides/constax/index.html#benefits-of-personal-consumption-tax",
+    "href": "slides/constax/index.html#benefits-of-personal-consumption-tax",
+    "title": "EC313 - Taxation",
+    "section": "Benefits of Personal Consumption Tax",
+    "text": "Benefits of Personal Consumption Tax\n\nAvoid issues of capital gains and depreciation\n\nOnly consumption is taxed\nSo no need to track capital gains\n\nLess investment lock-in\n\nWith income tax, investors may hold onto assets to avoid capital gains tax\nWith consumption tax, can sell and reinvest without tax consequences\n\nRemoves need for separate personal and corporate tax"
+  },
+  {
+    "objectID": "slides/constax/index.html#summary-1",
+    "href": "slides/constax/index.html#summary-1",
+    "title": "EC313 - Taxation",
+    "section": "Summary",
+    "text": "Summary\n\nConsumption taxes are an important source of government revenue\nValue added taxes (e.g., GST, HST) are the most common form of consumption tax globally\nRetail sales taxes are simpler but can lead to tax cascading\nExcise taxes and custom duties are other forms of consumption taxes\nConsumption taxes are often more efficient than income taxes\nPersonal consumption taxes are an alternative way to tax consumption directly"
   },
   {
     "objectID": "slides/constax/index.html#references-1",
