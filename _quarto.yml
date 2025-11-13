@@ -49,7 +49,8 @@ website:
               file: content/taxbehaviour.qmd
             - text: "Consumption Taxes"
               file: content/constax.qmd
-
+            - text: "Externalities and Pigouvian Taxes"
+              file: content/externalities.qmd
 
               
     - title: "Assignments"

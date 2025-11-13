@@ -1,0 +1,564 @@
+---
+format: 
+  revealjs:
+    theme: [default, hygge.scss]
+    css: captions.css
+    center-title-slide: false
+    slide-number: true
+    height: 900
+    width: 1600
+    chalkboard:
+      theme: whiteboard
+      src: drawings.json
+editor: visual
+---
+
+<h1>Externalities and Pigouvian Taxes</h1>
+
+<hr>
+
+<h2>EC313 - Public Economics: Taxation</h2>
+
+<h2>Justin Smith</h2>
+
+<h2>Wilfrid Laurier University</h2>
+
+<h2>Fall 2025</h2>
+
+![](/files/img/hexEC313.png){.absolute top="300" left="900" width="550"}
+
+# Goals of This Section
+
+## Goals of This Section
+
+-   Define and discuss externalities
+
+-   Differentiate between negative and positive externalities
+
+-   Discuss private responses to externalities
+
+-   Discuss public responses to externalities, including Pigouvian taxes and subsidies
+
+# Externalities
+
+## Defining Externalities
+
+-   Absent any market failures, economic theory says private markets lead to efficient outcomes
+
+-   Resources are allocated to their best possible uses
+
+-   This is the first fundamental theorem of welfare economics
+
+-   However, in some cases, private markets fail to achieve efficiency
+
+-   One important source of market failure is externalities
+
+    -   An **externality** is a cost or benefit imposed on a third party not involved in a market transaction
+
+## Defining Externalities
+
+-   Some examples of negative externalities
+
+    -   Carbon emissions: pollution from burning fossil fuels harms the environment and public health
+    -   Crypto mining: high energy consumption leads to increased greenhouse gas emissions
+    -   Noise pollution: loud nightclubs disturb nearby residents
+    -   Fertilizer runoff: agricultural chemicals contaminate water supplies
+
+-   Some examples of positive externalities
+
+    -   Vaccinations: immunized individuals reduce disease spread, benefiting others
+    -   Education: educated individuals contribute to a more informed and productive society
+    -   Public parks: green spaces enhance community well-being and property values
+    -   Research and development: innovations can lead to widespread technological advancements
+
+## David Suzuki on Externalities
+
+![](images/clipboard-1930023091.png){fig.align="center"} ![](images/clipboard-2341951063.png){fig.align="center"}
+
+## Defining Externalities
+
+-   Economic problem with externalities
+
+    -   When externalities are present, private markets may not allocate resources efficiently
+    -   Negative externalities can lead to overproduction of harmful goods
+    -   Positive externalities can lead to underproduction of beneficial goods
+
+-   In these instances, there are possible solutions to the inefficiency
+
+    -   Private solutions: negotiation between affected parties (Coase theorem)
+    -   Public solutions: government intervention through taxes, subsidies, or regulations
+
+## Characteristics of Externalities
+
+-   Can be produced by individuals, firms, or governments
+
+    -   Usually think of firms polluting
+    -   Individuals can also create externalities (e.g., loud parties, smoking in public)
+
+-   They are reciprocal
+
+    -   One party's actions can create externalities for another party, and vice versa
+    -   Example: a factory polluting a river affects downstream residents, but protesting and restricting them affects the factory's operations
+
+-   Can be positive or negative
+
+    -   Negative externalities impose costs on others (e.g., pollution)
+    -   Positive externalities provide benefits to others (e.g., education)
+
+## Characteristics of Externalities
+
+-   Sometimes hard to distintuish from public goods
+
+    -   Public goods are goods that are non-excludable and non-rivalrous
+
+    -   Externalities can sometimes have similar characteristics (e.g., clean air)
+
+    -   Key difference is intention
+
+        -   Externalities are unintended side effects of economic activities
+        -   Public goods are intentionally provided for the benefit of all
+
+    -   Example: public fireworks may are both a public good and create externalities
+
+        -   Created intentially for everyone to enjoy
+        -   But people living nearby may experience noise pollution (negative externality)
+
+# Inefficiency of Externalities
+
+## Negative Externalities
+
+-   Inefficiency of externalities comes from the divergence between private and social costs/benefits
+
+    -   Individuals involved in a market transaction only consider their private costs and benefits
+    -   Typically ignore the social costs
+
+-   With negative externalities this leads to overproduction
+
+-   In this section we outline how that happens
+
+## Negative Externalities
+
+-   Consider two individuals
+
+    -   Azul: operates factory that dumps waste into a river
+    -   Jules: fisherman downstream from Azul's factory
+
+-   Water pollution affects Jules' ability to fish
+
+-   Nobody owns the river that is polluted
+
+    -   This is key to the externality
+    -   If someone owned the river, a price mechanism could be established to account for pollution
+    -   But without ownership, it is used at a zero price
+
+-   The water is a scarce resource that can be used up
+
+    -   Polluting it reduces the amount of clean water available for others
+
+## Negative Externalities
+
+-   Consider how much output Azul chooses to produce
+
+-   He faces private marginal cost (PMC) and private marginal benefit (PMB)
+
+    -   The costs and benefits that apply only to him
+    -   Ignores the costs imposed on others
+
+-   Azul produces where PMB = PMC
+
+## Negative Externalities
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-655968617.jpeg)
+:::
+::::
+
+::: {.column width="50%"}
+-   Azul's private benefit (PMB) and cost (PMC) depicted to the left
+
+-   The PMC is upward sloping
+
+    -   Costs increase as output increases
+
+-   PMB is downward sloping
+
+    -   Benefits decrease as output increases
+
+-   Produce where PMB = PMC
+
+-   Output $Q_1$
+:::
+::::::
+
+## Negative Externalities
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-655968617.jpeg)
+:::
+::::
+
+::: {.column width="50%"}
+-   Azul's production also creates damage to the river
+
+    -   This damage imposes costs on Jules
+
+-   Assume that the marginal damage (MD) increases with output
+
+    -   Each additional unit of output causes more damage than the last
+
+-   Depicted on graph as the upward sloping MD curve
+:::
+::::::
+
+## Negative Externalities
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-655968617.jpeg)
+:::
+::::
+
+::: {.column width="50%"}
+-   The social cost of production includes both the private cost and the damage to others
+
+    -   Social marginal cost (SMC) = PMC + MD
+
+-   SMC curve lies above the PMC curve by the amount of MD
+
+-   SMC is what costs Azul would face if they had to pay for the damage they cause
+
+-   Assume that the private and social benefits are the same (PMB = SMB)
+
+-   From a social point of view, optimum is where PMB = SMC
+:::
+::::::
+
+## Negative Externalities
+
+-   Ignoring the negative externality leads to overproduction
+
+    -   Too much cost to society relative to the benefits
+
+-   This creates and inefficiency
+
+-   We can quantify the inefficiency using the graph
+
+-   Figure on next slide shows the inefficiency with some hypothetical numbers
+
+## Negative Externalities
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-385464620.jpeg)
+:::
+::::
+
+::: {.column width="50%"}
+-   Suppose we produce where PMB = PMC
+
+-   Total benefit to Azul from production is area under PMB curve
+
+    -   Like adding up marginal benefits for each unit produced
+
+-   Total cost to Azul is area under PMC curve
+
+-   **Net** to Azul gain is area between total benefit and total cost
+:::
+::::::
+
+## Negative Externalities
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-385464620.jpeg)
+:::
+::::
+
+::: {.column width="50%"}
+-   From a societal point of view, we need to account for damage to Jules
+
+-   Total damage to Jules is area beneath MD curve between private and social optimum
+
+    -   Area abfe
+
+-   It is equivalent to the area between PMC and SMC curves
+
+    -   Area cdhg
+
+-   There is a societal loss of area dhg
+
+    -   Overproduction means costs to society exceed benefits
+:::
+::::::
+
+## Negative Externalities
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-385464620.jpeg)
+:::
+::::
+
+::: {.column width="50%"}
+-   What happens if we reduce output to the social optimum?
+
+-   There is a gain for Jules, but a loss for Azul
+
+-   Jules gains area cdhg
+
+    -   Reduction in production means less harm to him
+
+-   Azul loses area dcg
+
+    -   Produces less and benefits less privately
+
+-   Society gains area dhg
+:::
+::::::
+
+## Negative Externalities
+
+-   What activities tend to pollute and cause negative externalities?
+
+    -   Manufacturing and industrial processes
+    -   Transportation (cars, trucks, airplanes)
+    -   Energy production (coal, oil, natural gas)
+    -   Agriculture (fertilizers, pesticides, livestock)
+    -   Waste disposal (landfills, incineration)
+    -   Many of these produce smog, which pollutes the air and travels long distances
+
+-   Which pollutants do harm?
+
+    -   Particulate matter (PM2.5 and PM10): tiny particles that can penetrate lungs and cause respiratory issues
+    -   Nitrogen oxides (NOx) and sulfur dioxide (SO2): contribute to acid rain and respiratory problems
+
+
+## Negative Externalities
+
+-   What is the value of the damage?
+
+    -   Difficult to measure precisely
+    -   Economists have used differences in house prices in areas with different levels of pollution
+    -   Illustrates how much people are willing to pay to avoid pollution
+    -   But can be complicated by other factors affecting house prices
+
+## Positive Externalities
+
+-   Less salient, but some production leads to positive externalities
+
+    -   Vaccinations: reduce disease spread, benefiting others
+    -   Education: educated individuals contribute to a more informed and productive society
+    -   Public parks: green spaces enhance community well-being and property values
+    -   Research and development: innovations can lead to widespread technological advancements
+
+-   Can lead to similar inefficiencies
+
+    -   This time due to underproduction
+
+## Positive Externalities
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-65760440.jpeg)
+:::
+::::
+
+::: {.column width="50%"}
+-   Private and social costs are assumed equal
+
+-   Private and social benefits differ by an external marginal benefit
+
+    -   SMB = PMB + EMB
+
+-   Optimum ignoring externalities is where PMB = PMC
+
+- Social optimum is where SMB = PMC
+
+  - At higher level of output
+:::
+::::::
+
+
+## Positive Externalities
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-65760440.jpeg)
+:::
+::::
+
+::: {.column width="50%"}
+-   Can illustrate inefficiency using areas on the graph
+
+- The unrealized benefit to society from underproduction is area under EMB
+
+  - Equivalently, area between PMB and SMB curves bcda
+  
+- If we move to the social optimum
+
+  - Society gains area bcda
+  - Individual loses acd through extra production
+  
+- Total gain is area abc
+:::
+::::::
+
+
+# Private Solutions to Externalities
+
+## Introduction
+
+- With market failures, government can intervene to get to efficient outcome
+
+- But they do not have to
+
+- In the case of externalities, private solutions are sometimes possible
+
+- Issue with externalities is that property rights are not well defined
+
+  - Example: nobody owns the river that Azul pollutes
+  
+- Can be solved by allocating property rights
+
+
+## Coase Theorem
+
+
+- **Coase Theorem**: if property rights are well defined and transaction costs are low, private parties can negotiate to resolve externalities efficiently
+
+  - It does not matter who owns the property rights
+  
+- Suppose Azul owns the river
+
+  - Azul has the right to pollute
+  - Would be willing to not produce an extra unit if he is paid PMB-PMC or more
+  - Jules would pay Azul to not produce if the payment is less than MD
+  - Payments could happen if PMB-PMC > MD
+  
+  
+  
+## Coase Theorem
+  
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-385464620.jpeg)
+:::
+::::
+
+::: {.column width="50%"}
+-   Suppose Azul owns the river and is currently producing the private optimum
+
+    - Marginal damage at that point is ef
+    - PMB-PMC for Azul is zero
+    - Jules could pay to not produce that unit
+    
+- At every output above the social optimum MD > PMB-PMC
+
+  - Jules could pay Azul to reduce output
+  
+- At social optimum MD = PMB-PMC
+
+  - No further mutually beneficial trades possible
+
+:::
+::::::
+
+## Coase Theorem
+
+- Bargaining also works if Jules owns the river
+
+  - Azul would pay Jules to allow pollution
+  
+- Azul would pay up to PMB-PMC to pollute
+
+- Jules takes that payment if it is more than MD
+
+- Bargaining stops where PMB-PMC = MD
+
+
+
+## Coase Theorem
+  
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-385464620.jpeg)
+:::
+::::
+
+::: {.column width="50%"}
+-   Consider starting at zero and moving up
+
+- Will Azul produce the next unit?
+
+- At low levels of output, PMB-PMC is large, and MD is small
+
+  - Worth it for Azul to produce and pay for damage
+  
+- As more units are produced, PMB-PMC falls and MD rises
+
+- They are equal when production reaches social optimum
+:::
+::::::
+
+
+## Coase Theorem
+
+- Coase won a Nobel prize for this insight into externalities
+
+- However, there are limitations
+
+  - Transaction costs may be high
+  - Many parties may be involved
+  - Property rights may be hard to define or enforce
+  
+- Air pollution is good example of these problems
+
+  - Many polluters and many affected parties
+  - Hard to assign property rights to air
+  
+  
+## Mergers
+
+- The Coase Theorem is an example of internalizing an externality
+
+  - Making it part of the costs or benefits of the decision maker
+  
+- Another way to internalize an externality is through mergers
+
+  - If Azul and Jules merge into one firm, the externality disappears
+  - The new firm considers both private costs and damages
+  
+## Social Conventions
+
+- Sometimes social conventions can help solve externalities
+
+  - People may voluntarily reduce negative externalities to avoid social disapproval
+  - Example: littering, smoking in public
+  
+- However, social conventions may not be sufficient for large-scale externalities
+
+  - Example: climate change requires coordinated action beyond social norms
+
+# References
+
+## References
+
+-   Rosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.
+
+-   Gruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.
+
+-   Bazel, Philip. Marginal Effective Tax Rates for Working Families in Canada. Fraser Institute, 2024.
+
+-   Hansen, Jeff, and Devan Mescall, and Graham Purse. "Policy Forum: The Effects of Indexation and Inflation on Tax System Design." Canadian Tax Journal 71, no. 2 (2023): 398-404.

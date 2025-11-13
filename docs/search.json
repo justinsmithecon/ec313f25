@@ -1064,1104 +1064,6 @@
     "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.\nFinances of the Nation. https://financesofthenation.ca/"
   },
   {
-    "objectID": "slides/efficiency/index.html#goals-of-this-section-1",
-    "href": "slides/efficiency/index.html#goals-of-this-section-1",
-    "title": "EC313 - Taxation",
-    "section": "Goals of This Section",
-    "text": "Goals of This Section\n\nDiscuss the effects of price changes on consumer behaviour\nIntroduce the concept of excess burden of a tax\nShow how to measure excess burden using indifference curves\nShow how to measure excess burden using demand/supply curves\nShow equivalent interpretation with elasticities\nDiscuss factors that affect excess burden"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#introduction",
-    "href": "slides/efficiency/index.html#introduction",
-    "title": "EC313 - Taxation",
-    "section": "Introduction",
-    "text": "Introduction\n\nGovernments levy taxes mainly to raise revenue to fund public goods and services\nTaxes can impose different types of costs on consumers\n\nThe direct cost of sending money to the government\nTaxes can distort behaviour because of changes in prices\n\nWithout taxes consumers make choices about consumption\nTaxes force them to substitute away from the taxed good and make sub-optimal choices\n\n\nIdeally a tax imposes the least possible cost in order to raise revenue\n\nWhen the costs are larger, we say there is an excess burden"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers",
-    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers",
-    "title": "EC313 - Taxation",
-    "section": "Ad Valorem Tax on Consumers",
-    "text": "Ad Valorem Tax on Consumers\n\nBelow we will see what happens when an ad valorem tax is imposed on one good\n\nAn ad valorem tax is a percentage tax on the price of a good\nFor example, a 10% sales tax on a $1 item means the consumer pays $1.10\n\nWe will use indifference curves and budget constraints to analyze the effects of the tax\nWe will then compare to a lump-sum tax\nLesson is that ad valorem taxes that distort behaviour create excess burden\nLump-sum taxes that do not distort behaviour do not create excess burden\nDifference due to the distortionary effect of changing relative prices with ad valorem taxes"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-1",
-    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-1",
-    "title": "EC313 - Taxation",
-    "section": "Ad Valorem Tax on Consumers",
-    "text": "Ad Valorem Tax on Consumers\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows consumption decision for barley and corn\nInitially prices are \\(P_{B}\\) and \\(P_{C}\\)\nBudget constraint is \\(I = P_{B}B + P_{C}C\\)\nTo plot budget constraint, put \\(C\\) on left side\n\n\\[C = \\frac{I}{P_{C}} - \\frac{P_{B}}{P_{C}}B\\]\n\nSlope of budget constraint is \\(-\\frac{P_{B}}{P_{C}}\\)\nIntercepts are \\(\\frac{I}{P_{C}}\\) and \\(\\frac{I}{P_{B}}\\)\nOptimal consumption bundle is \\(B_1\\) and \\(C_1\\)"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-2",
-    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-2",
-    "title": "EC313 - Taxation",
-    "section": "Ad Valorem Tax on Consumers",
-    "text": "Ad Valorem Tax on Consumers\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nAn ad valorem tax of \\(t\\) on barley is imposed\nPrice of barley rises to \\(P_{B}(1+t)\\)\nNew budget constraint is \\(I = P_{B}(1+t)B + P_{C}C\\)\nRearranging gives\n\n\\[C = \\frac{I}{P_{C}} - \\frac{P_{B}(1+t)}{P_{C}}B\\]\n\nSlope of new budget constraint is \\(-\\frac{P_{B}(1+t)}{P_{C}}\\)\nIntercepts are \\(\\frac{I}{P_{C}}\\) and \\(\\frac{I}{P_{B}(1+t)}\\)\nNew optimal bundle is \\(B_2\\) and \\(C_2\\)"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-3",
-    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-3",
-    "title": "EC313 - Taxation",
-    "section": "Ad Valorem Tax on Consumers",
-    "text": "Ad Valorem Tax on Consumers\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nVertical distance between budget lines is tax collected\nOn the old budget line if consumer buys \\(B_2\\) barley, corn consumption is\n\n\\[C^{'} = \\frac{I}{P_{C}} - \\frac{P_{B}}{P_{C}}B_2\\]\n\nOn the new budget line if consumer buys \\(B_2\\) barley, corn consumption is\n\n\\[C_{2} = \\frac{I}{P_{C}} - \\frac{P_{B}(1+t)}{P_{C}}B_2\\]"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-4",
-    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-4",
-    "title": "EC313 - Taxation",
-    "section": "Ad Valorem Tax on Consumers",
-    "text": "Ad Valorem Tax on Consumers\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nDifference is\n\n\\[C^{'} - C_{2} = \\frac{P_{B}t}{P_{C}}B_2\\]\n\nMeasures reduction in corn consumption due to tax\nTo measure in dollar terms\n\n\\[P_{C}(C^{'} - C_{2}) = tP_{B}B_2\\]\n\nThis is the tax rate times the value of barley consumed"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#equivalent-variation",
-    "href": "slides/efficiency/index.html#equivalent-variation",
-    "title": "EC313 - Taxation",
-    "section": "Equivalent Variation",
-    "text": "Equivalent Variation\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nAs a comparison, consider leaving prices unchanged and reducing income to reach the same utility as we got with the tax\n\nThis income reduction is the equivalent variation\n\nShift the original budget line parallel in until it is tangent to the new indifference curve\nDistance between the original and new budget lines is the equivalent variation"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#excess-burden",
-    "href": "slides/efficiency/index.html#excess-burden",
-    "title": "EC313 - Taxation",
-    "section": "Excess Burden",
-    "text": "Excess Burden\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nThe excess burden of a tax is the loss in welfare beyond the tax revenue collected\nIn the graph it is the difference between the equivalent variation and the tax revenue collected\n\nEquivalent variation measures loss in welfare\n\nDistance in green\n\nTax revenue is money collected by government\n\nDistance between black and red budget lines\n\n\nIn this case, equivalent variation is larger than tax revenue\n\nSo there is a positive excess burden (in purple)"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#excess-burden-1",
-    "href": "slides/efficiency/index.html#excess-burden-1",
-    "title": "EC313 - Taxation",
-    "section": "Excess Burden",
-    "text": "Excess Burden\n\nAn ad valorem tax on one good creates two effects\n\nIncome effect: consumer is poorer, so consumes less of all normal goods\nSubstitution effect: relative price of taxed good rises, so consumer substitutes away from taxed good\n\nExcess burden arises because of the substitution effect\n\nConsumer substitutes away from taxed good to other goods\nThis leads to a loss in welfare beyond the tax revenue collected\n\nOne way to see this is to compare an ad valorem tax to a lump-sum tax\n\nLump-sum tax only has income effect, no substitution effect\nSo no excess burden"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#lump-sum-tax",
-    "href": "slides/efficiency/index.html#lump-sum-tax",
-    "title": "EC313 - Taxation",
-    "section": "Lump Sum Tax",
-    "text": "Lump Sum Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nA lump-sum tax \\(T\\) is imposed\nNew budget constraint is \\(I -T = P_{B}B + P_{C}C\\)\nRearranging gives\n\n\\[C = \\frac{I-T}{P_{C}} - \\frac{P_{B}}{P_{C}}B\\]\n\nBudget line shifts down in parallel by \\(T\\)\n\nPrices do not change, so slope does not either\n\nNew optimal bundle is \\(B_3\\) and \\(C_3\\)"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#lump-sum-tax-1",
-    "href": "slides/efficiency/index.html#lump-sum-tax-1",
-    "title": "EC313 - Taxation",
-    "section": "Lump Sum Tax",
-    "text": "Lump Sum Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nTax revenue is \\(T\\)\n\nDoes not depend on how much of each good is consumed\n\nEquivalent variation is also \\(T\\)\n\nDistance between original and new budget lines is \\(T\\)\n\nSo there is no excess burden\n\nWelfare loss equals tax revenue collected\n\nArises because a lump sum tax is a pure income effect\n\nNo substitution effect, so no excess burden"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#efficiency",
-    "href": "slides/efficiency/index.html#efficiency",
-    "title": "EC313 - Taxation",
-    "section": "Efficiency",
-    "text": "Efficiency\n\nIf lump sum taxes do not create excess burden, why not use them?\nOften they are unattractive politically\n\nA fixed tax on everyone is viewed as unfair\nIt is also regressive\n\nThere are few examples in the world\n\nUK had a poll (head) tax in the late 80s that was unpopular\nSome municipal government charge fixed fees for licenses/permits\n\nSo governments widely use distortionary taxes instead"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#income-taxes",
-    "href": "slides/efficiency/index.html#income-taxes",
-    "title": "EC313 - Taxation",
-    "section": "Income taxes",
-    "text": "Income taxes\n\nIncome taxes can also involve excess burdens\nIncome taxes distort labour supply decisions\n\nHigher tax rates reduce the after-tax wage\nThis causes people to substitute away from labour towards leisure\nThis is a substitution effect that creates excess burden\n\nLike with goods, income taxes change relative prices, and therefore behaviour\nChanges the price of leisure relative to consumption"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#excess-burden-with-inelastic-demand",
-    "href": "slides/efficiency/index.html#excess-burden-with-inelastic-demand",
-    "title": "EC313 - Taxation",
-    "section": "Excess Burden with Inelastic Demand",
-    "text": "Excess Burden with Inelastic Demand\n\nSuppose that a tax is introduced on barley, but barley consumption does not change\nDoes this mean there is no excess burden?\nAnswer: no\n\nConsumer faces different relative prices\nThese distort the consumer’s choices\nThis leads to inefficiency, and excess burden"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#excess-burden-with-inelastic-demand-1",
-    "href": "slides/efficiency/index.html#excess-burden-with-inelastic-demand-1",
-    "title": "EC313 - Taxation",
-    "section": "Excess Burden with Inelastic Demand",
-    "text": "Excess Burden with Inelastic Demand\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph looks similar to before\nThis time barley consumption stays constant\nCorn consumption rises due to relatively lower price\nExcess burden is about the change in the consumption bundle\n\nNot just the change in quantity of one good"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves",
-    "href": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves",
-    "title": "EC313 - Taxation",
-    "section": "Aside: Compensated vs Ordinary Demand Curves",
-    "text": "Aside: Compensated vs Ordinary Demand Curves\n\nA demand curve measures the change in quantity demanded as price changes\nOrdinary (Marshallian) demand curve: measures the total change in quantity demanded as price changes\n\nIncludes both income and substitution effects\n\nCompensated (Hicksian) demand curve: measures the change in quantity demanded as price changes, holding utility constant\n\nOnly includes substitution effect\nCan hold utility constant at initial level or new level\n\nExcess burden is related to the substitution effect, so we use compensated demand curves"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves-1",
-    "href": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves-1",
-    "title": "EC313 - Taxation",
-    "section": "Aside: Compensated vs Ordinary Demand Curves",
-    "text": "Aside: Compensated vs Ordinary Demand Curves\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nConsider a tax on barley\n\nPrice of barley rises from \\(P_{B}\\) to \\(P_{B}(1+t)\\)\n\nThe ordinary demand curve measures change from old equilibrium at old prices to new equilibrium at new prices\n\nIncludes both income and substitution effects\n\nThe compensated demand curve measures starts from new utility curve at old prices then new equilibrium at new prices\n\nOnly includes substitution effect\n\nThe drop in demand is larger for ordinary demand"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves-2",
-    "href": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves-2",
-    "title": "EC313 - Taxation",
-    "section": "Aside: Compensated vs Ordinary Demand Curves",
-    "text": "Aside: Compensated vs Ordinary Demand Curves\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nDemand curve is plot of price vs quantity demanded\nOn left we plot price before and after tax against quantities\nDrop in quantity is larger for ordinary demand curve\n\nIncludes both income and substitution effects\nSo ordinary demand curve is flatter\n\nCompensated demand curve is steeper because it only includes substitution effect"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#excess-burden-with-demand-curves-1",
-    "href": "slides/efficiency/index.html#excess-burden-with-demand-curves-1",
-    "title": "EC313 - Taxation",
-    "section": "Excess Burden with Demand Curves",
-    "text": "Excess Burden with Demand Curves\n\nExcess burden of a tax is related to the substitution effect\nWe can use compensated demand curve to measure it\nRecall that it is loss in welfare beyond tax revenue collected\nThe loss in welfare to the consumer is measured by the drop in consumer surplus\n\nThis is the area under the compensated demand curve between old and new prices\n\nPart of that loss is tax revenue collected\n\nThis is the rectangle with height equal to the tax and width equal to new quantity\n\nThe other part is lost entirely to the consumer\n\nThis is the excess burden"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#excess-burden-with-demand-curves-2",
-    "href": "slides/efficiency/index.html#excess-burden-with-demand-curves-2",
-    "title": "EC313 - Taxation",
-    "section": "Excess Burden with Demand Curves",
-    "text": "Excess Burden with Demand Curves\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nImagine a tax is imposed on barley\nSupply is perfectly elastic\n\nSo economic incidence falls entirely on consumers\n\nPrice rises from \\(P_{B}\\) to \\(P_{B}(1+t)\\)\nCompensated quantity demanded falls from \\(B_{3}\\) to \\(B_{2}\\)\nTax revenue is green rectangle\nTotal fall in consumer surplus is green + blue areas\nExcess burden is blue area"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#pre-existing-distortions",
-    "href": "slides/efficiency/index.html#pre-existing-distortions",
-    "title": "EC313 - Taxation",
-    "section": "Pre-existing Distortions",
-    "text": "Pre-existing Distortions\n\nIn the real world, there are many taxes and regulations that distort behaviour\nIf a new tax is introduced, it may interact with these pre-existing distortions\n\nPre-existing distortions include monopoly power, externalities, and other taxes\n\nHaving pre-existing distortions complicates the analysis of excess burden\n\nA new tax may increase or decrease overall excess burden\nDepends on how it interacts with pre-existing distortions\n\nTheory of the Second Best: If economic optimum cannot be achieved (due to existing distortions), the next best solution may involve introducing additional distortions"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#pre-existing-distortions-1",
-    "href": "slides/efficiency/index.html#pre-existing-distortions-1",
-    "title": "EC313 - Taxation",
-    "section": "Pre-existing Distortions",
-    "text": "Pre-existing Distortions\n\nExample 1: pre-existing tax on good A\n\nThis tax distorts consumption away from good A\nIntroducing a tax on good B may lead consumers to substitute towards good A\nThis can reduce the excess burden on good A by increasing its consumption\nOverall excess burden may increase or decrease because of the new tax on good B"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#pre-existing-distortions-2",
-    "href": "slides/efficiency/index.html#pre-existing-distortions-2",
-    "title": "EC313 - Taxation",
-    "section": "Pre-existing Distortions",
-    "text": "Pre-existing Distortions\n\nExample 2: Minimum Wages\n\nA labour market monopsony leads to lower wages and employment than in a competitive market\nImposing a minimum wage can increase employment and reduce the excess burden caused by monopsony power\n\nExample 3: Externalities from Carbon\n\nA country has a negative externality from emissions and cannot impose a carbon tax\nThe next best outcome might involve subsidies for renewable energy, even if they distort energy markets\n\nGeneral lesson is that impact of tax is not limited to the market it directly affects\n\nOverall excess burden depends on interactions with other markets and distortions"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#excess-burden-of-a-subsidy",
-    "href": "slides/efficiency/index.html#excess-burden-of-a-subsidy",
-    "title": "EC313 - Taxation",
-    "section": "Excess Burden of a Subsidy",
-    "text": "Excess Burden of a Subsidy\n\nA subsidy is a negative tax\n\nIt lowers the price paid by consumers or received by producers\n\nProblem is that it can lead to over-consumption or over-production\n\nThis creates inefficiencies and excess burden\n\nA subsidy will increase welfare (consumer surplus) but the cost to the government may exceed this increase\n\nThe difference is the excess burden of the subsidy"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#excess-burden-of-a-subsidy-1",
-    "href": "slides/efficiency/index.html#excess-burden-of-a-subsidy-1",
-    "title": "EC313 - Taxation",
-    "section": "Excess Burden of a Subsidy",
-    "text": "Excess Burden of a Subsidy\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nPicture a housing subsidy\nPrior to subsidy, optimal consumption is \\(H_0\\) at price \\(P_h\\)\nSubsidy lowers price to \\((1-s)P_h\\)\nNew optimal consumption is \\(H_1\\)\nCost of subsidy is green plus blue rectangle\nIncrease in consumer surplus is green area\nExcess burden is blue triangle"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#excess-burden-of-income-tax",
-    "href": "slides/efficiency/index.html#excess-burden-of-income-tax",
-    "title": "EC313 - Taxation",
-    "section": "Excess Burden of Income Tax",
-    "text": "Excess Burden of Income Tax\n\nIncome taxes distort labour supply decisions\n\nHigher tax rates reduce the after-tax wage\nThis causes people to substitute away from labour towards leisure\nThis is a substitution effect that creates excess burden"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#excess-burden-of-income-tax-1",
-    "href": "slides/efficiency/index.html#excess-burden-of-income-tax-1",
-    "title": "EC313 - Taxation",
-    "section": "Excess Burden of Income Tax",
-    "text": "Excess Burden of Income Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nImagine a labour market with elastic labour demand\n\nSo a tax on labour is borne entirely by workers\n\nAn income tax shifts down labour demand curve from \\(D_0\\) to \\(D_1\\)\n\nReduces wage from \\(W\\) to \\((1-t)W\\)\n\nInitially worker surplus is area below demand curve and above supply\nAfter tax, surplus falls by yellow plus green areas"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#excess-burden-of-income-tax-2",
-    "href": "slides/efficiency/index.html#excess-burden-of-income-tax-2",
-    "title": "EC313 - Taxation",
-    "section": "Excess Burden of Income Tax",
-    "text": "Excess Burden of Income Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nSome of the fall is collected by government as tax revenue\n\nThis is yellow rectangle\n\nThe green triangle is lost entirely\n\nThis is the excess burden\n\nResult is very similar to excess burden from a tax on goods\n\nExcept here the tax is on wages and workers are suppliers"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#excess-burden-of-income-tax-3",
-    "href": "slides/efficiency/index.html#excess-burden-of-income-tax-3",
-    "title": "EC313 - Taxation",
-    "section": "Excess Burden of Income Tax",
-    "text": "Excess Burden of Income Tax\n\nThe formula for excess burden is similar to that for goods\n\n\\[\\text{Excess Burden} = \\frac{1}{2} \\times (\\epsilon \\times L_{0}) \\times (t^2 W) \\]\n\nWhere \\(\\epsilon\\) is the elasticity of labour supply\nExcess burden depends on\n\nSize of tax \\(t\\)\n\nExcess burden rises with square of tax rate\n\nElasticity of labour supply \\(\\epsilon\\)\n\nMore elastic labour supply means larger excess burden\n\nInitial earnings \\(WL_{0}\\)\n\nLarger initial earnings means larger excess burden"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#summary-1",
-    "href": "slides/efficiency/index.html#summary-1",
-    "title": "EC313 - Taxation",
-    "section": "Summary",
-    "text": "Summary\n\nTaxes are used in part to raise revenue for the government\nThey impose a direct cost to consumers of the tax revenue collected\nBut they also distort behaviour and create an excess burden\n\nLoss in welfare beyond tax revenue collected\n\nExcess burden arises from the substitution effect of a tax\nThe size of the excess burden depends on pre-existing distortions\nTheory of the Second Best says that when distortions exist, best outcome may involve additional distortions"
-  },
-  {
-    "objectID": "slides/efficiency/index.html#references-1",
-    "href": "slides/efficiency/index.html#references-1",
-    "title": "EC313 - Taxation",
-    "section": "References",
-    "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022."
-  },
-  {
-    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-4",
-    "href": "questions/incidence/index.html#rttws-chapter-14-problem-4",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 14 Problem 4",
-    "text": "RTTWS Chapter 14 Problem 4\nIn the province of Alberta, the tax on hotel rooms is 5 percent. Supporters of this tax argue that the tax benefits the province because its payers are largely out-of-province tourists. Use the theory of tax incidence to analyze this claim."
-  },
-  {
-    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-6",
-    "href": "questions/incidence/index.html#rttws-chapter-14-problem-6",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 14 Problem 6",
-    "text": "RTTWS Chapter 14 Problem 6\nInternet purchases are thought to be highly sensitive to tax rates, and applying sales taxes to all such purchases substantially reduces the number of online buyers and the amount of online spending. What are the implications for the incidence of sales taxes that include internet sales?"
-  },
-  {
-    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-7",
-    "href": "questions/incidence/index.html#rttws-chapter-14-problem-7",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 14 Problem 7",
-    "text": "RTTWS Chapter 14 Problem 7\nSuppose that the demand for cigarettes in a hypothetical country is given by $Q_{c} = 2000-200P_{c}, where \\(Q_{c}\\) is the quantity of packs demanded and \\(P_{c}\\) is the price per pack. The supply of cigarettes is \\(Q_{s} = 200P_{s}\\).\n\nfind the price and quantity of cigarettes assuming the market is competitive"
-  },
-  {
-    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-7-1",
-    "href": "questions/incidence/index.html#rttws-chapter-14-problem-7-1",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 14 Problem 7",
-    "text": "RTTWS Chapter 14 Problem 7\n\nIn an effort to reduce smoking, the government levies a tax of $2 per pack. Compute the quantity of cigarettes after the tax, the price paid by consumers, and the price received by producers.How much revenue does the tax raise for the government? How much revenue comes from consumers and how much from producers?"
-  },
-  {
-    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-10",
-    "href": "questions/incidence/index.html#rttws-chapter-14-problem-10",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 14 Problem 10",
-    "text": "RTTWS Chapter 14 Problem 10\nAccording to the studny by Kleven, Jacobsen, Landais, and Saez (2013), the international migration decisions of top-earning European soccer plauers is very sensitive to income tax rates - when thye tax rates they face in their own country increase substantially, they move to another country. What are the implacations of this finding for the incidence of income taxes on such players? Support your answer with a graph."
-  },
-  {
-    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-11",
-    "href": "questions/incidence/index.html#rttws-chapter-14-problem-11",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 14 Problem 11",
-    "text": "RTTWS Chapter 14 Problem 11\nArnie has an income of Y and spends it only on food and music. Let \\(P_{F}\\) and \\(P_{M}\\) be the prices of food and music, respectively and denote the quantities by \\(Q_{F}\\) and \\(Q_{M}\\). In the absence of taxes, Arnie’s budget constraint is \\(Y = P_{F}Q_{F} + P_{M}Q_{M}\\). Now suppose an ad valorem tax of 25 percent is imposed on both food and music. What income tax rate is equivalent to this commidity tax?"
-  },
-  {
-    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-2",
-    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-2",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 15 Problem 2",
-    "text": "RTTWS Chapter 15 Problem 2\nDescribe how the shape of an individual’s indifference curve affects the magnitude of a tax’s excess burden. What does this tell you about how the degree of substitutability between the taxed item and the other item matters for the efficiency of taxation?"
-  },
-  {
-    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-5",
-    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-5",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 15 Problem 5",
-    "text": "RTTWS Chapter 15 Problem 5\nWhich of the following is likely to impose a large excess burden?\na) A tax on land"
-  },
-  {
-    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-5-1",
-    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-5-1",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 15 Problem 5",
-    "text": "RTTWS Chapter 15 Problem 5\nWhich of the following is likely to impose a large excess burden?\nb) A subsidy on personal computers"
-  },
-  {
-    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-5-2",
-    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-5-2",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 15 Problem 5",
-    "text": "RTTWS Chapter 15 Problem 5\nWhich of the following is likely to impose a large excess burden?\nc) A tax of $75 on smartphones"
-  },
-  {
-    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-5-3",
-    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-5-3",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 15 Problem 5",
-    "text": "RTTWS Chapter 15 Problem 5\nWhich of the following is likely to impose a large excess burden?\nd) A subsidy on investment in high tech companies?"
-  },
-  {
-    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-5-4",
-    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-5-4",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 15 Problem 5",
-    "text": "RTTWS Chapter 15 Problem 5\nWhich of the following is likely to impose a large excess burden?\ne) A 5% tex on bottled water"
-  },
-  {
-    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-5-5",
-    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-5-5",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 15 Problem 5",
-    "text": "RTTWS Chapter 15 Problem 5\nWhich of the following is likely to impose a large excess burden?\nf) A 10% tax on all computer software"
-  },
-  {
-    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-6",
-    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-6",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 15 Problem 6",
-    "text": "RTTWS Chapter 15 Problem 6\nSuppose the market demand curve for beer is described by the equation \\(Q_d^b = 600 - 15P_b^d\\) where ( \\(Q_d^b\\) ) is the number of cases of beer and ( \\(P_b^d\\) ) is the price per case. The supply curve is given by \\(Q_s^b = 10P_b^s\\)\n\nCalculate the elasticities of demand and supply at the equilibrium quantity."
-  },
-  {
-    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-6-1",
-    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-6-1",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 15 Problem 6",
-    "text": "RTTWS Chapter 15 Problem 6\n\nSuppose the government introduces an excise tax of 15 percent per case of beer. Determine the excess burden of this tax using the formula found in footnote 7 and the elasticities found in part (a)."
-  },
-  {
-    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-6-2",
-    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-6-2",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 15 Problem 6",
-    "text": "RTTWS Chapter 15 Problem 6\n\nCalculate the tax revenues and the average excess burden."
-  },
-  {
-    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-11",
-    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-11",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 15 Problem 11",
-    "text": "RTTWS Chapter 15 Problem 11\nSetting a price ceiling for a good below the market price results in an excess burden. Demonstrate this by using supply and demand curves. In addition, show how the imposition of a tax on a substitute good, by affecting the demand for the good with a price ceiling, increases the excess burden."
-  },
-  {
-    "objectID": "content/taxbehaviour.html",
-    "href": "content/taxbehaviour.html",
-    "title": "Personal Taxation and Behaviour",
-    "section": "",
-    "text": "RTTWS Chapter 18",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Personal Taxation and Behaviour"
-    ]
-  },
-  {
-    "objectID": "content/taxbehaviour.html#readings",
-    "href": "content/taxbehaviour.html#readings",
-    "title": "Personal Taxation and Behaviour",
-    "section": "",
-    "text": "RTTWS Chapter 18",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Personal Taxation and Behaviour"
-    ]
-  },
-  {
-    "objectID": "content/taxbehaviour.html#slides",
-    "href": "content/taxbehaviour.html#slides",
-    "title": "Personal Taxation and Behaviour",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Personal Taxation and Behaviour"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html",
-    "href": "content/introtostata.html",
-    "title": "Introduction to Stata",
-    "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#tutorial",
-    "href": "content/introtostata.html#tutorial",
-    "title": "Introduction to Stata",
-    "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#videos",
-    "href": "content/introtostata.html#videos",
-    "title": "Introduction to Stata",
-    "section": "Videos",
-    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#other-resources",
-    "href": "content/introtostata.html#other-resources",
-    "title": "Introduction to Stata",
-    "section": "Other Resources",
-    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/index.html",
-    "href": "content/index.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
-    "crumbs": [
-      "Content",
-      "Overview",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "content/equitable.html",
-    "href": "content/equitable.html",
-    "title": "Taxation and Efficiency",
-    "section": "",
-    "text": "RTTWS Chapter 16",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Efficient and Equitable Taxation"
-    ]
-  },
-  {
-    "objectID": "content/equitable.html#readings",
-    "href": "content/equitable.html#readings",
-    "title": "Taxation and Efficiency",
-    "section": "",
-    "text": "RTTWS Chapter 16",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Efficient and Equitable Taxation"
-    ]
-  },
-  {
-    "objectID": "content/equitable.html#slides",
-    "href": "content/equitable.html#slides",
-    "title": "Taxation and Efficiency",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Efficient and Equitable Taxation"
-    ]
-  },
-  {
-    "objectID": "content/equitable.html#sample-questions",
-    "href": "content/equitable.html#sample-questions",
-    "title": "Taxation and Efficiency",
-    "section": "Sample Questions",
-    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Efficient and Equitable Taxation"
-    ]
-  },
-  {
-    "objectID": "content/constax.html",
-    "href": "content/constax.html",
-    "title": "Consumption Taxes",
-    "section": "",
-    "text": "RTTWS Chapter 19",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Consumption Taxes"
-    ]
-  },
-  {
-    "objectID": "content/constax.html#readings",
-    "href": "content/constax.html#readings",
-    "title": "Consumption Taxes",
-    "section": "",
-    "text": "RTTWS Chapter 19",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Consumption Taxes"
-    ]
-  },
-  {
-    "objectID": "content/constax.html#slides",
-    "href": "content/constax.html#slides",
-    "title": "Consumption Taxes",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Consumption Taxes"
-    ]
-  },
-  {
-    "objectID": "content/constax.html#sample-questions",
-    "href": "content/constax.html#sample-questions",
-    "title": "Consumption Taxes",
-    "section": "Sample Questions",
-    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Consumption Taxes"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html",
-    "href": "assignments/assign1.html",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "Answer Key\n\n\n\nYou can download the solutions using the links below\n ec313assign1key.do\n ec313assign1key.docx",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html#description",
-    "href": "assignments/assign1.html#description",
-    "title": "Assignment 1",
-    "section": "Description",
-    "text": "Description\nIn this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on the relationship between cigarette taxes and cigarette prices in the US, to check whether and by how much taxes are passed on to consumers in the form of higher prices. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html#instructions",
-    "href": "assignments/assign1.html#instructions",
-    "title": "Assignment 1",
-    "section": "Instructions",
-    "text": "Instructions\n\nQuestions\nThe document below contains the assignment questions. Please provide all answers in the space below each question. If the question requires any Stata code, please include the code relevant to that question in the space provided. Also include the relevant output. Note: output must be reformatted into a professional-looking table or figure. Do not simply copy and paste (or screenshot) the Stata output.\n ec313assign1.docx\nWhen you save the file to your computer, please rename it with your family name and student number, with no spaces.\n\n\nData analysis\nThe data come from the Tax Burden on Tobacco dataset created by Orzechowski and Walker, and downloaded from the Centers for Disease Control (CDC) . It contains data on cigarette prices, taxes, sales, and revenues for each of the 50 US states from 1970 to 2019. Note that the data are a panel (repeated observations on each state over time) and have been set as a panel (using xtset) with \\(state_abbr\\) as the panel variable and \\(year\\) as the year variable in Stata. This means you can use the set of xt commands in Stata to analyze the data.\nThe data file is linked below.\n ec313assign1.dta\n\n\nSubmission\nWhen you are finished, you are required to submit three documents according to the following instructions:\n\nYour .do and .log file. Submit this in MyLearningSpace only.\nA rendered PDF of your answers to the questions. Submit this in both MyLearningSpace and Gradescope.\n\n\n\nPlagiarism\nThis is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else’s work verbatim, which includes Stata code. Any work you submit should be yours only. However, you are encouraged to talk to each other to try to figure out how to do the assignment.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/index.html",
-    "href": "assignments/index.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Here you will find the problem sets for all your assignments, and any other information related to your assignments.",
-    "crumbs": [
-      "Assignments",
-      "Overview",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "content/efficiency.html",
-    "href": "content/efficiency.html",
-    "title": "Taxation and Efficiency",
-    "section": "",
-    "text": "RTTWS Chapter 15 (omit section on “Differential Taxation of Inputs”)",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Taxation and Efficiency"
-    ]
-  },
-  {
-    "objectID": "content/efficiency.html#readings",
-    "href": "content/efficiency.html#readings",
-    "title": "Taxation and Efficiency",
-    "section": "",
-    "text": "RTTWS Chapter 15 (omit section on “Differential Taxation of Inputs”)",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Taxation and Efficiency"
-    ]
-  },
-  {
-    "objectID": "content/efficiency.html#slides",
-    "href": "content/efficiency.html#slides",
-    "title": "Taxation and Efficiency",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Taxation and Efficiency"
-    ]
-  },
-  {
-    "objectID": "content/efficiency.html#sample-questions",
-    "href": "content/efficiency.html#sample-questions",
-    "title": "Taxation and Efficiency",
-    "section": "Sample Questions",
-    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Taxation and Efficiency"
-    ]
-  },
-  {
-    "objectID": "content/incidence.html",
-    "href": "content/incidence.html",
-    "title": "Tax Incidence",
-    "section": "",
-    "text": "RTTWS Chapter 14",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Tax Incidence"
-    ]
-  },
-  {
-    "objectID": "content/incidence.html#readings",
-    "href": "content/incidence.html#readings",
-    "title": "Tax Incidence",
-    "section": "",
-    "text": "RTTWS Chapter 14",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Tax Incidence"
-    ]
-  },
-  {
-    "objectID": "content/incidence.html#slides",
-    "href": "content/incidence.html#slides",
-    "title": "Tax Incidence",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Tax Incidence"
-    ]
-  },
-  {
-    "objectID": "content/incidence.html#sample-questions",
-    "href": "content/incidence.html#sample-questions",
-    "title": "Tax Incidence",
-    "section": "Sample Questions",
-    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Tax Incidence"
-    ]
-  },
-  {
-    "objectID": "content/introtopf.html",
-    "href": "content/introtopf.html",
-    "title": "Introduction to Public Finance",
-    "section": "",
-    "text": "RTTWS Chapter 1",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Public Finance"
-    ]
-  },
-  {
-    "objectID": "content/introtopf.html#readings",
-    "href": "content/introtopf.html#readings",
-    "title": "Introduction to Public Finance",
-    "section": "",
-    "text": "RTTWS Chapter 1",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Public Finance"
-    ]
-  },
-  {
-    "objectID": "content/introtopf.html#slides",
-    "href": "content/introtopf.html#slides",
-    "title": "Introduction to Public Finance",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Public Finance"
-    ]
-  },
-  {
-    "objectID": "content/personaltax.html",
-    "href": "content/personaltax.html",
-    "title": "The Personal Income Tax",
-    "section": "",
-    "text": "RTTWS Chapter 17",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "The Personal Income Tax"
-    ]
-  },
-  {
-    "objectID": "content/personaltax.html#readings",
-    "href": "content/personaltax.html#readings",
-    "title": "The Personal Income Tax",
-    "section": "",
-    "text": "RTTWS Chapter 17",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "The Personal Income Tax"
-    ]
-  },
-  {
-    "objectID": "content/personaltax.html#slides",
-    "href": "content/personaltax.html#slides",
-    "title": "The Personal Income Tax",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "The Personal Income Tax"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\n            Public Economics: Taxation\n        ",
-    "section": "",
-    "text": "The Economics of Taxation\n        \n        \n            EC313 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Tue/Thu\n   Sept-Dec 2025\n   4:00 - 5:20 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
-  },
-  {
-    "objectID": "questions/equitable/index.html#rttws-chapter-17-problem-3",
-    "href": "questions/equitable/index.html#rttws-chapter-17-problem-3",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 17 Problem 3",
-    "text": "RTTWS Chapter 17 Problem 3\nA study by Dahlby and Ferede (2015) provides estimates of the marginal excess burden or additional dollar of revenue in the Canadian provinces (in 2013). For Manitoba, it is 1.207 for the corporate income tax and 0.364 for the general sales tax. Based on these estimates, use the Ramsey rule to propose a direction for tax reform that would reduce the excess burden from taxation while maintaining revenue neutrality. Explain your reasoning."
-  },
-  {
-    "objectID": "questions/equitable/index.html#rttws-chapter-16-problem-4",
-    "href": "questions/equitable/index.html#rttws-chapter-16-problem-4",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 16 Problem 4",
-    "text": "RTTWS Chapter 16 Problem 4\nThe demand for X is given by \\(X = 100 - 2P_x\\), and its supply is perfectly elastic at \\(P_x = 14\\). The demand for Y is given by \\(Y = 350 - 3P_y\\), and its supply is perfectly elastic at \\(P_y = 18\\). The government wishes to raise \\(10,000\\) by imposing specific taxes \\(t_x\\) on X and \\(t_y\\) on Y. If it wishes to minimize the total ratio of taxes, \\(t_x/t_y\\), according to the inverse elasticity rule, what should this ratio be?"
-  },
-  {
-    "objectID": "questions/equitable/index.html#rttws-chapter-16-problem-5",
-    "href": "questions/equitable/index.html#rttws-chapter-16-problem-5",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 16 Problem 5",
-    "text": "RTTWS Chapter 16 Problem 5\nIndicate which of the following statements is true, false, or uncertain, and explain why:\n\nA proportional tax on all commodities, including leisure, is equivalent to a lump-sum tax."
-  },
-  {
-    "objectID": "questions/equitable/index.html#rttws-chapter-16-problem-5-1",
-    "href": "questions/equitable/index.html#rttws-chapter-16-problem-5-1",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 16 Problem 5",
-    "text": "RTTWS Chapter 16 Problem 5\nIndicate which of the following statements is true, false, or uncertain, and explain why:\n\nEfficiency is maximized when all commodities are taxed at the same rate."
-  },
-  {
-    "objectID": "questions/equitable/index.html#rttws-chapter-16-problem-5-2",
-    "href": "questions/equitable/index.html#rttws-chapter-16-problem-5-2",
-    "title": "EC313 - Taxation",
-    "section": "RTTWS Chapter 16 Problem 5",
-    "text": "RTTWS Chapter 16 Problem 5\nIndicate which of the following statements is true, false, or uncertain, and explain why:\n\nAverage cost pricing for a natural monopoly allows the enterprise to break even, but the outcome is inefficient."
-  },
-  {
-    "objectID": "slides/constax/index.html#goals-of-this-section-1",
-    "href": "slides/constax/index.html#goals-of-this-section-1",
-    "title": "EC313 - Taxation",
-    "section": "Goals of This Section",
-    "text": "Goals of This Section\n\nDefine and discuss types of consumption taxes\nAnalyze the efficiency and equity implications of consumption taxes\nIntroduce and discuss value added taxes and retail sales taxes\nSummarize Canada’s consumption taxation\nCompare consumption taxes to income taxes"
-  },
-  {
-    "objectID": "slides/constax/index.html#introduction",
-    "href": "slides/constax/index.html#introduction",
-    "title": "EC313 - Taxation",
-    "section": "Introduction",
-    "text": "Introduction\n\nAs we know, purchases of final goods are taxed\nThese taxes are called consumption taxes\nThere are several types charged depending on province of residence and the type of good or service purchased\n\nThey have features that distinguish them from each other\n\nIn this section we outline the different types of taxes and discuss their merits"
-  },
-  {
-    "objectID": "slides/constax/index.html#types-of-consumption-taxes",
-    "href": "slides/constax/index.html#types-of-consumption-taxes",
-    "title": "EC313 - Taxation",
-    "section": "Types of Consumption Taxes",
-    "text": "Types of Consumption Taxes\n\nValue Added Tax (VAT)\n\nCharged at each stage of production based on the value added at that stage\nUsed globally for taxation of consumption\n\nRetail Sales Tax (RST)\n\nCharged only at the point of sale to the final consumer\nUsed in some provinces in Canada\n\nExcise Taxes\n\nCharged on specific goods, often to discourage consumption (e.g., tobacco, alcohol)\nUsed in all provinces in Canada and by federal government\n\nCustom Duties (tariffs)\n\nCharged on goods imported into the country\nUsed by federal government only"
-  },
-  {
-    "objectID": "slides/constax/index.html#revenue-from-consumption-taxes",
-    "href": "slides/constax/index.html#revenue-from-consumption-taxes",
-    "title": "EC313 - Taxation",
-    "section": "Revenue from Consumption Taxes",
-    "text": "Revenue from Consumption Taxes"
-  },
-  {
-    "objectID": "slides/constax/index.html#administrative-ease",
-    "href": "slides/constax/index.html#administrative-ease",
-    "title": "EC313 - Taxation",
-    "section": "Administrative Ease",
-    "text": "Administrative Ease\n\nRelative to other taxes, consumption taxes are easy to administer\nImport duties are collected at the time of importation\n\nIn the past, relatively few items were imported\nMuch more now, but still straightforward to collect\n\nSales taxes are collected from retailers\n\nLots of retailers to collect from, but less than for income tax\nSome complications can arise for taxable and non-taxable goods\n\nExample: Less than 6 baked goods at a time are taxable, but 6 or more is non-taxable\nSome basic groceries are zero rated"
-  },
-  {
-    "objectID": "slides/constax/index.html#efficiency",
-    "href": "slides/constax/index.html#efficiency",
-    "title": "EC313 - Taxation",
-    "section": "Efficiency",
-    "text": "Efficiency\n\nEconomists argue that consumption taxes are more efficient than income taxes\nBecause they do not distort savings behaviour\n\nIncome taxes reduce the return to saving\nConsumption taxes do not affect the return to saving\n\nExample on next slide illustrates this using two period model\n\nAssume individuals live for two periods\nOne person earns income in period 1 and consumes it all\nAnother person earns income in period 1, saves some, and consumes in period 2\nTax rate on income is 50%, tax rate on consumption is 100%, and interest rate is 10%"
-  },
-  {
-    "objectID": "slides/constax/index.html#efficiency-1",
-    "href": "slides/constax/index.html#efficiency-1",
-    "title": "EC313 - Taxation",
-    "section": "Efficiency",
-    "text": "Efficiency\n\n\n\n\n\n\n\n\n\n\n\nInc Tax\nInc Tax\nCons Tax\nCons Tax\n\n\nItem\nHomer\nMarge\nHomer\nMarge\n\n\nIncome in period 1\n100.00\n100.00\n100.00\n100.00\n\n\nTaxes in period 1\n50.00\n50.00\n50.00\n26.19\n\n\nConsumption in period 1\n50.00\n25.61\n50.00\n26.19\n\n\nSavings in period 1\n0.00\n24.39\n0.00\n47.62\n\n\nInterest earnings in period 2\n0.00\n2.44\n0.00\n4.76\n\n\nTaxes in period 2\n0.00\n1.22\n0.00\n26.19\n\n\nConsumption in period 2\n0.00\n25.61\n0.00\n26.19\n\n\nPDV of taxes\n50.00\n51.11\n50.00\n50.00"
-  },
-  {
-    "objectID": "slides/constax/index.html#efficiency-2",
-    "href": "slides/constax/index.html#efficiency-2",
-    "title": "EC313 - Taxation",
-    "section": "Efficiency",
-    "text": "Efficiency\n\nUnder the income tax\n\nSaving is discouraged because the return is less\nMarge pays more in present discounted value of taxes (51.11) than Homer (50.00)\n\nSo there is a lack of horizontal equity\nMarge and Homer are not taxed the same for the same lifetime income\n\n\nUnder the consumption tax\n\nSaving is not discouraged because the return is unaffected\nMarge and Homer pay the same present discounted value of taxes (50.00)\n\nSo there is horizontal equity\nMarge and Homer are taxed the same for the same lifetime income"
-  },
-  {
-    "objectID": "slides/constax/index.html#efficiency-3",
-    "href": "slides/constax/index.html#efficiency-3",
-    "title": "EC313 - Taxation",
-    "section": "Efficiency",
-    "text": "Efficiency\n\nThere is still an excess burden from the consumption tax\n\nConsumption tax distorts choice between consumption and leisure\nPeople will substitute towards leisure, creating excess burden\n\nStudies show that the consumption tax has lower excess burden than income tax"
-  },
-  {
-    "objectID": "slides/constax/index.html#equity",
-    "href": "slides/constax/index.html#equity",
-    "title": "EC313 - Taxation",
-    "section": "Equity",
-    "text": "Equity\n\nProgressiveness: consumption taxes are often criticized for being regressive\n\nLower income individuals spend a larger share of their annual income on consumption\nBut, it is less regressive if we consider\n\nLifetime income rather than annual income\nTax credits and transfers that offset regressiveness\n\n\nGender: consumption tax incidents may not be gender neutral\n\nSome products targeted to women may have higher prices\nA tax levied on product prices may then have a higher incidence for women"
-  },
-  {
-    "objectID": "slides/constax/index.html#equity-1",
-    "href": "slides/constax/index.html#equity-1",
-    "title": "EC313 - Taxation",
-    "section": "Equity",
-    "text": "Equity\n\nAbility to pay: taxes are levied on actual rather than potential consumption\n\nTargeted towards chosen spending patterns rather than ability to pay\nA penny-pinching rich person can pay less tax than a poor person\n\nAnnual versus lifetime equity: income taxes may generate different lifetime tax burdens\n\nExample we covered before with Homer and Marge\nIncome taxes generated more tax for Marge because she saved\nConsumption taxes generate more even lifetime tax burden"
-  },
-  {
-    "objectID": "slides/constax/index.html#introduction-1",
-    "href": "slides/constax/index.html#introduction-1",
-    "title": "EC313 - Taxation",
-    "section": "Introduction",
-    "text": "Introduction\n\nValue Added Taxes (VAT) are the most common form of consumption tax globally\nIn Canada, the GST and HST are VATs\nPrior to GST, Canada used a the Federal Sales Tax (FST)\n\nSales tax charged at the manufacturing level\n\nThe FST had a number of problems\n\nSmall tax base required high tax rates to collect enough revenue\n** Tax Cascading**: taxes charged on manufacturing inputs to other manufactured goods\n\nE.g., tax on steel used to make cars\nTaxes were charged on the steel and then again on the car\nMeans taxes were charged on top of taxes"
-  },
-  {
-    "objectID": "slides/constax/index.html#introduction-2",
-    "href": "slides/constax/index.html#introduction-2",
-    "title": "EC313 - Taxation",
-    "section": "Introduction",
-    "text": "Introduction\n\nFST was also complex to administer\nGST replaced FST in 1991\n\nBroader tax base allowed for lower tax rates\nValue added method of taxation eliminated tax cascading\nInput tax credits simplified administration for businesses\n\nOriginal GST rate was 7%\n\nLowered to 6% in 2006, and 5% in 2008\n\nReplaced by HST in some provinces starting in 1997\n\nHST combines federal GST and provincial sales tax into single value added tax\nCurrent provinces usng HST are: NS, NB, NL, ON, PEI"
-  },
-  {
-    "objectID": "slides/constax/index.html#introduction-3",
-    "href": "slides/constax/index.html#introduction-3",
-    "title": "EC313 - Taxation",
-    "section": "Introduction",
-    "text": "Introduction\n\nBC had HST from 2010 to 2013\n\nReverted back to separate GST and PST after a referendum\nFormer premier Vander Zalm argued HST was a tax increase\n\nTax applied to more goods and services than PST"
-  },
-  {
-    "objectID": "slides/constax/index.html#how-value-added-taxes-work",
-    "href": "slides/constax/index.html#how-value-added-taxes-work",
-    "title": "EC313 - Taxation",
-    "section": "How Value Added Taxes Work",
-    "text": "How Value Added Taxes Work\n\nProduction of a final good occurs in several stages\n\nAt each stage, value is added to the good\nValue added is the difference between sales revenue and cost of inputs\n\nExample: Production of a table\n\nStage 1: Logger sells logs for $100\n\nValue added = $100 - $0 = $100\n\nStage 2: Lumber mill buys logs for $100, sells lumber for $150\n\nValue added = $150 - $100 = $50\n\nStage 3: Furniture maker buys lumber for $150, sells table for $300\n\nValue added = $300 - $150 = $150"
-  },
-  {
-    "objectID": "slides/constax/index.html#how-value-added-taxes-work-1",
-    "href": "slides/constax/index.html#how-value-added-taxes-work-1",
-    "title": "EC313 - Taxation",
-    "section": "How Value Added Taxes Work",
-    "text": "How Value Added Taxes Work\n\nTaxes are levied on value added at each stage\nTotal tax is the sum of taxes at each stage\nEquivalent to a single tax on the final sale price\nNext slide has example of VAT\n\nBased on production of bread"
-  },
-  {
-    "objectID": "slides/constax/index.html#how-value-added-taxes-work-2",
-    "href": "slides/constax/index.html#how-value-added-taxes-work-2",
-    "title": "EC313 - Taxation",
-    "section": "How Value Added Taxes Work",
-    "text": "How Value Added Taxes Work"
-  },
-  {
-    "objectID": "slides/constax/index.html#how-value-added-taxes-work-3",
-    "href": "slides/constax/index.html#how-value-added-taxes-work-3",
-    "title": "EC313 - Taxation",
-    "section": "How Value Added Taxes Work",
-    "text": "How Value Added Taxes Work\n\nHow does government collect tax only on value added at each stage?\nUses an invoice-credit method\n\nAt each stage firm pays tax on total sales\nBut claims a credit for taxes paid by suppliers\n\nUsing the bread example:\n\nFarmer sells wheat for $400, pays $40 in tax\nMiller sells flour for $700, pays $70 in tax, claims $40 credit, remits $30\nBaker sells bread for $950, pays $95 in tax, claims $70 credit, remits $25\nGrocer sells breat for $1000, pays $100 in tax, claims $95 credit, remits $5"
-  },
-  {
-    "objectID": "slides/constax/index.html#implementation-issues",
-    "href": "slides/constax/index.html#implementation-issues",
-    "title": "EC313 - Taxation",
-    "section": "Implementation Issues",
-    "text": "Implementation Issues\n\nSome issues make the administration more complex\n\nSome goods and services are zero rated from VAT\n\nExamples: basic food, prescriptiond drugs, medical devices\n\nFirms with annual sales below $30,000 do not remit HST/GST\nTreatment of investment assets (e.g. machines)\n\nNot clear whether to include full value, depreciated value, or none of it to compute tax liability\nIn Canada, usually none of it is included"
-  },
-  {
-    "objectID": "slides/constax/index.html#implementation-issues-1",
-    "href": "slides/constax/index.html#implementation-issues-1",
-    "title": "EC313 - Taxation",
-    "section": "Implementation Issues",
-    "text": "Implementation Issues\n\nThere is a difference between zero-rated and exempt goods/services\n\nZero-rated: tax rate is 0%, firms can claim input tax credits\nExempt: no tax charged, firms cannot claim input tax credits\n\nIf goods are exempt at retail stage, it appears the same\n\nNo tax collected on both zero-rated and exempt goods/services\n\nBut there are implications for embedded taxes\n\nExempt goods/services have embedded taxes that cannot be claimed back"
-  },
-  {
-    "objectID": "slides/constax/index.html#implementation-issues-2",
-    "href": "slides/constax/index.html#implementation-issues-2",
-    "title": "EC313 - Taxation",
-    "section": "Implementation Issues",
-    "text": "Implementation Issues"
-  },
-  {
-    "objectID": "slides/constax/index.html#efficiency-4",
-    "href": "slides/constax/index.html#efficiency-4",
-    "title": "EC313 - Taxation",
-    "section": "Efficiency",
-    "text": "Efficiency\n\nWe have previously discussed efficient taxes\n\nLow excess burden, minimal distortions to behaviour\n\nIs it inefficient to add a VAT when we already have income taxes?\n\nIf income tax is already optimal, adding VAT creates distortions and inefficiencies\nIf it is not optimal, VAT may improve efficiency by reducing income tax distortions"
-  },
-  {
-    "objectID": "slides/constax/index.html#improvements-to-gst",
-    "href": "slides/constax/index.html#improvements-to-gst",
-    "title": "EC313 - Taxation",
-    "section": "Improvements to GST",
-    "text": "Improvements to GST\n\nEconomists like VATs like GST, but citizens do not\nThere are ways to improve it\nHarmonization\n\nThe HST is an improvement over separate GST and PST\nReduces compliance costs for businesses\n\nCompliance costs\n\nFor GST/HST, firms must track taxes collected and input tax credits\nDifficult for firms initially because they did not have appropriate systems\nKeeping track of exempt items is also difficult\nNeed to make improvements to make tax more efficient"
-  },
-  {
-    "objectID": "slides/constax/index.html#improvements-to-gst-1",
-    "href": "slides/constax/index.html#improvements-to-gst-1",
-    "title": "EC313 - Taxation",
-    "section": "Improvements to GST",
-    "text": "Improvements to GST"
-  },
-  {
-    "objectID": "slides/constax/index.html#improvements-to-gst-2",
-    "href": "slides/constax/index.html#improvements-to-gst-2",
-    "title": "EC313 - Taxation",
-    "section": "Improvements to GST",
-    "text": "Improvements to GST"
-  },
-  {
-    "objectID": "slides/constax/index.html#improvements-to-gst-3",
-    "href": "slides/constax/index.html#improvements-to-gst-3",
-    "title": "EC313 - Taxation",
-    "section": "Improvements to GST",
-    "text": "Improvements to GST\n\nIncrease tax base by taxing basic groceries?\n\nReduces compliance costs\nPolitically difficult\n\nTax-inclusive pricing\n\nIn other parts of the world, prices include all taxes\nIn North America, prices are shown before tax\nEconomists prefer tax to be visible, but inclusive pricing is simpler"
-  },
-  {
-    "objectID": "slides/constax/index.html#introduction-4",
-    "href": "slides/constax/index.html#introduction-4",
-    "title": "EC313 - Taxation",
-    "section": "Introduction",
-    "text": "Introduction\n\nAs noted, some provinces combine GST and PST\n\nGST is a value added tax (VAT)\nPST is a retail sales tax (RST)\n\nRSTs are generally charged only at the point of sale to final consumer\n\nNo input tax credits for businesses\n\nBC, MB, SK, QC all have PST\n\nAB has no PST"
-  },
-  {
-    "objectID": "slides/constax/index.html#rst-vs-vat",
-    "href": "slides/constax/index.html#rst-vs-vat",
-    "title": "EC313 - Taxation",
-    "section": "RST vs VAT",
-    "text": "RST vs VAT\n\nAn RST can be equivalent to VAT when\n\nRate is the same\nTax base is the same\nRST is charged only on final sales\n\nIn bread example, RST would be charged only by grocer\n\nGrocer sells bread for $1000, pays $100 in RST\nSum of VAT amounts is also $100\nDifference is that VAT is collected in stages, RST only at final sale"
-  },
-  {
-    "objectID": "slides/constax/index.html#rst-vs-vat-1",
-    "href": "slides/constax/index.html#rst-vs-vat-1",
-    "title": "EC313 - Taxation",
-    "section": "RST vs VAT",
-    "text": "RST vs VAT\n\nThey can differ in other circumstances\nBig issue with HST in BC was that it had broader tax base than PST\nCan also sometimes lead to tax cascading\n\nIf tax is charged on some inputs"
-  },
-  {
-    "objectID": "slides/constax/index.html#tax-bases",
-    "href": "slides/constax/index.html#tax-bases",
-    "title": "EC313 - Taxation",
-    "section": "Tax Bases",
-    "text": "Tax Bases\n\nUnlike the HST, the tax base for PST varies from province to province\nPrepared meals\n\nTaxed in MB, SK, QC\nNot taxed in BC\n\nChildren’s clothing\n\nTaxed in SK, QC\nNot taxed in BC, MB\n\nAll provinces exempt most food\nNo economic reason for exemptions; purely political"
-  },
-  {
-    "objectID": "slides/constax/index.html#tax-rates",
-    "href": "slides/constax/index.html#tax-rates",
-    "title": "EC313 - Taxation",
-    "section": "Tax Rates",
-    "text": "Tax Rates"
-  },
-  {
-    "objectID": "slides/constax/index.html#excise-taxes",
-    "href": "slides/constax/index.html#excise-taxes",
-    "title": "EC313 - Taxation",
-    "section": "Excise Taxes",
-    "text": "Excise Taxes\n\nExcise taxes are specific taxes levied on particular goods\nLevied by the federal government and all provinces\nItems listed on next slide\nReasons for excise taxes\n\nRaise revenue\nDiscourage consumption of harmful goods (e.g., tobacco, alcohol)\nCorrect for externalities (e.g., gasoline, smoking)\nSin taxes"
-  },
-  {
-    "objectID": "slides/constax/index.html#excise-taxes-1",
-    "href": "slides/constax/index.html#excise-taxes-1",
-    "title": "EC313 - Taxation",
-    "section": "Excise Taxes",
-    "text": "Excise Taxes"
-  },
-  {
-    "objectID": "slides/constax/index.html#custom-duties",
-    "href": "slides/constax/index.html#custom-duties",
-    "title": "EC313 - Taxation",
-    "section": "Custom Duties",
-    "text": "Custom Duties\n\nCustom duties (tariffs) are taxes on imported goods\nIn the past they were an important source of revenue\n\nNot so much today\nLots of trade agreements in place that limit tariffs\n\nMain point of tariffs is to protect domestic industries\n\nE.g., steel, dairy, poultry\nCan lead to trade wars"
-  },
-  {
-    "objectID": "slides/constax/index.html#introduction-5",
-    "href": "slides/constax/index.html#introduction-5",
-    "title": "EC313 - Taxation",
-    "section": "Introduction",
-    "text": "Introduction\n\nToday sales taxes are levied on businesses\n\nTax is usually added on at checkout\nBut businesses remit to the government\nThe statutory incidence is on business\n\nAnother option would be to levy the tax directly on individuals\n\nIndividuals would pay tax directly to government\nWould file a tax return for consumption\n\nSome argue that it would be better\n\nMakes it easier to take personal circumstances into account"
-  },
-  {
-    "objectID": "slides/constax/index.html#personal-consumption-tax",
-    "href": "slides/constax/index.html#personal-consumption-tax",
-    "title": "EC313 - Taxation",
-    "section": "Personal Consumption Tax",
-    "text": "Personal Consumption Tax\n\nUnder this system, people file a tax based on consumption\nBased only on what is consumed\n\nExcludes saving (income not consumed)\n\nHow would this work?\nA person’s consumption is equivalent to their income minus their change in wealth\n\nTo compute consumption, add income and subtract changes in wealth\nEquivalently, add income and subtract anything not consumed\n\nLike income taxes, there can be deductions and credits\n\nE.g., charitable donations, medical expenses"
-  },
-  {
-    "objectID": "slides/constax/index.html#personal-consumption-tax-1",
-    "href": "slides/constax/index.html#personal-consumption-tax-1",
-    "title": "EC313 - Taxation",
-    "section": "Personal Consumption Tax",
-    "text": "Personal Consumption Tax"
-  },
-  {
-    "objectID": "slides/constax/index.html#hall-rabushka-flax-tax",
-    "href": "slides/constax/index.html#hall-rabushka-flax-tax",
-    "title": "EC313 - Taxation",
-    "section": "Hall-Rabushka Flax Tax",
-    "text": "Hall-Rabushka Flax Tax\n\nHall-Rabushka proposed one (complicated) flat consumption tax\nWorks by taxing businesses and individual compensation\nBusinesses\n\nPay tax on sales minus purchases from other businesses\nAlso subtract payments to workers\n\nIndividuals\n\nPay tax on wages and salaries minus personal savings\nAlso subtract investment income (dividends, interest)\n\nFlat tax rate applied to each tax base"
-  },
-  {
-    "objectID": "slides/constax/index.html#hall-rabushka-flax-tax-1",
-    "href": "slides/constax/index.html#hall-rabushka-flax-tax-1",
-    "title": "EC313 - Taxation",
-    "section": "Hall-Rabushka Flax Tax",
-    "text": "Hall-Rabushka Flax Tax\n\nEquivalent to a consumption tax levied on businesses\n\nWhen consumption tax levied on business, it pays tax on sales minus purchases\nWages are embedded in prices, so they are implicitly taxed\nWith Hall-Rabushka, wages are instead taxed directly at individual level\n\nOnly difference is point of collection of certain taxes\nThere is no system currently in place that does this"
-  },
-  {
-    "objectID": "slides/constax/index.html#administration-issues",
-    "href": "slides/constax/index.html#administration-issues",
-    "title": "EC313 - Taxation",
-    "section": "Administration Issues",
-    "text": "Administration Issues\n\nNot feasible if people had to add up all expenditures\nBut can work if we impute consumption by income minus saving\n\nWould require tracking of savings\nCan be done by bank accounts\nPotentially problematic for people who save outside of banks"
-  },
-  {
-    "objectID": "slides/constax/index.html#administration-issues-1",
-    "href": "slides/constax/index.html#administration-issues-1",
-    "title": "EC313 - Taxation",
-    "section": "Administration Issues",
-    "text": "Administration Issues\n\nSome types of consumption are hard to tax\n\nConsumption benefits generated by things like housing\nE.g., owner-occupied housing\n\nHow would we tax this?\nOne option: tax prepayment\n\nTax the house (or car, or other durable) at the point of purchase\nThe value of the durable today is the present value of future consumption services (imputed rent)\nThe tax charged now should equal to the taxes charged on consumption benefits"
-  },
-  {
-    "objectID": "slides/constax/index.html#benefits-of-personal-consumption-tax",
-    "href": "slides/constax/index.html#benefits-of-personal-consumption-tax",
-    "title": "EC313 - Taxation",
-    "section": "Benefits of Personal Consumption Tax",
-    "text": "Benefits of Personal Consumption Tax\n\nAvoid issues of capital gains and depreciation\n\nOnly consumption is taxed\nSo no need to track capital gains\n\nLess investment lock-in\n\nWith income tax, investors may hold onto assets to avoid capital gains tax\nWith consumption tax, can sell and reinvest without tax consequences\n\nRemoves need for separate personal and corporate tax"
-  },
-  {
-    "objectID": "slides/constax/index.html#summary-1",
-    "href": "slides/constax/index.html#summary-1",
-    "title": "EC313 - Taxation",
-    "section": "Summary",
-    "text": "Summary\n\nConsumption taxes are an important source of government revenue\nValue added taxes (e.g., GST, HST) are the most common form of consumption tax globally\nRetail sales taxes are simpler but can lead to tax cascading\nExcise taxes and custom duties are other forms of consumption taxes\nConsumption taxes are often more efficient than income taxes\nPersonal consumption taxes are an alternative way to tax consumption directly"
-  },
-  {
-    "objectID": "slides/constax/index.html#references-1",
-    "href": "slides/constax/index.html#references-1",
-    "title": "EC313 - Taxation",
-    "section": "References",
-    "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.\nBazel, Philip. Marginal Effective Tax Rates for Working Families in Canada. Fraser Institute, 2024.\nHansen, Jeff, and Devan Mescall, and Graham Purse. “Policy Forum: The Effects of Indexation and Inflation on Tax System Design.” Canadian Tax Journal 71, no. 2 (2023): 398-404."
-  },
-  {
     "objectID": "slides/equitable/index.html#goals-of-this-section-1",
     "href": "slides/equitable/index.html#goals-of-this-section-1",
     "title": "EC313 - Taxation",
@@ -2503,6 +1405,1369 @@
     "title": "EC313 - Taxation",
     "section": "References",
     "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022."
+  },
+  {
+    "objectID": "slides/constax/index.html#goals-of-this-section-1",
+    "href": "slides/constax/index.html#goals-of-this-section-1",
+    "title": "EC313 - Taxation",
+    "section": "Goals of This Section",
+    "text": "Goals of This Section\n\nDefine and discuss types of consumption taxes\nAnalyze the efficiency and equity implications of consumption taxes\nIntroduce and discuss value added taxes and retail sales taxes\nSummarize Canada’s consumption taxation\nCompare consumption taxes to income taxes"
+  },
+  {
+    "objectID": "slides/constax/index.html#introduction",
+    "href": "slides/constax/index.html#introduction",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nAs we know, purchases of final goods are taxed\nThese taxes are called consumption taxes\nThere are several types charged depending on province of residence and the type of good or service purchased\n\nThey have features that distinguish them from each other\n\nIn this section we outline the different types of taxes and discuss their merits"
+  },
+  {
+    "objectID": "slides/constax/index.html#types-of-consumption-taxes",
+    "href": "slides/constax/index.html#types-of-consumption-taxes",
+    "title": "EC313 - Taxation",
+    "section": "Types of Consumption Taxes",
+    "text": "Types of Consumption Taxes\n\nValue Added Tax (VAT)\n\nCharged at each stage of production based on the value added at that stage\nUsed globally for taxation of consumption\n\nRetail Sales Tax (RST)\n\nCharged only at the point of sale to the final consumer\nUsed in some provinces in Canada\n\nExcise Taxes\n\nCharged on specific goods, often to discourage consumption (e.g., tobacco, alcohol)\nUsed in all provinces in Canada and by federal government\n\nCustom Duties (tariffs)\n\nCharged on goods imported into the country\nUsed by federal government only"
+  },
+  {
+    "objectID": "slides/constax/index.html#revenue-from-consumption-taxes",
+    "href": "slides/constax/index.html#revenue-from-consumption-taxes",
+    "title": "EC313 - Taxation",
+    "section": "Revenue from Consumption Taxes",
+    "text": "Revenue from Consumption Taxes"
+  },
+  {
+    "objectID": "slides/constax/index.html#administrative-ease",
+    "href": "slides/constax/index.html#administrative-ease",
+    "title": "EC313 - Taxation",
+    "section": "Administrative Ease",
+    "text": "Administrative Ease\n\nRelative to other taxes, consumption taxes are easy to administer\nImport duties are collected at the time of importation\n\nIn the past, relatively few items were imported\nMuch more now, but still straightforward to collect\n\nSales taxes are collected from retailers\n\nLots of retailers to collect from, but less than for income tax\nSome complications can arise for taxable and non-taxable goods\n\nExample: Less than 6 baked goods at a time are taxable, but 6 or more is non-taxable\nSome basic groceries are zero rated"
+  },
+  {
+    "objectID": "slides/constax/index.html#efficiency",
+    "href": "slides/constax/index.html#efficiency",
+    "title": "EC313 - Taxation",
+    "section": "Efficiency",
+    "text": "Efficiency\n\nEconomists argue that consumption taxes are more efficient than income taxes\nBecause they do not distort savings behaviour\n\nIncome taxes reduce the return to saving\nConsumption taxes do not affect the return to saving\n\nExample on next slide illustrates this using two period model\n\nAssume individuals live for two periods\nOne person earns income in period 1 and consumes it all\nAnother person earns income in period 1, saves some, and consumes in period 2\nTax rate on income is 50%, tax rate on consumption is 100%, and interest rate is 10%"
+  },
+  {
+    "objectID": "slides/constax/index.html#efficiency-1",
+    "href": "slides/constax/index.html#efficiency-1",
+    "title": "EC313 - Taxation",
+    "section": "Efficiency",
+    "text": "Efficiency\n\n\n\n\nInc Tax\nInc Tax\nCons Tax\nCons Tax\n\n\nItem\nHomer\nMarge\nHomer\nMarge\n\n\nIncome in period 1\n100.00\n100.00\n100.00\n100.00\n\n\nTaxes in period 1\n50.00\n50.00\n50.00\n26.19\n\n\nConsumption in period 1\n50.00\n25.61\n50.00\n26.19\n\n\nSavings in period 1\n0.00\n24.39\n0.00\n47.62\n\n\nInterest earnings in period 2\n0.00\n2.44\n0.00\n4.76\n\n\nTaxes in period 2\n0.00\n1.22\n0.00\n26.19\n\n\nConsumption in period 2\n0.00\n25.61\n0.00\n26.19\n\n\nPDV of taxes\n50.00\n51.11\n50.00\n50.00"
+  },
+  {
+    "objectID": "slides/constax/index.html#efficiency-2",
+    "href": "slides/constax/index.html#efficiency-2",
+    "title": "EC313 - Taxation",
+    "section": "Efficiency",
+    "text": "Efficiency\n\nUnder the income tax\n\nSaving is discouraged because the return is less\nMarge pays more in present discounted value of taxes (51.11) than Homer (50.00)\n\nSo there is a lack of horizontal equity\nMarge and Homer are not taxed the same for the same lifetime income\n\n\nUnder the consumption tax\n\nSaving is not discouraged because the return is unaffected\nMarge and Homer pay the same present discounted value of taxes (50.00)\n\nSo there is horizontal equity\nMarge and Homer are taxed the same for the same lifetime income"
+  },
+  {
+    "objectID": "slides/constax/index.html#efficiency-3",
+    "href": "slides/constax/index.html#efficiency-3",
+    "title": "EC313 - Taxation",
+    "section": "Efficiency",
+    "text": "Efficiency\n\nThere is still an excess burden from the consumption tax\n\nConsumption tax distorts choice between consumption and leisure\nPeople will substitute towards leisure, creating excess burden\n\nStudies show that the consumption tax has lower excess burden than income tax"
+  },
+  {
+    "objectID": "slides/constax/index.html#equity",
+    "href": "slides/constax/index.html#equity",
+    "title": "EC313 - Taxation",
+    "section": "Equity",
+    "text": "Equity\n\nProgressiveness: consumption taxes are often criticized for being regressive\n\nLower income individuals spend a larger share of their annual income on consumption\nBut, it is less regressive if we consider\n\nLifetime income rather than annual income\nTax credits and transfers that offset regressiveness\n\n\nGender: consumption tax incidents may not be gender neutral\n\nSome products targeted to women may have higher prices\nA tax levied on product prices may then have a higher incidence for women"
+  },
+  {
+    "objectID": "slides/constax/index.html#equity-1",
+    "href": "slides/constax/index.html#equity-1",
+    "title": "EC313 - Taxation",
+    "section": "Equity",
+    "text": "Equity\n\nAbility to pay: taxes are levied on actual rather than potential consumption\n\nTargeted towards chosen spending patterns rather than ability to pay\nA penny-pinching rich person can pay less tax than a poor person\n\nAnnual versus lifetime equity: income taxes may generate different lifetime tax burdens\n\nExample we covered before with Homer and Marge\nIncome taxes generated more tax for Marge because she saved\nConsumption taxes generate more even lifetime tax burden"
+  },
+  {
+    "objectID": "slides/constax/index.html#introduction-1",
+    "href": "slides/constax/index.html#introduction-1",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nValue Added Taxes (VAT) are the most common form of consumption tax globally\nIn Canada, the GST and HST are VATs\nPrior to GST, Canada used a the Federal Sales Tax (FST)\n\nSales tax charged at the manufacturing level\n\nThe FST had a number of problems\n\nSmall tax base required high tax rates to collect enough revenue\n** Tax Cascading**: taxes charged on manufacturing inputs to other manufactured goods\n\nE.g., tax on steel used to make cars\nTaxes were charged on the steel and then again on the car\nMeans taxes were charged on top of taxes"
+  },
+  {
+    "objectID": "slides/constax/index.html#introduction-2",
+    "href": "slides/constax/index.html#introduction-2",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nFST was also complex to administer\nGST replaced FST in 1991\n\nBroader tax base allowed for lower tax rates\nValue added method of taxation eliminated tax cascading\nInput tax credits simplified administration for businesses\n\nOriginal GST rate was 7%\n\nLowered to 6% in 2006, and 5% in 2008\n\nReplaced by HST in some provinces starting in 1997\n\nHST combines federal GST and provincial sales tax into single value added tax\nCurrent provinces usng HST are: NS, NB, NL, ON, PEI"
+  },
+  {
+    "objectID": "slides/constax/index.html#introduction-3",
+    "href": "slides/constax/index.html#introduction-3",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nBC had HST from 2010 to 2013\n\nReverted back to separate GST and PST after a referendum\nFormer premier Vander Zalm argued HST was a tax increase\n\nTax applied to more goods and services than PST"
+  },
+  {
+    "objectID": "slides/constax/index.html#how-value-added-taxes-work",
+    "href": "slides/constax/index.html#how-value-added-taxes-work",
+    "title": "EC313 - Taxation",
+    "section": "How Value Added Taxes Work",
+    "text": "How Value Added Taxes Work\n\nProduction of a final good occurs in several stages\n\nAt each stage, value is added to the good\nValue added is the difference between sales revenue and cost of inputs\n\nExample: Production of a table\n\nStage 1: Logger sells logs for $100\n\nValue added = $100 - $0 = $100\n\nStage 2: Lumber mill buys logs for $100, sells lumber for $150\n\nValue added = $150 - $100 = $50\n\nStage 3: Furniture maker buys lumber for $150, sells table for $300\n\nValue added = $300 - $150 = $150"
+  },
+  {
+    "objectID": "slides/constax/index.html#how-value-added-taxes-work-1",
+    "href": "slides/constax/index.html#how-value-added-taxes-work-1",
+    "title": "EC313 - Taxation",
+    "section": "How Value Added Taxes Work",
+    "text": "How Value Added Taxes Work\n\nTaxes are levied on value added at each stage\nTotal tax is the sum of taxes at each stage\nEquivalent to a single tax on the final sale price\nNext slide has example of VAT\n\nBased on production of bread"
+  },
+  {
+    "objectID": "slides/constax/index.html#how-value-added-taxes-work-2",
+    "href": "slides/constax/index.html#how-value-added-taxes-work-2",
+    "title": "EC313 - Taxation",
+    "section": "How Value Added Taxes Work",
+    "text": "How Value Added Taxes Work"
+  },
+  {
+    "objectID": "slides/constax/index.html#how-value-added-taxes-work-3",
+    "href": "slides/constax/index.html#how-value-added-taxes-work-3",
+    "title": "EC313 - Taxation",
+    "section": "How Value Added Taxes Work",
+    "text": "How Value Added Taxes Work\n\nHow does government collect tax only on value added at each stage?\nUses an invoice-credit method\n\nAt each stage firm pays tax on total sales\nBut claims a credit for taxes paid by suppliers\n\nUsing the bread example:\n\nFarmer sells wheat for $400, pays $40 in tax\nMiller sells flour for $700, pays $70 in tax, claims $40 credit, remits $30\nBaker sells bread for $950, pays $95 in tax, claims $70 credit, remits $25\nGrocer sells breat for $1000, pays $100 in tax, claims $95 credit, remits $5"
+  },
+  {
+    "objectID": "slides/constax/index.html#implementation-issues",
+    "href": "slides/constax/index.html#implementation-issues",
+    "title": "EC313 - Taxation",
+    "section": "Implementation Issues",
+    "text": "Implementation Issues\n\nSome issues make the administration more complex\n\nSome goods and services are zero rated from VAT\n\nExamples: basic food, prescriptiond drugs, medical devices\n\nFirms with annual sales below $30,000 do not remit HST/GST\nTreatment of investment assets (e.g. machines)\n\nNot clear whether to include full value, depreciated value, or none of it to compute tax liability\nIn Canada, usually none of it is included"
+  },
+  {
+    "objectID": "slides/constax/index.html#implementation-issues-1",
+    "href": "slides/constax/index.html#implementation-issues-1",
+    "title": "EC313 - Taxation",
+    "section": "Implementation Issues",
+    "text": "Implementation Issues\n\nThere is a difference between zero-rated and exempt goods/services\n\nZero-rated: tax rate is 0%, firms can claim input tax credits\nExempt: no tax charged, firms cannot claim input tax credits\n\nIf goods are exempt at retail stage, it appears the same\n\nNo tax collected on both zero-rated and exempt goods/services\n\nBut there are implications for embedded taxes\n\nExempt goods/services have embedded taxes that cannot be claimed back"
+  },
+  {
+    "objectID": "slides/constax/index.html#implementation-issues-2",
+    "href": "slides/constax/index.html#implementation-issues-2",
+    "title": "EC313 - Taxation",
+    "section": "Implementation Issues",
+    "text": "Implementation Issues"
+  },
+  {
+    "objectID": "slides/constax/index.html#efficiency-4",
+    "href": "slides/constax/index.html#efficiency-4",
+    "title": "EC313 - Taxation",
+    "section": "Efficiency",
+    "text": "Efficiency\n\nWe have previously discussed efficient taxes\n\nLow excess burden, minimal distortions to behaviour\n\nIs it inefficient to add a VAT when we already have income taxes?\n\nIf income tax is already optimal, adding VAT creates distortions and inefficiencies\nIf it is not optimal, VAT may improve efficiency by reducing income tax distortions"
+  },
+  {
+    "objectID": "slides/constax/index.html#improvements-to-gst",
+    "href": "slides/constax/index.html#improvements-to-gst",
+    "title": "EC313 - Taxation",
+    "section": "Improvements to GST",
+    "text": "Improvements to GST\n\nEconomists like VATs like GST, but citizens do not\nThere are ways to improve it\nHarmonization\n\nThe HST is an improvement over separate GST and PST\nReduces compliance costs for businesses\n\nCompliance costs\n\nFor GST/HST, firms must track taxes collected and input tax credits\nDifficult for firms initially because they did not have appropriate systems\nKeeping track of exempt items is also difficult\nNeed to make improvements to make tax more efficient"
+  },
+  {
+    "objectID": "slides/constax/index.html#improvements-to-gst-1",
+    "href": "slides/constax/index.html#improvements-to-gst-1",
+    "title": "EC313 - Taxation",
+    "section": "Improvements to GST",
+    "text": "Improvements to GST"
+  },
+  {
+    "objectID": "slides/constax/index.html#improvements-to-gst-2",
+    "href": "slides/constax/index.html#improvements-to-gst-2",
+    "title": "EC313 - Taxation",
+    "section": "Improvements to GST",
+    "text": "Improvements to GST"
+  },
+  {
+    "objectID": "slides/constax/index.html#improvements-to-gst-3",
+    "href": "slides/constax/index.html#improvements-to-gst-3",
+    "title": "EC313 - Taxation",
+    "section": "Improvements to GST",
+    "text": "Improvements to GST\n\nIncrease tax base by taxing basic groceries?\n\nReduces compliance costs\nPolitically difficult\n\nTax-inclusive pricing\n\nIn other parts of the world, prices include all taxes\nIn North America, prices are shown before tax\nEconomists prefer tax to be visible, but inclusive pricing is simpler"
+  },
+  {
+    "objectID": "slides/constax/index.html#introduction-4",
+    "href": "slides/constax/index.html#introduction-4",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nAs noted, some provinces combine GST and PST\n\nGST is a value added tax (VAT)\nPST is a retail sales tax (RST)\n\nRSTs are generally charged only at the point of sale to final consumer\n\nNo input tax credits for businesses\n\nBC, MB, SK, QC all have PST\n\nAB has no PST"
+  },
+  {
+    "objectID": "slides/constax/index.html#rst-vs-vat",
+    "href": "slides/constax/index.html#rst-vs-vat",
+    "title": "EC313 - Taxation",
+    "section": "RST vs VAT",
+    "text": "RST vs VAT\n\nAn RST can be equivalent to VAT when\n\nRate is the same\nTax base is the same\nRST is charged only on final sales\n\nIn bread example, RST would be charged only by grocer\n\nGrocer sells bread for $1000, pays $100 in RST\nSum of VAT amounts is also $100\nDifference is that VAT is collected in stages, RST only at final sale"
+  },
+  {
+    "objectID": "slides/constax/index.html#rst-vs-vat-1",
+    "href": "slides/constax/index.html#rst-vs-vat-1",
+    "title": "EC313 - Taxation",
+    "section": "RST vs VAT",
+    "text": "RST vs VAT\n\nThey can differ in other circumstances\nBig issue with HST in BC was that it had broader tax base than PST\nCan also sometimes lead to tax cascading\n\nIf tax is charged on some inputs"
+  },
+  {
+    "objectID": "slides/constax/index.html#tax-bases",
+    "href": "slides/constax/index.html#tax-bases",
+    "title": "EC313 - Taxation",
+    "section": "Tax Bases",
+    "text": "Tax Bases\n\nUnlike the HST, the tax base for PST varies from province to province\nPrepared meals\n\nTaxed in MB, SK, QC\nNot taxed in BC\n\nChildren’s clothing\n\nTaxed in SK, QC\nNot taxed in BC, MB\n\nAll provinces exempt most food\nNo economic reason for exemptions; purely political"
+  },
+  {
+    "objectID": "slides/constax/index.html#tax-rates",
+    "href": "slides/constax/index.html#tax-rates",
+    "title": "EC313 - Taxation",
+    "section": "Tax Rates",
+    "text": "Tax Rates"
+  },
+  {
+    "objectID": "slides/constax/index.html#excise-taxes",
+    "href": "slides/constax/index.html#excise-taxes",
+    "title": "EC313 - Taxation",
+    "section": "Excise Taxes",
+    "text": "Excise Taxes\n\nExcise taxes are specific taxes levied on particular goods\nLevied by the federal government and all provinces\nItems listed on next slide\nReasons for excise taxes\n\nRaise revenue\nDiscourage consumption of harmful goods (e.g., tobacco, alcohol)\nCorrect for externalities (e.g., gasoline, smoking)\nSin taxes"
+  },
+  {
+    "objectID": "slides/constax/index.html#excise-taxes-1",
+    "href": "slides/constax/index.html#excise-taxes-1",
+    "title": "EC313 - Taxation",
+    "section": "Excise Taxes",
+    "text": "Excise Taxes"
+  },
+  {
+    "objectID": "slides/constax/index.html#custom-duties",
+    "href": "slides/constax/index.html#custom-duties",
+    "title": "EC313 - Taxation",
+    "section": "Custom Duties",
+    "text": "Custom Duties\n\nCustom duties (tariffs) are taxes on imported goods\nIn the past they were an important source of revenue\n\nNot so much today\nLots of trade agreements in place that limit tariffs\n\nMain point of tariffs is to protect domestic industries\n\nE.g., steel, dairy, poultry\nCan lead to trade wars"
+  },
+  {
+    "objectID": "slides/constax/index.html#introduction-5",
+    "href": "slides/constax/index.html#introduction-5",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nToday sales taxes are levied on businesses\n\nTax is usually added on at checkout\nBut businesses remit to the government\nThe statutory incidence is on business\n\nAnother option would be to levy the tax directly on individuals\n\nIndividuals would pay tax directly to government\nWould file a tax return for consumption\n\nSome argue that it would be better\n\nMakes it easier to take personal circumstances into account"
+  },
+  {
+    "objectID": "slides/constax/index.html#personal-consumption-tax",
+    "href": "slides/constax/index.html#personal-consumption-tax",
+    "title": "EC313 - Taxation",
+    "section": "Personal Consumption Tax",
+    "text": "Personal Consumption Tax\n\nUnder this system, people file a tax based on consumption\nBased only on what is consumed\n\nExcludes saving (income not consumed)\n\nHow would this work?\nA person’s consumption is equivalent to their income minus their change in wealth\n\nTo compute consumption, add income and subtract changes in wealth\nEquivalently, add income and subtract anything not consumed\n\nLike income taxes, there can be deductions and credits\n\nE.g., charitable donations, medical expenses"
+  },
+  {
+    "objectID": "slides/constax/index.html#personal-consumption-tax-1",
+    "href": "slides/constax/index.html#personal-consumption-tax-1",
+    "title": "EC313 - Taxation",
+    "section": "Personal Consumption Tax",
+    "text": "Personal Consumption Tax"
+  },
+  {
+    "objectID": "slides/constax/index.html#hall-rabushka-flax-tax",
+    "href": "slides/constax/index.html#hall-rabushka-flax-tax",
+    "title": "EC313 - Taxation",
+    "section": "Hall-Rabushka Flax Tax",
+    "text": "Hall-Rabushka Flax Tax\n\nHall-Rabushka proposed one (complicated) flat consumption tax\nWorks by taxing businesses and individual compensation\nBusinesses\n\nPay tax on sales minus purchases from other businesses\nAlso subtract payments to workers\n\nIndividuals\n\nPay tax on wages and salaries minus personal savings\nAlso subtract investment income (dividends, interest)\n\nFlat tax rate applied to each tax base"
+  },
+  {
+    "objectID": "slides/constax/index.html#hall-rabushka-flax-tax-1",
+    "href": "slides/constax/index.html#hall-rabushka-flax-tax-1",
+    "title": "EC313 - Taxation",
+    "section": "Hall-Rabushka Flax Tax",
+    "text": "Hall-Rabushka Flax Tax\n\nEquivalent to a consumption tax levied on businesses\n\nWhen consumption tax levied on business, it pays tax on sales minus purchases\nWages are embedded in prices, so they are implicitly taxed\nWith Hall-Rabushka, wages are instead taxed directly at individual level\n\nOnly difference is point of collection of certain taxes\nThere is no system currently in place that does this"
+  },
+  {
+    "objectID": "slides/constax/index.html#administration-issues",
+    "href": "slides/constax/index.html#administration-issues",
+    "title": "EC313 - Taxation",
+    "section": "Administration Issues",
+    "text": "Administration Issues\n\nNot feasible if people had to add up all expenditures\nBut can work if we impute consumption by income minus saving\n\nWould require tracking of savings\nCan be done by bank accounts\nPotentially problematic for people who save outside of banks"
+  },
+  {
+    "objectID": "slides/constax/index.html#administration-issues-1",
+    "href": "slides/constax/index.html#administration-issues-1",
+    "title": "EC313 - Taxation",
+    "section": "Administration Issues",
+    "text": "Administration Issues\n\nSome types of consumption are hard to tax\n\nConsumption benefits generated by things like housing\nE.g., owner-occupied housing\n\nHow would we tax this?\nOne option: tax prepayment\n\nTax the house (or car, or other durable) at the point of purchase\nThe value of the durable today is the present value of future consumption services (imputed rent)\nThe tax charged now should equal to the taxes charged on consumption benefits"
+  },
+  {
+    "objectID": "slides/constax/index.html#benefits-of-personal-consumption-tax",
+    "href": "slides/constax/index.html#benefits-of-personal-consumption-tax",
+    "title": "EC313 - Taxation",
+    "section": "Benefits of Personal Consumption Tax",
+    "text": "Benefits of Personal Consumption Tax\n\nAvoid issues of capital gains and depreciation\n\nOnly consumption is taxed\nSo no need to track capital gains\n\nLess investment lock-in\n\nWith income tax, investors may hold onto assets to avoid capital gains tax\nWith consumption tax, can sell and reinvest without tax consequences\n\nRemoves need for separate personal and corporate tax"
+  },
+  {
+    "objectID": "slides/constax/index.html#summary-1",
+    "href": "slides/constax/index.html#summary-1",
+    "title": "EC313 - Taxation",
+    "section": "Summary",
+    "text": "Summary\n\nConsumption taxes are an important source of government revenue\nValue added taxes (e.g., GST, HST) are the most common form of consumption tax globally\nRetail sales taxes are simpler but can lead to tax cascading\nExcise taxes and custom duties are other forms of consumption taxes\nConsumption taxes are often more efficient than income taxes\nPersonal consumption taxes are an alternative way to tax consumption directly"
+  },
+  {
+    "objectID": "slides/constax/index.html#references-1",
+    "href": "slides/constax/index.html#references-1",
+    "title": "EC313 - Taxation",
+    "section": "References",
+    "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.\nBazel, Philip. Marginal Effective Tax Rates for Working Families in Canada. Fraser Institute, 2024.\nHansen, Jeff, and Devan Mescall, and Graham Purse. “Policy Forum: The Effects of Indexation and Inflation on Tax System Design.” Canadian Tax Journal 71, no. 2 (2023): 398-404."
+  },
+  {
+    "objectID": "questions/equitable/index.html#rttws-chapter-17-problem-3",
+    "href": "questions/equitable/index.html#rttws-chapter-17-problem-3",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 17 Problem 3",
+    "text": "RTTWS Chapter 17 Problem 3\nA study by Dahlby and Ferede (2015) provides estimates of the marginal excess burden or additional dollar of revenue in the Canadian provinces (in 2013). For Manitoba, it is 1.207 for the corporate income tax and 0.364 for the general sales tax. Based on these estimates, use the Ramsey rule to propose a direction for tax reform that would reduce the excess burden from taxation while maintaining revenue neutrality. Explain your reasoning."
+  },
+  {
+    "objectID": "questions/equitable/index.html#rttws-chapter-16-problem-4",
+    "href": "questions/equitable/index.html#rttws-chapter-16-problem-4",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 16 Problem 4",
+    "text": "RTTWS Chapter 16 Problem 4\nThe demand for X is given by \\(X = 100 - 2P_x\\), and its supply is perfectly elastic at \\(P_x = 14\\). The demand for Y is given by \\(Y = 350 - 3P_y\\), and its supply is perfectly elastic at \\(P_y = 18\\). The government wishes to raise \\(10,000\\) by imposing specific taxes \\(t_x\\) on X and \\(t_y\\) on Y. If it wishes to minimize the total ratio of taxes, \\(t_x/t_y\\), according to the inverse elasticity rule, what should this ratio be?"
+  },
+  {
+    "objectID": "questions/equitable/index.html#rttws-chapter-16-problem-5",
+    "href": "questions/equitable/index.html#rttws-chapter-16-problem-5",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 16 Problem 5",
+    "text": "RTTWS Chapter 16 Problem 5\nIndicate which of the following statements is true, false, or uncertain, and explain why:\n\nA proportional tax on all commodities, including leisure, is equivalent to a lump-sum tax."
+  },
+  {
+    "objectID": "questions/equitable/index.html#rttws-chapter-16-problem-5-1",
+    "href": "questions/equitable/index.html#rttws-chapter-16-problem-5-1",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 16 Problem 5",
+    "text": "RTTWS Chapter 16 Problem 5\nIndicate which of the following statements is true, false, or uncertain, and explain why:\n\nEfficiency is maximized when all commodities are taxed at the same rate."
+  },
+  {
+    "objectID": "questions/equitable/index.html#rttws-chapter-16-problem-5-2",
+    "href": "questions/equitable/index.html#rttws-chapter-16-problem-5-2",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 16 Problem 5",
+    "text": "RTTWS Chapter 16 Problem 5\nIndicate which of the following statements is true, false, or uncertain, and explain why:\n\nAverage cost pricing for a natural monopoly allows the enterprise to break even, but the outcome is inefficient."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n            Public Economics: Taxation\n        ",
+    "section": "",
+    "text": "The Economics of Taxation\n        \n        \n            EC313 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Tue/Thu\n   Sept-Dec 2025\n   4:00 - 5:20 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
+  },
+  {
+    "objectID": "content/personaltax.html",
+    "href": "content/personaltax.html",
+    "title": "The Personal Income Tax",
+    "section": "",
+    "text": "RTTWS Chapter 17",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "The Personal Income Tax"
+    ]
+  },
+  {
+    "objectID": "content/personaltax.html#readings",
+    "href": "content/personaltax.html#readings",
+    "title": "The Personal Income Tax",
+    "section": "",
+    "text": "RTTWS Chapter 17",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "The Personal Income Tax"
+    ]
+  },
+  {
+    "objectID": "content/personaltax.html#slides",
+    "href": "content/personaltax.html#slides",
+    "title": "The Personal Income Tax",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "The Personal Income Tax"
+    ]
+  },
+  {
+    "objectID": "content/introtopf.html",
+    "href": "content/introtopf.html",
+    "title": "Introduction to Public Finance",
+    "section": "",
+    "text": "RTTWS Chapter 1",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Public Finance"
+    ]
+  },
+  {
+    "objectID": "content/introtopf.html#readings",
+    "href": "content/introtopf.html#readings",
+    "title": "Introduction to Public Finance",
+    "section": "",
+    "text": "RTTWS Chapter 1",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Public Finance"
+    ]
+  },
+  {
+    "objectID": "content/introtopf.html#slides",
+    "href": "content/introtopf.html#slides",
+    "title": "Introduction to Public Finance",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Public Finance"
+    ]
+  },
+  {
+    "objectID": "content/incidence.html",
+    "href": "content/incidence.html",
+    "title": "Tax Incidence",
+    "section": "",
+    "text": "RTTWS Chapter 14",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Tax Incidence"
+    ]
+  },
+  {
+    "objectID": "content/incidence.html#readings",
+    "href": "content/incidence.html#readings",
+    "title": "Tax Incidence",
+    "section": "",
+    "text": "RTTWS Chapter 14",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Tax Incidence"
+    ]
+  },
+  {
+    "objectID": "content/incidence.html#slides",
+    "href": "content/incidence.html#slides",
+    "title": "Tax Incidence",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Tax Incidence"
+    ]
+  },
+  {
+    "objectID": "content/incidence.html#sample-questions",
+    "href": "content/incidence.html#sample-questions",
+    "title": "Tax Incidence",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Tax Incidence"
+    ]
+  },
+  {
+    "objectID": "content/equitable.html",
+    "href": "content/equitable.html",
+    "title": "Taxation and Efficiency",
+    "section": "",
+    "text": "RTTWS Chapter 16",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Efficient and Equitable Taxation"
+    ]
+  },
+  {
+    "objectID": "content/equitable.html#readings",
+    "href": "content/equitable.html#readings",
+    "title": "Taxation and Efficiency",
+    "section": "",
+    "text": "RTTWS Chapter 16",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Efficient and Equitable Taxation"
+    ]
+  },
+  {
+    "objectID": "content/equitable.html#slides",
+    "href": "content/equitable.html#slides",
+    "title": "Taxation and Efficiency",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Efficient and Equitable Taxation"
+    ]
+  },
+  {
+    "objectID": "content/equitable.html#sample-questions",
+    "href": "content/equitable.html#sample-questions",
+    "title": "Taxation and Efficiency",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Efficient and Equitable Taxation"
+    ]
+  },
+  {
+    "objectID": "content/constax.html",
+    "href": "content/constax.html",
+    "title": "Consumption Taxes",
+    "section": "",
+    "text": "RTTWS Chapter 19",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Consumption Taxes"
+    ]
+  },
+  {
+    "objectID": "content/constax.html#readings",
+    "href": "content/constax.html#readings",
+    "title": "Consumption Taxes",
+    "section": "",
+    "text": "RTTWS Chapter 19",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Consumption Taxes"
+    ]
+  },
+  {
+    "objectID": "content/constax.html#slides",
+    "href": "content/constax.html#slides",
+    "title": "Consumption Taxes",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Consumption Taxes"
+    ]
+  },
+  {
+    "objectID": "content/constax.html#sample-questions",
+    "href": "content/constax.html#sample-questions",
+    "title": "Consumption Taxes",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Consumption Taxes"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html",
+    "href": "assignments/assign1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Answer Key\n\n\n\nYou can download the solutions using the links below\n ec313assign1key.do\n ec313assign1key.docx",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html#description",
+    "href": "assignments/assign1.html#description",
+    "title": "Assignment 1",
+    "section": "Description",
+    "text": "Description\nIn this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based on the relationship between cigarette taxes and cigarette prices in the US, to check whether and by how much taxes are passed on to consumers in the form of higher prices. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html#instructions",
+    "href": "assignments/assign1.html#instructions",
+    "title": "Assignment 1",
+    "section": "Instructions",
+    "text": "Instructions\n\nQuestions\nThe document below contains the assignment questions. Please provide all answers in the space below each question. If the question requires any Stata code, please include the code relevant to that question in the space provided. Also include the relevant output. Note: output must be reformatted into a professional-looking table or figure. Do not simply copy and paste (or screenshot) the Stata output.\n ec313assign1.docx\nWhen you save the file to your computer, please rename it with your family name and student number, with no spaces.\n\n\nData analysis\nThe data come from the Tax Burden on Tobacco dataset created by Orzechowski and Walker, and downloaded from the Centers for Disease Control (CDC) . It contains data on cigarette prices, taxes, sales, and revenues for each of the 50 US states from 1970 to 2019. Note that the data are a panel (repeated observations on each state over time) and have been set as a panel (using xtset) with \\(state_abbr\\) as the panel variable and \\(year\\) as the year variable in Stata. This means you can use the set of xt commands in Stata to analyze the data.\nThe data file is linked below.\n ec313assign1.dta\n\n\nSubmission\nWhen you are finished, you are required to submit three documents according to the following instructions:\n\nYour .do and .log file. Submit this in MyLearningSpace only.\nA rendered PDF of your answers to the questions. Submit this in both MyLearningSpace and Gradescope.\n\n\n\nPlagiarism\nThis is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else’s work verbatim, which includes Stata code. Any work you submit should be yours only. However, you are encouraged to talk to each other to try to figure out how to do the assignment.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find the problem sets for all your assignments, and any other information related to your assignments.",
+    "crumbs": [
+      "Assignments",
+      "Overview",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/efficiency.html",
+    "href": "content/efficiency.html",
+    "title": "Taxation and Efficiency",
+    "section": "",
+    "text": "RTTWS Chapter 15 (omit section on “Differential Taxation of Inputs”)",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Taxation and Efficiency"
+    ]
+  },
+  {
+    "objectID": "content/efficiency.html#readings",
+    "href": "content/efficiency.html#readings",
+    "title": "Taxation and Efficiency",
+    "section": "",
+    "text": "RTTWS Chapter 15 (omit section on “Differential Taxation of Inputs”)",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Taxation and Efficiency"
+    ]
+  },
+  {
+    "objectID": "content/efficiency.html#slides",
+    "href": "content/efficiency.html#slides",
+    "title": "Taxation and Efficiency",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Taxation and Efficiency"
+    ]
+  },
+  {
+    "objectID": "content/efficiency.html#sample-questions",
+    "href": "content/efficiency.html#sample-questions",
+    "title": "Taxation and Efficiency",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Taxation and Efficiency"
+    ]
+  },
+  {
+    "objectID": "content/externalities.html",
+    "href": "content/externalities.html",
+    "title": "Externalities and Pigouvian Taxes",
+    "section": "",
+    "text": "RTTWS Chapter 5",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Externalities and Pigouvian Taxes"
+    ]
+  },
+  {
+    "objectID": "content/externalities.html#readings",
+    "href": "content/externalities.html#readings",
+    "title": "Externalities and Pigouvian Taxes",
+    "section": "",
+    "text": "RTTWS Chapter 5",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Externalities and Pigouvian Taxes"
+    ]
+  },
+  {
+    "objectID": "content/externalities.html#slides",
+    "href": "content/externalities.html#slides",
+    "title": "Externalities and Pigouvian Taxes",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Externalities and Pigouvian Taxes"
+    ]
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
+    "crumbs": [
+      "Content",
+      "Overview",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html",
+    "href": "content/introtostata.html",
+    "title": "Introduction to Stata",
+    "section": "",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#tutorial",
+    "href": "content/introtostata.html#tutorial",
+    "title": "Introduction to Stata",
+    "section": "",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#videos",
+    "href": "content/introtostata.html#videos",
+    "title": "Introduction to Stata",
+    "section": "Videos",
+    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#other-resources",
+    "href": "content/introtostata.html#other-resources",
+    "title": "Introduction to Stata",
+    "section": "Other Resources",
+    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/taxbehaviour.html",
+    "href": "content/taxbehaviour.html",
+    "title": "Personal Taxation and Behaviour",
+    "section": "",
+    "text": "RTTWS Chapter 18",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Personal Taxation and Behaviour"
+    ]
+  },
+  {
+    "objectID": "content/taxbehaviour.html#readings",
+    "href": "content/taxbehaviour.html#readings",
+    "title": "Personal Taxation and Behaviour",
+    "section": "",
+    "text": "RTTWS Chapter 18",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Personal Taxation and Behaviour"
+    ]
+  },
+  {
+    "objectID": "content/taxbehaviour.html#slides",
+    "href": "content/taxbehaviour.html#slides",
+    "title": "Personal Taxation and Behaviour",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Personal Taxation and Behaviour"
+    ]
+  },
+  {
+    "objectID": "content/taxbehaviour.html#sample-questions",
+    "href": "content/taxbehaviour.html#sample-questions",
+    "title": "Personal Taxation and Behaviour",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Personal Taxation and Behaviour"
+    ]
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-2",
+    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-2",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 15 Problem 2",
+    "text": "RTTWS Chapter 15 Problem 2\nDescribe how the shape of an individual’s indifference curve affects the magnitude of a tax’s excess burden. What does this tell you about how the degree of substitutability between the taxed item and the other item matters for the efficiency of taxation?"
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-5",
+    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-5",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 15 Problem 5",
+    "text": "RTTWS Chapter 15 Problem 5\nWhich of the following is likely to impose a large excess burden?\na) A tax on land"
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-5-1",
+    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-5-1",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 15 Problem 5",
+    "text": "RTTWS Chapter 15 Problem 5\nWhich of the following is likely to impose a large excess burden?\nb) A subsidy on personal computers"
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-5-2",
+    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-5-2",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 15 Problem 5",
+    "text": "RTTWS Chapter 15 Problem 5\nWhich of the following is likely to impose a large excess burden?\nc) A tax of $75 on smartphones"
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-5-3",
+    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-5-3",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 15 Problem 5",
+    "text": "RTTWS Chapter 15 Problem 5\nWhich of the following is likely to impose a large excess burden?\nd) A subsidy on investment in high tech companies?"
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-5-4",
+    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-5-4",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 15 Problem 5",
+    "text": "RTTWS Chapter 15 Problem 5\nWhich of the following is likely to impose a large excess burden?\ne) A 5% tex on bottled water"
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-5-5",
+    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-5-5",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 15 Problem 5",
+    "text": "RTTWS Chapter 15 Problem 5\nWhich of the following is likely to impose a large excess burden?\nf) A 10% tax on all computer software"
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-6",
+    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-6",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 15 Problem 6",
+    "text": "RTTWS Chapter 15 Problem 6\nSuppose the market demand curve for beer is described by the equation \\(Q_d^b = 600 - 15P_b^d\\) where ( \\(Q_d^b\\) ) is the number of cases of beer and ( \\(P_b^d\\) ) is the price per case. The supply curve is given by \\(Q_s^b = 10P_b^s\\)\n\nCalculate the elasticities of demand and supply at the equilibrium quantity."
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-6-1",
+    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-6-1",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 15 Problem 6",
+    "text": "RTTWS Chapter 15 Problem 6\n\nSuppose the government introduces an excise tax of 15 percent per case of beer. Determine the excess burden of this tax using the formula found in footnote 7 and the elasticities found in part (a)."
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-6-2",
+    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-6-2",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 15 Problem 6",
+    "text": "RTTWS Chapter 15 Problem 6\n\nCalculate the tax revenues and the average excess burden."
+  },
+  {
+    "objectID": "questions/efficiency/index.html#rttws-chapter-15-problem-11",
+    "href": "questions/efficiency/index.html#rttws-chapter-15-problem-11",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 15 Problem 11",
+    "text": "RTTWS Chapter 15 Problem 11\nSetting a price ceiling for a good below the market price results in an excess burden. Demonstrate this by using supply and demand curves. In addition, show how the imposition of a tax on a substitute good, by affecting the demand for the good with a price ceiling, increases the excess burden."
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-4",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-4",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 4",
+    "text": "RTTWS Chapter 14 Problem 4\nIn the province of Alberta, the tax on hotel rooms is 5 percent. Supporters of this tax argue that the tax benefits the province because its payers are largely out-of-province tourists. Use the theory of tax incidence to analyze this claim."
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-6",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-6",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 6",
+    "text": "RTTWS Chapter 14 Problem 6\nInternet purchases are thought to be highly sensitive to tax rates, and applying sales taxes to all such purchases substantially reduces the number of online buyers and the amount of online spending. What are the implications for the incidence of sales taxes that include internet sales?"
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-7",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-7",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 7",
+    "text": "RTTWS Chapter 14 Problem 7\nSuppose that the demand for cigarettes in a hypothetical country is given by $Q_{c} = 2000-200P_{c}, where \\(Q_{c}\\) is the quantity of packs demanded and \\(P_{c}\\) is the price per pack. The supply of cigarettes is \\(Q_{s} = 200P_{s}\\).\n\nfind the price and quantity of cigarettes assuming the market is competitive"
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-7-1",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-7-1",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 7",
+    "text": "RTTWS Chapter 14 Problem 7\n\nIn an effort to reduce smoking, the government levies a tax of $2 per pack. Compute the quantity of cigarettes after the tax, the price paid by consumers, and the price received by producers.How much revenue does the tax raise for the government? How much revenue comes from consumers and how much from producers?"
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-10",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-10",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 10",
+    "text": "RTTWS Chapter 14 Problem 10\nAccording to the studny by Kleven, Jacobsen, Landais, and Saez (2013), the international migration decisions of top-earning European soccer plauers is very sensitive to income tax rates - when thye tax rates they face in their own country increase substantially, they move to another country. What are the implacations of this finding for the incidence of income taxes on such players? Support your answer with a graph."
+  },
+  {
+    "objectID": "questions/incidence/index.html#rttws-chapter-14-problem-11",
+    "href": "questions/incidence/index.html#rttws-chapter-14-problem-11",
+    "title": "EC313 - Taxation",
+    "section": "RTTWS Chapter 14 Problem 11",
+    "text": "RTTWS Chapter 14 Problem 11\nArnie has an income of Y and spends it only on food and music. Let \\(P_{F}\\) and \\(P_{M}\\) be the prices of food and music, respectively and denote the quantities by \\(Q_{F}\\) and \\(Q_{M}\\). In the absence of taxes, Arnie’s budget constraint is \\(Y = P_{F}Q_{F} + P_{M}Q_{M}\\). Now suppose an ad valorem tax of 25 percent is imposed on both food and music. What income tax rate is equivalent to this commidity tax?"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#goals-of-this-section-1",
+    "href": "slides/efficiency/index.html#goals-of-this-section-1",
+    "title": "EC313 - Taxation",
+    "section": "Goals of This Section",
+    "text": "Goals of This Section\n\nDiscuss the effects of price changes on consumer behaviour\nIntroduce the concept of excess burden of a tax\nShow how to measure excess burden using indifference curves\nShow how to measure excess burden using demand/supply curves\nShow equivalent interpretation with elasticities\nDiscuss factors that affect excess burden"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#introduction",
+    "href": "slides/efficiency/index.html#introduction",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nGovernments levy taxes mainly to raise revenue to fund public goods and services\nTaxes can impose different types of costs on consumers\n\nThe direct cost of sending money to the government\nTaxes can distort behaviour because of changes in prices\n\nWithout taxes consumers make choices about consumption\nTaxes force them to substitute away from the taxed good and make sub-optimal choices\n\n\nIdeally a tax imposes the least possible cost in order to raise revenue\n\nWhen the costs are larger, we say there is an excess burden"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers",
+    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers",
+    "title": "EC313 - Taxation",
+    "section": "Ad Valorem Tax on Consumers",
+    "text": "Ad Valorem Tax on Consumers\n\nBelow we will see what happens when an ad valorem tax is imposed on one good\n\nAn ad valorem tax is a percentage tax on the price of a good\nFor example, a 10% sales tax on a $1 item means the consumer pays $1.10\n\nWe will use indifference curves and budget constraints to analyze the effects of the tax\nWe will then compare to a lump-sum tax\nLesson is that ad valorem taxes that distort behaviour create excess burden\nLump-sum taxes that do not distort behaviour do not create excess burden\nDifference due to the distortionary effect of changing relative prices with ad valorem taxes"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-1",
+    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-1",
+    "title": "EC313 - Taxation",
+    "section": "Ad Valorem Tax on Consumers",
+    "text": "Ad Valorem Tax on Consumers\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows consumption decision for barley and corn\nInitially prices are \\(P_{B}\\) and \\(P_{C}\\)\nBudget constraint is \\(I = P_{B}B + P_{C}C\\)\nTo plot budget constraint, put \\(C\\) on left side\n\n\\[C = \\frac{I}{P_{C}} - \\frac{P_{B}}{P_{C}}B\\]\n\nSlope of budget constraint is \\(-\\frac{P_{B}}{P_{C}}\\)\nIntercepts are \\(\\frac{I}{P_{C}}\\) and \\(\\frac{I}{P_{B}}\\)\nOptimal consumption bundle is \\(B_1\\) and \\(C_1\\)"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-2",
+    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-2",
+    "title": "EC313 - Taxation",
+    "section": "Ad Valorem Tax on Consumers",
+    "text": "Ad Valorem Tax on Consumers\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nAn ad valorem tax of \\(t\\) on barley is imposed\nPrice of barley rises to \\(P_{B}(1+t)\\)\nNew budget constraint is \\(I = P_{B}(1+t)B + P_{C}C\\)\nRearranging gives\n\n\\[C = \\frac{I}{P_{C}} - \\frac{P_{B}(1+t)}{P_{C}}B\\]\n\nSlope of new budget constraint is \\(-\\frac{P_{B}(1+t)}{P_{C}}\\)\nIntercepts are \\(\\frac{I}{P_{C}}\\) and \\(\\frac{I}{P_{B}(1+t)}\\)\nNew optimal bundle is \\(B_2\\) and \\(C_2\\)"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-3",
+    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-3",
+    "title": "EC313 - Taxation",
+    "section": "Ad Valorem Tax on Consumers",
+    "text": "Ad Valorem Tax on Consumers\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nVertical distance between budget lines is tax collected\nOn the old budget line if consumer buys \\(B_2\\) barley, corn consumption is\n\n\\[C^{'} = \\frac{I}{P_{C}} - \\frac{P_{B}}{P_{C}}B_2\\]\n\nOn the new budget line if consumer buys \\(B_2\\) barley, corn consumption is\n\n\\[C_{2} = \\frac{I}{P_{C}} - \\frac{P_{B}(1+t)}{P_{C}}B_2\\]"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-4",
+    "href": "slides/efficiency/index.html#ad-valorem-tax-on-consumers-4",
+    "title": "EC313 - Taxation",
+    "section": "Ad Valorem Tax on Consumers",
+    "text": "Ad Valorem Tax on Consumers\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nDifference is\n\n\\[C^{'} - C_{2} = \\frac{P_{B}t}{P_{C}}B_2\\]\n\nMeasures reduction in corn consumption due to tax\nTo measure in dollar terms\n\n\\[P_{C}(C^{'} - C_{2}) = tP_{B}B_2\\]\n\nThis is the tax rate times the value of barley consumed"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#equivalent-variation",
+    "href": "slides/efficiency/index.html#equivalent-variation",
+    "title": "EC313 - Taxation",
+    "section": "Equivalent Variation",
+    "text": "Equivalent Variation\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nAs a comparison, consider leaving prices unchanged and reducing income to reach the same utility as we got with the tax\n\nThis income reduction is the equivalent variation\n\nShift the original budget line parallel in until it is tangent to the new indifference curve\nDistance between the original and new budget lines is the equivalent variation"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden",
+    "href": "slides/efficiency/index.html#excess-burden",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden",
+    "text": "Excess Burden\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nThe excess burden of a tax is the loss in welfare beyond the tax revenue collected\nIn the graph it is the difference between the equivalent variation and the tax revenue collected\n\nEquivalent variation measures loss in welfare\n\nDistance in green\n\nTax revenue is money collected by government\n\nDistance between black and red budget lines\n\n\nIn this case, equivalent variation is larger than tax revenue\n\nSo there is a positive excess burden (in purple)"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-1",
+    "href": "slides/efficiency/index.html#excess-burden-1",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden",
+    "text": "Excess Burden\n\nAn ad valorem tax on one good creates two effects\n\nIncome effect: consumer is poorer, so consumes less of all normal goods\nSubstitution effect: relative price of taxed good rises, so consumer substitutes away from taxed good\n\nExcess burden arises because of the substitution effect\n\nConsumer substitutes away from taxed good to other goods\nThis leads to a loss in welfare beyond the tax revenue collected\n\nOne way to see this is to compare an ad valorem tax to a lump-sum tax\n\nLump-sum tax only has income effect, no substitution effect\nSo no excess burden"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#lump-sum-tax",
+    "href": "slides/efficiency/index.html#lump-sum-tax",
+    "title": "EC313 - Taxation",
+    "section": "Lump Sum Tax",
+    "text": "Lump Sum Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nA lump-sum tax \\(T\\) is imposed\nNew budget constraint is \\(I -T = P_{B}B + P_{C}C\\)\nRearranging gives\n\n\\[C = \\frac{I-T}{P_{C}} - \\frac{P_{B}}{P_{C}}B\\]\n\nBudget line shifts down in parallel by \\(T\\)\n\nPrices do not change, so slope does not either\n\nNew optimal bundle is \\(B_3\\) and \\(C_3\\)"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#lump-sum-tax-1",
+    "href": "slides/efficiency/index.html#lump-sum-tax-1",
+    "title": "EC313 - Taxation",
+    "section": "Lump Sum Tax",
+    "text": "Lump Sum Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nTax revenue is \\(T\\)\n\nDoes not depend on how much of each good is consumed\n\nEquivalent variation is also \\(T\\)\n\nDistance between original and new budget lines is \\(T\\)\n\nSo there is no excess burden\n\nWelfare loss equals tax revenue collected\n\nArises because a lump sum tax is a pure income effect\n\nNo substitution effect, so no excess burden"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#efficiency",
+    "href": "slides/efficiency/index.html#efficiency",
+    "title": "EC313 - Taxation",
+    "section": "Efficiency",
+    "text": "Efficiency\n\nIf lump sum taxes do not create excess burden, why not use them?\nOften they are unattractive politically\n\nA fixed tax on everyone is viewed as unfair\nIt is also regressive\n\nThere are few examples in the world\n\nUK had a poll (head) tax in the late 80s that was unpopular\nSome municipal government charge fixed fees for licenses/permits\n\nSo governments widely use distortionary taxes instead"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#income-taxes",
+    "href": "slides/efficiency/index.html#income-taxes",
+    "title": "EC313 - Taxation",
+    "section": "Income taxes",
+    "text": "Income taxes\n\nIncome taxes can also involve excess burdens\nIncome taxes distort labour supply decisions\n\nHigher tax rates reduce the after-tax wage\nThis causes people to substitute away from labour towards leisure\nThis is a substitution effect that creates excess burden\n\nLike with goods, income taxes change relative prices, and therefore behaviour\nChanges the price of leisure relative to consumption"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-with-inelastic-demand",
+    "href": "slides/efficiency/index.html#excess-burden-with-inelastic-demand",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden with Inelastic Demand",
+    "text": "Excess Burden with Inelastic Demand\n\nSuppose that a tax is introduced on barley, but barley consumption does not change\nDoes this mean there is no excess burden?\nAnswer: no\n\nConsumer faces different relative prices\nThese distort the consumer’s choices\nThis leads to inefficiency, and excess burden"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-with-inelastic-demand-1",
+    "href": "slides/efficiency/index.html#excess-burden-with-inelastic-demand-1",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden with Inelastic Demand",
+    "text": "Excess Burden with Inelastic Demand\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph looks similar to before\nThis time barley consumption stays constant\nCorn consumption rises due to relatively lower price\nExcess burden is about the change in the consumption bundle\n\nNot just the change in quantity of one good"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves",
+    "href": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves",
+    "title": "EC313 - Taxation",
+    "section": "Aside: Compensated vs Ordinary Demand Curves",
+    "text": "Aside: Compensated vs Ordinary Demand Curves\n\nA demand curve measures the change in quantity demanded as price changes\nOrdinary (Marshallian) demand curve: measures the total change in quantity demanded as price changes\n\nIncludes both income and substitution effects\n\nCompensated (Hicksian) demand curve: measures the change in quantity demanded as price changes, holding utility constant\n\nOnly includes substitution effect\nCan hold utility constant at initial level or new level\n\nExcess burden is related to the substitution effect, so we use compensated demand curves"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves-1",
+    "href": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves-1",
+    "title": "EC313 - Taxation",
+    "section": "Aside: Compensated vs Ordinary Demand Curves",
+    "text": "Aside: Compensated vs Ordinary Demand Curves\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nConsider a tax on barley\n\nPrice of barley rises from \\(P_{B}\\) to \\(P_{B}(1+t)\\)\n\nThe ordinary demand curve measures change from old equilibrium at old prices to new equilibrium at new prices\n\nIncludes both income and substitution effects\n\nThe compensated demand curve measures starts from new utility curve at old prices then new equilibrium at new prices\n\nOnly includes substitution effect\n\nThe drop in demand is larger for ordinary demand"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves-2",
+    "href": "slides/efficiency/index.html#aside-compensated-vs-ordinary-demand-curves-2",
+    "title": "EC313 - Taxation",
+    "section": "Aside: Compensated vs Ordinary Demand Curves",
+    "text": "Aside: Compensated vs Ordinary Demand Curves\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nDemand curve is plot of price vs quantity demanded\nOn left we plot price before and after tax against quantities\nDrop in quantity is larger for ordinary demand curve\n\nIncludes both income and substitution effects\nSo ordinary demand curve is flatter\n\nCompensated demand curve is steeper because it only includes substitution effect"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-with-demand-curves-1",
+    "href": "slides/efficiency/index.html#excess-burden-with-demand-curves-1",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden with Demand Curves",
+    "text": "Excess Burden with Demand Curves\n\nExcess burden of a tax is related to the substitution effect\nWe can use compensated demand curve to measure it\nRecall that it is loss in welfare beyond tax revenue collected\nThe loss in welfare to the consumer is measured by the drop in consumer surplus\n\nThis is the area under the compensated demand curve between old and new prices\n\nPart of that loss is tax revenue collected\n\nThis is the rectangle with height equal to the tax and width equal to new quantity\n\nThe other part is lost entirely to the consumer\n\nThis is the excess burden"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-with-demand-curves-2",
+    "href": "slides/efficiency/index.html#excess-burden-with-demand-curves-2",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden with Demand Curves",
+    "text": "Excess Burden with Demand Curves\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nImagine a tax is imposed on barley\nSupply is perfectly elastic\n\nSo economic incidence falls entirely on consumers\n\nPrice rises from \\(P_{B}\\) to \\(P_{B}(1+t)\\)\nCompensated quantity demanded falls from \\(B_{3}\\) to \\(B_{2}\\)\nTax revenue is green rectangle\nTotal fall in consumer surplus is green + blue areas\nExcess burden is blue area"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#pre-existing-distortions",
+    "href": "slides/efficiency/index.html#pre-existing-distortions",
+    "title": "EC313 - Taxation",
+    "section": "Pre-existing Distortions",
+    "text": "Pre-existing Distortions\n\nIn the real world, there are many taxes and regulations that distort behaviour\nIf a new tax is introduced, it may interact with these pre-existing distortions\n\nPre-existing distortions include monopoly power, externalities, and other taxes\n\nHaving pre-existing distortions complicates the analysis of excess burden\n\nA new tax may increase or decrease overall excess burden\nDepends on how it interacts with pre-existing distortions\n\nTheory of the Second Best: If economic optimum cannot be achieved (due to existing distortions), the next best solution may involve introducing additional distortions"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#pre-existing-distortions-1",
+    "href": "slides/efficiency/index.html#pre-existing-distortions-1",
+    "title": "EC313 - Taxation",
+    "section": "Pre-existing Distortions",
+    "text": "Pre-existing Distortions\n\nExample 1: pre-existing tax on good A\n\nThis tax distorts consumption away from good A\nIntroducing a tax on good B may lead consumers to substitute towards good A\nThis can reduce the excess burden on good A by increasing its consumption\nOverall excess burden may increase or decrease because of the new tax on good B"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#pre-existing-distortions-2",
+    "href": "slides/efficiency/index.html#pre-existing-distortions-2",
+    "title": "EC313 - Taxation",
+    "section": "Pre-existing Distortions",
+    "text": "Pre-existing Distortions\n\nExample 2: Minimum Wages\n\nA labour market monopsony leads to lower wages and employment than in a competitive market\nImposing a minimum wage can increase employment and reduce the excess burden caused by monopsony power\n\nExample 3: Externalities from Carbon\n\nA country has a negative externality from emissions and cannot impose a carbon tax\nThe next best outcome might involve subsidies for renewable energy, even if they distort energy markets\n\nGeneral lesson is that impact of tax is not limited to the market it directly affects\n\nOverall excess burden depends on interactions with other markets and distortions"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-of-a-subsidy",
+    "href": "slides/efficiency/index.html#excess-burden-of-a-subsidy",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden of a Subsidy",
+    "text": "Excess Burden of a Subsidy\n\nA subsidy is a negative tax\n\nIt lowers the price paid by consumers or received by producers\n\nProblem is that it can lead to over-consumption or over-production\n\nThis creates inefficiencies and excess burden\n\nA subsidy will increase welfare (consumer surplus) but the cost to the government may exceed this increase\n\nThe difference is the excess burden of the subsidy"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-of-a-subsidy-1",
+    "href": "slides/efficiency/index.html#excess-burden-of-a-subsidy-1",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden of a Subsidy",
+    "text": "Excess Burden of a Subsidy\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nPicture a housing subsidy\nPrior to subsidy, optimal consumption is \\(H_0\\) at price \\(P_h\\)\nSubsidy lowers price to \\((1-s)P_h\\)\nNew optimal consumption is \\(H_1\\)\nCost of subsidy is green plus blue rectangle\nIncrease in consumer surplus is green area\nExcess burden is blue triangle"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-of-income-tax",
+    "href": "slides/efficiency/index.html#excess-burden-of-income-tax",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden of Income Tax",
+    "text": "Excess Burden of Income Tax\n\nIncome taxes distort labour supply decisions\n\nHigher tax rates reduce the after-tax wage\nThis causes people to substitute away from labour towards leisure\nThis is a substitution effect that creates excess burden"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-of-income-tax-1",
+    "href": "slides/efficiency/index.html#excess-burden-of-income-tax-1",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden of Income Tax",
+    "text": "Excess Burden of Income Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nImagine a labour market with elastic labour demand\n\nSo a tax on labour is borne entirely by workers\n\nAn income tax shifts down labour demand curve from \\(D_0\\) to \\(D_1\\)\n\nReduces wage from \\(W\\) to \\((1-t)W\\)\n\nInitially worker surplus is area below demand curve and above supply\nAfter tax, surplus falls by yellow plus green areas"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-of-income-tax-2",
+    "href": "slides/efficiency/index.html#excess-burden-of-income-tax-2",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden of Income Tax",
+    "text": "Excess Burden of Income Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nSome of the fall is collected by government as tax revenue\n\nThis is yellow rectangle\n\nThe green triangle is lost entirely\n\nThis is the excess burden\n\nResult is very similar to excess burden from a tax on goods\n\nExcept here the tax is on wages and workers are suppliers"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#excess-burden-of-income-tax-3",
+    "href": "slides/efficiency/index.html#excess-burden-of-income-tax-3",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden of Income Tax",
+    "text": "Excess Burden of Income Tax\n\nThe formula for excess burden is similar to that for goods\n\n\\[\\text{Excess Burden} = \\frac{1}{2} \\times (\\epsilon \\times L_{0}) \\times (t^2 W) \\]\n\nWhere \\(\\epsilon\\) is the elasticity of labour supply\nExcess burden depends on\n\nSize of tax \\(t\\)\n\nExcess burden rises with square of tax rate\n\nElasticity of labour supply \\(\\epsilon\\)\n\nMore elastic labour supply means larger excess burden\n\nInitial earnings \\(WL_{0}\\)\n\nLarger initial earnings means larger excess burden"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#summary-1",
+    "href": "slides/efficiency/index.html#summary-1",
+    "title": "EC313 - Taxation",
+    "section": "Summary",
+    "text": "Summary\n\nTaxes are used in part to raise revenue for the government\nThey impose a direct cost to consumers of the tax revenue collected\nBut they also distort behaviour and create an excess burden\n\nLoss in welfare beyond tax revenue collected\n\nExcess burden arises from the substitution effect of a tax\nThe size of the excess burden depends on pre-existing distortions\nTheory of the Second Best says that when distortions exist, best outcome may involve additional distortions"
+  },
+  {
+    "objectID": "slides/efficiency/index.html#references-1",
+    "href": "slides/efficiency/index.html#references-1",
+    "title": "EC313 - Taxation",
+    "section": "References",
+    "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022."
+  },
+  {
+    "objectID": "slides/externalities/index.html#goals-of-this-section-1",
+    "href": "slides/externalities/index.html#goals-of-this-section-1",
+    "title": "EC313 - Taxation",
+    "section": "Goals of This Section",
+    "text": "Goals of This Section\n\nDefine and discuss externalities\nDifferentiate between negative and positive externalities\nDiscuss private responses to externalities\nDiscuss public responses to externalities, including Pigouvian taxes and subsidies"
+  },
+  {
+    "objectID": "slides/externalities/index.html#defining-externalities",
+    "href": "slides/externalities/index.html#defining-externalities",
+    "title": "EC313 - Taxation",
+    "section": "Defining Externalities",
+    "text": "Defining Externalities\n\nAbsent any market failures, economic theory says private markets lead to efficient outcomes\nResources are allocated to their best possible uses\nThis is the first fundamental theorem of welfare economics\nHowever, in some cases, private markets fail to achieve efficiency\nOne important source of market failure is externalities\n\nAn externality is a cost or benefit imposed on a third party not involved in a market transaction"
+  },
+  {
+    "objectID": "slides/externalities/index.html#defining-externalities-1",
+    "href": "slides/externalities/index.html#defining-externalities-1",
+    "title": "EC313 - Taxation",
+    "section": "Defining Externalities",
+    "text": "Defining Externalities\n\nSome examples of negative externalities\n\nCarbon emissions: pollution from burning fossil fuels harms the environment and public health\nCrypto mining: high energy consumption leads to increased greenhouse gas emissions\nNoise pollution: loud nightclubs disturb nearby residents\nFertilizer runoff: agricultural chemicals contaminate water supplies\n\nSome examples of positive externalities\n\nVaccinations: immunized individuals reduce disease spread, benefiting others\nEducation: educated individuals contribute to a more informed and productive society\nPublic parks: green spaces enhance community well-being and property values\nResearch and development: innovations can lead to widespread technological advancements"
+  },
+  {
+    "objectID": "slides/externalities/index.html#david-suzuki-on-externalities",
+    "href": "slides/externalities/index.html#david-suzuki-on-externalities",
+    "title": "EC313 - Taxation",
+    "section": "David Suzuki on Externalities",
+    "text": "David Suzuki on Externalities"
+  },
+  {
+    "objectID": "slides/externalities/index.html#defining-externalities-2",
+    "href": "slides/externalities/index.html#defining-externalities-2",
+    "title": "EC313 - Taxation",
+    "section": "Defining Externalities",
+    "text": "Defining Externalities\n\nEconomic problem with externalities\n\nWhen externalities are present, private markets may not allocate resources efficiently\nNegative externalities can lead to overproduction of harmful goods\nPositive externalities can lead to underproduction of beneficial goods\n\nIn these instances, there are possible solutions to the inefficiency\n\nPrivate solutions: negotiation between affected parties (Coase theorem)\nPublic solutions: government intervention through taxes, subsidies, or regulations"
+  },
+  {
+    "objectID": "slides/externalities/index.html#characteristics-of-externalities",
+    "href": "slides/externalities/index.html#characteristics-of-externalities",
+    "title": "EC313 - Taxation",
+    "section": "Characteristics of Externalities",
+    "text": "Characteristics of Externalities\n\nCan be produced by individuals, firms, or governments\n\nUsually think of firms polluting\nIndividuals can also create externalities (e.g., loud parties, smoking in public)\n\nThey are reciprocal\n\nOne party’s actions can create externalities for another party, and vice versa\nExample: a factory polluting a river affects downstream residents, but protesting and restricting them affects the factory’s operations\n\nCan be positive or negative\n\nNegative externalities impose costs on others (e.g., pollution)\nPositive externalities provide benefits to others (e.g., education)"
+  },
+  {
+    "objectID": "slides/externalities/index.html#characteristics-of-externalities-1",
+    "href": "slides/externalities/index.html#characteristics-of-externalities-1",
+    "title": "EC313 - Taxation",
+    "section": "Characteristics of Externalities",
+    "text": "Characteristics of Externalities\n\nSometimes hard to distintuish from public goods\n\nPublic goods are goods that are non-excludable and non-rivalrous\nExternalities can sometimes have similar characteristics (e.g., clean air)\nKey difference is intention\n\nExternalities are unintended side effects of economic activities\nPublic goods are intentionally provided for the benefit of all\n\nExample: public fireworks may are both a public good and create externalities\n\nCreated intentially for everyone to enjoy\nBut people living nearby may experience noise pollution (negative externality)"
+  },
+  {
+    "objectID": "slides/externalities/index.html#negative-externalities",
+    "href": "slides/externalities/index.html#negative-externalities",
+    "title": "EC313 - Taxation",
+    "section": "Negative Externalities",
+    "text": "Negative Externalities\n\nInefficiency of externalities comes from the divergence between private and social costs/benefits\n\nIndividuals involved in a market transaction only consider their private costs and benefits\nTypically ignore the social costs\n\nWith negative externalities this leads to overproduction\nIn this section we outline how that happens"
+  },
+  {
+    "objectID": "slides/externalities/index.html#negative-externalities-1",
+    "href": "slides/externalities/index.html#negative-externalities-1",
+    "title": "EC313 - Taxation",
+    "section": "Negative Externalities",
+    "text": "Negative Externalities\n\nConsider two individuals\n\nAzul: operates factory that dumps waste into a river\nJules: fisherman downstream from Azul’s factory\n\nWater pollution affects Jules’ ability to fish\nNobody owns the river that is polluted\n\nThis is key to the externality\nIf someone owned the river, a price mechanism could be established to account for pollution\nBut without ownership, it is used at a zero price\n\nThe water is a scarce resource that can be used up\n\nPolluting it reduces the amount of clean water available for others"
+  },
+  {
+    "objectID": "slides/externalities/index.html#negative-externalities-2",
+    "href": "slides/externalities/index.html#negative-externalities-2",
+    "title": "EC313 - Taxation",
+    "section": "Negative Externalities",
+    "text": "Negative Externalities\n\nConsider how much output Azul chooses to produce\nHe faces private marginal cost (PMC) and private marginal benefit (PMB)\n\nThe costs and benefits that apply only to him\nIgnores the costs imposed on others\n\nAzul produces where PMB = PMC"
+  },
+  {
+    "objectID": "slides/externalities/index.html#negative-externalities-3",
+    "href": "slides/externalities/index.html#negative-externalities-3",
+    "title": "EC313 - Taxation",
+    "section": "Negative Externalities",
+    "text": "Negative Externalities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nAzul’s private benefit (PMB) and cost (PMC) depicted to the left\nThe PMC is upward sloping\n\nCosts increase as output increases\n\nPMB is downward sloping\n\nBenefits decrease as output increases\n\nProduce where PMB = PMC\nOutput \\(Q_1\\)"
+  },
+  {
+    "objectID": "slides/externalities/index.html#negative-externalities-4",
+    "href": "slides/externalities/index.html#negative-externalities-4",
+    "title": "EC313 - Taxation",
+    "section": "Negative Externalities",
+    "text": "Negative Externalities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nAzul’s production also creates damage to the river\n\nThis damage imposes costs on Jules\n\nAssume that the marginal damage (MD) increases with output\n\nEach additional unit of output causes more damage than the last\n\nDepicted on graph as the upward sloping MD curve"
+  },
+  {
+    "objectID": "slides/externalities/index.html#negative-externalities-5",
+    "href": "slides/externalities/index.html#negative-externalities-5",
+    "title": "EC313 - Taxation",
+    "section": "Negative Externalities",
+    "text": "Negative Externalities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nThe social cost of production includes both the private cost and the damage to others\n\nSocial marginal cost (SMC) = PMC + MD\n\nSMC curve lies above the PMC curve by the amount of MD\nSMC is what costs Azul would face if they had to pay for the damage they cause\nAssume that the private and social benefits are the same (PMB = SMB)\nFrom a social point of view, optimum is where PMB = SMC"
+  },
+  {
+    "objectID": "slides/externalities/index.html#negative-externalities-6",
+    "href": "slides/externalities/index.html#negative-externalities-6",
+    "title": "EC313 - Taxation",
+    "section": "Negative Externalities",
+    "text": "Negative Externalities\n\nIgnoring the negative externality leads to overproduction\n\nToo much cost to society relative to the benefits\n\nThis creates and inefficiency\nWe can quantify the inefficiency using the graph\nFigure on next slide shows the inefficiency with some hypothetical numbers"
+  },
+  {
+    "objectID": "slides/externalities/index.html#negative-externalities-7",
+    "href": "slides/externalities/index.html#negative-externalities-7",
+    "title": "EC313 - Taxation",
+    "section": "Negative Externalities",
+    "text": "Negative Externalities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nSuppose we produce where PMB = PMC\nTotal benefit to Azul from production is area under PMB curve\n\nLike adding up marginal benefits for each unit produced\n\nTotal cost to Azul is area under PMC curve\nNet to Azul gain is area between total benefit and total cost"
+  },
+  {
+    "objectID": "slides/externalities/index.html#negative-externalities-8",
+    "href": "slides/externalities/index.html#negative-externalities-8",
+    "title": "EC313 - Taxation",
+    "section": "Negative Externalities",
+    "text": "Negative Externalities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nFrom a societal point of view, we need to account for damage to Jules\nTotal damage to Jules is area beneath MD curve between private and social optimum\n\nArea abfe\n\nIt is equivalent to the area between PMC and SMC curves\n\nArea cdhg\n\nThere is a societal loss of area dhg\n\nOverproduction means costs to society exceed benefits"
+  },
+  {
+    "objectID": "slides/externalities/index.html#negative-externalities-9",
+    "href": "slides/externalities/index.html#negative-externalities-9",
+    "title": "EC313 - Taxation",
+    "section": "Negative Externalities",
+    "text": "Negative Externalities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nWhat happens if we reduce output to the social optimum?\nThere is a gain for Jules, but a loss for Azul\nJules gains area cdhg\n\nReduction in production means less harm to him\n\nAzul loses area dcg\n\nProduces less and benefits less privately\n\nSociety gains area dhg"
+  },
+  {
+    "objectID": "slides/externalities/index.html#negative-externalities-10",
+    "href": "slides/externalities/index.html#negative-externalities-10",
+    "title": "EC313 - Taxation",
+    "section": "Negative Externalities",
+    "text": "Negative Externalities\n\nWhat activities tend to pollute and cause negative externalities?\n\nManufacturing and industrial processes\nTransportation (cars, trucks, airplanes)\nEnergy production (coal, oil, natural gas)\nAgriculture (fertilizers, pesticides, livestock)\nWaste disposal (landfills, incineration)\nMany of these produce smog, which pollutes the air and travels long distances\n\nWhich pollutants do harm?\n\nParticulate matter (PM2.5 and PM10): tiny particles that can penetrate lungs and cause respiratory issues\nNitrogen oxides (NOx) and sulfur dioxide (SO2): contribute to acid rain and respiratory problems"
+  },
+  {
+    "objectID": "slides/externalities/index.html#negative-externalities-11",
+    "href": "slides/externalities/index.html#negative-externalities-11",
+    "title": "EC313 - Taxation",
+    "section": "Negative Externalities",
+    "text": "Negative Externalities\n\nWhat is the value of the damage?\n\nDifficult to measure precisely\nEconomists have used differences in house prices in areas with different levels of pollution\nIllustrates how much people are willing to pay to avoid pollution\nBut can be complicated by other factors affecting house prices"
+  },
+  {
+    "objectID": "slides/externalities/index.html#positive-externalities",
+    "href": "slides/externalities/index.html#positive-externalities",
+    "title": "EC313 - Taxation",
+    "section": "Positive Externalities",
+    "text": "Positive Externalities\n\nLess salient, but some production leads to positive externalities\n\nVaccinations: reduce disease spread, benefiting others\nEducation: educated individuals contribute to a more informed and productive society\nPublic parks: green spaces enhance community well-being and property values\nResearch and development: innovations can lead to widespread technological advancements\n\nCan lead to similar inefficiencies\n\nThis time due to underproduction"
+  },
+  {
+    "objectID": "slides/externalities/index.html#positive-externalities-1",
+    "href": "slides/externalities/index.html#positive-externalities-1",
+    "title": "EC313 - Taxation",
+    "section": "Positive Externalities",
+    "text": "Positive Externalities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nPrivate and social costs are assumed equal\nPrivate and social benefits differ by an external marginal benefit\n\nSMB = PMB + EMB\n\nOptimum ignoring externalities is where PMB = PMC\nSocial optimum is where SMB = PMC\n\nAt higher level of output"
+  },
+  {
+    "objectID": "slides/externalities/index.html#positive-externalities-2",
+    "href": "slides/externalities/index.html#positive-externalities-2",
+    "title": "EC313 - Taxation",
+    "section": "Positive Externalities",
+    "text": "Positive Externalities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nCan illustrate inefficiency using areas on the graph\nThe unrealized benefit to society from underproduction is area under EMB\n\nEquivalently, area between PMB and SMB curves bcda\n\nIf we move to the social optimum\n\nSociety gains area bcda\nIndividual loses acd through extra production\n\nTotal gain is area abc"
+  },
+  {
+    "objectID": "slides/externalities/index.html#introduction",
+    "href": "slides/externalities/index.html#introduction",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nWith market failures, government can intervene to get to efficient outcome\nBut they do not have to\nIn the case of externalities, private solutions are sometimes possible\nIssue with externalities is that property rights are not well defined\n\nExample: nobody owns the river that Azul pollutes\n\nCan be solved by allocating property rights"
+  },
+  {
+    "objectID": "slides/externalities/index.html#coase-theorem",
+    "href": "slides/externalities/index.html#coase-theorem",
+    "title": "EC313 - Taxation",
+    "section": "Coase Theorem",
+    "text": "Coase Theorem\n\nCoase Theorem: if property rights are well defined and transaction costs are low, private parties can negotiate to resolve externalities efficiently\n\nIt does not matter who owns the property rights\n\nSuppose Azul owns the river\n\nAzul has the right to pollute\nWould be willing to not produce an extra unit if he is paid PMB-PMC or more\nJules would pay Azul to not produce if the payment is less than MD\nPayments could happen if PMB-PMC &gt; MD"
+  },
+  {
+    "objectID": "slides/externalities/index.html#coase-theorem-1",
+    "href": "slides/externalities/index.html#coase-theorem-1",
+    "title": "EC313 - Taxation",
+    "section": "Coase Theorem",
+    "text": "Coase Theorem\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nSuppose Azul owns the river and is currently producing the private optimum\n\nMarginal damage at that point is ef\nPMB-PMC for Azul is zero\nJules could pay to not produce that unit\n\nAt every output above the social optimum MD &gt; PMB-PMC\n\nJules could pay Azul to reduce output\n\nAt social optimum MD = PMB-PMC\n\nNo further mutually beneficial trades possible"
+  },
+  {
+    "objectID": "slides/externalities/index.html#coase-theorem-2",
+    "href": "slides/externalities/index.html#coase-theorem-2",
+    "title": "EC313 - Taxation",
+    "section": "Coase Theorem",
+    "text": "Coase Theorem\n\nBargaining also works if Jules owns the river\n\nAzul would pay Jules to allow pollution\n\nAzul would pay up to PMB-PMC to pollute\nJules takes that payment if it is more than MD\nBargaining stops where PMB-PMC = MD"
+  },
+  {
+    "objectID": "slides/externalities/index.html#coase-theorem-3",
+    "href": "slides/externalities/index.html#coase-theorem-3",
+    "title": "EC313 - Taxation",
+    "section": "Coase Theorem",
+    "text": "Coase Theorem\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nConsider starting at zero and moving up\nWill Azul produce the next unit?\nAt low levels of output, PMB-PMC is large, and MD is small\n\nWorth it for Azul to produce and pay for damage\n\nAs more units are produced, PMB-PMC falls and MD rises\nThey are equal when production reaches social optimum"
+  },
+  {
+    "objectID": "slides/externalities/index.html#coase-theorem-4",
+    "href": "slides/externalities/index.html#coase-theorem-4",
+    "title": "EC313 - Taxation",
+    "section": "Coase Theorem",
+    "text": "Coase Theorem\n\nCoase won a Nobel prize for this insight into externalities\nHowever, there are limitations\n\nTransaction costs may be high\nMany parties may be involved\nProperty rights may be hard to define or enforce\n\nAir pollution is good example of these problems\n\nMany polluters and many affected parties\nHard to assign property rights to air"
+  },
+  {
+    "objectID": "slides/externalities/index.html#mergers",
+    "href": "slides/externalities/index.html#mergers",
+    "title": "EC313 - Taxation",
+    "section": "Mergers",
+    "text": "Mergers\n\nThe Coase Theorem is an example of internalizing an externality\n\nMaking it part of the costs or benefits of the decision maker\n\nAnother way to internalize an externality is through mergers\n\nIf Azul and Jules merge into one firm, the externality disappears\nThe new firm considers both private costs and damages"
+  },
+  {
+    "objectID": "slides/externalities/index.html#social-conventions",
+    "href": "slides/externalities/index.html#social-conventions",
+    "title": "EC313 - Taxation",
+    "section": "Social Conventions",
+    "text": "Social Conventions\n\nSometimes social conventions can help solve externalities\n\nPeople may voluntarily reduce negative externalities to avoid social disapproval\nExample: littering, smoking in public\n\nHowever, social conventions may not be sufficient for large-scale externalities\n\nExample: climate change requires coordinated action beyond social norms"
+  },
+  {
+    "objectID": "slides/externalities/index.html#references-1",
+    "href": "slides/externalities/index.html#references-1",
+    "title": "EC313 - Taxation",
+    "section": "References",
+    "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022.\nBazel, Philip. Marginal Effective Tax Rates for Working Families in Canada. Fraser Institute, 2024.\nHansen, Jeff, and Devan Mescall, and Graham Purse. “Policy Forum: The Effects of Indexation and Inflation on Tax System Design.” Canadian Tax Journal 71, no. 2 (2023): 398-404."
   },
   {
     "objectID": "slides/intro/index.html#goals-of-this-section-1",
