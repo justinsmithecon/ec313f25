@@ -1,0 +1,67 @@
+---
+title: "Assignment 2"
+---
+
+
+## Description
+
+In this assignment you will create an infographic that effectively communicates key information about a topic related to taxation and public economics. Infographics are becoming a popular way to communicate complex information in a visually appealing and easy-to-understand format. You should aim to make your infographic engaging and informative, using a combination of text, images, and data visualizations to convey your message. The scope is broad: you can choose any topic that relates to taxation and public economics.  I encourage you to be creative and try to have fun with it (to the extent that is possible for a academic assignment at the end of term).
+
+
+## Instructions
+
+The specific instructions for the assignment are as follows:
+
+- The content of the infographic should be related to the public economics of taxation
+- You should use data to support your points (any dataset you like), and include at least one chart or graph that you create from the data
+- Submit as a PDF file (which means no animations, even though that would be fun)
+- You can use any software you like.  Some suggestions that are free:
+
+    - Vennage (https://venngage.com/)
+    - Piktochart (https://piktochart.com/)
+    - Adobe Express (https://www.adobe.com/express/)
+    - Vista Create (https://create.vista.com/)
+    - Mind the Graph (https://mindthegraph.com/)
+    - Microsoft PowerPoint or Word
+    - Stata (for data analysis and graphics that you put into your infographic)
+    - R (advanced; using packages like ggplot2 for visualizations and patchwork or cowplot for layout)
+    - Python (advanced; using libraries like Matplotlib, Seaborn, and Plotly for visualizations and PIL or ReportLab for layout)
+
+
+
+### Examples
+
+Most of you will have never made an infographic before, so here are some examples to give you an idea of what is possible:
+
+- 2025 Winner of Finances of the Nation Infographic Competition: https://financesofthenation.ca/wp-content/uploads/2025/07/FON_infographic_2025_winner.pdf
+- 2024 Winner of Finances of the Nation Infographic Competition: https://financesofthenation.ca/wp-content/uploads/2024/07/Revised_v2_FONC.pdf
+- Statistics Canada Collection of Infographics: https://www150.statcan.gc.ca/n1/pub/11-627-m/index-eng.htm
+- Venngage Gallery of Economics Infographics: https://venngage.com/blog/economic-infographic/
+
+Most of these infographics are of professional quality.  Because you have one week to complete the assignment, and because it's worth only 5% of your grade, you are not expected to produce work up to this level.  However, you should aim to produce something visually appealing that effectively communicates your chosen topic.
+
+
+### Evaluation
+
+- Economic Content (50%)
+
+  - Title appeal
+  - Clarity of message
+  - Significance of the insight
+  - Proper identification of sources and notes
+
+- Visual Appeal (50%)
+
+  - Clarity of presentation
+  - Visual appeal of design
+  - Appropriateness of graphics and data displays
+  
+  
+### Submission
+
+When you are finished, submit your infographic as a PDF file to Gradescope
+
+
+### Plagiarism
+
+This is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else's work. However, you are encouraged to talk to each other to try to figure out how to do the assignment and bounce ideas off each other.
