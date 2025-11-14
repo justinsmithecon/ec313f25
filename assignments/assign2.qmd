@@ -17,11 +17,11 @@ The specific instructions for the assignment are as follows:
 - Submit as a PDF file (which means no animations, even though that would be fun)
 - You can use any software you like.  Some suggestions that are free:
 
-    - Vennage (https://venngage.com/)
-    - Piktochart (https://piktochart.com/)
-    - Adobe Express (https://www.adobe.com/express/)
-    - Vista Create (https://create.vista.com/)
-    - Mind the Graph (https://mindthegraph.com/)
+    - Vennage (<https://venngage.com/>)
+    - Piktochart (<https://piktochart.com/>)
+    - Adobe Express (<https://www.adobe.com/express/>)
+    - Vista Create (<https://create.vista.com/>)
+    - Mind the Graph (<https://mindthegraph.com/>)
     - Microsoft PowerPoint or Word
     - Stata (for data analysis and graphics that you put into your infographic)
     - R (advanced; using packages like ggplot2 for visualizations and patchwork or cowplot for layout)
@@ -33,10 +33,10 @@ The specific instructions for the assignment are as follows:
 
 Most of you will have never made an infographic before, so here are some examples to give you an idea of what is possible:
 
-- 2025 Winner of Finances of the Nation Infographic Competition: https://financesofthenation.ca/wp-content/uploads/2025/07/FON_infographic_2025_winner.pdf
-- 2024 Winner of Finances of the Nation Infographic Competition: https://financesofthenation.ca/wp-content/uploads/2024/07/Revised_v2_FONC.pdf
-- Statistics Canada Collection of Infographics: https://www150.statcan.gc.ca/n1/pub/11-627-m/index-eng.htm
-- Venngage Gallery of Economics Infographics: https://venngage.com/blog/economic-infographic/
+- 2025 Winner of Finances of the Nation Infographic Competition: <https://financesofthenation.ca/wp-content/uploads/2025/07/FON_infographic_2025_winner.pdf>
+- 2024 Winner of Finances of the Nation Infographic Competition: <https://financesofthenation.ca/wp-content/uploads/2024/07/Revised_v2_FONC.pdf>
+- Statistics Canada Collection of Infographics: <https://www150.statcan.gc.ca/n1/pub/11-627-m/index-eng.htm>
+- Venngage Gallery of Economics Infographics: <https://venngage.com/blog/economic-infographic/>
 
 Most of these infographics are of professional quality.  Because you have one week to complete the assignment, and because it's worth only 5% of your grade, you are not expected to produce work up to this level.  However, you should aim to produce something visually appealing that effectively communicates your chosen topic.
 
