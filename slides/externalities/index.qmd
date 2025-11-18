@@ -340,7 +340,6 @@ editor: visual
     -   Particulate matter (PM2.5 and PM10): tiny particles that can penetrate lungs and cause respiratory issues
     -   Nitrogen oxides (NOx) and sulfur dioxide (SO2): contribute to acid rain and respiratory problems
 
-
 ## Negative Externalities
 
 -   What is the value of the damage?
@@ -381,12 +380,11 @@ editor: visual
 
 -   Optimum ignoring externalities is where PMB = PMC
 
-- Social optimum is where SMB = PMC
+-   Social optimum is where SMB = PMC
 
-  - At higher level of output
+    -   At higher level of output
 :::
 ::::::
-
 
 ## Positive Externalities
 
@@ -400,55 +398,50 @@ editor: visual
 ::: {.column width="50%"}
 -   Can illustrate inefficiency using areas on the graph
 
-- The unrealized benefit to society from underproduction is area under EMB
+-   The unrealized benefit to society from underproduction is area under EMB
 
-  - Equivalently, area between PMB and SMB curves bcda
-  
-- If we move to the social optimum
+    -   Equivalently, area between PMB and SMB curves bcda
 
-  - Society gains area bcda
-  - Individual loses acd through extra production
-  
-- Total gain is area abc
+-   If we move to the social optimum
+
+    -   Society gains area bcda
+    -   Individual loses acd through extra production
+
+-   Total gain is area abc
 :::
 ::::::
-
 
 # Private Solutions to Externalities
 
 ## Introduction
 
-- With market failures, government can intervene to get to efficient outcome
+-   With market failures, government can intervene to get to efficient outcome
 
-- But they do not have to
+-   But they do not have to
 
-- In the case of externalities, private solutions are sometimes possible
+-   In the case of externalities, private solutions are sometimes possible
 
-- Issue with externalities is that property rights are not well defined
+-   Issue with externalities is that property rights are not well defined
 
-  - Example: nobody owns the river that Azul pollutes
-  
-- Can be solved by allocating property rights
+    -   Example: nobody owns the river that Azul pollutes
 
+-   Can be solved by allocating property rights
 
 ## Coase Theorem
 
+-   **Coase Theorem**: if property rights are well defined and transaction costs are low, private parties can negotiate to resolve externalities efficiently
 
-- **Coase Theorem**: if property rights are well defined and transaction costs are low, private parties can negotiate to resolve externalities efficiently
+    -   It does not matter who owns the property rights
 
-  - It does not matter who owns the property rights
-  
-- Suppose Azul owns the river
+-   Suppose Azul owns the river
 
-  - Azul has the right to pollute
-  - Would be willing to not produce an extra unit if he is paid PMB-PMC or more
-  - Jules would pay Azul to not produce if the payment is less than MD
-  - Payments could happen if PMB-PMC > MD
-  
-  
-  
+    -   Azul has the right to pollute
+    -   Would be willing to not produce an extra unit if he is paid PMB-PMC or more
+    -   Jules would pay Azul to not produce if the payment is less than MD
+    -   Payments could happen if PMB-PMC \> MD
+
 ## Coase Theorem
-  
+
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
@@ -459,37 +452,34 @@ editor: visual
 ::: {.column width="50%"}
 -   Suppose Azul owns the river and is currently producing the private optimum
 
-    - Marginal damage at that point is ef
-    - PMB-PMC for Azul is zero
-    - Jules could pay to not produce that unit
-    
-- At every output above the social optimum MD > PMB-PMC
+    -   Marginal damage at that point is ef
+    -   PMB-PMC for Azul is zero
+    -   Jules could pay to not produce that unit
 
-  - Jules could pay Azul to reduce output
-  
-- At social optimum MD = PMB-PMC
+-   At every output above the social optimum MD \> PMB-PMC
 
-  - No further mutually beneficial trades possible
+    -   Jules could pay Azul to reduce output
 
+-   At social optimum MD = PMB-PMC
+
+    -   No further mutually beneficial trades possible
 :::
 ::::::
 
 ## Coase Theorem
 
-- Bargaining also works if Jules owns the river
+-   Bargaining also works if Jules owns the river
 
-  - Azul would pay Jules to allow pollution
-  
-- Azul would pay up to PMB-PMC to pollute
+    -   Azul would pay Jules to allow pollution
 
-- Jules takes that payment if it is more than MD
+-   Azul would pay up to PMB-PMC to pollute
 
-- Bargaining stops where PMB-PMC = MD
+-   Jules takes that payment if it is more than MD
 
-
+-   Bargaining stops where PMB-PMC = MD
 
 ## Coase Theorem
-  
+
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
@@ -500,56 +490,492 @@ editor: visual
 ::: {.column width="50%"}
 -   Consider starting at zero and moving up
 
-- Will Azul produce the next unit?
+-   Will Azul produce the next unit?
 
-- At low levels of output, PMB-PMC is large, and MD is small
+-   At low levels of output, PMB-PMC is large, and MD is small
 
-  - Worth it for Azul to produce and pay for damage
-  
-- As more units are produced, PMB-PMC falls and MD rises
+    -   Worth it for Azul to produce and pay for damage
 
-- They are equal when production reaches social optimum
+-   As more units are produced, PMB-PMC falls and MD rises
+
+-   They are equal when production reaches social optimum
 :::
 ::::::
 
-
 ## Coase Theorem
 
-- Coase won a Nobel prize for this insight into externalities
+-   Coase won a Nobel prize for this insight into externalities
 
-- However, there are limitations
+-   However, there are limitations
 
-  - Transaction costs may be high
-  - Many parties may be involved
-  - Property rights may be hard to define or enforce
-  
-- Air pollution is good example of these problems
+    -   Transaction costs may be high
+    -   Many parties may be involved
+    -   Property rights may be hard to define or enforce
 
-  - Many polluters and many affected parties
-  - Hard to assign property rights to air
-  
-  
+-   Air pollution is good example of these problems
+
+    -   Many polluters and many affected parties
+    -   Hard to assign property rights to air
+
 ## Mergers
 
-- The Coase Theorem is an example of internalizing an externality
+-   The Coase Theorem is an example of internalizing an externality
 
-  - Making it part of the costs or benefits of the decision maker
-  
-- Another way to internalize an externality is through mergers
+    -   Making it part of the costs or benefits of the decision maker
 
-  - If Azul and Jules merge into one firm, the externality disappears
-  - The new firm considers both private costs and damages
-  
+-   Another way to internalize an externality is through mergers
+
+    -   If Azul and Jules merge into one firm, the externality disappears
+    -   The new firm considers both private costs and damages
+
 ## Social Conventions
 
-- Sometimes social conventions can help solve externalities
+-   Sometimes social conventions can help solve externalities
 
-  - People may voluntarily reduce negative externalities to avoid social disapproval
-  - Example: littering, smoking in public
+    -   People may voluntarily reduce negative externalities to avoid social disapproval
+    -   Example: littering, smoking in public
+
+-   However, social conventions may not be sufficient for large-scale externalities
+
+    -   Example: climate change requires coordinated action beyond social norms
+
+# Public Solutions to Externalities
+
+## Introduction
+
+-   This is a class in public economics, so it is natural to consider government intervention
+
+-   Government can use taxes, subsidies, or regulations to address externalities
+
+-   This is a feasible approach when private solutions are not possible or insufficient
+
+    -   There are many situations where private solutions fail
+
+-   Government approaches are or have been used in practice to address carbon emissions
+
+    -   Carbon tax
+    -   Cap and trade
+    -   Regulations
+
+## Pigouvian Taxes for Negative Externalities
+
+-   With negative externalities, too much is produced
+
+    -   People/firms do not consider the full social cost of their actions
+
+-   One way to internalize the externality is through a **Pigouvian tax**
+
+    -   A tax equal to the marginal damage at the socially optimal level of output
+
+-   As with other taxes, this imposes a cost on the producer
+
+    -   Changes their incentives to account for the externality
+
+## Pigouvian Taxes for Negative Externalities
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/ros55466_0504.jpg){fig-align="center"}
+:::
+::::
+
+::: {.column width="50%"}
+-   The socially optimal output is where PMB = SMC
+
+-   But private producers only consider PMC
+
+-   Pigouvian tax shifts PMC up to intersect PMB at the social optimum
+
+    -   Private producers now face the full social cost of production
+
+-   The tax equals the vertical distance between PMC and SMC at the social optimum
+
+-   Revenues equal height of the tax times quantity produced
+:::
+::::::
+
+## Pigouvian Taxes for Negative Externalities
+
+-   Graph makes pigouvian tax seem straightforward
+
+-   But depends on knowing the marginal damage function
+
+    -   Difficult to measure in practice
+
+-   In practice, governments may not get the tax at the perfect level
+
+    -   But even an approximate tax can improve efficiency
+
+## Pigouvian Subsidies for Negative Externalities
+
+-   Pigouvian taxes are a natural way to address negative externalities
+
+    -   Acts like a punnishment for harmful behavior
+
+-   But the optimal output can also be achieved by *subsidizing* polluters
+
+    -   Paying the polluter to reduce output
+
+-   The subsidy would equal the marginal damage at the social optimum
+
+-   Any production above the social optimum would be discouraged by the subsidy
+
+## Pigouvian Subsidies for Negative Externalities
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/ros55466_0505.jpg){fig-align="center"}
+:::
+::::
+
+::: {.column width="50%"}
+-   Consider producing $Q_1$ initially
+
+-   Where $PMB = PMC$
+
+-   Government offers subsidy equal to MD at social optimum for each unit not produced
+
+    -   This **increases** the private marginal cost
+    -   Cost = PMC + foregone subsidy
+    -   Shifts the cost curve up
+
+-   Acts the same way as the tax
+:::
+::::::
+
+## Pigouvian Subsidies for Negative Externalities
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/ros55466_0505.jpg){fig-align="center"}
+:::
+::::
+
+::: {.column width="50%"}
+-   It is now optimal to produce at the social optimum
+
+-   The government must pay money for each unit not produced
+
+    -   Equals the height of the subsidy times the reduction in quantity from $Q_1$ to $Q^*$
+:::
+::::::
+
+## Pigouvian Subsidies for Negative Externalities
+
+-   Pigouvian subsidies for negative externalities are problematic
+
+    -   Politically difficult to justify paying polluters
+
+    -   Requires government to have funds to pay subsidies
+
+        -   Could require taxes elsewhere
+
+    -   Would increase firm profits and draw firms into the industry
+
+-   There are some real world examples
+
+    -   EV rebates
+    -   Subsidies for renewable energy production
+
+## Emissions Fees for Negative Externalities
+
+-   A subtle detail about the pigouvian tax is that it is levied on *output*
+
+    -   Tax gives the incentive to reduce output
+    -   But does not directly target emissions
+    -   Could be that the firm installs a pollution control technology instead of reducing output
+    -   In the case of the pigouvian tax, the tax bill would be the same
+
+-   An alternative is an *emissions fee*
+
+    -   A tax on the amount of pollution emitted
+    -   Directly targets the externality
+    -   Still provides the incentive to reduce emissions through any means
+
+## Emissions Fees for Negative Externalities
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/ros55466_0506.jpg){fig-align="center"}
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph depicts costs on vertical axis, emissions on horizontal
+
+-   Marginal damage (MD) increases with emissions
+
+    -   There is a benefit to reducing emissions
+
+-   Marginal abatement cost (MAC) increases with abatement
+
+    -   Abatement reduces emissions, but is costly
+    -   Read this curve from right to left
+    -   i.e. at $E_0$ emissions, abatement is zero and MAC is zero
+
+-   Without emissions fee, firm emits $E_0$
+:::
+::::::
+
+## Emissions Fees for Negative Externalities
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/ros55466_0506.jpg){fig-align="center"}
+:::
+::::
+
+::: {.column width="50%"}
+-   There are net societal benefits to reducing emissions from $E_0$ to $E^*$
+
+    -   Reducing emissions reduces damage
+    -   There are costs, but benefits exceed costs
+
+-   Without some intervention, firm would not incur the cost of abatement despite societal benefit
+
+-   Government can impose an emissions fee equal to MD at $E^*$
+
+    -   This incentivizes the firm to reduce emissions to the social optimum
+:::
+::::::
+
+## Emissions Fees for Negative Externalities
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/ros55466_0506.jpg){fig-align="center"}
+:::
+::::
+
+::: {.column width="50%"}
+-   Imagine reducing emissions by one unit below $E_0$
+
+    -   Firm incurs cost of MAC
+    -   But avoids paying the emissions fee equal to f
+    -   Emissions fee is higher, so worth doing
+
+-   Firm continues reducing emissions until MAC = f
+
+    -   This occurs at $E^*$, the social optimum
+    -   Beyond that point, MAC exceeds f, so not worth further abatement
+:::
+::::::
+
+## Emissions Fees for Negative Externalities
+
+-   What if there are multiple polluters?
+
+    -   Each firm has different abatement costs
+    -   Each firm has different levels of pollution
+    -   But fee is the same for each polluter
+
+-   Mechanism works the same way
+
+    -   Each firm reduces emissions until MAC = f
+    -   Firms with low abatement costs reduce more
+    -   Firms with high abatement costs reduce less
+
+## Emissions Fees for Negative Externalities
+
+![](images/ros55466_0507.jpg){fig-align="center"}
+
+## Emissions Fees for Negative Externalities
+
+-   Canada's carbon tax was an example of an emissions fee
+
+    -   Applied to fossil fuels based on their carbon content
+    -   Incentivized firms and individuals to reduce carbon emissions
+
+-   Additional detail is that it was revenue-neutral
+
+    -   Most revenues were distributed back to individuals as lump sum payments
+
+-   This has been paused as of 2025 in favour of other approaches
+
+    -   Likely some regulations or subsidies
+
+## Tradeable Permits for Negative Externalities
+
+-   Another approach to addressing negative externalities is through tradeable permits (cap-and-trade)
+
+    -   Government sets a cap on total emissions allowed
+    -   Issues permits equal to the cap
+    -   Firms can buy and sell permits in a market
+
+-   Government can either give away the permits or auction them
+
+    -   In the real world, they are typically auctioned
+
+## Tradeable Permits for Negative Externalities
+
+-   Imagine government wants to cap emissions at 135 units
+
+    -   Issues 135 permits
+    -   Each permit allows one unit of emissions
+
+-   Azul is allocated 90 units, Madrid 45 units
+
+-   This initial allocation does not matter
+
+-   In graph on next slide, initially Azul emits 90 units, Madrid 45 units
+
+-   There is an incentive for Azul to sell some of its permits to Madrid
+
+    -   Madrid willing to pay more than Azul's cost to reduce emissions
+    -   Keep trading until MACs are equalized
+
+## Tradeable Permits for Negative Externalities
+
+![](images/ros55466_0508.jpg){fig-align="center"}
+
+## Tradeable Permits for Negative Externalities
+
+- Cap and trade achieves the social optimum
+
+    -   Total emissions equal to the cap
+    -   Firms reduce emissions until MACs are equalized
+    
+- Note that the emissions reduction is achieved regardless of permit trading
+
+  - The trades just ensure that reductions are made by firms with the lowest costs
+
+- Quebec has a cap and trade system in place
+
+    - Linked with California's system
+    - Covers large industrial emitters and fuel distributors
+    
+## Regulations and Negative Externalities
+
+- Market approaches like taxes and cap-and-trade allow the firms to figure out how to reduce emissions
+
+    - Provide flexibility and cost-effectiveness
+    
+- The government can just regulate emissions directly
+
+    - Set limits on emissions for firms
+    - Require use of specific technologies
+    
+- Generally, regulations are less efficient
+
+    - Do not allow firms to find the cheapest way to reduce emissions
+    - Can be more costly overall
+    
+    
+## Subsidies for Positive Externalities
+
+- Negative externalities are more prominent in policy discussions
+
+- But positive externalities also create inefficiencies
+
+    -   Too little of the good is produced
+    
+- Key areas with positive externalities
+
+    -   Education
+    -   Vaccinations
+    -   Research and development
+    
+- Governments often subsidize these activities to encourage more production
+
+## Subsidies for Positive Externalities
+
+- Pigouvian subsidies can address positive externalities
+
+    -   Subsidy equal to the external marginal benefit at the social optimum
+    -   This increases private marginal benefit to equal social marginal benefit
+    -   Encourages more production to the socially optimal level
+
+- Main issue with subsidies is that they need to be funded
+
+    -   Requires government revenue from taxes or other sources
+    -   Can create political challenges
+    
+    
+## Regulations for Positive Externalities
+
+- We can regulate to encourage more production of goods with positive externalities
+
+    -   Mandatory schooling laws
+    -   Vaccination requirements for school entry
+    
+
+- Typically failure to comply results in penalties
+
+    -   Fines
+    -   Denial of services (e.g., school enrollment)
+    
+- Main issue is balancing freedom versus public good
+
+    -   Can be controversial in some cases
+    - Vaccines are especially contentious in recent years
+    
+# Implications for the Income Distribution
+
+## Introduction
+
+- All of the discussion has been about efficiency
+
+  - How to get to the socially optimal level of production
   
-- However, social conventions may not be sufficient for large-scale externalities
+- But equity is also important
 
-  - Example: climate change requires coordinated action beyond social norms
+  - How are the costs and benefits of externalities distributed across society?
+  - How are the costs and benefits of government interventions distributed?
+  
+  
+## Who Benefits?
+
+
+- The costs and benefits of externalities are not evenly distributed
+
+  - Low income neighbourhoods bear costs of pollution disproportionately
+  
+      -   Pollution from factories often located near low-income neighborhoods
+      -   Health impacts from pollution can exacerbate existing inequalities
+        
+  - They also stand to benefit more from vaccination policies
+  
+      -   Lower-income individuals may have less access to healthcare
+      - May also live in denser areas, increasing disease spread risk
+      -   Vaccination reduces disease spread in vulnerable populations
+
+
+- Policies to address externalities should consider these distributional impacts
+
+## Who Bears Costs?
+
+- As with taxes, it is not always clear who bears costs
+
+- With a Pigouvian tax, emissions fee, or regulation, it is not as simple as who pays the tax
+
+    -   Firms may pass on costs to consumers through higher prices
+    -   Workers may face lower wages if firms reduce profits
+    -   Landowners may see changes in property values due to pollution or improvements
+    - Subdidies are financed by taxpayers
+    
+- Carbon taxes on their own are regressive
+
+    -   Low-income households spend a larger share of income on energy
+    -   But rebates can offset this effect
+
+- It is a difficult empirical question to determine the incidence of these policies
+
+# Summary
+
+## Summary
+
+-   Externalities are costs or benefits imposed on third parties not involved in a market transaction
+-   Negative externalities lead to overproduction, positive externalities lead to underproduction
+-   Private solutions like the Coase theorem can sometimes resolve externalities
+-   Public solutions include Pigouvian taxes and subsidies, emissions fees, tradeable permits, and regulations
+
+
 
 # References
 

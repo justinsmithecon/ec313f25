@@ -2796,6 +2796,195 @@
     "text": "Social Conventions\n\nSometimes social conventions can help solve externalities\n\nPeople may voluntarily reduce negative externalities to avoid social disapproval\nExample: littering, smoking in public\n\nHowever, social conventions may not be sufficient for large-scale externalities\n\nExample: climate change requires coordinated action beyond social norms"
   },
   {
+    "objectID": "slides/externalities/index.html#introduction-1",
+    "href": "slides/externalities/index.html#introduction-1",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nThis is a class in public economics, so it is natural to consider government intervention\nGovernment can use taxes, subsidies, or regulations to address externalities\nThis is a feasible approach when private solutions are not possible or insufficient\n\nThere are many situations where private solutions fail\n\nGovernment approaches are or have been used in practice to address carbon emissions\n\nCarbon tax\nCap and trade\nRegulations"
+  },
+  {
+    "objectID": "slides/externalities/index.html#pigouvian-taxes-for-negative-externalities",
+    "href": "slides/externalities/index.html#pigouvian-taxes-for-negative-externalities",
+    "title": "EC313 - Taxation",
+    "section": "Pigouvian Taxes for Negative Externalities",
+    "text": "Pigouvian Taxes for Negative Externalities\n\nWith negative externalities, too much is produced\n\nPeople/firms do not consider the full social cost of their actions\n\nOne way to internalize the externality is through a Pigouvian tax\n\nA tax equal to the marginal damage at the socially optimal level of output\n\nAs with other taxes, this imposes a cost on the producer\n\nChanges their incentives to account for the externality"
+  },
+  {
+    "objectID": "slides/externalities/index.html#pigouvian-taxes-for-negative-externalities-1",
+    "href": "slides/externalities/index.html#pigouvian-taxes-for-negative-externalities-1",
+    "title": "EC313 - Taxation",
+    "section": "Pigouvian Taxes for Negative Externalities",
+    "text": "Pigouvian Taxes for Negative Externalities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe socially optimal output is where PMB = SMC\nBut private producers only consider PMC\nPigouvian tax shifts PMC up to intersect PMB at the social optimum\n\nPrivate producers now face the full social cost of production\n\nThe tax equals the vertical distance between PMC and SMC at the social optimum\nRevenues equal height of the tax times quantity produced"
+  },
+  {
+    "objectID": "slides/externalities/index.html#pigouvian-taxes-for-negative-externalities-2",
+    "href": "slides/externalities/index.html#pigouvian-taxes-for-negative-externalities-2",
+    "title": "EC313 - Taxation",
+    "section": "Pigouvian Taxes for Negative Externalities",
+    "text": "Pigouvian Taxes for Negative Externalities\n\nGraph makes pigouvian tax seem straightforward\nBut depends on knowing the marginal damage function\n\nDifficult to measure in practice\n\nIn practice, governments may not get the tax at the perfect level\n\nBut even an approximate tax can improve efficiency"
+  },
+  {
+    "objectID": "slides/externalities/index.html#pigouvian-subsidies-for-negative-externalities",
+    "href": "slides/externalities/index.html#pigouvian-subsidies-for-negative-externalities",
+    "title": "EC313 - Taxation",
+    "section": "Pigouvian Subsidies for Negative Externalities",
+    "text": "Pigouvian Subsidies for Negative Externalities\n\nPigouvian taxes are a natural way to address negative externalities\n\nActs like a punnishment for harmful behavior\n\nBut the optimal output can also be achieved by subsidizing polluters\n\nPaying the polluter to reduce output\n\nThe subsidy would equal the marginal damage at the social optimum\nAny production above the social optimum would be discouraged by the subsidy"
+  },
+  {
+    "objectID": "slides/externalities/index.html#pigouvian-subsidies-for-negative-externalities-1",
+    "href": "slides/externalities/index.html#pigouvian-subsidies-for-negative-externalities-1",
+    "title": "EC313 - Taxation",
+    "section": "Pigouvian Subsidies for Negative Externalities",
+    "text": "Pigouvian Subsidies for Negative Externalities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nConsider producing \\(Q_1\\) initially\nWhere \\(PMB = PMC\\)\nGovernment offers subsidy equal to MD at social optimum for each unit not produced\n\nThis increases the private marginal cost\nCost = PMC + foregone subsidy\nShifts the cost curve up\n\nActs the same way as the tax"
+  },
+  {
+    "objectID": "slides/externalities/index.html#pigouvian-subsidies-for-negative-externalities-2",
+    "href": "slides/externalities/index.html#pigouvian-subsidies-for-negative-externalities-2",
+    "title": "EC313 - Taxation",
+    "section": "Pigouvian Subsidies for Negative Externalities",
+    "text": "Pigouvian Subsidies for Negative Externalities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIt is now optimal to produce at the social optimum\nThe government must pay money for each unit not produced\n\nEquals the height of the subsidy times the reduction in quantity from \\(Q_1\\) to \\(Q^*\\)"
+  },
+  {
+    "objectID": "slides/externalities/index.html#pigouvian-subsidies-for-negative-externalities-3",
+    "href": "slides/externalities/index.html#pigouvian-subsidies-for-negative-externalities-3",
+    "title": "EC313 - Taxation",
+    "section": "Pigouvian Subsidies for Negative Externalities",
+    "text": "Pigouvian Subsidies for Negative Externalities\n\nPigouvian subsidies for negative externalities are problematic\n\nPolitically difficult to justify paying polluters\nRequires government to have funds to pay subsidies\n\nCould require taxes elsewhere\n\nWould increase firm profits and draw firms into the industry\n\nThere are some real world examples\n\nEV rebates\nSubsidies for renewable energy production"
+  },
+  {
+    "objectID": "slides/externalities/index.html#emissions-fees-for-negative-externalities",
+    "href": "slides/externalities/index.html#emissions-fees-for-negative-externalities",
+    "title": "EC313 - Taxation",
+    "section": "Emissions Fees for Negative Externalities",
+    "text": "Emissions Fees for Negative Externalities\n\nA subtle detail about the pigouvian tax is that it is levied on output\n\nTax gives the incentive to reduce output\nBut does not directly target emissions\nCould be that the firm installs a pollution control technology instead of reducing output\nIn the case of the pigouvian tax, the tax bill would be the same\n\nAn alternative is an emissions fee\n\nA tax on the amount of pollution emitted\nDirectly targets the externality\nStill provides the incentive to reduce emissions through any means"
+  },
+  {
+    "objectID": "slides/externalities/index.html#emissions-fees-for-negative-externalities-1",
+    "href": "slides/externalities/index.html#emissions-fees-for-negative-externalities-1",
+    "title": "EC313 - Taxation",
+    "section": "Emissions Fees for Negative Externalities",
+    "text": "Emissions Fees for Negative Externalities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraph depicts costs on vertical axis, emissions on horizontal\nMarginal damage (MD) increases with emissions\n\nThere is a benefit to reducing emissions\n\nMarginal abatement cost (MAC) increases with abatement\n\nAbatement reduces emissions, but is costly\nRead this curve from right to left\ni.e. at \\(E_0\\) emissions, abatement is zero and MAC is zero\n\nWithout emissions fee, firm emits \\(E_0\\)"
+  },
+  {
+    "objectID": "slides/externalities/index.html#emissions-fees-for-negative-externalities-2",
+    "href": "slides/externalities/index.html#emissions-fees-for-negative-externalities-2",
+    "title": "EC313 - Taxation",
+    "section": "Emissions Fees for Negative Externalities",
+    "text": "Emissions Fees for Negative Externalities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThere are net societal benefits to reducing emissions from \\(E_0\\) to \\(E^*\\)\n\nReducing emissions reduces damage\nThere are costs, but benefits exceed costs\n\nWithout some intervention, firm would not incur the cost of abatement despite societal benefit\nGovernment can impose an emissions fee equal to MD at \\(E^*\\)\n\nThis incentivizes the firm to reduce emissions to the social optimum"
+  },
+  {
+    "objectID": "slides/externalities/index.html#emissions-fees-for-negative-externalities-3",
+    "href": "slides/externalities/index.html#emissions-fees-for-negative-externalities-3",
+    "title": "EC313 - Taxation",
+    "section": "Emissions Fees for Negative Externalities",
+    "text": "Emissions Fees for Negative Externalities\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImagine reducing emissions by one unit below \\(E_0\\)\n\nFirm incurs cost of MAC\nBut avoids paying the emissions fee equal to f\nEmissions fee is higher, so worth doing\n\nFirm continues reducing emissions until MAC = f\n\nThis occurs at \\(E^*\\), the social optimum\nBeyond that point, MAC exceeds f, so not worth further abatement"
+  },
+  {
+    "objectID": "slides/externalities/index.html#emissions-fees-for-negative-externalities-4",
+    "href": "slides/externalities/index.html#emissions-fees-for-negative-externalities-4",
+    "title": "EC313 - Taxation",
+    "section": "Emissions Fees for Negative Externalities",
+    "text": "Emissions Fees for Negative Externalities\n\nWhat if there are multiple polluters?\n\nEach firm has different abatement costs\nEach firm has different levels of pollution\nBut fee is the same for each polluter\n\nMechanism works the same way\n\nEach firm reduces emissions until MAC = f\nFirms with low abatement costs reduce more\nFirms with high abatement costs reduce less"
+  },
+  {
+    "objectID": "slides/externalities/index.html#emissions-fees-for-negative-externalities-5",
+    "href": "slides/externalities/index.html#emissions-fees-for-negative-externalities-5",
+    "title": "EC313 - Taxation",
+    "section": "Emissions Fees for Negative Externalities",
+    "text": "Emissions Fees for Negative Externalities"
+  },
+  {
+    "objectID": "slides/externalities/index.html#emissions-fees-for-negative-externalities-6",
+    "href": "slides/externalities/index.html#emissions-fees-for-negative-externalities-6",
+    "title": "EC313 - Taxation",
+    "section": "Emissions Fees for Negative Externalities",
+    "text": "Emissions Fees for Negative Externalities\n\nCanada’s carbon tax was an example of an emissions fee\n\nApplied to fossil fuels based on their carbon content\nIncentivized firms and individuals to reduce carbon emissions\n\nAdditional detail is that it was revenue-neutral\n\nMost revenues were distributed back to individuals as lump sum payments\n\nThis has been paused as of 2025 in favour of other approaches\n\nLikely some regulations or subsidies"
+  },
+  {
+    "objectID": "slides/externalities/index.html#tradeable-permits-for-negative-externalities",
+    "href": "slides/externalities/index.html#tradeable-permits-for-negative-externalities",
+    "title": "EC313 - Taxation",
+    "section": "Tradeable Permits for Negative Externalities",
+    "text": "Tradeable Permits for Negative Externalities\n\nAnother approach to addressing negative externalities is through tradeable permits (cap-and-trade)\n\nGovernment sets a cap on total emissions allowed\nIssues permits equal to the cap\nFirms can buy and sell permits in a market\n\nGovernment can either give away the permits or auction them\n\nIn the real world, they are typically auctioned"
+  },
+  {
+    "objectID": "slides/externalities/index.html#tradeable-permits-for-negative-externalities-1",
+    "href": "slides/externalities/index.html#tradeable-permits-for-negative-externalities-1",
+    "title": "EC313 - Taxation",
+    "section": "Tradeable Permits for Negative Externalities",
+    "text": "Tradeable Permits for Negative Externalities\n\nImagine government wants to cap emissions at 135 units\n\nIssues 135 permits\nEach permit allows one unit of emissions\n\nAzul is allocated 90 units, Madrid 45 units\nThis initial allocation does not matter\nIn graph on next slide, initially Azul emits 90 units, Madrid 45 units\nThere is an incentive for Azul to sell some of its permits to Madrid\n\nMadrid willing to pay more than Azul’s cost to reduce emissions\nKeep trading until MACs are equalized"
+  },
+  {
+    "objectID": "slides/externalities/index.html#tradeable-permits-for-negative-externalities-2",
+    "href": "slides/externalities/index.html#tradeable-permits-for-negative-externalities-2",
+    "title": "EC313 - Taxation",
+    "section": "Tradeable Permits for Negative Externalities",
+    "text": "Tradeable Permits for Negative Externalities"
+  },
+  {
+    "objectID": "slides/externalities/index.html#tradeable-permits-for-negative-externalities-3",
+    "href": "slides/externalities/index.html#tradeable-permits-for-negative-externalities-3",
+    "title": "EC313 - Taxation",
+    "section": "Tradeable Permits for Negative Externalities",
+    "text": "Tradeable Permits for Negative Externalities\n\nCap and trade achieves the social optimum\n\nTotal emissions equal to the cap\nFirms reduce emissions until MACs are equalized\n\nNote that the emissions reduction is achieved regardless of permit trading\n\nThe trades just ensure that reductions are made by firms with the lowest costs\n\nQuebec has a cap and trade system in place\n\nLinked with California’s system\nCovers large industrial emitters and fuel distributors"
+  },
+  {
+    "objectID": "slides/externalities/index.html#regulations-and-negative-externalities",
+    "href": "slides/externalities/index.html#regulations-and-negative-externalities",
+    "title": "EC313 - Taxation",
+    "section": "Regulations and Negative Externalities",
+    "text": "Regulations and Negative Externalities\n\nMarket approaches like taxes and cap-and-trade allow the firms to figure out how to reduce emissions\n\nProvide flexibility and cost-effectiveness\n\nThe government can just regulate emissions directly\n\nSet limits on emissions for firms\nRequire use of specific technologies\n\nGenerally, regulations are less efficient\n\nDo not allow firms to find the cheapest way to reduce emissions\nCan be more costly overall"
+  },
+  {
+    "objectID": "slides/externalities/index.html#subsidies-for-positive-externalities",
+    "href": "slides/externalities/index.html#subsidies-for-positive-externalities",
+    "title": "EC313 - Taxation",
+    "section": "Subsidies for Positive Externalities",
+    "text": "Subsidies for Positive Externalities\n\nNegative externalities are more prominent in policy discussions\nBut positive externalities also create inefficiencies\n\nToo little of the good is produced\n\nKey areas with positive externalities\n\nEducation\nVaccinations\nResearch and development\n\nGovernments often subsidize these activities to encourage more production"
+  },
+  {
+    "objectID": "slides/externalities/index.html#subsidies-for-positive-externalities-1",
+    "href": "slides/externalities/index.html#subsidies-for-positive-externalities-1",
+    "title": "EC313 - Taxation",
+    "section": "Subsidies for Positive Externalities",
+    "text": "Subsidies for Positive Externalities\n\nPigouvian subsidies can address positive externalities\n\nSubsidy equal to the external marginal benefit at the social optimum\nThis increases private marginal benefit to equal social marginal benefit\nEncourages more production to the socially optimal level\n\nMain issue with subsidies is that they need to be funded\n\nRequires government revenue from taxes or other sources\nCan create political challenges"
+  },
+  {
+    "objectID": "slides/externalities/index.html#regulations-for-positive-externalities",
+    "href": "slides/externalities/index.html#regulations-for-positive-externalities",
+    "title": "EC313 - Taxation",
+    "section": "Regulations for Positive Externalities",
+    "text": "Regulations for Positive Externalities\n\nWe can regulate to encourage more production of goods with positive externalities\n\nMandatory schooling laws\nVaccination requirements for school entry\n\nTypically failure to comply results in penalties\n\nFines\nDenial of services (e.g., school enrollment)\n\nMain issue is balancing freedom versus public good\n\nCan be controversial in some cases\nVaccines are especially contentious in recent years"
+  },
+  {
+    "objectID": "slides/externalities/index.html#introduction-2",
+    "href": "slides/externalities/index.html#introduction-2",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nAll of the discussion has been about efficiency\n\nHow to get to the socially optimal level of production\n\nBut equity is also important\n\nHow are the costs and benefits of externalities distributed across society?\nHow are the costs and benefits of government interventions distributed?"
+  },
+  {
+    "objectID": "slides/externalities/index.html#who-benefits",
+    "href": "slides/externalities/index.html#who-benefits",
+    "title": "EC313 - Taxation",
+    "section": "Who Benefits?",
+    "text": "Who Benefits?\n\nThe costs and benefits of externalities are not evenly distributed\n\nLow income neighbourhoods bear costs of pollution disproportionately\n\nPollution from factories often located near low-income neighborhoods\nHealth impacts from pollution can exacerbate existing inequalities\n\nThey also stand to benefit more from vaccination policies\n\nLower-income individuals may have less access to healthcare\nMay also live in denser areas, increasing disease spread risk\nVaccination reduces disease spread in vulnerable populations\n\n\nPolicies to address externalities should consider these distributional impacts"
+  },
+  {
+    "objectID": "slides/externalities/index.html#who-bears-costs",
+    "href": "slides/externalities/index.html#who-bears-costs",
+    "title": "EC313 - Taxation",
+    "section": "Who Bears Costs?",
+    "text": "Who Bears Costs?\n\nAs with taxes, it is not always clear who bears costs\nWith a Pigouvian tax, emissions fee, or regulation, it is not as simple as who pays the tax\n\nFirms may pass on costs to consumers through higher prices\nWorkers may face lower wages if firms reduce profits\nLandowners may see changes in property values due to pollution or improvements\nSubdidies are financed by taxpayers\n\nCarbon taxes on their own are regressive\n\nLow-income households spend a larger share of income on energy\nBut rebates can offset this effect\n\nIt is a difficult empirical question to determine the incidence of these policies"
+  },
+  {
+    "objectID": "slides/externalities/index.html#summary-1",
+    "href": "slides/externalities/index.html#summary-1",
+    "title": "EC313 - Taxation",
+    "section": "Summary",
+    "text": "Summary\n\nExternalities are costs or benefits imposed on third parties not involved in a market transaction\nNegative externalities lead to overproduction, positive externalities lead to underproduction\nPrivate solutions like the Coase theorem can sometimes resolve externalities\nPublic solutions include Pigouvian taxes and subsidies, emissions fees, tradeable permits, and regulations"
+  },
+  {
     "objectID": "slides/externalities/index.html#references-1",
     "href": "slides/externalities/index.html#references-1",
     "title": "EC313 - Taxation",
