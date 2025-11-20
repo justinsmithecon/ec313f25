@@ -51,7 +51,8 @@ website:
               file: content/constax.qmd
             - text: "Externalities and Pigouvian Taxes"
               file: content/externalities.qmd
-
+            - text: "The Corporation Tax"
+              file: content/corptax.qmd
               
     - title: "Assignments"
       style: "docked"
