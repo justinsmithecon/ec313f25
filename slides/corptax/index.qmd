@@ -254,161 +254,665 @@ $$\text{After-tax cost} = (1-\psi)q$$
 
     -   Explained in detail here: <https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/report-business-income-expenses/claiming-capital-cost-allowance/accelerated-investment-incentive.html>
 
-
 ## Depreciation
 
-- An alternative to the straight line method is the **declining balance method**
+-   An alternative to the straight line method is the **declining balance method**
 
-  - Declining balance is more common in Canada
-  
-- Under declining balance, a fixed percentage of the remaining undepreciated value is deducted each year
+    -   Declining balance is more common in Canada
 
-- For example, if the declining balance rate is 20%, in the first year the firm deducts 20% of the initial cost, in the second year it deducts 20% of the remaining value after the first year's deduction, and so on
+-   Under declining balance, a fixed percentage of the remaining undepreciated value is deducted each year
 
-- This results in larger deductions in the earlier years and smaller deductions in later years
+-   For example, if the declining balance rate is 20%, in the first year the firm deducts 20% of the initial cost, in the second year it deducts 20% of the remaining value after the first year's deduction, and so on
 
+-   This results in larger deductions in the earlier years and smaller deductions in later years
 
 ## Investment Tax Credits
 
 -   In addition to depreciation deductions, firms may also be eligible for investment tax credits (ITCs)
 
-- Recall: deductions reduce taxable income, while credits reduce tax liability directly
+-   Recall: deductions reduce taxable income, while credits reduce tax liability directly
 
-- ITCs are typically a percentage of the purchase price of investments
+-   ITCs are typically a percentage of the purchase price of investments
 
-- Reduce the tax liability in the year the investment is made
+-   Reduce the tax liability in the year the investment is made
 
-- Example: a 10% ITC on a \$1000 machine would reduce the firm's tax liability by \$100 in the year of purchase
+-   Example: a 10% ITC on a \$1000 machine would reduce the firm's tax liability by \$100 in the year of purchase
 
-- Canada has used ITCs to enourage investment in certain sectors or regions
+-   Canada has used ITCs to enourage investment in certain sectors or regions
 
-    - Manufacturing and processing, clean energy
-    - Atlantic region
+    -   Manufacturing and processing, clean energy
+    -   Atlantic region
 
 ## Interest
 
 -   Corporations can deduct interest payments on debt from their taxable income
 
-    - Interest payments are a cost of doing business
-    
-- Suppose the firm borrowed the money to buy the \$1000 machine
+    -   Interest payments are a cost of doing business
 
-  - Imagine it keeps the loan for all 10 years, repaying at the end
-  - Interest rate is 10%
-  - Each year, the firm pays \$100 in interest (10% of \$1000)
+-   Suppose the firm borrowed the money to buy the \$1000 machine
 
-- The firm can deduct this \$100 interest payment from its taxable income each year
+    -   Imagine it keeps the loan for all 10 years, repaying at the end
+    -   Interest rate is 10%
+    -   Each year, the firm pays \$100 in interest (10% of \$1000)
 
-- This reduces the firm's taxable income and thus its tax liability
+-   The firm can deduct this \$100 interest payment from its taxable income each year
 
-    - If the corporate tax rate is 20%, the firm saves \$20 in taxes each year due to the interest deduction
-    
+-   This reduces the firm's taxable income and thus its tax liability
+
+    -   If the corporate tax rate is 20%, the firm saves \$20 in taxes each year due to the interest deduction
+
 ## Interest
 
-- The present value of this stream of tax savings from interest deductions is
-
+-   The present value of this stream of tax savings from interest deductions is
 
 $$PV = \frac{20}{(1+r)} + \frac{20}{(1+r)^2} + ... + \frac{20}{(1+r)^{10}}$$
 
-- In general, the present value of the tax savings from interest deductions is
+-   In general, the present value of the tax savings from interest deductions is
 
 $$PV = \frac{i \times q \times t}{(1+r)} + \frac{i \times q \times t}{(1+r)^2} + ... + \frac{i \times q \times t}{(1+r)^{T}}$$
 
 ## Interest
 
-- Factoring out the initial loan value $q$, you get
+-   Factoring out the initial loan value $q$, you get
 
 $$PV = q \times \left(\frac{i \times t}{(1+r)} + \frac{i \times t}{(1+r)^2} + ... + \frac{i \times t}{(1+r)^{T}}\right)$$
 
+-   If we call the term in brackets $\lambda$, then the tax savings is $q \times \lambda$
 
-- If we call the term in brackets $\lambda$, then the tax savings is $q \times \lambda$
-
-- The after-tax cost of the loan is then
+-   The after-tax cost of the loan is then
 
 $$\text{After-tax cost} = (1-\lambda)q$$
 
 ## Dividends
 
-- Dividends are a main way to extract profits from a corporation
+-   Dividends are a main way to extract profits from a corporation
 
-  - They are payments made to shareholders from the corporation's earnings
-  
-- The value of dividends are taxed as personal income to the shareholders
+    -   They are payments made to shareholders from the corporation's earnings
 
-- They are not deductible from the corporation's taxable income
+-   The value of dividends are taxed as personal income to the shareholders
 
-- Raises the question of double taxation
+-   They are not deductible from the corporation's taxable income
 
-    - Corporation pays tax on its earnings
-    - Shareholders pay tax on dividends received
+-   Raises the question of double taxation
 
-##  Dividends
+    -   Corporation pays tax on its earnings
+    -   Shareholders pay tax on dividends received
 
-- To mitigate double taxation, Canada has a **dividend gross-up and tax credit system**
+## Dividends
 
-- When shareholders receive dividends, they must "gross up" the dividend amount by a certain percentage to reflect the pre-tax income of the corporation
+-   To mitigate double taxation, Canada has a **dividend gross-up and tax credit system**
 
-- They then pay personal income tax on this grossed-up amount
+-   When shareholders receive dividends, they must "gross up" the dividend amount by a certain percentage to reflect the pre-tax income of the corporation
 
-- To offset this, shareholders receive a dividend tax credit that reduces their personal tax liability
+-   They then pay personal income tax on this grossed-up amount
 
-- In the end, the total tax paid on corporate earnings distributed as dividends is intended to be roughly equivalent to the tax that would have been paid if the income were earned directly by the shareholders
+-   To offset this, shareholders receive a dividend tax credit that reduces their personal tax liability
 
-
-## Dividend Tax Credit System
-
-- Imagine a corporation earns \$125 in pre-tax profits
-
-- It pays a corporate tax of 20%, leaving \$100 in after-tax profits
-
-- Distributing this \$100 as a dividend to a shareholder
-
-- The shareholder grosses up the dividend by 25% (the gross-up rate for eligible dividends), resulting in a grossed-up amount of \$125
-
-- The shareholder pays personal income tax on this \$125
-
-- If the rate is 40%, the tax owed is \$50
+-   In the end, the total tax paid on corporate earnings distributed as dividends is intended to be roughly equivalent to the tax that would have been paid if the income were earned directly by the shareholders
 
 ## Dividend Tax Credit System
 
+-   Imagine a corporation earns \$125 in pre-tax profits
 
-- The shareholder then receives a dividend tax credit to offset some of this tax
+-   It pays a corporate tax of 20%, leaving \$100 in after-tax profits
 
-- If the tax credit is 20% of the grossed-up amount, the credit is \$25
+-   Distributing this \$100 as a dividend to a shareholder
 
-- The shareholder's net tax liability on the dividend is then
+-   The shareholder grosses up the dividend by 25% (the gross-up rate for eligible dividends), resulting in a grossed-up amount of \$125
 
-  - Tax owed: \$50
-  - Minus tax credit: \$25
-  - Net tax liability: \$25
-  
-- Total tax paid on the original \$125 of corporate profits is
+-   The shareholder pays personal income tax on this \$125
 
-  - Corporate tax: \$25
-  - Shareholder tax: \$25
-  - Total tax: \$50
-
+-   If the rate is 40%, the tax owed is \$50
 
 ## Dividend Tax Credit System
 
-- Notice that this is the same as if the shareholder had earned the \$125 directly and paid 40% personal income tax
+-   The shareholder then receives a dividend tax credit to offset some of this tax
 
-  - It instead comes partly from the corporation and partly from the shareholder
+-   If the tax credit is 20% of the grossed-up amount, the credit is \$25
 
-- This system helps to integrate corporate and personal taxation, reducing the double taxation of dividends
+-   The shareholder's net tax liability on the dividend is then
 
-- Currently in Canada for regular businesses
+    -   Tax owed: \$50
+    -   Minus tax credit: \$25
+    -   Net tax liability: \$25
 
-  - The federal gross-up rate for eligible dividends is 38%
-  - The federal dividend tax credit rate is 15.02% of the grossed-up amount
+-   Total tax paid on the original \$125 of corporate profits is
+
+    -   Corporate tax: \$25
+    -   Shareholder tax: \$25
+    -   Total tax: \$50
+
+## Dividend Tax Credit System
+
+-   Notice that this is the same as if the shareholder had earned the \$125 directly and paid 40% personal income tax
+
+    -   It instead comes partly from the corporation and partly from the shareholder
+
+-   This system helps to integrate corporate and personal taxation, reducing the double taxation of dividends
+
+-   Currently in Canada for regular businesses
+
+    -   The federal gross-up rate for eligible dividends is 38%
+    -   The federal dividend tax credit rate is 15.02% of the grossed-up amount
+
+-   For small byusinesses, the rates are different
+
+    -   The federal gross-up rate is 15%
+    -   The federal dividend tax credit rate is 9.03% of the grossed-up amount
+
+-   There are also provincial variations
+
+## Retained Earnings
+
+-   Corporations can retain earnings instead of distributing them as dividends
+
+-   Retained earnings are reinvested in the business or held as cash reserves
+
+-   Should a firm retain earnings or pay them out as dividends?
+
+-   If given out as dividends
+
+    -   Shareholders pay personal income tax on the dividends received
+    -   Recall that because of the gross-up and tax credit system, this is roughly equivalent to personal income tax
+
+## Retained Earnings
+
+-   If retained
+
+    -   No personal income tax
+    -   But value of shares increase
+    -   Shareholders pay capital gains, but only when they sell the shares
+    -   Inclusion rate is 50%
+
+-   Preferential treatment of capital gains creates an incentive to retain earnings
+
+## Tax Expenditures
+
+-   Tax expenditures are indirect ways the government spends money through the tax system
+
+    -   Through eductions, credits, exemptions, and preferential rates
+
+-   Governments use both the personal and corporate tax systems for tax expenditures
+
+-   Examples in the corporate tax system include
+
+    -   Charitable donation deduction
+    -   Film tax credit
+    -   Investment tax credit
+    -   Lower small business tax rates
+
+-   All ways in which government targets assistance to particular activities or groups
+
+## Effective Tax Rates
+
+-   The statutory corporate tax rate is not the same as the effective tax rate
+
+-   The effective tax rate takes into account deductions, credits, inflation, and other provisions that affect the actual tax paid
+
+-   The combined federal + provincial statutory rate averages around 28%
+
+-   The average effective tax rates vary from 7%-23%
+
+    -   Higher for larger firms and retain operations
+    -   Lowest for firms in forestry and manufacturing
+
+## Effective Tax Rates
+
+-   Inflation is one factor that can change the effective tax rate
+
+-   Three main ways inflation affects corporate taxes
+
+    -   Undervalues deductions for goods in inventory, leads to higher taxable income
+    -   Depreciation is based on historical cost, not replacement cost, leading to higher taxable income
+    -   Interest deductions lead to lower taxable income
+        -   Interest paid is deductible from income
+        -   Deduction is based on nominal interest
+        -   Nominal interest includes real cost of borrowing + inflation component
+        -   Inflation component is not a real cost, so deduction is overstated
+
+## Effective Tax Rates
+
+-   Overall, inflation tends to increase the effective corporate tax rate
+
+-   Studies show that adjusting for inflation can reduce corporate income tax substantially
+
+    -   Old studies showed that they would be about 40% lower
+    -   Strongest effects in capital-intensive industries like forestry
+    -   For some companies tax on real profits was greater than 100%
+
+# Incidence and Excess Burden
+
+## Introduction
+
+-   Two key concepts we have come back to throughout the course are
+
+    -   Incidence: who ultimately bears the burden of a tax
+    -   Excess burden: the efficiency cost of a tax beyond the revenue raised
+
+-   We discussed in the context of consumption and personal income taxes
+
+-   Corporate tax can also create these issues
+
+## Tax Incidence
+
+-   Suppose the government levies a corporate tax
+
+    -   The statutory incidence is on the corporation
+
+-   Who bears the economic incidence?
+
+-   If the corporation produces goods/services, it may shift some to consumers
+
+    -   Higher prices
+    -   Depends on price elasticity of demand
+
+## Tax Incidence
+
+-   Suppose the corporations bear some of the economic burden
+
+-   In a general equilibrium setting, they can shift to other factors of production
+
+    -   Labour
+    -   Capital
+
+-   If corporations employ a large share of workers
+
+    -   Supply may not be very elastic
+    -   Workers could bear some burden
+
+## Tax Incidence
+
+-   Corporate capital owners may also bear some burden
+
+    -   In the short run, capital may not be very mobile
+
+        -   Capital would bear a burden initially
+
+    -   In the longer run, it could move elsewhere
+
+        -   Increases elasticity
+        -   Burden on capital owners would be lower
+
+-   If capital is more mobile than labour in the longer run, then workers would bear more of the burden
+
+## Tax Incidence
+
+-   The corporate tax can also affect investment decisions
+
+    -   The tax lowers the after-tax return
+    -   Investors would move to the non-corporate sector seeking higher returns
+    -   Increases supply of capital in non-corporate sector
+    -   Leads to lower returns there too
+
+-   Investors in the non-corporate sector would therefore also bear some burden
+
+## Excess Burden
+
+-   Corporate taxes create a distortion in investment decisions
+
+    -   Investors may shift away from corporate investments and toward other investments
+    -   Firms may choose to not incorporate despite the benefits
+    -   Creates a substitution effect
+    -   Shifts the allocation of capital in the economy away from the efficient level
+
+-   The distortion leads to an excess burden
+
+    -   The loss in economic efficiency beyond the tax revenue raised
+
+-   Estimates are that the excess burden of corporate taxes are that for each dollar raised, there is an additional 50 cents of excess burden
+
+# Effects on Behaviour
+
+## Introduction
+
+-   As we have learned throughout the course, taxes alter behaviour
+
+-   For corporate taxes we might expect three changes
+
+    -   The amount of investment in physical assets (equipment)
+    -   The types of investment in physical assets
+    -   How these investments are financed
+
+-   We will cover each in turn
+
+## Total Physical Investment
+
+-   Consider a firm investing in a new machine
+
+-   The cost of the machine in a particular year is
+
+    -   Depreciation: the direct cost of owning the machine that year
+    -   Opportunity cost: the return that could be earned if the money were invested elsewhere
+
+-   Can express both as a percentage of each dollar invested
+
+    -   Depreciation might be 2%
+    -   Opportunity cost might be 10%
+
+-   In example, only invest in new machine if return \> 12%
+
+## Total Physical Investment
+
+-   The cost of ownership of an asset is called the **user cost of capital**
+
+    -   In this case, the sum of the direct and opportunity costs
+    -   It equals the **minimum earnings** required for each one dollar investment
+
+-   In general you can express the user cost of capital as
+
+$$C = r + d $$
+
+-   Where
+
+    -   $C$ is the earnings from the investment
+    -   $r$ is the opportunity cost of capital (interest rate)
+    -   $d$ is the depreciation rate of the asset
+
+## Total Physical Investment
+
+-   Corporate taxes add to these costs
+
+-   Suppose the tax rate is $t$
+
+-   Now the *after-tax* earnings must be as large as the costs
+
+-   After- tax earnings are $(1-t)C$, which means
+
+$$C(1-t) = r + d $$
+
+## Total Physical Investment
+
+-   Rearranging gives
+
+$$C = \frac{r + d}{1-t} $$
+
+-   The pre-tax user cost of capital is divided by (1 - t)
+
+-   This grosses up the required earnings to cover the tax paid
+
+## Total Physical Investment
+
+-   Example
+
+    -   Suppose there are no taxes and $r = 10\%$ and $d = 2\%$
+    -   The earnings required per dollar invested is $C = 0.10 + 0.02 = 0.12$ or 12%
+    -   Now suppose there is a corporate tax of 45% ($t = 0.45$)
+    -   The new required earnings is $C = \frac{0.10 + 0.02}{1-0.45} = \frac{0.12}{0.55} = 0.2182$ or 21.82%
+
+-   Need to earn more to cover the tax paid
+
+## Total Physical Investment
+
+-   Things get slightly more complicated when you consider deductions
+
+-   Suppose the firm can deduct the whole expense of the asset
+
+-   The after-tax user cost of capital is then
+
+$$C = \frac{(r + d) - (r+d)t)}{1 - t} = \frac{ (r+d)(1 - t)}{1 - t} = r+d$$
+
+-   In this case, the corporate tax has no effect on the user cost of capital
+
+    -   Since no tax is paid on the investment
+
+## Total Physical Investment
+
+-   In reality, firms cannot deduct the full cost of an asset in the year of purchase
+
+    -   As we saw earlier, depreciation deductions spread the cost over time
+
+-   In this case, the deductibility mitigates the cost, but not entirely
+
+-   Suppose the deduction is equal to $\psi$ of the cost
+
+$$C = \frac{(r + d) - (r+d)\psi)}{1 - t} = \frac{ (r+d)(1 - \psi)}{1 - t} $$
+
+## Total Physical Investment
+
+-   There may also be investment tax credits (ITCs) that further mitigate the cost
+
+-   Suppose the ITC is equal to $k$ of the cost
+
+-   Then the user cost of capital is
+
+$$C = \frac{(r + d) - (r+d)(\psi + k)}{1 - t} = \frac{ (r+d)(1 - \psi - k)}{1 - t} $$
+
+## Total Physical Investment
+
+-   Finally, a firm might finance the investment with debt
+
+-   Interest payments are deductible from taxable income
+
+-   Suppose the interest rate is $\lambda$
+
+-   The user cost of capital is then
+
+$$C = \frac{(r + d) - (r+d)(\psi + k + \lambda) }{1 - t} = \frac{ (r+d)(1 - \psi - k - \lambda )}{1 - t} $$
+
+## Total Physical Investment
+
+-   Somewhat complicated discussion, but the main elements are
+
+    -   Corporate taxes generally increase the user cost of capital
+    -   This reduces the incentive to invest in physical assets
+    -   Deductions, credits, and interest deductions can mitigate this effect
+    -   The overall impact depends on the specifics of the tax system and firm behaviour
+
+-   Evidence supports the idea that tax incentives can affect investment
+
+## Types of Investment
+
+-   Tax incentives are not necessarily applied equally to all investments
+
+    -   In Canada manufacturers can use full expensing
+    -   Also full expensing for clean energy investments
+    -   Other eligible property allowed accelerated depreciation
+
+-   This creates incentives to invest in certain types of assets over others
+
+-   Table on next slide shows Marginal Effective Tax Rates for various types of investments in Canada
+
+## Types of Investment
+
+![](images/ros55466_t2104.jpg){fig-align="center"}
+
+## Financing Investments
+
+- Firms need to decide to pay dividends or retain earnings    
+
+
+- Also how to finance an investment
+
+    -   Debt (loans, bonds)
+    -   Equity (issuing stock)
+    
+    
+- The tax system can affect these
+
+## Financing Investments
+
+- We covered earlier that preferential tax treatment of capital gains creates an incentive to retain earnings
+
+  - If $1 of earnings increases share value by $1
+  - Gains on shares only taxed when sold
+  - And only taxed on half the gains
+
+- So the tax system creates an incentive to retain earnings rather than pay dividends
+
+- Firms do retain substantial earnings, but also pay some dividends
+
+- Why would they do that when there is a tax incentive to retain?
+
+## Financing Investments
+
+- One reason is signalling
+
+    - Paying dividends can signal to investors that the firm is doing well
+    - Investors may view dividend-paying firms as more stable and reliable
+    - This can increase demand for the firm's stock, raising its price
+    
+- Second reason is differences in marginal tax rates
+
+  - Some shareholders may have lower marginal tax rates 
+  - So dividends could offer a lower tax burden for them
   
-- For small byusinesses, the rates are different
+- Investors tend to flock to firms that offer the best financial policies
 
-  - The federal gross-up rate is 15%
-  - The federal dividend tax credit rate is 9.03% of the grossed-up amount
+  - Called **clientele effects**
   
-- There are also provincial variations
+## Financing Investments
 
+- The tax system can also affect how firms finance investments
+
+- Interest payments on debt are deductible from taxable income
+
+- Dividends paid to shareholders are not deductible
+
+- This creates an incentive to finance investments with debt rather than equity
+
+  - Raising a dollar through debt is cheaper than raising a dollar through equity
+  
+  
+- There are additional costs to debt financing bankruptcy risk that increase the non-monetary cost
+
+  - So we would not expect to see everyone using only debt financing
+  
+  
+  
+# Taxation of Multinationals
+
+## Introduction
+
+- Canadian firms operate in most foreign countries
+
+- How does the corporate tax system handle income earned abroad?
+
+- We cover that in this section
+
+  - Note that we do not cover the taxation of foreign firms operating in Canada 
+  
+- First cover the rules and then tax policy
+
+
+## Rules for Taxation of Foreign Income
+
+- General principle is to be neutral with respect to where income is earned
+
+  - Wants firms to face similar taxes here and abroad
+  
+- But also wants to ensure Canadian government collects tax revenue
+
+  - Avoid tax avoidance which erodes the tax base
+  
+- Rules differentiate between active and passive income
+
+  - Active income: business income from operations
+  - Passive income: investment income (dividends, interest, royalties)
+  
+## Rules for Taxation of Foreign Income
+
+- Passive income is included in taxable income when it is earned
+
+  - Taxed at the Canadian corporate tax rate
+  - Foreign tax credits available for taxes paid abroad
+  
+- Active income of incorporated subsidiaries is taxed only in the source country
+
+  - These are separate legal entities from the main business
+  
+- Active income of branches is taxed in Canada when earned
+
+  - Branches are not separate legal entities
+
+## Rules for Taxation of Foreign Income
+
+- Corporate taxation of a firm operating in multiple countries can be problematic
+
+- Generally, Canadian firms use the **arm's length principle**
+
+  - Profits are each entity's own sales minus costs
+  
+- Can lead to **transfer pricing** issues
+
+  - Firms may manipulate prices of goods/services traded between entities to shift profits to low-tax jurisdictions
+  - Example: IP owned in low-tax country, charged high royalties to subsidiaries in high-tax countries
+      - Royalties are tax deductible
+      - Income is earned in low-tax country
+  
+  
+## Tax Policy
+
+- We discuss two policy goals of the Canadian government
+
+  - Maximize world income
+  - Maximize national income
+
+- First imagine the goal is to maximize world income
+
+- Firms maximize global incomes when pre-tax returns are the same across countries
+
+  - Want capital to move where it is most productive
+  - This only happens when pre-tax returns are equalized
+  - There are no distortions from taxes
+  
+  
+## Tax Policy
+
+- Equal pre-tax returns happen when
+
+$ r_f = r_c $$
+
+- When taxes exist, firms distort their decisions and equalize after-tax returns
+  
+$$(1 - t_f)r_f = (1 - t_c)r_c$$
+
+
+- If goal is equal pre-tax returns, then need to set
+
+$$ t_c = t_f $$
+
+
+## Tax Policy
+
+- Means Canadian and foreign taxation needs to be equal
+
+  - So no distortions are created
+  
+- Canadian firms allow a tax credit up to the Canadian tax on foreign income
+
+  - Cannot allow more than that or foreign firms could increase taxes to raise revenue without any consequence
+  
+  
+- The government may instead try to maximize national income
+
+  - Focus on income that accrues to Canadian residents
+  - Equals before tax income earned in Canada plus after-tax income earned abroad
+  
+## Tax Policy
+
+- In this instance, policy should be to equalize
+
+$$ r_f (1 - t_f) = r_c $$
+
+- Means pre-tax Canadian returns equal after-tax foreign returns
+
+  - Prioritizes income earned in Canada
+  - Foreign income pre-tax needs to have higher return than Canadian
+ 
+ 
+## Tax Policy
+  
+- If Canada wants to maximize national income, then should set
+  
+$$ r_f (1 - t_f) (1-t_c)= r_c (1-t_c) $$  
+
+
+- Sets the same tax rate on after-tax foreign income as on pre-tax Canadian income
+
+  - Can do this by allowing foreign tax deduction
+  
+  
+  
 # References
 
 ## References

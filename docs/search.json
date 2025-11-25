@@ -3932,5 +3932,271 @@
     "title": "EC313 - Taxation",
     "section": "References",
     "text": "References\n\nRosen, Harvey S., and Lindsay M. Tedds, and Trevor Tombe, and Jean-Francois Wen, and Tracy Snoddon. Public Finance in Canada. 6th Canadian edition. McGraw-Hill Ryerson, 2023.\nGruber, Jonathan. Public Finance and Public Policy. 7th edition. Worth Publishers, 2022."
+  },
+  {
+    "objectID": "slides/corptax/index.html#retained-earnings",
+    "href": "slides/corptax/index.html#retained-earnings",
+    "title": "EC313 - Taxation",
+    "section": "Retained Earnings",
+    "text": "Retained Earnings\n\nCorporations can retain earnings instead of distributing them as dividends\nRetained earnings are reinvested in the business or held as cash reserves\nShould a firm retain earnings or pay them out as dividends?\nIf given out as dividends\n\nShareholders pay personal income tax on the dividends received\nRecall that because of the gross-up and tax credit system, this is roughly equivalent to personal income tax"
+  },
+  {
+    "objectID": "slides/corptax/index.html#retained-earnings-1",
+    "href": "slides/corptax/index.html#retained-earnings-1",
+    "title": "EC313 - Taxation",
+    "section": "Retained Earnings",
+    "text": "Retained Earnings\n\nIf retained\n\nNo personal income tax\nBut value of shares increase\nShareholders pay capital gains, but only when they sell the shares\nInclusion rate is 50%\n\nPreferential treatment of capital gains creates an incentive to retain earnings"
+  },
+  {
+    "objectID": "slides/corptax/index.html#tax-expenditures",
+    "href": "slides/corptax/index.html#tax-expenditures",
+    "title": "EC313 - Taxation",
+    "section": "Tax Expenditures",
+    "text": "Tax Expenditures\n\nTax expenditures are indirect ways the government spends money through the tax system\n\nThrough eductions, credits, exemptions, and preferential rates\n\nGovernments use both the personal and corporate tax systems for tax expenditures\nExamples in the corporate tax system include\n\nCharitable donation deduction\nFilm tax credit\nInvestment tax credit\nLower small business tax rates\n\nAll ways in which government targets assistance to particular activities or groups"
+  },
+  {
+    "objectID": "slides/corptax/index.html#effective-tax-rates",
+    "href": "slides/corptax/index.html#effective-tax-rates",
+    "title": "EC313 - Taxation",
+    "section": "Effective Tax Rates",
+    "text": "Effective Tax Rates\n\nThe statutory corporate tax rate is not the same as the effective tax rate\nThe effective tax rate takes into account deductions, credits, inflation, and other provisions that affect the actual tax paid\nThe combined federal + provincial statutory rate averages around 28%\nThe average effective tax rates vary from 7%-23%\n\nHigher for larger firms and retain operations\nLowest for firms in forestry and manufacturing"
+  },
+  {
+    "objectID": "slides/corptax/index.html#effective-tax-rates-1",
+    "href": "slides/corptax/index.html#effective-tax-rates-1",
+    "title": "EC313 - Taxation",
+    "section": "Effective Tax Rates",
+    "text": "Effective Tax Rates\n\nInflation is one factor that can change the effective tax rate\nThree main ways inflation affects corporate taxes\n\nUndervalues deductions for goods in inventory, leads to higher taxable income\nDepreciation is based on historical cost, not replacement cost, leading to higher taxable income\nInterest deductions lead to lower taxable income\n\nInterest paid is deductible from income\nDeduction is based on nominal interest\nNominal interest includes real cost of borrowing + inflation component\nInflation component is not a real cost, so deduction is overstated"
+  },
+  {
+    "objectID": "slides/corptax/index.html#effective-tax-rates-2",
+    "href": "slides/corptax/index.html#effective-tax-rates-2",
+    "title": "EC313 - Taxation",
+    "section": "Effective Tax Rates",
+    "text": "Effective Tax Rates\n\nOverall, inflation tends to increase the effective corporate tax rate\nStudies show that adjusting for inflation can reduce corporate income tax substantially\n\nOld studies showed that they would be about 40% lower\nStrongest effects in capital-intensive industries like forestry\nFor some companies tax on real profits was greater than 100%"
+  },
+  {
+    "objectID": "slides/corptax/index.html#introduction-9",
+    "href": "slides/corptax/index.html#introduction-9",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nTwo key concepts we have come back to throughout the course are\n\nIncidence: who ultimately bears the burden of a tax\nExcess burden: the efficiency cost of a tax beyond the revenue raised\n\nWe discussed in the context of consumption and personal income taxes\nCorporate tax can also create these issues"
+  },
+  {
+    "objectID": "slides/corptax/index.html#tax-incidence",
+    "href": "slides/corptax/index.html#tax-incidence",
+    "title": "EC313 - Taxation",
+    "section": "Tax Incidence",
+    "text": "Tax Incidence\n\nSuppose the government levies a corporate tax\n\nThe statutory incidence is on the corporation\n\nWho bears the economic incidence?\nIf the corporation produces goods/services, it may shift some to consumers\n\nHigher prices\nDepends on price elasticity of demand"
+  },
+  {
+    "objectID": "slides/corptax/index.html#tax-incidence-1",
+    "href": "slides/corptax/index.html#tax-incidence-1",
+    "title": "EC313 - Taxation",
+    "section": "Tax Incidence",
+    "text": "Tax Incidence\n\nSuppose the corporations bear some of the economic burden\nIn a general equilibrium setting, they can shift to other factors of production\n\nLabour\nCapital\n\nIf corporations employ a large share of workers\n\nSupply may not be very elastic\nWorkers could bear some burden"
+  },
+  {
+    "objectID": "slides/corptax/index.html#tax-incidence-2",
+    "href": "slides/corptax/index.html#tax-incidence-2",
+    "title": "EC313 - Taxation",
+    "section": "Tax Incidence",
+    "text": "Tax Incidence\n\nCorporate capital owners may also bear some burden\n\nIn the short run, capital may not be very mobile\n\nCapital would bear a burden initially\n\nIn the longer run, it could move elsewhere\n\nIncreases elasticity\nBurden on capital owners would be lower\n\n\nIf capital is more mobile than labour in the longer run, then workers would bear more of the burden"
+  },
+  {
+    "objectID": "slides/corptax/index.html#tax-incidence-3",
+    "href": "slides/corptax/index.html#tax-incidence-3",
+    "title": "EC313 - Taxation",
+    "section": "Tax Incidence",
+    "text": "Tax Incidence\n\nThe corporate tax can also affect investment decisions\n\nThe tax lowers the after-tax return\nInvestors would move to the non-corporate sector seeking higher returns\nIncreases supply of capital in non-corporate sector\nLeads to lower returns there too\n\nInvestors in the non-corporate sector would therefore also bear some burden"
+  },
+  {
+    "objectID": "slides/corptax/index.html#excess-burden",
+    "href": "slides/corptax/index.html#excess-burden",
+    "title": "EC313 - Taxation",
+    "section": "Excess Burden",
+    "text": "Excess Burden\n\nCorporate taxes create a distortion in investment decisions\n\nInvestors may shift away from corporate investments and toward other investments\nFirms may choose to not incorporate despite the benefits\nCreates a substitution effect\nShifts the allocation of capital in the economy away from the efficient level\n\nThe distortion leads to an excess burden\n\nThe loss in economic efficiency beyond the tax revenue raised\n\nEstimates are that the excess burden of corporate taxes are that for each dollar raised, there is an additional 50 cents of excess burden"
+  },
+  {
+    "objectID": "slides/corptax/index.html#introduction-10",
+    "href": "slides/corptax/index.html#introduction-10",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nAs we have learned throughout the course, taxes alter behaviour\nFor corporate taxes we might expect three changes\n\nThe amount of investment in physical assets (equipment)\nThe types of investment in physical assets\nHow these investments are financed\n\nWe will cover each in turn"
+  },
+  {
+    "objectID": "slides/corptax/index.html#total-physical-investment",
+    "href": "slides/corptax/index.html#total-physical-investment",
+    "title": "EC313 - Taxation",
+    "section": "Total Physical Investment",
+    "text": "Total Physical Investment\n\nConsider a firm investing in a new machine\nThe cost of the machine in a particular year is\n\nDepreciation: the direct cost of owning the machine that year\nOpportunity cost: the return that could be earned if the money were invested elsewhere\n\nCan express both as a percentage of each dollar invested\n\nDepreciation might be 2%\nOpportunity cost might be 10%\n\nIn example, only invest in new machine if return &gt; 12%"
+  },
+  {
+    "objectID": "slides/corptax/index.html#total-physical-investment-1",
+    "href": "slides/corptax/index.html#total-physical-investment-1",
+    "title": "EC313 - Taxation",
+    "section": "Total Physical Investment",
+    "text": "Total Physical Investment\n\nThe cost of ownership of an asset is called the user cost of capital\n\nIn this case, the sum of the direct and opportunity costs\nIt equals the minimum earnings required for each one dollar investment\n\nIn general you can express the user cost of capital as\n\n\\[C = r + d \\]\n\nWhere\n\n\\(C\\) is the earnings from the investment\n\\(r\\) is the opportunity cost of capital (interest rate)\n\\(d\\) is the depreciation rate of the asset"
+  },
+  {
+    "objectID": "slides/corptax/index.html#total-physical-investment-2",
+    "href": "slides/corptax/index.html#total-physical-investment-2",
+    "title": "EC313 - Taxation",
+    "section": "Total Physical Investment",
+    "text": "Total Physical Investment\n\nCorporate taxes add to these costs\nSuppose the tax rate is \\(t\\)\nNow the after-tax earnings must be as large as the costs\nAfter- tax earnings are \\((1-t)C\\), which means\n\n\\[C(1-t) = r + d \\]"
+  },
+  {
+    "objectID": "slides/corptax/index.html#total-physical-investment-3",
+    "href": "slides/corptax/index.html#total-physical-investment-3",
+    "title": "EC313 - Taxation",
+    "section": "Total Physical Investment",
+    "text": "Total Physical Investment\n\nRearranging gives\n\n\\[C = \\frac{r + d}{1-t} \\]\n\nThe pre-tax user cost of capital is divided by (1 - t)\nThis grosses up the required earnings to cover the tax paid"
+  },
+  {
+    "objectID": "slides/corptax/index.html#total-physical-investment-4",
+    "href": "slides/corptax/index.html#total-physical-investment-4",
+    "title": "EC313 - Taxation",
+    "section": "Total Physical Investment",
+    "text": "Total Physical Investment\n\nExample\n\nSuppose there are no taxes and \\(r = 10\\%\\) and \\(d = 2\\%\\)\nThe earnings required per dollar invested is \\(C = 0.10 + 0.02 = 0.12\\) or 12%\nNow suppose there is a corporate tax of 45% (\\(t = 0.45\\))\nThe new required earnings is \\(C = \\frac{0.10 + 0.02}{1-0.45} = \\frac{0.12}{0.55} = 0.2182\\) or 21.82%\n\nNeed to earn more to cover the tax paid"
+  },
+  {
+    "objectID": "slides/corptax/index.html#total-physical-investment-5",
+    "href": "slides/corptax/index.html#total-physical-investment-5",
+    "title": "EC313 - Taxation",
+    "section": "Total Physical Investment",
+    "text": "Total Physical Investment\n\nThings get slightly more complicated when you consider deductions\nSuppose the firm can deduct the whole expense of the asset\nThe after-tax user cost of capital is then\n\n\\[C = \\frac{(r + d) - (r+d)t)}{1 - t} = \\frac{ (r+d)(1 - t)}{1 - t} = r+d\\]\n\nIn this case, the corporate tax has no effect on the user cost of capital\n\nSince no tax is paid on the investment"
+  },
+  {
+    "objectID": "slides/corptax/index.html#total-physical-investment-6",
+    "href": "slides/corptax/index.html#total-physical-investment-6",
+    "title": "EC313 - Taxation",
+    "section": "Total Physical Investment",
+    "text": "Total Physical Investment\n\nIn reality, firms cannot deduct the full cost of an asset in the year of purchase\n\nAs we saw earlier, depreciation deductions spread the cost over time\n\nIn this case, the deductibility mitigates the cost, but not entirely\nSuppose the deduction is equal to \\(\\psi\\) of the cost\n\n\\[C = \\frac{(r + d) - (r+d)\\psi)}{1 - t} = \\frac{ (r+d)(1 - \\psi)}{1 - t} \\]"
+  },
+  {
+    "objectID": "slides/corptax/index.html#total-physical-investment-7",
+    "href": "slides/corptax/index.html#total-physical-investment-7",
+    "title": "EC313 - Taxation",
+    "section": "Total Physical Investment",
+    "text": "Total Physical Investment\n\nThere may also be investment tax credits (ITCs) that further mitigate the cost\nSuppose the ITC is equal to \\(k\\) of the cost\nThen the user cost of capital is\n\n\\[C = \\frac{(r + d) - (r+d)(\\psi + k)}{1 - t} = \\frac{ (r+d)(1 - \\psi - k)}{1 - t} \\]"
+  },
+  {
+    "objectID": "slides/corptax/index.html#total-physical-investment-8",
+    "href": "slides/corptax/index.html#total-physical-investment-8",
+    "title": "EC313 - Taxation",
+    "section": "Total Physical Investment",
+    "text": "Total Physical Investment\n\nFinally, a firm might finance the investment with debt\nInterest payments are deductible from taxable income\nSuppose the interest rate is \\(\\lambda\\)\nThe user cost of capital is then\n\n\\[C = \\frac{(r + d) - (r+d)(\\psi + k + \\lambda) }{1 - t} = \\frac{ (r+d)(1 - \\psi - k - \\lambda )}{1 - t} \\]"
+  },
+  {
+    "objectID": "slides/corptax/index.html#total-physical-investment-9",
+    "href": "slides/corptax/index.html#total-physical-investment-9",
+    "title": "EC313 - Taxation",
+    "section": "Total Physical Investment",
+    "text": "Total Physical Investment\n\nSomewhat complicated discussion, but the main elements are\n\nCorporate taxes generally increase the user cost of capital\nThis reduces the incentive to invest in physical assets\nDeductions, credits, and interest deductions can mitigate this effect\nThe overall impact depends on the specifics of the tax system and firm behaviour\n\nEvidence supports the idea that tax incentives can affect investment"
+  },
+  {
+    "objectID": "slides/corptax/index.html#types-of-investment",
+    "href": "slides/corptax/index.html#types-of-investment",
+    "title": "EC313 - Taxation",
+    "section": "Types of Investment",
+    "text": "Types of Investment\n\nTax incentives are not necessarily applied equally to all investments\n\nIn Canada manufacturers can use full expensing\nAlso full expensing for clean energy investments\nOther eligible property allowed accelerated depreciation\n\nThis creates incentives to invest in certain types of assets over others\nTable on next slide shows Marginal Effective Tax Rates for various types of investments in Canada"
+  },
+  {
+    "objectID": "slides/corptax/index.html#types-of-investment-1",
+    "href": "slides/corptax/index.html#types-of-investment-1",
+    "title": "EC313 - Taxation",
+    "section": "Types of Investment",
+    "text": "Types of Investment"
+  },
+  {
+    "objectID": "slides/corptax/index.html#financing-investments",
+    "href": "slides/corptax/index.html#financing-investments",
+    "title": "EC313 - Taxation",
+    "section": "Financing Investments",
+    "text": "Financing Investments\n\nFirms need to decide to pay dividends or retain earnings\nAlso how to finance an investment\n\nDebt (loans, bonds)\nEquity (issuing stock)\n\nThe tax system can affect these"
+  },
+  {
+    "objectID": "slides/corptax/index.html#financing-investments-1",
+    "href": "slides/corptax/index.html#financing-investments-1",
+    "title": "EC313 - Taxation",
+    "section": "Financing Investments",
+    "text": "Financing Investments\n\nWe covered earlier that preferential tax treatment of capital gains creates an incentive to retain earnings\n\nIf $1 of earnings increases share value by $1\nGains on shares only taxed when sold\nAnd only taxed on half the gains\n\nSo the tax system creates an incentive to retain earnings rather than pay dividends\nFirms do retain substantial earnings, but also pay some dividends\nWhy would they do that when there is a tax incentive to retain?"
+  },
+  {
+    "objectID": "slides/corptax/index.html#financing-investments-2",
+    "href": "slides/corptax/index.html#financing-investments-2",
+    "title": "EC313 - Taxation",
+    "section": "Financing Investments",
+    "text": "Financing Investments\n\nOne reason is signalling\n\nPaying dividends can signal to investors that the firm is doing well\nInvestors may view dividend-paying firms as more stable and reliable\nThis can increase demand for the firm’s stock, raising its price\n\nSecond reason is differences in marginal tax rates\n\nSome shareholders may have lower marginal tax rates\nSo dividends could offer a lower tax burden for them\n\nInvestors tend to flock to firms that offer the best financial policies\n\nCalled clientele effects"
+  },
+  {
+    "objectID": "slides/corptax/index.html#financing-investments-3",
+    "href": "slides/corptax/index.html#financing-investments-3",
+    "title": "EC313 - Taxation",
+    "section": "Financing Investments",
+    "text": "Financing Investments\n\nThe tax system can also affect how firms finance investments\nInterest payments on debt are deductible from taxable income\nDividends paid to shareholders are not deductible\nThis creates an incentive to finance investments with debt rather than equity\n\nRaising a dollar through debt is cheaper than raising a dollar through equity\n\nThere are additional costs to debt financing bankruptcy risk that increase the non-monetary cost\n\nSo we would not expect to see everyone using only debt financing"
+  },
+  {
+    "objectID": "slides/corptax/index.html#introduction-11",
+    "href": "slides/corptax/index.html#introduction-11",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nCanadian firms operate in most foreign countries\nHow does the corporate tax system handle income earned abroad?\nWe cover that in this section\n\nNote that we do not cover the taxation of foreign firms operating in Canada\n\nFirst cover the rules and then tax policy"
+  },
+  {
+    "objectID": "slides/corptax/index.html#rules-for-taxation-of-foreign-income",
+    "href": "slides/corptax/index.html#rules-for-taxation-of-foreign-income",
+    "title": "EC313 - Taxation",
+    "section": "Rules for Taxation of Foreign Income",
+    "text": "Rules for Taxation of Foreign Income\n\nGeneral principle is to be neutral with respect to where income is earned\n\nWants firms to face similar taxes here and abroad\n\nBut also wants to ensure Canadian government collects tax revenue\n\nAvoid tax avoidance which erodes the tax base\n\nRules differentiate between active and passive income\n\nActive income: business income from operations\nPassive income: investment income (dividends, interest, royalties)"
+  },
+  {
+    "objectID": "slides/corptax/index.html#rules-for-taxation-of-foreign-income-1",
+    "href": "slides/corptax/index.html#rules-for-taxation-of-foreign-income-1",
+    "title": "EC313 - Taxation",
+    "section": "Rules for Taxation of Foreign Income",
+    "text": "Rules for Taxation of Foreign Income\n\nPassive income is included in taxable income when it is earned\n\nTaxed at the Canadian corporate tax rate\nForeign tax credits available for taxes paid abroad\n\nActive income of incorporated subsidiaries is taxed only in the source country\n\nThese are separate legal entities from the main business\n\nActive income of branches is taxed in Canada when earned\n\nBranches are not separate legal entities"
+  },
+  {
+    "objectID": "slides/corptax/index.html#rules-for-taxation-of-foreign-income-2",
+    "href": "slides/corptax/index.html#rules-for-taxation-of-foreign-income-2",
+    "title": "EC313 - Taxation",
+    "section": "Rules for Taxation of Foreign Income",
+    "text": "Rules for Taxation of Foreign Income\n\nCorporate taxation of a firm operating in multiple countries can be problematic\nGenerally, Canadian firms use the arm’s length principle\n\nProfits are each entity’s own sales minus costs\n\nCan lead to transfer pricing issues\n\nFirms may manipulate prices of goods/services traded between entities to shift profits to low-tax jurisdictions\nExample: IP owned in low-tax country, charged high royalties to subsidiaries in high-tax countries\n\nRoyalties are tax deductible\nIncome is earned in low-tax country"
+  },
+  {
+    "objectID": "slides/corptax/index.html#tax-policy",
+    "href": "slides/corptax/index.html#tax-policy",
+    "title": "EC313 - Taxation",
+    "section": "Tax Policy",
+    "text": "Tax Policy\n\nWe discuss two policy goals of the Canadian government\n\nMaximize world income\nMaximize national income\n\nFirst imagine the goal is to maximize world income\nFirms maximize global incomes when pre-tax returns are the same across countries\n\nWant capital to move where it is most productive\nThis only happens when pre-tax returns are equalized\nThere are no distortions from taxes"
+  },
+  {
+    "objectID": "slides/corptax/index.html#tax-policy-1",
+    "href": "slides/corptax/index.html#tax-policy-1",
+    "title": "EC313 - Taxation",
+    "section": "Tax Policy",
+    "text": "Tax Policy\n\nEqual pre-tax returns happen when\n\n$ r_f = r_c $$\n\nWhen taxes exist, firms distort their decisions and equalize after-tax returns\n\n\\[(1 - t_f)r_f = (1 - t_c)r_c\\]\n\nIf goal is equal pre-tax returns, then need to set\n\n\\[ t_c = t_f \\]"
+  },
+  {
+    "objectID": "slides/corptax/index.html#tax-policy-2",
+    "href": "slides/corptax/index.html#tax-policy-2",
+    "title": "EC313 - Taxation",
+    "section": "Tax Policy",
+    "text": "Tax Policy\n\nMeans Canadian and foreign taxation needs to be equal\n\nSo no distortions are created\n\nCanadian firms allow a tax credit up to the Canadian tax on foreign income\n\nCannot allow more than that or foreign firms could increase taxes to raise revenue without any consequence\n\nThe government may instead try to maximize national income\n\nFocus on income that accrues to Canadian residents\nEquals before tax income earned in Canada plus after-tax income earned abroad"
+  },
+  {
+    "objectID": "slides/corptax/index.html#tax-policy-3",
+    "href": "slides/corptax/index.html#tax-policy-3",
+    "title": "EC313 - Taxation",
+    "section": "Tax Policy",
+    "text": "Tax Policy\n\nIn this instance, policy should be to equalize\n\n\\[ r_f (1 - t_f) = r_c \\]\n\nMeans pre-tax Canadian returns equal after-tax foreign returns\n\nPrioritizes income earned in Canada\nForeign income pre-tax needs to have higher return than Canadian"
+  },
+  {
+    "objectID": "slides/corptax/index.html#tax-policy-4",
+    "href": "slides/corptax/index.html#tax-policy-4",
+    "title": "EC313 - Taxation",
+    "section": "Tax Policy",
+    "text": "Tax Policy\n\nIf Canada wants to maximize national income, then should set\n\n\\[ r_f (1 - t_f) (1-t_c)= r_c (1-t_c) \\]\n\nSets the same tax rate on after-tax foreign income as on pre-tax Canadian income\n\nCan do this by allowing foreign tax deduction"
   }
 ]
