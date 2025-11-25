@@ -649,7 +649,7 @@ $$C = \frac{r + d}{1-t} $$
 
 -   The after-tax user cost of capital is then
 
-$$C = \frac{(r + d) - (r+d)t)}{1 - t} = \frac{ (r+d)(1 - t)}{1 - t} = r+d$$
+$$C = \frac{(r + d) - (r+d)t}{1 - t} = \frac{ (r+d)(1 - t)}{1 - t} = r+d$$
 
 -   In this case, the corporate tax has no effect on the user cost of capital
 
@@ -665,7 +665,7 @@ $$C = \frac{(r + d) - (r+d)t)}{1 - t} = \frac{ (r+d)(1 - t)}{1 - t} = r+d$$
 
 -   Suppose the deduction is equal to $\psi$ of the cost
 
-$$C = \frac{(r + d) - (r+d)\psi)}{1 - t} = \frac{ (r+d)(1 - \psi)}{1 - t} $$
+$$C = \frac{(r + d) - (r+d)\psi}{1 - t} = \frac{ (r+d)(1 - \psi)}{1 - t} $$
 
 ## Total Physical Investment
 
@@ -860,7 +860,7 @@ $$C = \frac{(r + d) - (r+d)(\psi + k + \lambda) }{1 - t} = \frac{ (r+d)(1 - \psi
 
 - Equal pre-tax returns happen when
 
-$ r_f = r_c $$
+$$ r_f = r_c $$
 
 - When taxes exist, firms distort their decisions and equalize after-tax returns
   

@@ -4064,14 +4064,14 @@
     "href": "slides/corptax/index.html#total-physical-investment-5",
     "title": "EC313 - Taxation",
     "section": "Total Physical Investment",
-    "text": "Total Physical Investment\n\nThings get slightly more complicated when you consider deductions\nSuppose the firm can deduct the whole expense of the asset\nThe after-tax user cost of capital is then\n\n\\[C = \\frac{(r + d) - (r+d)t)}{1 - t} = \\frac{ (r+d)(1 - t)}{1 - t} = r+d\\]\n\nIn this case, the corporate tax has no effect on the user cost of capital\n\nSince no tax is paid on the investment"
+    "text": "Total Physical Investment\n\nThings get slightly more complicated when you consider deductions\nSuppose the firm can deduct the whole expense of the asset\nThe after-tax user cost of capital is then\n\n\\[C = \\frac{(r + d) - (r+d)t}{1 - t} = \\frac{ (r+d)(1 - t)}{1 - t} = r+d\\]\n\nIn this case, the corporate tax has no effect on the user cost of capital\n\nSince no tax is paid on the investment"
   },
   {
     "objectID": "slides/corptax/index.html#total-physical-investment-6",
     "href": "slides/corptax/index.html#total-physical-investment-6",
     "title": "EC313 - Taxation",
     "section": "Total Physical Investment",
-    "text": "Total Physical Investment\n\nIn reality, firms cannot deduct the full cost of an asset in the year of purchase\n\nAs we saw earlier, depreciation deductions spread the cost over time\n\nIn this case, the deductibility mitigates the cost, but not entirely\nSuppose the deduction is equal to \\(\\psi\\) of the cost\n\n\\[C = \\frac{(r + d) - (r+d)\\psi)}{1 - t} = \\frac{ (r+d)(1 - \\psi)}{1 - t} \\]"
+    "text": "Total Physical Investment\n\nIn reality, firms cannot deduct the full cost of an asset in the year of purchase\n\nAs we saw earlier, depreciation deductions spread the cost over time\n\nIn this case, the deductibility mitigates the cost, but not entirely\nSuppose the deduction is equal to \\(\\psi\\) of the cost\n\n\\[C = \\frac{(r + d) - (r+d)\\psi}{1 - t} = \\frac{ (r+d)(1 - \\psi)}{1 - t} \\]"
   },
   {
     "objectID": "slides/corptax/index.html#total-physical-investment-7",
@@ -4176,7 +4176,7 @@
     "href": "slides/corptax/index.html#tax-policy-1",
     "title": "EC313 - Taxation",
     "section": "Tax Policy",
-    "text": "Tax Policy\n\nEqual pre-tax returns happen when\n\n$ r_f = r_c $$\n\nWhen taxes exist, firms distort their decisions and equalize after-tax returns\n\n\\[(1 - t_f)r_f = (1 - t_c)r_c\\]\n\nIf goal is equal pre-tax returns, then need to set\n\n\\[ t_c = t_f \\]"
+    "text": "Tax Policy\n\nEqual pre-tax returns happen when\n\n\\[ r_f = r_c \\]\n\nWhen taxes exist, firms distort their decisions and equalize after-tax returns\n\n\\[(1 - t_f)r_f = (1 - t_c)r_c\\]\n\nIf goal is equal pre-tax returns, then need to set\n\n\\[ t_c = t_f \\]"
   },
   {
     "objectID": "slides/corptax/index.html#tax-policy-2",
