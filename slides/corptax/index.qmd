@@ -31,13 +31,12 @@ editor: visual
 
 ## Goals of This Section
 
--   Define and discuss externalities
+-   Overview of how corporate taxes work in Canada
+-   Discuss the incidence and excess burden of corporate taxes
+-   Understand how corporate taxes affect investment and financing decisions
+-   Discuss the taxation of multinational corporations
+-  Explore ideas for corporate tax reform
 
--   Differentiate between negative and positive externalities
-
--   Discuss private responses to externalities
-
--   Discuss public responses to externalities, including Pigouvian taxes and subsidies
 
 # Introduction
 
@@ -912,6 +911,87 @@ $$ r_f (1 - t_f) (1-t_c)= r_c (1-t_c) $$
   - Can do this by allowing foreign tax deduction
   
   
+
+# Corporate Tax Reform
+
+## Introduction
+
+- The current corporate tax system in Canada is complex
+
+- The treatment of dividends is in particular complicated
+
+  - Taxed at both corporate and personal levels
+  - Complex system of gross-ups and tax credits to mitigate double taxation
+  
+- There have been calls for reforming the corporate tax system
+
+  - Simplify the system
+  - Improve efficiency and equity
+  
+- We discuss a few of the current ideas
+
+## Partnership Method
+
+- The **partnership method** taxes income only once at the personal level
+
+  - Removes corporate taxation altogether
+  - Taxes shareholders on their share of corporate income at personal income rates
+  
+- Some benefits include
+
+  - Less excess burden by removing corporate tax distortions
+      - Eliminate misallocation of capital between corporate and non-corporate
+      - Lower tax on capital overall
+      - Less incentive for retained earnings
+      - Less incentive for debt financing
+  - More saving due to lower capital taxes
+      - Increases investment and economic growth 
+  
+
+## Partnership Method
+
+- Some potential issues
+
+  - Administratively complex
+  
+     - Tracking income for many shareholders
+     - How to treat short term shareholders
+
+  - Problems with distribution of income
+  
+     - People with high personal tax rates benefit less
+     - Benefit people with more income from capital more
+     
+     
+## Other Methods
+
+- Dividend exclusion
+
+  - Make dividends non-taxable at personal level
+  - Only taxed at corporate level
+  
+- Dividend deduction
+
+  - Allow corporations to deduct dividends paid from taxable income
+  - Only taxed at personal level
+  
+- Dual income tax
+
+  - Capital income taxed at lower rate to encourage investment
+  - Labour income taxed at higher rate for progressivity
+
+   
+# Summary
+
+## Summary
+
+- Corporations are taxed separately from individuals
+- Depreciation, interest, and dividends have special tax treatments
+- Corporate taxes create incidence and excess burden issues
+- Taxes affect investment decisions and financing choices
+
+## Partnership Method
+
   
 # References
 

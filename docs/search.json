@@ -1411,7 +1411,7 @@
     "href": "slides/corptax/index.html#goals-of-this-section-1",
     "title": "EC313 - Taxation",
     "section": "Goals of This Section",
-    "text": "Goals of This Section\n\nDefine and discuss externalities\nDifferentiate between negative and positive externalities\nDiscuss private responses to externalities\nDiscuss public responses to externalities, including Pigouvian taxes and subsidies"
+    "text": "Goals of This Section\n\nOverview of how corporate taxes work in Canada\nDiscuss the incidence and excess burden of corporate taxes\nUnderstand how corporate taxes affect investment and financing decisions\nDiscuss the taxation of multinational corporations\nExplore ideas for corporate tax reform"
   },
   {
     "objectID": "slides/corptax/index.html#introduction-1",
@@ -4198,5 +4198,47 @@
     "title": "EC313 - Taxation",
     "section": "Tax Policy",
     "text": "Tax Policy\n\nIf Canada wants to maximize national income, then should set\n\n\\[ r_f (1 - t_f) (1-t_c)= r_c (1-t_c) \\]\n\nSets the same tax rate on after-tax foreign income as on pre-tax Canadian income\n\nCan do this by allowing foreign tax deduction"
+  },
+  {
+    "objectID": "slides/corptax/index.html#introduction-12",
+    "href": "slides/corptax/index.html#introduction-12",
+    "title": "EC313 - Taxation",
+    "section": "Introduction",
+    "text": "Introduction\n\nThe current corporate tax system in Canada is complex\nThe treatment of dividends is in particular complicated\n\nTaxed at both corporate and personal levels\nComplex system of gross-ups and tax credits to mitigate double taxation\n\nThere have been calls for reforming the corporate tax system\n\nSimplify the system\nImprove efficiency and equity\n\nWe discuss a few of the current ideas"
+  },
+  {
+    "objectID": "slides/corptax/index.html#partnership-method",
+    "href": "slides/corptax/index.html#partnership-method",
+    "title": "EC313 - Taxation",
+    "section": "Partnership Method",
+    "text": "Partnership Method\n\nThe partnership method taxes income only once at the personal level\n\nRemoves corporate taxation altogether\nTaxes shareholders on their share of corporate income at personal income rates\n\nSome benefits include\n\nLess excess burden by removing corporate tax distortions\n\nEliminate misallocation of capital between corporate and non-corporate\nLower tax on capital overall\nLess incentive for retained earnings\nLess incentive for debt financing\n\nMore saving due to lower capital taxes\n\nIncreases investment and economic growth"
+  },
+  {
+    "objectID": "slides/corptax/index.html#partnership-method-1",
+    "href": "slides/corptax/index.html#partnership-method-1",
+    "title": "EC313 - Taxation",
+    "section": "Partnership Method",
+    "text": "Partnership Method\n\nSome potential issues\n\nAdministratively complex\n\nTracking income for many shareholders\nHow to treat short term shareholders\n\nProblems with distribution of income\n\nPeople with high personal tax rates benefit less\nBenefit people with more income from capital more"
+  },
+  {
+    "objectID": "slides/corptax/index.html#other-methods",
+    "href": "slides/corptax/index.html#other-methods",
+    "title": "EC313 - Taxation",
+    "section": "Other Methods",
+    "text": "Other Methods\n\nDividend exclusion\n\nMake dividends non-taxable at personal level\nOnly taxed at corporate level\n\nDividend deduction\n\nAllow corporations to deduct dividends paid from taxable income\nOnly taxed at personal level\n\nDual income tax\n\nCapital income taxed at lower rate to encourage investment\nLabour income taxed at higher rate for progressivity"
+  },
+  {
+    "objectID": "slides/corptax/index.html#summary-1",
+    "href": "slides/corptax/index.html#summary-1",
+    "title": "EC313 - Taxation",
+    "section": "Summary",
+    "text": "Summary\n\nCorporations are taxed separately from individuals\nDepreciation, interest, and dividends have special tax treatments\nCorporate taxes create incidence and excess burden issues\nTaxes affect investment decisions and financing choices"
+  },
+  {
+    "objectID": "slides/corptax/index.html#partnership-method-2",
+    "href": "slides/corptax/index.html#partnership-method-2",
+    "title": "EC313 - Taxation",
+    "section": "Partnership Method",
+    "text": "Partnership Method"
   }
 ]
